@@ -1,0 +1,59 @@
+# Themes — Index
+
+Themes are threads woven through the whole Bible — recurring ideas, images, and patterns that connect the Old and New Testaments and give Scripture its unity. Each theme note traces its development across both testaments with links to specific chapters.
+
+---
+
+## How to Use These Notes
+1. **Start with a theme** to see how a concept develops across the Bible
+2. **Follow the chapter links** into specific passages
+3. **Use the "Related Themes"** section at the bottom to explore connected ideas
+4. **Work backwards from chapters** — each key chapter includes a `## Themes & Cross-References` section at the bottom
+
+---
+
+## The Story Arc Themes
+These themes track the Bible's overarching narrative movement.
+
+| Theme | Description |
+|-------|-------------|
+| [[Creation & New Creation]] | God creates; sin corrupts; God renews |
+| [[Sin & The Fall]] | How creation was broken |
+| [[Redemption & Salvation]] | God's project to rescue and restore |
+| [[Covenant]] | The relational commitments structuring God's plan |
+| [[Prophecy & Fulfillment]] | Promise made and kept across the testaments |
+| [[Resurrection & Eternal Life]] | The bodily hope that is salvation's final goal |
+
+## God's Character Themes
+| Theme | Description |
+|-------|-------------|
+| [[Grace & Mercy]] | God's undeserved favor and withheld judgment |
+| [[Justice & Righteousness]] | God's holiness and call for righteous living |
+| [[Love]] | The heart of who God is and what he requires |
+| [[Judgment]] | God's just response to sin and evil |
+| [[Light & Darkness]] | The pervasive image of holiness vs. sin |
+
+## Christ-Centered Themes
+| Theme | Description |
+|-------|-------------|
+| [[Messiah & Christ]] | The OT portrait and NT fulfillment |
+| [[Sacrifice & Atonement]] | The cost of dealing with sin |
+| [[Shepherd & King]] | The image of divine leadership fulfilled in Jesus |
+| [[Kingdom of God]] | God's reign, arriving in Christ |
+
+## Human Response Themes
+| Theme | Description |
+|-------|-------------|
+| [[Faith & Trust]] | The instrument of receiving God's grace |
+| [[Prayer & Worship]] | Engaging God in every season |
+| [[Suffering & Perseverance]] | Enduring faithfully in a broken world |
+| [[Wisdom]] | Skill for living before God and others |
+
+## Scope & Mission Themes
+| Theme | Description |
+|-------|-------------|
+| [[Israel & The Gentiles]] | The universal scope of God's saving purpose |
+| [[The Promised Land & Rest]] | The gift of place, home, and ultimate rest |
+| [[Law & Torah]] | God's instruction for covenant life |
+| [[The Holy Spirit]] | The divine presence and power in creation and the Church |
+| [[The Word of God]] | Scripture as living, active, and authoritative |
