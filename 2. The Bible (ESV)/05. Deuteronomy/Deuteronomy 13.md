@@ -1,7 +1,5 @@
 ← [[Deuteronomy 12]] | [[Deuteronomy 14]] →
 
-# Chapter 13
-
 1. If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder,
 2. and the sign or wonder that he tells you comes to pass, and if he says, Let us go after other gods, which you have not known, and let us serve them,
 3. you shall not listen to the words of that prophet or that dreamer of dreams. For the Lord your God is testing you, to know whether you love the Lord your God with all your heart and with all your soul.

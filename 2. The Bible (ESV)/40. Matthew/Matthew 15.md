@@ -1,7 +1,5 @@
 ← [[Matthew 14]] | [[Matthew 16]] →
 
-# Chapter 15
-
 1. Then Pharisees and scribes came to Jesus from Jerusalem and said,
 2. Why do your disciples break the tradition of the elders? For they do not wash their hands when they eat.
 3. He answered them, And why do you break the commandment of God for the sake of your tradition?

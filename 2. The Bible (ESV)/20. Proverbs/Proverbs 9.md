@@ -1,7 +1,5 @@
 ← [[Proverbs 8]] | [[Proverbs 10]] →
 
-# Chapter 9
-
 1. Wisdom has built her house; she has hewn her seven pillars.
 2. She has slaughtered her beasts; she has mixed her wine; she has also set her table.
 3. She has sent out her young women to call from the highest places in the town,

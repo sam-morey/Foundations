@@ -1,7 +1,5 @@
 ← [[Amos 1]] | [[Amos 3]] →
 
-# Chapter 2
-
 1. Thus says the Lord : For three transgressions of Moab, and for four, I will not revoke the punishment, because he burned to lime the bones of the king of Edom.
 2. So I will send a fire upon Moab, and it shall devour the strongholds of Kerioth, and Moab shall die amid uproar, amid shouting and the sound of the trumpet;
 3. I will cut off the ruler from its midst, and will kill all its princes with him, says the Lord.

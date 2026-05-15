@@ -1,7 +1,5 @@
 ← [[Ezekiel 40]] | [[Ezekiel 42]] →
 
-# Chapter 41
-
 1. Then he brought me to the nave and measured the jambs. On each side six cubits was the breadth of the jambs.
 2. And the breadth of the entrance was ten cubits, and the sidewalls of the entrance were five cubits on either side. And he measured the length of the nave, forty cubits, and its breadth, twenty cubits.
 3. Then he went into the inner room and measured the jambs of the entrance, two cubits; and the entrance, six cubits; and the sidewalls on either side of the entrance, seven cubits.

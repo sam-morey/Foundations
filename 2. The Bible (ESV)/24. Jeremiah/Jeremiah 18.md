@@ -1,7 +1,5 @@
 ← [[Jeremiah 17]] | [[Jeremiah 19]] →
 
-# Chapter 18
-
 1. The word that came to Jeremiah from the Lord :
 2. Arise, and go down to the potter’s house, and there I will let you hear my words.
 3. So I went down to the potter’s house, and there he was working at his wheel.

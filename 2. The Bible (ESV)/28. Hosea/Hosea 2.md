@@ -1,7 +1,5 @@
 ← [[Hosea 1]] | [[Hosea 3]] →
 
-# Chapter 2
-
 1. Say to your brothers, You are my people, and to your sisters, You have received mercy.
 2. Plead with your mother, plead — for she is not my wife, and I am not her husband — that she put away her whoring from her face, and her adultery from between her breasts;
 3. lest I strip her naked and make her as in the day she was born, and make her like a wilderness, and make her like a parched land, and kill her with thirst.

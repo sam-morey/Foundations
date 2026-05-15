@@ -1,7 +1,5 @@
 ← [[Ezra 2]] | [[Ezra 4]] →
 
-# Chapter 3
-
 1. When the seventh month came, and the children of Israel were in the towns, the people gathered as one man to Jerusalem.
 2. Then arose Jeshua the son of Jozadak, with his fellow priests, and Zerubbabel the son of Shealtiel with his kinsmen, and they built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the Law of Moses the man of God.
 3. They set the altar in its place, for fear was on them because of the peoples of the lands, and they offered burnt offerings on it to the Lord, burnt offerings morning and evening.

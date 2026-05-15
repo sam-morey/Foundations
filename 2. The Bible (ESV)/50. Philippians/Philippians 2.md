@@ -1,7 +1,5 @@
 ← [[Philippians 1]] | [[Philippians 3]] →
 
-# Chapter 2
-
 1. So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy,
 2. complete my joy by being of the same mind, having the same love, being in full accord and of one mind.
 3. Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves.

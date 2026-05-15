@@ -1,7 +1,5 @@
 ← [[Nehemiah 4]] | [[Nehemiah 6]] →
 
-# Chapter 5
-
 1. Now there arose a great outcry of the people and of their wives against their Jewish brothers.
 2. For there were those who said, With our sons and our daughters, we are many. So let us get grain, that we may eat and keep alive.
 3. There were also those who said, We are mortgaging our fields, our vineyards, and our houses to get grain because of the famine.

@@ -1,7 +1,5 @@
 ← [[James 1]] | [[James 3]] →
 
-# Chapter 2
-
 1. My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.
 2. For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,
 3. and if you pay attention to the one who wears the fine clothing and say, You sit here in a good place, while you say to the poor man, You stand over there, or, Sit down at my feet,

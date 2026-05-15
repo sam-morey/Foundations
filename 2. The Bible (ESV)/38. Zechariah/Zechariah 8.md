@@ -1,7 +1,5 @@
 ← [[Zechariah 7]] | [[Zechariah 9]] →
 
-# Chapter 8
-
 1. And the word of the Lord of hosts came, saying,
 2. Thus says the Lord of hosts : I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.
 3. Thus says the Lord : I have returned to Zion and will dwell in the midst of Jerusalem, and Jerusalem shall be called the faithful city, and the mountain of the Lord of hosts, the holy mountain.

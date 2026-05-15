@@ -1,7 +1,5 @@
 ← [[Acts 1]] | [[Acts 3]] →
 
-# Chapter 2
-
 1. When the day of Pentecost arrived, they were all together in one place.
 2. And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting.
 3. And divided tongues as of fire appeared to them and rested on each one of them.

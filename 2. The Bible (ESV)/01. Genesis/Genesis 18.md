@@ -1,7 +1,5 @@
 ← [[Genesis 17]] | [[Genesis 19]] →
 
-# Chapter 18
-
 1. And the Lord appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day.
 2. He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth
 3. and said, O Lord, if I have found favor in your sight, do not pass by your servant.

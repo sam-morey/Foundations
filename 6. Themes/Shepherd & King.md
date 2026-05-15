@@ -1,5 +1,3 @@
-# Shepherd & King
-
 The shepherd is one of Scripture's central images for leadership — a figure who protects, guides, and lays down their life for the flock. Israel's kings were to be shepherd-kings (after the model of David), but they consistently failed. God himself steps in as the true Shepherd, fulfilled in Jesus Christ.
 
 ## Key Passages

@@ -1,7 +1,5 @@
 ← [[Song of Solomon 5]] | [[Song of Solomon 7]] →
 
-# Chapter 6
-
 1. Where has your beloved gone, O most beautiful among women? Where has your beloved turned, that we may seek him with you?
 2. My beloved has gone down to his garden to the beds of spices, to graze in the gardens and to gather lilies.
 3. I am my beloved’s and my beloved is mine; he grazes among the lilies.

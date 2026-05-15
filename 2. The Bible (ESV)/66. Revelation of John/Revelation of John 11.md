@@ -1,7 +1,5 @@
 ← [[Revelation of John 10]] | [[Revelation of John 12]] →
 
-# Chapter 11
-
 1. Then I was given a measuring rod like a staff, and I was told, Rise and measure the temple of God and the altar and those who worship there,
 2. but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty - two months.
 3. And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.

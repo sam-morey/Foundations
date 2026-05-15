@@ -1,7 +1,5 @@
 ← [[Nehemiah 2]] | [[Nehemiah 4]] →
 
-# Chapter 3
-
 1. Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate. They consecrated it and set its doors. They consecrated it as far as the Tower of the Hundred, as far as the Tower of Hananel.
 2. And next to him the men of Jericho built. And next to them Zaccur the son of Imri built.
 3. The sons of Hassenaah built the Fish Gate. They laid its beams and set its doors, its bolts, and its bars.

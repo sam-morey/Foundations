@@ -1,7 +1,5 @@
 ← [[Mark 1]] | [[Mark 3]] →
 
-# Chapter 2
-
 1. And when he returned to Capernaum after some days, it was reported that he was at home.
 2. And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them.
 3. And they came, bringing to him a paralytic carried by four men.

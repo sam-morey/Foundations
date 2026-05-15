@@ -1,7 +1,5 @@
 ← [[Exodus 29]] | [[Exodus 31]] →
 
-# Chapter 30
-
 1. You shall make an altar on which to burn incense; you shall make it of acacia wood.
 2. A cubit shall be its length, and a cubit its breadth. It shall be square, and two cubits shall be its height. Its horns shall be of one piece with it.
 3. You shall overlay it with pure gold, its top and around its sides and its horns. And you shall make a molding of gold around it.

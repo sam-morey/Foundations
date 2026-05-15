@@ -1,7 +1,5 @@
 ← [[Revelation of John 11]] | [[Revelation of John 13]] →
 
-# Chapter 12
-
 1. And a great sign appeared in heaven : a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
 2. She was pregnant and was crying out in birth pains and the agony of giving birth.
 3. And another sign appeared in heaven : behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems.

@@ -1,7 +1,5 @@
 ← [[Nehemiah 12]] | [[Esther 1]] →
 
-# Chapter 13
-
 1. On that day they read from the Book of Moses in the hearing of the people. And in it was found written that no Ammonite or Moabite should ever enter the assembly of God,
 2. for they did not meet the people of Israel with bread and water, but hired Balaam against them to curse them—yet our God turned the curse into a blessing.
 3. As soon as the people heard the law, they separated from Israel all those of foreign descent.

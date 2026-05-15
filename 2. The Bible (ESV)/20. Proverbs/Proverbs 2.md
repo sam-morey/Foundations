@@ -1,7 +1,5 @@
 ← [[Proverbs 1]] | [[Proverbs 3]] →
 
-# Chapter 2
-
 1. My son, if you receive my words and treasure up my commandments with you,
 2. making your ear attentive to wisdom and inclining your heart to understanding;
 3. yes, if you call out for insight and raise your voice for understanding,

@@ -1,7 +1,5 @@
 ← [[Isaiah 41]] | [[Isaiah 43]] →
 
-# Chapter 42
-
 1. Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put my Spirit upon him; he will bring forth justice to the nations.
 2. He will not cry aloud or lift up his voice, or make it heard in the street;
 3. a bruised reed he will not break, and a faintly burning wick he will not quench; he will faithfully bring forth justice.

@@ -1,5 +1,3 @@
-# Lazarus
-
 **Testament:** New Testament
 **Era:** The Gospels
 **Appears In:** [[3. Overviews/43. John Overview|John]]

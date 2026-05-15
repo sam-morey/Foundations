@@ -1,7 +1,5 @@
 ← [[Isaiah 51]] | [[Isaiah 53]] →
 
-# Chapter 52
-
 1. Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Jerusalem, the holy city; for there shall no more come into you the uncircumcised and the unclean.
 2. Shake yourself from the dust and arise; be seated, O Jerusalem; loose the bonds from your neck, O captive daughter of Zion.
 3. For thus says the Lord : You were sold for nothing, and you shall be redeemed without money.

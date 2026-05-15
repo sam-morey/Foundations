@@ -1,7 +1,5 @@
 ← [[Proverbs 2]] | [[Proverbs 4]] →
 
-# Chapter 3
-
 1. My son, do not forget my teaching, but let your heart keep my commandments,
 2. for length of days and years of life and peace they will add to you.
 3. Let not steadfast love and faithfulness forsake you; bind them around your neck; write them on the tablet of your heart.

@@ -1,7 +1,5 @@
 ← [[Psalms 83]] | [[Psalms 85]] →
 
-# Chapter 84
-
 1. My Soul Longs for the Courts of the Lord To the choirmaster : according to The Gittith. A Psalm of the Sons of Korah. How lovely is your dwelling place, O Lord of hosts!
 2. My soul longs, yes, faints for the courts of the Lord; my heart and flesh sing for joy to the living God.
 3. Even the sparrow finds a home, and the swallow a nest for herself, where she may lay her young, at your altars, O Lord of hosts, my King and my God.

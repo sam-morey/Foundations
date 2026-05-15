@@ -1,7 +1,5 @@
 ← [[Galatians 5]] | [[Ephesians 1]] →
 
-# Chapter 6
-
 1. Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted.
 2. Bear one another’s burdens, and so fulfill the law of Christ.
 3. For if anyone thinks he is something, when he is nothing, he deceives himself.

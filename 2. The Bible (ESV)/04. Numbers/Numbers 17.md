@@ -1,7 +1,5 @@
 ← [[Numbers 16]] | [[Numbers 18]] →
 
-# Chapter 17
-
 1. The Lord spoke to Moses, saying,
 2. Speak to the people of Israel, and get from them staffs, one for each fathers ’ house, from all their chiefs according to their fathers ’ houses, twelve staffs. Write each man’s name on his staff,
 3. and write Aaron’s name on the staff of Levi. For there shall be one staff for the head of each fathers ’ house.

@@ -1,7 +1,5 @@
 ← [[Joshua 10]] | [[Joshua 12]] →
 
-# Chapter 11
-
 1. When Jabin, king of Hazor, heard of this, he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 2. and to the kings who were in the northern hill country, and in the Arabah south of Chinneroth, and in the lowland, and in Naphoth-dor on the west,
 3. to the Canaanites in the east and the west, the Amorites, the Hittites, the Perizzites, and the Jebusites in the hill country, and the Hivites under Hermon in the land of Mizpah.

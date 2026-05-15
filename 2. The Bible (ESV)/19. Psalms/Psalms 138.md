@@ -1,7 +1,5 @@
 ← [[Psalms 137]] | [[Psalms 139]] →
 
-# Chapter 138
-
 1. Give Thanks to the Lord Of David. I give you thanks, O Lord, with my whole heart; before the gods I sing your praise;
 2. I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness, for you have exalted above all things your name and your word.
 3. On the day I called, you answered me; my strength of soul you increased.

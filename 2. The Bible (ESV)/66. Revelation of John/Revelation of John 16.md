@@ -1,7 +1,5 @@
 ← [[Revelation of John 15]] | [[Revelation of John 17]] →
 
-# Chapter 16
-
 1. Then I heard a loud voice from the temple telling the seven angels, Go and pour out on the earth the seven bowls of the wrath of God.
 2. So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.
 3. The second angel poured out his bowl into the sea, and it became like the blood of a corpse, and every living thing died that was in the sea.

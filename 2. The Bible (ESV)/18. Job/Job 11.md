@@ -1,7 +1,5 @@
 ← [[Job 10]] | [[Job 12]] →
 
-# Chapter 11
-
 1. Then Zophar the Naamathite answered and said :
 2. Should a multitude of words go unanswered, and a man full of talk be judged right?
 3. Should your babble silence men, and when you mock, shall no one shame you?

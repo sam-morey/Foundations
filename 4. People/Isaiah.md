@@ -1,5 +1,3 @@
-# Isaiah
-
 **Testament:** Old Testament
 **Era:** The Prophets
 **Appears In:** [[3. Overviews/23. Isaiah Overview|Isaiah]]

@@ -1,7 +1,5 @@
 ← [[Psalms 11]] | [[Psalms 13]] →
 
-# Chapter 12
-
 1. The Faithful Have Vanished To the choirmaster : according to The Sheminith. A Psalm of David. Save, O Lord, for the godly one is gone; for the faithful have vanished from among the children of man.
 2. Everyone utters lies to his neighbor; with flattering lips and a double heart they speak.
 3. May the Lord cut off all flattering lips, the tongue that makes great boasts,

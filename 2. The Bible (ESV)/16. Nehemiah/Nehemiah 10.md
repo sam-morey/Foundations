@@ -1,7 +1,5 @@
 ← [[Nehemiah 9]] | [[Nehemiah 11]] →
 
-# Chapter 10
-
 1. On the seals are the names of Nehemiah the governor, the son of Hacaliah, Zedekiah,
 2. Seraiah, Azariah, Jeremiah,
 3. Pashhur, Amariah, Malchijah,

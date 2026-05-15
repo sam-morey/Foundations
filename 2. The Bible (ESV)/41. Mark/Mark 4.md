@@ -1,7 +1,5 @@
 ← [[Mark 3]] | [[Mark 5]] →
 
-# Chapter 4
-
 1. Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land.
 2. And he was teaching them many things in parables, and in his teaching he said to them :
 3. Listen! Behold, a sower went out to sow.

@@ -1,5 +1,3 @@
-# Bethlehem
-
 **Location:** Bethlehem, West Bank — approximately 9 km south of Jerusalem in the Judean hills; 31.7054° N, 35.2024° E; elevation ~775 m above sea level
 **Testament:** Both
 **Key Themes:** [[Covenant]] · [[Messianic Hope]] · [[Redemption]] · [[Prophecy and Fulfillment]]

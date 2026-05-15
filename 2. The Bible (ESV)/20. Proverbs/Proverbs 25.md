@@ -1,7 +1,5 @@
 ← [[Proverbs 24]] | [[Proverbs 26]] →
 
-# Chapter 25
-
 1. These also are proverbs of Solomon which the men of Hezekiah king of Judah copied.
 2. It is the glory of God to conceal things, but the glory of kings is to search things out.
 3. As the heavens for height, and the earth for depth, so the heart of kings is unsearchable.

@@ -1,7 +1,5 @@
 ← [[I Kings 4]] | [[I Kings 6]] →
 
-# Chapter 5
-
 1. Now Hiram king of Tyre sent his servants to Solomon when he heard that they had anointed him king in place of his father, for Hiram always loved David.
 2. And Solomon sent word to Hiram,
 3. You know that David my father could not build a house for the name of the Lord his God because of the warfare with which his enemies surrounded him, until the Lord put them under the soles of his feet.

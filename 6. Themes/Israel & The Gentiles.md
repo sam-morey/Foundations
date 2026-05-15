@@ -1,5 +1,3 @@
-# Israel & The Gentiles
-
 God chose Israel not as an end in itself but as the means of blessing all nations. The tension between particular election (Israel) and universal scope (all peoples) runs through the entire Bible and finds its resolution in Christ and the Church.
 
 ## Key Passages

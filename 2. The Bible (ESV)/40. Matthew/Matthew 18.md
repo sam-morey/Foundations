@@ -1,7 +1,5 @@
 ← [[Matthew 17]] | [[Matthew 19]] →
 
-# Chapter 18
-
 1. At that time the disciples came to Jesus, saying, Who is the greatest in the kingdom of heaven?
 2. And calling to him a child, he put him in the midst of them
 3. and said, Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven.

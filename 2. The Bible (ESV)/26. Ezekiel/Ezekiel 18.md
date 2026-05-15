@@ -1,7 +1,5 @@
 ← [[Ezekiel 17]] | [[Ezekiel 19]] →
 
-# Chapter 18
-
 1. The word of the Lord came to me:
 2. What do you mean by repeating this proverb concerning the land of Israel, The fathers have eaten sour grapes, and the children’s teeth are set on edge?
 3. As I live, declares the Lord God, this proverb shall no more be used by you in Israel.

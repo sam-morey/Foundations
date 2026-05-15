@@ -1,7 +1,5 @@
 ← [[I Kings 11]] | [[I Kings 13]] →
 
-# Chapter 12
-
 1. Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.
 2. And as soon as Jeroboam the son of Nebat heard of it (for he was still in Egypt, where he had fled from King Solomon ), then Jeroboam returned from Egypt.
 3. And they sent and called him, and Jeroboam and all the assembly of Israel came and said to Rehoboam,

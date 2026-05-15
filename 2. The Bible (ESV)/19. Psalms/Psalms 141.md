@@ -1,7 +1,5 @@
 ← [[Psalms 140]] | [[Psalms 142]] →
 
-# Chapter 141
-
 1. Give Ear to My Voice A Psalm of David. O Lord, I call upon you; hasten to me! Give ear to my voice when I call to you!
 2. Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice!
 3. Set a guard, O Lord, over my mouth; keep watch over the door of my lips!

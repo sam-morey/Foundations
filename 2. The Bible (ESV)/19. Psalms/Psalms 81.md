@@ -1,7 +1,5 @@
 ← [[Psalms 80]] | [[Psalms 82]] →
 
-# Chapter 81
-
 1. Oh, That My People Would Listen to Me To the choirmaster : according to The Gittith. Of Asaph. Sing aloud to God our strength; shout for joy to the God of Jacob!
 2. Raise a song; sound the tambourine, the sweet lyre with the harp.
 3. Blow the trumpet at the new moon, at the full moon, on our feast day.

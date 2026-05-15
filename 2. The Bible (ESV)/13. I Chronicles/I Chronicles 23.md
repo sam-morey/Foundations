@@ -1,7 +1,5 @@
 ← [[I Chronicles 22]] | [[I Chronicles 24]] →
 
-# Chapter 23
-
 1. When David was old and full of days, he made Solomon his son king over Israel.
 2. David assembled all the leaders of Israel and the priests and the Levites.
 3. The Levites, thirty years old and upward, were numbered, and the total was 38,000 men.

@@ -1,7 +1,5 @@
 ← [[Ezekiel 18]] | [[Ezekiel 20]] →
 
-# Chapter 19
-
 1. And you, take up a lamentation for the princes of Israel,
 2. and say : What was your mother? A lioness! Among lions she crouched; in the midst of young lions she reared her cubs.
 3. And she brought up one of her cubs; he became a young lion, and he learned to catch prey; he devoured men.

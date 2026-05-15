@@ -1,7 +1,5 @@
 ← [[I Peter 2]] | [[I Peter 4]] →
 
-# Chapter 3
-
 1. Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives,
 2. when they see your respectful and pure conduct.
 3. Do not let your adorning be external —the braiding of hair and the putting on of gold jewelry, or the clothing you wear —

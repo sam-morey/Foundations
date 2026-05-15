@@ -1,7 +1,5 @@
 ← [[Revelation of John 4]] | [[Revelation of John 6]] →
 
-# Chapter 5
-
 1. Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals.
 2. And I saw a mighty angel proclaiming with a loud voice, Who is worthy to open the scroll and break its seals?
 3. And no one in heaven or on earth or under the earth was able to open the scroll or to look into it,

@@ -1,7 +1,5 @@
 ← [[Numbers 29]] | [[Numbers 31]] →
 
-# Chapter 30
-
 1. Moses spoke to the heads of the tribes of the people of Israel, saying, This is what the Lord has commanded.
 2. If a man vows a vow to the Lord, or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth.
 3. If a woman vows a vow to the Lord and binds herself by a pledge, while within her father’s house in her youth,

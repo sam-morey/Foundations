@@ -1,7 +1,5 @@
 ← [[Ezekiel 10]] | [[Ezekiel 12]] →
 
-# Chapter 11
-
 1. The Spirit lifted me up and brought me to the east gate of the house of the Lord, which faces east. And behold, at the entrance of the gateway there were twenty-five men. And I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people.
 2. And he said to me, Son of man, these are the men who devise iniquity and who give wicked counsel in this city;
 3. who say, The time is not near to build houses. This city is the cauldron, and we are the meat.

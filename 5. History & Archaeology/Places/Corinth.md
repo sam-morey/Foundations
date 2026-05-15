@@ -1,5 +1,3 @@
-# Corinth
-
 **Location:** Ancient Corinth archaeological site, Corinthia regional unit, Peloponnese, Greece — approximately 5 km southwest of modern Corinth city, 78 km west-southwest of Athens; GPS ~37.91°N 22.88°E
 **Testament:** NT
 **Key Themes:** [[The Church]] · [[Grace and Law]] · [[Resurrection]]

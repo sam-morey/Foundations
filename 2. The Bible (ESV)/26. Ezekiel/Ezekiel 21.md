@@ -1,7 +1,5 @@
 ← [[Ezekiel 20]] | [[Ezekiel 22]] →
 
-# Chapter 21
-
 1. The word of the Lord came to me:
 2. Son of man, set your face toward Jerusalem and preach against the sanctuaries. Prophesy against the land of Israel
 3. and say to the land of Israel, Thus says the Lord : Behold, I am against you and will draw my sword from its sheath and will cut off from you both righteous and wicked.

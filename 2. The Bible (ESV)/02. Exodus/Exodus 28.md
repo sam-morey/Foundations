@@ -1,7 +1,5 @@
 ← [[Exodus 27]] | [[Exodus 29]] →
 
-# Chapter 28
-
 1. Then bring near to you Aaron your brother, and his sons with him, from among the people of Israel, to serve me as priests — Aaron and Aaron’s sons, Nadab and Abihu, Eleazar and Ithamar.
 2. And you shall make holy garments for Aaron your brother, for glory and for beauty.
 3. You shall speak to all the skillful, whom I have filled with a spirit of skill, that they make Aaron’s garments to consecrate him for my priesthood.

@@ -1,7 +1,5 @@
 ← [[Job 16]] | [[Job 18]] →
 
-# Chapter 17
-
 1. My spirit is broken; my days are extinct; the graveyard is ready for me.
 2. Surely there are mockers about me, and my eye dwells on their provocation.
 3. Lay down a pledge for me with you; who is there who will put up security for me?

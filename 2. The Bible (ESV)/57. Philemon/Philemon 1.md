@@ -1,7 +1,5 @@
 ← [[Titus 3]] | [[Hebrews 1]] →
 
-# Chapter 1
-
 1. Paul, a prisoner for Christ Jesus, and Timothy our brother, To Philemon our beloved fellow worker
 2. and Apphia our sister and Archippus our fellow soldier, and the church in your house :
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.

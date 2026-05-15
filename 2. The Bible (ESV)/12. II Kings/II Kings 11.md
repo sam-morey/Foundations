@@ -1,7 +1,5 @@
 ← [[II Kings 10]] | [[II Kings 12]] →
 
-# Chapter 11
-
 1. Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal family.
 2. But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king’s sons who were being put to death, and she put him and his nurse in a bedroom. Thus they hid him from Athaliah, so that he was not put to death.
 3. And he remained with her six years, hidden in the house of the Lord, while Athaliah reigned over the land.

@@ -1,7 +1,5 @@
 ← [[Psalms 148]] | [[Psalms 150]] →
 
-# Chapter 149
-
 1. Sing to the Lord a New Song Praise the Lord! Sing to the Lord a new song, his praise in the assembly of the godly!
 2. Let Israel be glad in his Maker; let the children of Zion rejoice in their King!
 3. Let them praise his name with dancing, making melody to him with tambourine and lyre!

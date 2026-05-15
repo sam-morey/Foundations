@@ -1,7 +1,5 @@
 ← [[Psalms 8]] | [[Psalms 10]] →
 
-# Chapter 9
-
 1. I Will Recount Your Wonderful Deeds To the choirmaster : according to Muth-labben. A Psalm of David. I will give thanks to the Lord with my whole heart; I will recount all of your wonderful deeds.
 2. I will be glad and exult in you; I will sing praise to your name, O Most High.
 3. When my enemies turn back, they stumble and perish before your presence.

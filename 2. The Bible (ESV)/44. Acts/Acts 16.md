@@ -1,7 +1,5 @@
 ← [[Acts 15]] | [[Acts 17]] →
 
-# Chapter 16
-
 1. Paul came also to Derbe and to Lystra. A disciple was there, named Timothy, the son of a Jewish woman who was a believer, but his father was a Greek.
 2. He was well spoken of by the brothers at Lystra and Iconium.
 3. Paul wanted Timothy to accompany him, and he took him and circumcised him because of the Jews who were in those places, for they all knew that his father was a Greek.

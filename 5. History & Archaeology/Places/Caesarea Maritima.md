@@ -1,5 +1,3 @@
-# Caesarea Maritima
-
 **Location:** Caesarea National Park, Israel — on the Mediterranean coast approximately 50 km north of Tel Aviv and 45 km south of Haifa; modern city of Or Akiva nearby; 32.5000° N, 34.8964° E
 **Testament:** NT
 **Key Themes:** [[Mission and Evangelism]] · [[Gentiles and the Gospel]] · [[Persecution and Suffering]] · [[Kingdom of God]]

@@ -1,7 +1,5 @@
 ← [[Job 22]] | [[Job 24]] →
 
-# Chapter 23
-
 1. Then Job answered and said :
 2. Today also my complaint is bitter; my hand is heavy on account of my groaning.
 3. Oh, that I knew where I might find him, that I might come even to his seat!

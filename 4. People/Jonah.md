@@ -1,5 +1,3 @@
-# Jonah
-
 **Testament:** Old Testament
 **Era:** The Prophets
 **Appears In:** [[3. Overviews/32. Jonah Overview|Jonah]]

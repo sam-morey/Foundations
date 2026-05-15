@@ -1,7 +1,5 @@
 ← [[Acts 23]] | [[Acts 25]] →
 
-# Chapter 24
-
 1. And after five days the high priest Ananias came down with some elders and a spokesman, one Tertullus. They laid before the governor their case against Paul.
 2. And when he had been summoned, Tertullus began to accuse him, saying : Since through you we enjoy much peace, and since by your foresight, most excellent Felix, reforms are being made for this nation,
 3. in every way and everywhere we accept this with all gratitude.

@@ -1,7 +1,5 @@
 ← [[Isaiah 46]] | [[Isaiah 48]] →
 
-# Chapter 47
-
 1. Come down and sit in the dust, O virgin daughter of Babylon; sit on the ground without a throne, O daughter of the Chaldeans! For you shall no more be called tender and delicate.
 2. Take the millstones and grind flour, put off your veil, strip off your robe, uncover your legs, pass through the rivers.
 3. Your nakedness shall be uncovered, and your disgrace shall be seen. I will take vengeance, and I will spare no one.

@@ -1,7 +1,5 @@
 ← [[Job 15]] | [[Job 17]] →
 
-# Chapter 16
-
 1. Then Job answered and said :
 2. I have heard many such things; miserable comforters are you all.
 3. Shall windy words have an end? Or what provokes you that you answer?

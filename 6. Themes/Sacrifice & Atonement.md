@@ -1,5 +1,3 @@
-# Sacrifice & Atonement
-
 Atonement means "at-one-ment" — restoring a broken relationship. In Scripture, this is accomplished through sacrifice: a substitute that absorbs the consequences of sin so that the guilty may stand before a holy God.
 
 ## Key Passages

@@ -1,7 +1,5 @@
 ← [[Isaiah 25]] | [[Isaiah 27]] →
 
-# Chapter 26
-
 1. In that day this song will be sung in the land of Judah : We have a strong city; he sets up salvation as walls and bulwarks.
 2. Open the gates, that the righteous nation that keeps faith may enter in.
 3. You keep him in perfect peace whose mind is stayed on you, because he trusts in you.

@@ -1,7 +1,5 @@
 ← [[Proverbs 9]] | [[Proverbs 11]] →
 
-# Chapter 10
-
 1. The proverbs of Solomon. A wise son makes a glad father, but a foolish son is a sorrow to his mother.
 2. Treasures gained by wickedness do not profit, but righteousness delivers from death.
 3. The Lord does not let the righteous go hungry, but he thwarts the craving of the wicked.

@@ -1,7 +1,5 @@
 ← [[Ezekiel 3]] | [[Ezekiel 5]] →
 
-# Chapter 4
-
 1. And you, son of man, take a brick and lay it before you, and engrave on it a city, even Jerusalem.
 2. And put siegeworks against it, and build a siege wall against it, and cast up a mound against it. Set camps also against it, and plant battering rams against it all around.
 3. And you, take an iron griddle, and place it as an iron wall between you and the city; and set your face toward it, and let it be in a state of siege, and press the siege against it. This is a sign for the house of Israel.

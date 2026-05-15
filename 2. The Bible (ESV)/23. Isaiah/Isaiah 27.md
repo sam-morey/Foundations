@@ -1,7 +1,5 @@
 ← [[Isaiah 26]] | [[Isaiah 28]] →
 
-# Chapter 27
-
 1. In that day the Lord with his hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea.
 2. In that day, A pleasant vineyard, sing of it!
 3. I, the Lord, am its keeper; every moment I water it. Lest anyone punish it, I keep it night and day;

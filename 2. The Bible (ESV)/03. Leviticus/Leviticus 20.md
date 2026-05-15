@@ -1,7 +1,5 @@
 ← [[Leviticus 19]] | [[Leviticus 21]] →
 
-# Chapter 20
-
 1. The Lord spoke to Moses, saying,
 2. Say to the people of Israel, Any one of the people of Israel or of the strangers who sojourn in Israel who gives any of his children to Molech shall surely be put to death. The people of the land shall stone him with stones.
 3. I myself will set my face against that man and will cut him off from among his people, because he has given one of his children to Molech, to make my sanctuary unclean and to profane my holy name.

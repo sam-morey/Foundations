@@ -1,7 +1,5 @@
 ← [[I Kings 10]] | [[I Kings 12]] →
 
-# Chapter 11
-
 1. Now King Solomon loved many foreign women, along with the daughter of Pharaoh : Moabite, Ammonite, Edomite, Sidonian, and Hittite women,
 2. from the nations concerning which the Lord had said to the people of Israel, You shall not enter into marriage with them, neither shall they with you, for surely they will turn away your heart after their gods. Solomon clung to these in love.
 3. He had 700 wives, who were princesses, and 300 concubines. And his wives turned away his heart.

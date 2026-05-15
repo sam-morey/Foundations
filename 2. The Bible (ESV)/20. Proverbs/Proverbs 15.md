@@ -1,7 +1,5 @@
 ← [[Proverbs 14]] | [[Proverbs 16]] →
 
-# Chapter 15
-
 1. A soft answer turns away wrath, but a harsh word stirs up anger.
 2. The tongue of the wise commends knowledge, but the mouths of fools pour out folly.
 3. The eyes of the Lord are in every place, keeping watch on the evil and the good.

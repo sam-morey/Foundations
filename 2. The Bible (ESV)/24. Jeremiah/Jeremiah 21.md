@@ -1,7 +1,5 @@
 ← [[Jeremiah 20]] | [[Jeremiah 22]] →
 
-# Chapter 21
-
 1. This is the word that came to Jeremiah from the Lord, when King Zedekiah sent to him Pashhur the son of Malchiah and Zephaniah the priest, the son of Maaseiah, saying,
 2. Inquire of the Lord for us, for Nebuchadnezzar king of Babylon is making war against us. Perhaps the Lord will deal with us according to all his wonderful deeds and will make him withdraw from us.
 3. Then Jeremiah said to them: Thus you shall say to Zedekiah,

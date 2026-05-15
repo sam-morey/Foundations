@@ -1,7 +1,5 @@
 ← [[Psalms 139]] | [[Psalms 141]] →
 
-# Chapter 140
-
 1. Deliver Me, O Lord, from Evil Men To the choirmaster. A Psalm of David. Deliver me, O Lord, from evil men; preserve me from violent men,
 2. who plan evil things in their heart and stir up wars continually.
 3. They make their tongue sharp as a serpent’s, and under their lips is the venom of asps.

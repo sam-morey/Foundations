@@ -1,7 +1,5 @@
 ← [[Amos 8]] | [[Obadiah 1]] →
 
-# Chapter 9
-
 1. I saw the Lord standing beside the altar, and he said : Strike the capitals until the thresholds shake, and shatter them on the heads of all the people; and those who are left of them I will kill with the sword; not one of them shall flee away; not one of them shall escape.
 2. If they dig into Sheol, from there shall my hand take them; if they climb up to heaven, from there I will bring them down.
 3. If they hide themselves on the top of Carmel, from there I will search them out and take them; and if they hide from my sight at the bottom of the sea, there I will command the serpent, and it shall bite them.

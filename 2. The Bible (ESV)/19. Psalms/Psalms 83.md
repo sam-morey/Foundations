@@ -1,7 +1,5 @@
 ← [[Psalms 82]] | [[Psalms 84]] →
 
-# Chapter 83
-
 1. O God, Do Not Keep Silence A Song. A Psalm of Asaph. O God, do not keep silence; do not hold your peace or be still, O God!
 2. For behold, your enemies make an uproar; those who hate you have raised their heads.
 3. They lay crafty plans against your people; they consult together against your treasured ones.

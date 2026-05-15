@@ -1,7 +1,5 @@
 ← [[I Chronicles 18]] | [[I Chronicles 20]] →
 
-# Chapter 19
-
 1. Now after this Nahash the king of the Ammonites died, and his son reigned in his place.
 2. And David said, I will deal kindly with Hanun the son of Nahash, for his father dealt kindly with me. So David sent messengers to console him concerning his father. And David’s servants came to the land of the Ammonites to Hanun to console him.
 3. But the princes of the Ammonites said to Hanun, Do you think, because David has sent comforters to you, that he is honoring your father? Have not his servants come to you to search and to overthrow and to spy out the land?

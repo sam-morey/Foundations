@@ -1,7 +1,5 @@
 ← [[Jeremiah 34]] | [[Jeremiah 36]] →
 
-# Chapter 35
-
 1. The word that came to Jeremiah from the Lord in the days of Jehoiakim the son of Josiah, king of Judah :
 2. Go to the house of the Rechabites and speak with them and bring them to the house of the Lord, into one of the chambers; then offer them wine to drink.
 3. So I took Jaazaniah the son of Jeremiah, son of Habazziniah and his brothers and all his sons and the whole house of the Rechabites.

@@ -1,7 +1,5 @@
 ← [[I Corinthians 6]] | [[I Corinthians 8]] →
 
-# Chapter 7
-
 1. Now concerning the matters about which you wrote : It is good for a man not to have sexual relations with a woman.
 2. But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband.
 3. The husband should give to his wife her conjugal rights, and likewise the wife to her husband.

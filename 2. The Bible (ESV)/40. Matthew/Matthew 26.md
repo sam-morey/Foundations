@@ -1,7 +1,5 @@
 ← [[Matthew 25]] | [[Matthew 27]] →
 
-# Chapter 26
-
 1. When Jesus had finished all these sayings, he said to his disciples,
 2. You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified.
 3. Then the chief priests and the elders of the people gathered in the palace of the high priest, whose name was Caiaphas,

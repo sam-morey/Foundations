@@ -1,7 +1,5 @@
 ← [[Psalms 14]] | [[Psalms 16]] →
 
-# Chapter 15
-
 1. Who Shall Dwell on Your Holy Hill? A Psalm of David. O Lord, who shall sojourn in your tent? Who shall dwell on your holy hill?
 2. He who walks blamelessly and does what is right and speaks truth in his heart;
 3. who does not slander with his tongue and does no evil to his neighbor, nor takes up a reproach against his friend;

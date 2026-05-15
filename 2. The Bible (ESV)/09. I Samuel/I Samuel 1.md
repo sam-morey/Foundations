@@ -1,7 +1,5 @@
 ← [[Ruth 4]] | [[I Samuel 2]] →
 
-# Chapter 1
-
 1. There was a certain man of Ramathaim-zophim of the hill country of Ephraim whose name was Elkanah the son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephrathite.
 2. He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. And Peninnah had children, but Hannah had no children.
 3. Now this man used to go up year by year from his city to worship and to sacrifice to the Lord of hosts at Shiloh, where the two sons of Eli, Hophni and Phinehas, were priests of the Lord.

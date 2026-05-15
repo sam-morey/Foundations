@@ -1,7 +1,5 @@
 ← [[I Chronicles 23]] | [[I Chronicles 25]] →
 
-# Chapter 24
-
 1. The divisions of the sons of Aaron were these. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar.
 2. But Nadab and Abihu died before their father and had no children, so Eleazar and Ithamar became the priests.
 3. With the help of Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service.

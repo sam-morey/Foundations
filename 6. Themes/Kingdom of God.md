@@ -1,5 +1,3 @@
-# Kingdom of God
-
 The Kingdom of God is God's sovereign rule — his reign over creation, over Israel, and ultimately over all nations. In the NT, Jesus announces that the Kingdom has arrived in him, though its full consummation remains future.
 
 ## Key Passages

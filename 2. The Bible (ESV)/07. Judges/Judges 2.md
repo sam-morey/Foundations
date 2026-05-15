@@ -1,7 +1,5 @@
 ← [[Judges 1]] | [[Judges 3]] →
 
-# Chapter 2
-
 1. Now the angel of the Lord went up from Gilgal to Bochim. And he said, I brought you up from Egypt and brought you into the land that I swore to give to your fathers. I said, I will never break my covenant with you,
 2. and you shall make no covenant with the inhabitants of this land; you shall break down their altars. But you have not obeyed my voice. What is this you have done?
 3. So now I say, I will not drive them out before you, but they shall become thorns in your sides, and their gods shall be a snare to you.

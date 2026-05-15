@@ -1,7 +1,5 @@
 ← [[I Corinthians 4]] | [[I Corinthians 6]] →
 
-# Chapter 5
-
 1. It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father’s wife.
 2. And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you.
 3. For though absent in body, I am present in spirit; and as if present, I have already pronounced judgment on the one who did such a thing.

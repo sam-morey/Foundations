@@ -1,7 +1,5 @@
 ← [[Leviticus 7]] | [[Leviticus 9]] →
 
-# Chapter 8
-
 1. The Lord spoke to Moses, saying,
 2. Take Aaron and his sons with him, and the garments and the anointing oil and the bull of the sin offering and the two rams and the basket of unleavened bread.
 3. And assemble all the congregation at the entrance of the tent of meeting.

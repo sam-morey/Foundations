@@ -1,7 +1,5 @@
 ← [[Psalms 37]] | [[Psalms 39]] →
 
-# Chapter 38
-
 1. Do Not Forsake Me, O Lord A Psalm of David, for the memorial offering. O Lord, rebuke me not in your anger, nor discipline me in your wrath!
 2. For your arrows have sunk into me, and your hand has come down on me.
 3. There is no soundness in my flesh because of your indignation; there is no health in my bones because of my sin.

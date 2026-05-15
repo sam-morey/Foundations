@@ -1,7 +1,5 @@
 ← [[Amos 2]] | [[Amos 4]] →
 
-# Chapter 3
-
 1. Hear this word that the Lord has spoken against you, O people of Israel, against the whole family that I brought up out of the land of Egypt :
 2. You only have I known of all the families of the earth; therefore I will punish you for all your iniquities.
 3. Do two walk together, unless they have agreed to meet?

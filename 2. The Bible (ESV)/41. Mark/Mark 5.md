@@ -1,7 +1,5 @@
 ← [[Mark 4]] | [[Mark 6]] →
 
-# Chapter 5
-
 1. They came to the other side of the sea, to the country of the Gerasenes.
 2. And when Jesus had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit.
 3. He lived among the tombs. And no one could bind him anymore, not even with a chain,

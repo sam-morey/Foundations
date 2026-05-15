@@ -1,7 +1,5 @@
 ← [[Exodus 12]] | [[Exodus 14]] →
 
-# Chapter 13
-
 1. The Lord said to Moses,
 2. Consecrate to me all the firstborn. Whatever is the first to open the womb among the people of Israel, both of man and of beast, is mine.
 3. Then Moses said to the people, Remember this day in which you came out from Egypt, out of the house of slavery, for by a strong hand the Lord brought you out from this place. No leavened bread shall be eaten.

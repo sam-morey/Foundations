@@ -1,7 +1,5 @@
 ← [[I Samuel 17]] | [[I Samuel 19]] →
 
-# Chapter 18
-
 1. As soon as he had finished speaking to Saul, the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.
 2. And Saul took him that day and would not let him return to his father’s house.
 3. Then Jonathan made a covenant with David, because he loved him as his own soul.

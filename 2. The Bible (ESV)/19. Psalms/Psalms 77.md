@@ -1,7 +1,5 @@
 ← [[Psalms 76]] | [[Psalms 78]] →
 
-# Chapter 77
-
 1. In the Day of Trouble I Seek the Lord To the choirmaster : according to Jeduthun. A Psalm of Asaph. I cry aloud to God, aloud to God, and he will hear me.
 2. In the day of my trouble I seek the Lord; in the night my hand is stretched out without wearying; my soul refuses to be comforted.
 3. When I remember God, I moan; when I meditate, my spirit faints.

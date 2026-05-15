@@ -1,7 +1,5 @@
 ← [[Lamentations 4]] | [[Ezekiel 1]] →
 
-# Chapter 5
-
 1. Remember, O Lord, what has befallen us; look, and see our disgrace!
 2. Our inheritance has been turned over to strangers, our homes to foreigners.
 3. We have become orphans, fatherless; our mothers are like widows.

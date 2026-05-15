@@ -1,7 +1,5 @@
 ← [[Genesis 7]] | [[Genesis 9]] →
 
-# Chapter 8
-
 1. But God remembered Noah and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.
 2. The fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained,
 3. and the waters receded from the earth continually. At the end of 150 days the waters had abated,

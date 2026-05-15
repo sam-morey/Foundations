@@ -1,7 +1,5 @@
 ← [[Job 35]] | [[Job 37]] →
 
-# Chapter 36
-
 1. And Elihu continued, and said :
 2. Bear with me a little, and I will show you, for I have yet something to say on God’s behalf.
 3. I will get my knowledge from afar and ascribe righteousness to my Maker.

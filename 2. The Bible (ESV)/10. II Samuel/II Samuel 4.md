@@ -1,7 +1,5 @@
 ← [[II Samuel 3]] | [[II Samuel 5]] →
 
-# Chapter 4
-
 1. When Ish-bosheth, Saul’s son, heard that Abner had died at Hebron, his courage failed, and all Israel was dismayed.
 2. Now Saul’s son had two men who were captains of raiding bands; the name of the one was Baanah, and the name of the other Rechab, sons of Rimmon a man of Benjamin from Beeroth ( for Beeroth also is counted part of Benjamin;
 3. the Beerothites fled to Gittaim and have been sojourners there to this day ).

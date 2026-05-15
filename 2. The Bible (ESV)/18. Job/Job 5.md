@@ -1,7 +1,5 @@
 ← [[Job 4]] | [[Job 6]] →
 
-# Chapter 5
-
 1. Call now; is there anyone who will answer you? To which of the holy ones will you turn?
 2. Surely vexation kills the fool, and jealousy slays the simple.
 3. I have seen the fool taking root, but suddenly I cursed his dwelling.

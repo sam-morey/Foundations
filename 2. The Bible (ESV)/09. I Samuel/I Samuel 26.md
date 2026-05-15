@@ -1,7 +1,5 @@
 ← [[I Samuel 25]] | [[I Samuel 27]] →
 
-# Chapter 26
-
 1. Then the Ziphites came to Saul at Gibeah, saying, Is not David hiding himself on the hill of Hachilah, which is on the east of Jeshimon?
 2. So Saul arose and went down to the wilderness of Ziph with three thousand chosen men of Israel to seek David in the wilderness of Ziph.
 3. And Saul encamped on the hill of Hachilah, which is beside the road on the east of Jeshimon. But David remained in the wilderness. When he saw that Saul came after him into the wilderness,

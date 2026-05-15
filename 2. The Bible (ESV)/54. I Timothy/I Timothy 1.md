@@ -1,7 +1,5 @@
 ← [[II Thessalonians 3]] | [[I Timothy 2]] →
 
-# Chapter 1
-
 1. Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope,
 2. To Timothy, my true child in the faith : Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 3. As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine,

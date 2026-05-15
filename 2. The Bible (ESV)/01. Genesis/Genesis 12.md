@@ -1,7 +1,5 @@
 ← [[Genesis 11]] | [[Genesis 13]] →
 
-# Chapter 12
-
 1. Now the Lord said to Abram, Go from your country and your kindred and your father’s house to the land that I will show you.
 2. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.
 3. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.

@@ -1,7 +1,5 @@
 ← [[Luke 18]] | [[Luke 20]] →
 
-# Chapter 19
-
 1. He entered Jericho and was passing through.
 2. And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich.
 3. And he was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature.

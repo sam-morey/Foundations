@@ -1,7 +1,5 @@
 ← [[Deuteronomy 5]] | [[Deuteronomy 7]] →
 
-# Chapter 6
-
 1. Now this is the commandment —the statutes and the rules — that the Lord your God commanded me to teach you, that you may do them in the land to which you are going over, to possess it,
 2. that you may fear the Lord your God, you and your son and your son’s son, by keeping all his statutes and his commandments, which I command you, all the days of your life, and that your days may be long.
 3. Hear therefore, O Israel, and be careful to do them, that it may go well with you, and that you may multiply greatly, as the Lord, the God of your fathers, has promised you, in a land flowing with milk and honey.

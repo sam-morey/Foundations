@@ -1,7 +1,5 @@
 ← [[Romans 14]] | [[Romans 16]] →
 
-# Chapter 15
-
 1. We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves.
 2. Let each of us please his neighbor for his good, to build him up.
 3. For Christ did not please himself, but as it is written, The reproaches of those who reproached you fell on me.

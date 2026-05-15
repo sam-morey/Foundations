@@ -1,7 +1,5 @@
 ← [[Jeremiah 5]] | [[Jeremiah 7]] →
 
-# Chapter 6
-
 1. Flee for safety, O people of Benjamin, from the midst of Jerusalem! Blow the trumpet in Tekoa, and raise a signal on Beth-haccherem, for disaster looms out of the north, and great destruction.
 2. The lovely and delicately bred I will destroy, the daughter of Zion.
 3. Shepherds with their flocks shall come against her; they shall pitch their tents around her; they shall pasture, each in his place.

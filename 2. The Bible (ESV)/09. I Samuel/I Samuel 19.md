@@ -1,7 +1,5 @@
 ← [[I Samuel 18]] | [[I Samuel 20]] →
 
-# Chapter 19
-
 1. And Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, delighted much in David.
 2. And Jonathan told David, Saul my father seeks to kill you. Therefore be on your guard in the morning. Stay in a secret place and hide yourself.
 3. And I will go out and stand beside my father in the field where you are, and I will speak to my father about you. And if I learn anything I will tell you.

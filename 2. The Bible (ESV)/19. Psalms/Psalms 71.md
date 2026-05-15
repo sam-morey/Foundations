@@ -1,7 +1,5 @@
 ← [[Psalms 70]] | [[Psalms 72]] →
 
-# Chapter 71
-
 1. Forsake Me Not When My Strength Is Spent In you, O Lord, do I take refuge; let me never be put to shame!
 2. In your righteousness deliver me and rescue me; incline your ear to me, and save me!
 3. Be to me a rock of refuge, to which I may continually come; you have given the command to save me, for you are my rock and my fortress.

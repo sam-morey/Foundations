@@ -1,7 +1,5 @@
 ← [[Matthew 16]] | [[Matthew 18]] →
 
-# Chapter 17
-
 1. And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves.
 2. And he was transfigured before them, and his face shone like the sun, and his clothes became white as light.
 3. And behold, there appeared to them Moses and Elijah, talking with him.

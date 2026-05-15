@@ -1,7 +1,5 @@
 ← [[Jeremiah 6]] | [[Jeremiah 8]] →
 
-# Chapter 7
-
 1. The word that came to Jeremiah from the Lord :
 2. Stand in the gate of the Lord ’s house, and proclaim there this word, and say, Hear the word of the Lord, all you men of Judah who enter these gates to worship the Lord.
 3. Thus says the Lord of hosts, the God of Israel : Amend your ways and your deeds, and I will let you dwell in this place.

@@ -1,7 +1,5 @@
 ← [[Joshua 15]] | [[Joshua 17]] →
 
-# Chapter 16
-
 1. The allotment of the people of Joseph went from the Jordan by Jericho, east of the waters of Jericho, into the wilderness, going up from Jericho into the hill country to Bethel.
 2. Then going from Bethel to Luz, it passes along to Ataroth, the territory of the Archites.
 3. Then it goes down westward to the territory of the Japhletites, as far as the territory of Lower Beth-horon, then to Gezer, and it ends at the sea.

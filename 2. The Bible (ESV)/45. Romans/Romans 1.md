@@ -1,7 +1,5 @@
 ← [[Acts 28]] | [[Romans 2]] →
 
-# Chapter 1
-
 1. Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God,
 2. which he promised beforehand through his prophets in the holy Scriptures,
 3. concerning his Son, who was descended from David according to the flesh

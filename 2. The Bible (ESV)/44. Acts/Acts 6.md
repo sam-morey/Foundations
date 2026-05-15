@@ -1,7 +1,5 @@
 ← [[Acts 5]] | [[Acts 7]] →
 
-# Chapter 6
-
 1. Now in these days when the disciples were increasing in number, a complaint by the Hellenists arose against the Hebrews because their widows were being neglected in the daily distribution.
 2. And the twelve summoned the full number of the disciples and said, It is not right that we should give up preaching the word of God to serve tables.
 3. Therefore, brothers, pick out from among you seven men of good repute, full of the Spirit and of wisdom, whom we will appoint to this duty.

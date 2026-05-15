@@ -1,7 +1,5 @@
 ← [[Proverbs 17]] | [[Proverbs 19]] →
 
-# Chapter 18
-
 1. Whoever isolates himself seeks his own desire; he breaks out against all sound judgment.
 2. A fool takes no pleasure in understanding, but only in expressing his opinion.
 3. When wickedness comes, contempt comes also, and with dishonor comes disgrace.

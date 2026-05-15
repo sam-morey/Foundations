@@ -1,7 +1,5 @@
 ← [[Psalms 101]] | [[Psalms 103]] →
 
-# Chapter 102
-
 1. Do Not Hide Your Face from Me A Prayer of one afflicted, when he is faint and pours out his complaint before the Lord. Hear my prayer, O Lord; let my cry come to you!
 2. Do not hide your face from me in the day of my distress! Incline your ear to me; answer me speedily in the day when I call!
 3. For my days pass away like smoke, and my bones burn like a furnace.

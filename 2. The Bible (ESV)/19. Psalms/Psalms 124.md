@@ -1,7 +1,5 @@
 ← [[Psalms 123]] | [[Psalms 125]] →
 
-# Chapter 124
-
 1. Our Help Is in the Name of the Lord A Song of Ascents. Of David. If it had not been the Lord who was on our side— let Israel now say —
 2. if it had not been the Lord who was on our side when people rose up against us,
 3. then they would have swallowed us up alive, when their anger was kindled against us;

@@ -1,7 +1,5 @@
 ← [[Psalms 4]] | [[Psalms 6]] →
 
-# Chapter 5
-
 1. Lead Me in Your Righteousness To the choirmaster : for the flutes. A Psalm of David. Give ear to my words, O Lord; consider my groaning.
 2. Give attention to the sound of my cry, my King and my God, for to you do I pray.
 3. O Lord, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch.

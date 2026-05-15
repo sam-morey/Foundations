@@ -1,7 +1,5 @@
 ← [[Zechariah 12]] | [[Zechariah 14]] →
 
-# Chapter 13
-
 1. On that day there shall be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness.
 2. And on that day, declares the Lord of hosts, I will cut off the names of the idols from the land, so that they shall be remembered no more. And also I will remove from the land the prophets and the spirit of uncleanness.
 3. And if anyone again prophesies, his father and mother who bore him will say to him, You shall not live, for you speak lies in the name of the Lord. And his father and mother who bore him shall pierce him through when he prophesies.

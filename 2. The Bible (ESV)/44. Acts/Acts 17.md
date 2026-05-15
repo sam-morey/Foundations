@@ -1,7 +1,5 @@
 ← [[Acts 16]] | [[Acts 18]] →
 
-# Chapter 17
-
 1. Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews.
 2. And Paul went in, as was his custom, and on three Sabbath days he reasoned with them from the Scriptures,
 3. explaining and proving that it was necessary for the Christ to suffer and to rise from the dead, and saying, This Jesus, whom I proclaim to you, is the Christ.

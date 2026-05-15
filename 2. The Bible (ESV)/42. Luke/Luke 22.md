@@ -1,7 +1,5 @@
 ← [[Luke 21]] | [[Luke 23]] →
 
-# Chapter 22
-
 1. Now the Feast of Unleavened Bread drew near, which is called the Passover.
 2. And the chief priests and the scribes were seeking how to put him to death, for they feared the people.
 3. Then Satan entered into Judas called Iscariot, who was of the number of the twelve.

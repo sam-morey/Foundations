@@ -1,7 +1,5 @@
 ← [[Numbers 17]] | [[Numbers 19]] →
 
-# Chapter 18
-
 1. So the Lord said to Aaron, You and your sons and your father’s house with you shall bear iniquity connected with the sanctuary, and you and your sons with you shall bear iniquity connected with your priesthood.
 2. And with you bring your brothers also, the tribe of Levi, the tribe of your father, that they may join you and minister to you while you and your sons with you are before the tent of the testimony.
 3. They shall keep guard over you and over the whole tent, but shall not come near to the vessels of the sanctuary or to the altar lest they, and you, die.

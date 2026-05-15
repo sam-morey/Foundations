@@ -1,7 +1,5 @@
 ← [[Genesis 46]] | [[Genesis 48]] →
 
-# Chapter 47
-
 1. So Joseph went in and told Pharaoh, My father and my brothers, with their flocks and herds and all that they possess, have come from the land of Canaan. They are now in the land of Goshen.
 2. And from among his brothers he took five men and presented them to Pharaoh.
 3. Pharaoh said to his brothers, What is your occupation? And they said to Pharaoh, Your servants are shepherds, as our fathers were.

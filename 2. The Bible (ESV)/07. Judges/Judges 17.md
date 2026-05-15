@@ -1,7 +1,5 @@
 ← [[Judges 16]] | [[Judges 18]] →
 
-# Chapter 17
-
 1. There was a man of the hill country of Ephraim, whose name was Micah.
 2. And he said to his mother, The 1,100 pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears, behold, the silver is with me; I took it. And his mother said, Blessed be my son by the Lord.
 3. And he restored the 1,100 pieces of silver to his mother. And his mother said, I dedicate the silver to the Lord from my hand for my son, to make a carved image and a metal image. Now therefore I will restore it to you.

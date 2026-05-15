@@ -1,7 +1,5 @@
 ← [[Daniel 1]] | [[Daniel 3]] →
 
-# Chapter 2
-
 1. In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams; his spirit was troubled, and his sleep left him.
 2. Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be summoned to tell the king his dreams. So they came in and stood before the king.
 3. And the king said to them, I had a dream, and my spirit is troubled to know the dream.

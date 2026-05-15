@@ -1,7 +1,5 @@
 ← [[Psalms 135]] | [[Psalms 137]] →
 
-# Chapter 136
-
 1. His Steadfast Love Endures Forever Give thanks to the Lord, for he is good, for his steadfast love endures forever.
 2. Give thanks to the God of gods, for his steadfast love endures forever.
 3. Give thanks to the Lord of lords, for his steadfast love endures forever;

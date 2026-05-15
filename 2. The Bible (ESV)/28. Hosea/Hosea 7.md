@@ -1,7 +1,5 @@
 ← [[Hosea 6]] | [[Hosea 8]] →
 
-# Chapter 7
-
 1. When I would heal Israel, the iniquity of Ephraim is revealed, and the evil deeds of Samaria; for they deal falsely; the thief breaks in, and the bandits raid outside.
 2. But they do not consider that I remember all their evil. Now their deeds surround them; they are before my face.
 3. By their evil they make the king glad, and the princes by their treachery.

@@ -1,7 +1,5 @@
 ← [[I Chronicles 27]] | [[I Chronicles 29]] →
 
-# Chapter 28
-
 1. David assembled at Jerusalem all the officials of Israel, the officials of the tribes, the officers of the divisions that served the king, the commanders of thousands, the commanders of hundreds, the stewards of all the property and livestock of the king and his sons, together with the palace officials, the mighty men and all the seasoned warriors.
 2. Then King David rose to his feet and said : Hear me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the Lord and for the footstool of our God, and I made preparations for building.
 3. But God said to me, You may not build a house for my name, for you are a man of war and have shed blood.

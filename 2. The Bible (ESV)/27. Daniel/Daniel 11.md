@@ -1,7 +1,5 @@
 ← [[Daniel 10]] | [[Daniel 12]] →
 
-# Chapter 11
-
 1. And as for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him.
 2. And now I will show you the truth. Behold, three more kings shall arise in Persia, and a fourth shall be far richer than all of them. And when he has become strong through his riches, he shall stir up all against the kingdom of Greece.
 3. Then a mighty king shall arise, who shall rule with great dominion and do as he wills.

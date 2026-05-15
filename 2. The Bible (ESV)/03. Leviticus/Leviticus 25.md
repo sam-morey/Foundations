@@ -1,7 +1,5 @@
 ← [[Leviticus 24]] | [[Leviticus 26]] →
 
-# Chapter 25
-
 1. The Lord spoke to Moses on Mount Sinai, saying,
 2. Speak to the people of Israel and say to them, When you come into the land that I give you, the land shall keep a Sabbath to the Lord.
 3. For six years you shall sow your field, and for six years you shall prune your vineyard and gather in its fruits,

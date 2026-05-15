@@ -1,7 +1,5 @@
 ← [[Numbers 36]] | [[Deuteronomy 2]] →
 
-# Chapter 1
-
 1. These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab.
 2. It is eleven days ’ journey from Horeb by the way of Mount Seir to Kadesh-barnea.
 3. In the fortieth year, on the first day of the eleventh month, Moses spoke to the people of Israel according to all that the Lord had given him in commandment to them,

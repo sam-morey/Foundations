@@ -1,7 +1,5 @@
 ← [[Acts 22]] | [[Acts 24]] →
 
-# Chapter 23
-
 1. And looking intently at the council, Paul said, Brothers, I have lived my life before God in all good conscience up to this day.
 2. And the high priest Ananias commanded those who stood by him to strike him on the mouth.
 3. Then Paul said to him, God is going to strike you, you whitewashed wall! Are you sitting to judge me according to the law, and yet contrary to the law you order me to be struck?

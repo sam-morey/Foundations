@@ -1,7 +1,5 @@
 ← [[Exodus 10]] | [[Exodus 12]] →
 
-# Chapter 11
-
 1. The Lord said to Moses, Yet one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. When he lets you go, he will drive you away completely.
 2. Speak now in the hearing of the people, that they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.
 3. And the Lord gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants and in the sight of the people.

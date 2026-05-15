@@ -1,7 +1,5 @@
 ← [[Revelation of John 3]] | [[Revelation of John 5]] →
 
-# Chapter 4
-
 1. After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, Come up here, and I will show you what must take place after this.
 2. At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne.
 3. And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald.

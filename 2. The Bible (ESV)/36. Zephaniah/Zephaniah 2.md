@@ -1,7 +1,5 @@
 ← [[Zephaniah 1]] | [[Zephaniah 3]] →
 
-# Chapter 2
-
 1. Gather together, yes, gather, O shameless nation,
 2. before the decree takes effect —before the day passes away like chaff — before there comes upon you the burning anger of the Lord, before there comes upon you the day of the anger of the Lord.
 3. Seek the Lord, all you humble of the land, who do his just commands; seek righteousness; seek humility; perhaps you may be hidden on the day of the anger of the Lord.

@@ -1,7 +1,5 @@
 ← [[Isaiah 59]] | [[Isaiah 61]] →
 
-# Chapter 60
-
 1. Arise, shine, for your light has come, and the glory of the Lord has risen upon you.
 2. For behold, darkness shall cover the earth, and thick darkness the peoples; but the Lord will arise upon you, and his glory will be seen upon you.
 3. And nations shall come to your light, and kings to the brightness of your rising.

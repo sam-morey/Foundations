@@ -1,7 +1,5 @@
 ← [[Jeremiah 37]] | [[Jeremiah 39]] →
 
-# Chapter 38
-
 1. Now Shephatiah the son of Mattan, Gedaliah the son of Pashhur, Jucal the son of Shelemiah, and Pashhur the son of Malchiah heard the words that Jeremiah was saying to all the people,
 2. Thus says the Lord : He who stays in this city shall die by the sword, by famine, and by pestilence, but he who goes out to the Chaldeans shall live. He shall have his life as a prize of war, and live.
 3. Thus says the Lord : This city shall surely be given into the hand of the army of the king of Babylon and be taken.

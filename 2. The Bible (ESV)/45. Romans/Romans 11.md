@@ -1,7 +1,5 @@
 ← [[Romans 10]] | [[Romans 12]] →
 
-# Chapter 11
-
 1. I ask, then, has God rejected his people? By no means! For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin.
 2. God has not rejected his people whom he foreknew. Do you not know what the Scripture says of Elijah, how he appeals to God against Israel?
 3. Lord, they have killed your prophets, they have demolished your altars, and I alone am left, and they seek my life.

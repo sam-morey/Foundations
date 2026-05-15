@@ -1,7 +1,5 @@
 ← [[I Samuel 6]] | [[I Samuel 8]] →
 
-# Chapter 7
-
 1. And the men of Kiriath-jearim came and took up the ark of the Lord and brought it to the house of Abinadab on the hill. And they consecrated his son Eleazar to have charge of the ark of the Lord.
 2. From the day that the ark was lodged at Kiriath-jearim, a long time passed, some twenty years, and all the house of Israel lamented after the Lord.
 3. And Samuel said to all the house of Israel, If you are returning to the Lord with all your heart, then put away the foreign gods and the Ashtaroth from among you and direct your heart to the Lord and serve him only, and he will deliver you out of the hand of the Philistines.

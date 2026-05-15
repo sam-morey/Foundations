@@ -1,7 +1,5 @@
 ← [[Revelation of John 8]] | [[Revelation of John 10]] →
 
-# Chapter 9
-
 1. And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit.
 2. He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft.
 3. Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth.

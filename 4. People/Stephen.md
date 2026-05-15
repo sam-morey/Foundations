@@ -1,5 +1,3 @@
-# Stephen
-
 **Testament:** New Testament
 **Era:** The Early Church
 **Appears In:** [[3. Overviews/44. Acts Overview|Acts]]

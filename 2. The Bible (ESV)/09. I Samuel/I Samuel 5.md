@@ -1,7 +1,5 @@
 ← [[I Samuel 4]] | [[I Samuel 6]] →
 
-# Chapter 5
-
 1. When the Philistines captured the ark of God, they brought it from Ebenezer to Ashdod.
 2. Then the Philistines took the ark of God and brought it into the house of Dagon and set it up beside Dagon.
 3. And when the people of Ashdod rose early the next day, behold, Dagon had fallen face downward on the ground before the ark of the Lord. So they took Dagon and put him back in his place.

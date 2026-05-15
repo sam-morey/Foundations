@@ -1,7 +1,5 @@
 ← [[Genesis 32]] | [[Genesis 34]] →
 
-# Chapter 33
-
 1. And Jacob lifted up his eyes and looked, and behold, Esau was coming, and four hundred men with him. So he divided the children among Leah and Rachel and the two female servants.
 2. And he put the servants with their children in front, then Leah with her children, and Rachel and Joseph last of all.
 3. He himself went on before them, bowing himself to the ground seven times, until he came near to his brother.

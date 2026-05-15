@@ -1,7 +1,5 @@
 ← [[Psalms 115]] | [[Psalms 117]] →
 
-# Chapter 116
-
 1. I Love the Lord I love the Lord, because he has heard my voice and my pleas for mercy.
 2. Because he inclined his ear to me, therefore I will call on him as long as I live.
 3. The snares of death encompassed me; the pangs of Sheol laid hold on me; I suffered distress and anguish.

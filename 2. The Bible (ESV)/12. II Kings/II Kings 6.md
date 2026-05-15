@@ -1,7 +1,5 @@
 ← [[II Kings 5]] | [[II Kings 7]] →
 
-# Chapter 6
-
 1. Now the sons of the prophets said to Elisha, See, the place where we dwell under your charge is too small for us.
 2. Let us go to the Jordan and each of us get there a log, and let us make a place for us to dwell there. And he answered, Go.
 3. Then one of them said, Be pleased to go with your servants. And he answered, I will go.

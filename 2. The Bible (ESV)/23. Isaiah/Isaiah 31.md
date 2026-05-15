@@ -1,7 +1,5 @@
 ← [[Isaiah 30]] | [[Isaiah 32]] →
 
-# Chapter 31
-
 1. Woe to those who go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the Lord!
 2. And yet he is wise and brings disaster; he does not call back his words, but will arise against the house of the evildoers and against the helpers of those who work iniquity.
 3. The Egyptians are man, and not God, and their horses are flesh, and not spirit. When the Lord stretches out his hand, the helper will stumble, and he who is helped will fall, and they will all perish together.

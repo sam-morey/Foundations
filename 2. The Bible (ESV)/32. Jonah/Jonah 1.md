@@ -1,7 +1,5 @@
 ← [[Obadiah 1]] | [[Jonah 2]] →
 
-# Chapter 1
-
 1. Now the word of the Lord came to Jonah the son of Amittai, saying,
 2. Arise, go to Nineveh, that great city, and call out against it, for their evil has come up before me.
 3. But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish. So he paid the fare and went down into it, to go with them to Tarshish, away from the presence of the Lord.

@@ -1,7 +1,5 @@
 ← [[Proverbs 31]] | [[Ecclesiastes 2]] →
 
-# Chapter 1
-
 1. The words of the Preacher, the son of David, king in Jerusalem.
 2. Vanity of vanities, says the Preacher, vanity of vanities! All is vanity.
 3. What does man gain by all the toil at which he toils under the sun?

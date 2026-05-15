@@ -1,7 +1,5 @@
 ← [[Judges 18]] | [[Judges 20]] →
 
-# Chapter 19
-
 1. In those days, when there was no king in Israel, a certain Levite was sojourning in the remote parts of the hill country of Ephraim, who took to himself a concubine from Bethlehem in Judah.
 2. And his concubine was unfaithful to him, and she went away from him to her father’s house at Bethlehem in Judah, and was there some four months.
 3. Then her husband arose and went after her, to speak kindly to her and bring her back. He had with him his servant and a couple of donkeys. And she brought him into her father’s house. And when the girl’s father saw him, he came with joy to meet him.

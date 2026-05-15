@@ -1,5 +1,3 @@
-# Daniel
-
 **Testament:** Old Testament
 **Era:** The Exile
 **Appears In:** [[3. Overviews/27. Daniel Overview|Daniel]]

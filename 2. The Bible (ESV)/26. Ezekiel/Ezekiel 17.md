@@ -1,7 +1,5 @@
 ← [[Ezekiel 16]] | [[Ezekiel 18]] →
 
-# Chapter 17
-
 1. The word of the Lord came to me:
 2. Son of man, propound a riddle, and speak a parable to the house of Israel;
 3. say, Thus says the Lord God : A great eagle with great wings and long pinions, rich in plumage of many colors, came to Lebanon and took the top of the cedar.

@@ -1,7 +1,5 @@
 ← [[Psalms 1]] | [[Psalms 3]] →
 
-# Chapter 2
-
 1. The Reign of the Lord ’s Anointed Why do the nations rage and the peoples plot in vain?
 2. The kings of the earth set themselves, and the rulers take counsel together, against the Lord and against his Anointed, saying,
 3. Let us burst their bonds apart and cast away their cords from us.

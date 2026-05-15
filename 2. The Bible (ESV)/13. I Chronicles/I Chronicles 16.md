@@ -1,7 +1,5 @@
 ← [[I Chronicles 15]] | [[I Chronicles 17]] →
 
-# Chapter 16
-
 1. And they brought in the ark of God and set it inside the tent that David had pitched for it, and they offered burnt offerings and peace offerings before God.
 2. And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord
 3. and distributed to all Israel, both men and women, to each a loaf of bread, a portion of meat, and a cake of raisins.

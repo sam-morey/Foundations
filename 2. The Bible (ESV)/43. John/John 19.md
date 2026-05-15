@@ -1,7 +1,5 @@
 ← [[John 18]] | [[John 20]] →
 
-# Chapter 19
-
 1. Then Pilate took Jesus and flogged him.
 2. And the soldiers twisted together a crown of thorns and put it on his head and arrayed him in a purple robe.
 3. They came up to him, saying, Hail, King of the Jews! and struck him with their hands.

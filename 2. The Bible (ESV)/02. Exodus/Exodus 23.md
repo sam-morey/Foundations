@@ -1,7 +1,5 @@
 ← [[Exodus 22]] | [[Exodus 24]] →
 
-# Chapter 23
-
 1. You shall not spread a false report. You shall not join hands with a wicked man to be a malicious witness.
 2. You shall not fall in with the many to do evil, nor shall you bear witness in a lawsuit, siding with the many, so as to pervert justice,
 3. nor shall you be partial to a poor man in his lawsuit.

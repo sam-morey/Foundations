@@ -1,7 +1,5 @@
 ← [[Genesis 4]] | [[Genesis 6]] →
 
-# Chapter 5
-
 1. This is the book of the generations of Adam. When God created man, he made him in the likeness of God.
 2. Male and female he created them, and he blessed them and named them Man when they were created.
 3. When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth.

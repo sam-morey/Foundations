@@ -1,7 +1,5 @@
 ← [[Numbers 35]] | [[Deuteronomy 1]] →
 
-# Chapter 36
-
 1. The heads of the fathers ’ houses of the clan of the people of Gilead the son of Machir, son of Manasseh, from the clans of the people of Joseph, came near and spoke before Moses and before the chiefs, the heads of the fathers ’ houses of the people of Israel.
 2. They said, The Lord commanded my lord to give the land for inheritance by lot to the people of Israel, and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters.
 3. But if they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry. So it will be taken away from the lot of our inheritance.

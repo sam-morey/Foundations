@@ -1,7 +1,5 @@
 ← [[Galatians 4]] | [[Galatians 6]] →
 
-# Chapter 5
-
 1. For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.
 2. Look : I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you.
 3. I testify again to every man who accepts circumcision that he is obligated to keep the whole law.

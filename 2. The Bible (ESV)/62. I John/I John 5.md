@@ -1,7 +1,5 @@
 ← [[I John 4]] | [[II John 1]] →
 
-# Chapter 5
-
 1. Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father loves whoever has been born of him.
 2. By this we know that we love the children of God, when we love God and obey his commandments.
 3. For this is the love of God, that we keep his commandments. And his commandments are not burdensome.

@@ -1,7 +1,5 @@
 ← [[Jeremiah 49]] | [[Jeremiah 51]] →
 
-# Chapter 50
-
 1. The word that the Lord spoke concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet :
 2. Declare among the nations and proclaim, set up a banner and proclaim, conceal it not, and say : Babylon is taken, Bel is put to shame, Merodach is dismayed. Her images are put to shame, her idols are dismayed.
 3. For out of the north a nation has come up against her, which shall make her land a desolation, and none shall dwell in it; both man and beast shall flee away.

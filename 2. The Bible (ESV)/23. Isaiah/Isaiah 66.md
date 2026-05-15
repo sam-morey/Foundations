@@ -1,7 +1,5 @@
 ← [[Isaiah 65]] | [[Jeremiah 1]] →
 
-# Chapter 66
-
 1. Thus says the Lord : Heaven is my throne, and the earth is my footstool; what is the house that you would build for me, and what is the place of my rest?
 2. All these things my hand has made, and so all these things came to be, declares the Lord. But this is the one to whom I will look : he who is humble and contrite in spirit and trembles at my word.
 3. He who slaughters an ox is like one who kills a man; he who sacrifices a lamb, like one who breaks a dog’s neck; he who presents a grain offering, like one who offers pig’s blood; he who makes a memorial offering of frankincense, like one who blesses an idol. These have chosen their own ways, and their soul delights in their abominations;

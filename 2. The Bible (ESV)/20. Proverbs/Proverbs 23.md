@@ -1,7 +1,5 @@
 ← [[Proverbs 22]] | [[Proverbs 24]] →
 
-# Chapter 23
-
 1. When you sit down to eat with a ruler, observe carefully what is before you,
 2. and put a knife to your throat if you are given to appetite.
 3. Do not desire his delicacies, for they are deceptive food.

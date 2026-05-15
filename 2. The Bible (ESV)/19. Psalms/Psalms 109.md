@@ -1,7 +1,5 @@
 ← [[Psalms 108]] | [[Psalms 110]] →
 
-# Chapter 109
-
 1. Help Me, O Lord My God To the choirmaster. A Psalm of David. Be not silent, O God of my praise!
 2. For wicked and deceitful mouths are opened against me, speaking against me with lying tongues.
 3. They encircle me with words of hate, and attack me without cause.

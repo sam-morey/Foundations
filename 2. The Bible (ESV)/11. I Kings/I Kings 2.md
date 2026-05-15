@@ -1,7 +1,5 @@
 ← [[I Kings 1]] | [[I Kings 3]] →
 
-# Chapter 2
-
 1. When David’s time to die drew near, he commanded Solomon his son, saying,
 2. I am about to go the way of all the earth. Be strong, and show yourself a man,
 3. and keep the charge of the Lord your God, walking in his ways and keeping his statutes, his commandments, his rules, and his testimonies, as it is written in the Law of Moses, that you may prosper in all that you do and wherever you turn,

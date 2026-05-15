@@ -1,7 +1,5 @@
 ← [[Proverbs 27]] | [[Proverbs 29]] →
 
-# Chapter 28
-
 1. The wicked flee when no one pursues, but the righteous are bold as a lion.
 2. When a land transgresses, it has many rulers, but with a man of understanding and knowledge, its stability will long continue.
 3. A poor man who oppresses the poor is a beating rain that leaves no food.

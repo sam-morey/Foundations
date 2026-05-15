@@ -1,7 +1,5 @@
 ← [[Luke 16]] | [[Luke 18]] →
 
-# Chapter 17
-
 1. And he said to his disciples, Temptations to sin are sure to come, but woe to the one through whom they come!
 2. It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to sin.
 3. Pay attention to yourselves! If your brother sins, rebuke him, and if he repents, forgive him,

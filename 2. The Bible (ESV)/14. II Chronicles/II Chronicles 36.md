@@ -1,7 +1,5 @@
 ← [[II Chronicles 35]] | [[Ezra 1]] →
 
-# Chapter 36
-
 1. The people of the land took Jehoahaz the son of Josiah and made him king in his father’s place in Jerusalem.
 2. Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem.
 3. Then the king of Egypt deposed him in Jerusalem and laid on the land a tribute of a hundred talents of silver and a talent of gold.

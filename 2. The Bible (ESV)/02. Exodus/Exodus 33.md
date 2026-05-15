@@ -1,7 +1,5 @@
 ← [[Exodus 32]] | [[Exodus 34]] →
 
-# Chapter 33
-
 1. The Lord said to Moses, Depart; go up from here, you and the people whom you have brought up out of the land of Egypt, to the land of which I swore to Abraham, Isaac, and Jacob, saying, To your offspring I will give it.
 2. I will send an angel before you, and I will drive out the Canaanites, the Amorites, the Hittites, the Perizzites, the Hivites, and the Jebusites.
 3. Go up to a land flowing with milk and honey; but I will not go up among you, lest I consume you on the way, for you are a stiff-necked people.

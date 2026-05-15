@@ -1,7 +1,5 @@
 ← [[II Timothy 2]] | [[II Timothy 4]] →
 
-# Chapter 3
-
 1. But understand this, that in the last days there will come times of difficulty.
 2. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,
 3. heartless, unappeasable, slanderous, without self-control, brutal, not loving good,

@@ -1,7 +1,5 @@
 ← [[Isaiah 4]] | [[Isaiah 6]] →
 
-# Chapter 5
-
 1. Let me sing for my beloved my love song concerning his vineyard : My beloved had a vineyard on a very fertile hill.
 2. He dug it and cleared it of stones, and planted it with choice vines; he built a watchtower in the midst of it, and hewed out a wine vat in it; and he looked for it to yield grapes, but it yielded wild grapes.
 3. And now, O inhabitants of Jerusalem and men of Judah, judge between me and my vineyard.

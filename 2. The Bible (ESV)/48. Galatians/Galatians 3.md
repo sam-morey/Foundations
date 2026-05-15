@@ -1,7 +1,5 @@
 ← [[Galatians 2]] | [[Galatians 4]] →
 
-# Chapter 3
-
 1. O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.
 2. Let me ask you only this : Did you receive the Spirit by works of the law or by hearing with faith?
 3. Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?

@@ -1,7 +1,5 @@
 ← [[Genesis 14]] | [[Genesis 16]] →
 
-# Chapter 15
-
 1. After these things the word of the Lord came to Abram in a vision : Fear not, Abram, I am your shield; your reward shall be very great.
 2. But Abram said, O Lord God, what will you give me, for I continue childless, and the heir of my house is Eliezer of Damascus?
 3. And Abram said, Behold, you have given me no offspring, and a member of my household will be my heir.

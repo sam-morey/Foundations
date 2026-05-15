@@ -1,7 +1,5 @@
 ← [[Isaiah 16]] | [[Isaiah 18]] →
 
-# Chapter 17
-
 1. An oracle concerning Damascus. Behold, Damascus will cease to be a city and will become a heap of ruins.
 2. The cities of Aroer are deserted; they will be for flocks, which will lie down, and none will make them afraid.
 3. The fortress will disappear from Ephraim, and the kingdom from Damascus; and the remnant of Syria will be like the glory of the children of Israel, declares the Lord of hosts.

@@ -1,7 +1,5 @@
 ← [[Hebrews 9]] | [[Hebrews 11]] →
 
-# Chapter 10
-
 1. For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near.
 2. Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins?
 3. But in these sacrifices there is a reminder of sins every year.

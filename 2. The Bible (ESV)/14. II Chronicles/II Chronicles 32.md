@@ -1,7 +1,5 @@
 ← [[II Chronicles 31]] | [[II Chronicles 33]] →
 
-# Chapter 32
-
 1. After these things and these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah and encamped against the fortified cities, thinking to win them for himself.
 2. And when Hezekiah saw that Sennacherib had come and intended to fight against Jerusalem,
 3. he planned with his officers and his mighty men to stop the water of the springs that were outside the city; and they helped him.

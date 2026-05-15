@@ -1,7 +1,5 @@
 ← [[II Chronicles 13]] | [[II Chronicles 15]] →
 
-# Chapter 14
-
 1. Abijah slept with his fathers, and they buried him in the city of David. And Asa his son reigned in his place. In his days the land had rest for ten years.
 2. And Asa did what was good and right in the eyes of the Lord his God.
 3. He took away the foreign altars and the high places and broke down the pillars and cut down the Asherim

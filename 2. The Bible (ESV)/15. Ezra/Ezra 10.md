@@ -1,7 +1,5 @@
 ← [[Ezra 9]] | [[Nehemiah 1]] →
 
-# Chapter 10
-
 1. While Ezra prayed and made confession, weeping and casting himself down before the house of God, a very great assembly of men, women, and children, gathered to him out of Israel, for the people wept bitterly.
 2. And Shecaniah the son of Jehiel, of the sons of Elam, addressed Ezra : We have broken faith with our God and have married foreign women from the peoples of the land, but even now there is hope for Israel in spite of this.
 3. Therefore let us make a covenant with our God to put away all these wives and their children, according to the counsel of my lord and of those who tremble at the commandment of our God, and let it be done according to the Law.

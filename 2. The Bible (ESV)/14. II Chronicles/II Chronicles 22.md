@@ -1,7 +1,5 @@
 ← [[II Chronicles 21]] | [[II Chronicles 23]] →
 
-# Chapter 22
-
 1. And the inhabitants of Jerusalem made Ahaziah, his youngest son, king in his place, for the band of men that came with the Arabians to the camp had killed all the older sons. So Ahaziah the son of Jehoram king of Judah reigned.
 2. Ahaziah was twenty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah, the granddaughter of Omri.
 3. He also walked in the ways of the house of Ahab, for his mother was his counselor in doing wickedly.

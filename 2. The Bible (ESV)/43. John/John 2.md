@@ -1,7 +1,5 @@
 ← [[John 1]] | [[John 3]] →
 
-# Chapter 2
-
 1. On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there.
 2. Jesus also was invited to the wedding with his disciples.
 3. When the wine ran out, the mother of Jesus said to him, They have no wine.

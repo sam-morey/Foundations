@@ -1,7 +1,5 @@
 ← [[Matthew 8]] | [[Matthew 10]] →
 
-# Chapter 9
-
 1. And getting into a boat he crossed over and came to his own city.
 2. And behold, some people brought to him a paralytic, lying on a bed. And when Jesus saw their faith, he said to the paralytic, Take heart, my son; your sins are forgiven.
 3. And behold, some of the scribes said to themselves, This man is blaspheming.

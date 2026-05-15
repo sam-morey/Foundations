@@ -1,7 +1,5 @@
 ← [[Ezekiel 21]] | [[Ezekiel 23]] →
 
-# Chapter 22
-
 1. And the word of the Lord came to me, saying,
 2. And you, son of man, will you judge, will you judge the bloody city? Then declare to her all her abominations.
 3. You shall say, Thus says the Lord God : A city that sheds blood in her midst, so that her time may come, and that makes idols to defile herself!

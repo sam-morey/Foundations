@@ -1,7 +1,5 @@
 ← [[I Timothy 1]] | [[I Timothy 3]] →
 
-# Chapter 2
-
 1. First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people,
 2. for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way.
 3. This is good, and it is pleasing in the sight of God our Savior,

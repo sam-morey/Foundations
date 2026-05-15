@@ -1,7 +1,5 @@
 ← [[Ezekiel 5]] | [[Ezekiel 7]] →
 
-# Chapter 6
-
 1. The word of the Lord came to me:
 2. Son of man, set your face toward the mountains of Israel, and prophesy against them,
 3. and say, You mountains of Israel, hear the word of the Lord God! Thus says the Lord God to the mountains and the hills, to the ravines and the valleys : Behold, I, even I, will bring a sword upon you, and I will destroy your high places.

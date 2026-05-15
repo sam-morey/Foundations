@@ -1,7 +1,5 @@
 ← [[Micah 1]] | [[Micah 3]] →
 
-# Chapter 2
-
 1. Woe to those who devise wickedness and work evil on their beds! When the morning dawns, they perform it, because it is in the power of their hand.
 2. They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance.
 3. Therefore thus says the Lord : behold, against this family I am devising disaster, from which you cannot remove your necks, and you shall not walk haughtily, for it will be a time of disaster.

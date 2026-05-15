@@ -1,7 +1,5 @@
 ← [[Ephesians 6]] | [[Philippians 2]] →
 
-# Chapter 1
-
 1. Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons :
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. I thank my God in all my remembrance of you,

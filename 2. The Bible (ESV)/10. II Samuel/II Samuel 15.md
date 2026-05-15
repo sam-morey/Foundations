@@ -1,7 +1,5 @@
 ← [[II Samuel 14]] | [[II Samuel 16]] →
 
-# Chapter 15
-
 1. After this Absalom got himself a chariot and horses, and fifty men to run before him.
 2. And Absalom used to rise early and stand beside the way of the gate. And when any man had a dispute to come before the king for judgment, Absalom would call to him and say, From what city are you? And when he said, Your servant is of such and such a tribe in Israel,
 3. Absalom would say to him, See, your claims are good and right, but there is no man designated by the king to hear you.

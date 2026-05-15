@@ -1,5 +1,3 @@
-# Suffering & Perseverance
-
 The Bible does not explain away suffering — it engages it honestly, with lament, anger, confusion, and ultimately hope. Perseverance is the response of faith to suffering: enduring not because suffering is easy but because God is trustworthy.
 
 ## Key Passages

@@ -1,7 +1,5 @@
 ← [[Joel 1]] | [[Joel 3]] →
 
-# Chapter 2
-
 1. Blow a trumpet in Zion; sound an alarm on my holy mountain! Let all the inhabitants of the land tremble, for the day of the Lord is coming; it is near,
 2. a day of darkness and gloom, a day of clouds and thick darkness! Like blackness there is spread upon the mountains a great and powerful people; their like has never been before, nor will be again after them through the years of all generations.
 3. Fire devours before them, and behind them a flame burns. The land is like the garden of Eden before them, but behind them a desolate wilderness, and nothing escapes them.

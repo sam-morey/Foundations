@@ -1,5 +1,3 @@
-# Noah
-
 **Testament:** Old Testament
 **Era:** Primeval History
 **Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]

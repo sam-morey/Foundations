@@ -1,7 +1,5 @@
 ← [[Psalms 145]] | [[Psalms 147]] →
 
-# Chapter 146
-
 1. Put Not Your Trust in Princes Praise the Lord! Praise the Lord, O my soul!
 2. I will praise the Lord as long as I live; I will sing praises to my God while I have my being.
 3. Put not your trust in princes, in a son of man, in whom there is no salvation.

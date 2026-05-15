@@ -1,7 +1,5 @@
 ← [[I John 2]] | [[I John 4]] →
 
-# Chapter 3
-
 1. See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.
 2. Beloved, we are God’s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
 3. And everyone who thus hopes in him purifies himself as he is pure.

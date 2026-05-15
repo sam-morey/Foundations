@@ -1,7 +1,5 @@
 ← [[Exodus 9]] | [[Exodus 11]] →
 
-# Chapter 10
-
 1. Then the Lord said to Moses, Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these signs of mine among them,
 2. and that you may tell in the hearing of your son and of your grandson how I have dealt harshly with the Egyptians and what signs I have done among them, that you may know that I am the Lord.
 3. So Moses and Aaron went in to Pharaoh and said to him, Thus says the Lord, the God of the Hebrews, How long will you refuse to humble yourself before me? Let my people go, that they may serve me.

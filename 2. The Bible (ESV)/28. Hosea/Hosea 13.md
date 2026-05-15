@@ -1,7 +1,5 @@
 ← [[Hosea 12]] | [[Hosea 14]] →
 
-# Chapter 13
-
 1. When Ephraim spoke, there was trembling; he was exalted in Israel, but he incurred guilt through Baal and died.
 2. And now they sin more and more, and make for themselves metal images, idols skillfully made of their silver, all of them the work of craftsmen. It is said of them, Those who offer human sacrifice kiss calves!
 3. Therefore they shall be like the morning mist or like the dew that goes early away, like the chaff that swirls from the threshing floor or like smoke from a window.

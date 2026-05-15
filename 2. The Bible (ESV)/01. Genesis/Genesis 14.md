@@ -1,7 +1,5 @@
 ← [[Genesis 13]] | [[Genesis 15]] →
 
-# Chapter 14
-
 1. In the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,
 2. these kings made war with Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar ).
 3. And all these joined forces in the Valley of Siddim ( that is, the Salt Sea ).

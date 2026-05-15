@@ -1,7 +1,5 @@
 ← [[Numbers 27]] | [[Numbers 29]] →
 
-# Chapter 28
-
 1. The Lord spoke to Moses, saying,
 2. Command the people of Israel and say to them, My offering, my food for my food offerings, my pleasing aroma, you shall be careful to offer to me at its appointed time.
 3. And you shall say to them, This is the food offering that you shall offer to the Lord : two male lambs a year old without blemish, day by day, as a regular offering.

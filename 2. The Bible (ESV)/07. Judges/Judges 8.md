@@ -1,7 +1,5 @@
 ← [[Judges 7]] | [[Judges 9]] →
 
-# Chapter 8
-
 1. Then the men of Ephraim said to him, What is this that you have done to us, not to call us when you went to fight against Midian? And they accused him fiercely.
 2. And he said to them, What have I done now in comparison with you? Is not the gleaning of the grapes of Ephraim better than the grape harvest of Abiezer?
 3. God has given into your hands the princes of Midian, Oreb and Zeeb. What have I been able to do in comparison with you? Then their anger against him subsided when he said this.

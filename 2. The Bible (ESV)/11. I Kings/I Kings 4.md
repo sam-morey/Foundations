@@ -1,7 +1,5 @@
 ← [[I Kings 3]] | [[I Kings 5]] →
 
-# Chapter 4
-
 1. King Solomon was king over all Israel,
 2. and these were his high officials : Azariah the son of Zadok was the priest;
 3. Elihoreph and Ahijah the sons of Shisha were secretaries; Jehoshaphat the son of Ahilud was recorder;

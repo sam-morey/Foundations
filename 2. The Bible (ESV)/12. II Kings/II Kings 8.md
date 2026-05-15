@@ -1,7 +1,5 @@
 ← [[II Kings 7]] | [[II Kings 9]] →
 
-# Chapter 8
-
 1. Now Elisha had said to the woman whose son he had restored to life, Arise, and depart with your household, and sojourn wherever you can, for the Lord has called for a famine, and it will come upon the land for seven years.
 2. So the woman arose and did according to the word of the man of God. She went with her household and sojourned in the land of the Philistines seven years.
 3. And at the end of the seven years, when the woman returned from the land of the Philistines, she went to appeal to the king for her house and her land.

@@ -1,7 +1,5 @@
 ← [[Job 36]] | [[Job 38]] →
 
-# Chapter 37
-
 1. At this also my heart trembles and leaps out of its place.
 2. Keep listening to the thunder of his voice and the rumbling that comes from his mouth.
 3. Under the whole heaven he lets it go, and his lightning to the corners of the earth.

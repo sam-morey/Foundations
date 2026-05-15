@@ -1,7 +1,5 @@
 ← [[II Samuel 17]] | [[II Samuel 19]] →
 
-# Chapter 18
-
 1. Then David mustered the men who were with him and set over them commanders of thousands and commanders of hundreds.
 2. And David sent out the army, one third under the command of Joab, one third under the command of Abishai the son of Zeruiah, Joab’s brother, and one third under the command of Ittai the Gittite. And the king said to the men, I myself will also go out with you.
 3. But the men said, You shall not go out. For if we flee, they will not care about us. If half of us die, they will not care about us. But you are worth ten thousand of us. Therefore it is better that you send us help from the city.

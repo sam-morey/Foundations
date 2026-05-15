@@ -1,7 +1,5 @@
 ← [[II Kings 14]] | [[II Kings 16]] →
 
-# Chapter 15
-
 1. In the twenty-seventh year of Jeroboam king of Israel, Azariah the son of Amaziah, king of Judah, began to reign.
 2. He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem.
 3. And he did what was right in the eyes of the Lord, according to all that his father Amaziah had done.

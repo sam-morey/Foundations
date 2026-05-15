@@ -1,7 +1,5 @@
 ← [[Hosea 5]] | [[Hosea 7]] →
 
-# Chapter 6
-
 1. Come, let us return to the Lord; for he has torn us, that he may heal us; he has struck us down, and he will bind us up.
 2. After two days he will revive us; on the third day he will raise us up, that we may live before him.
 3. Let us know; let us press on to know the Lord; his going out is sure as the dawn; he will come to us as the showers, as the spring rains that water the earth.

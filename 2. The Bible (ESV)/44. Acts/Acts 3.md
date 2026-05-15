@@ -1,7 +1,5 @@
 ← [[Acts 2]] | [[Acts 4]] →
 
-# Chapter 3
-
 1. Now Peter and John were going up to the temple at the hour of prayer, the ninth hour.
 2. And a man lame from birth was being carried, whom they laid daily at the gate of the temple that is called the Beautiful Gate to ask alms of those entering the temple.
 3. Seeing Peter and John about to go into the temple, he asked to receive alms.

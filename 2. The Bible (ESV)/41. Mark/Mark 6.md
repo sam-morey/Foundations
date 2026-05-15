@@ -1,7 +1,5 @@
 ← [[Mark 5]] | [[Mark 7]] →
 
-# Chapter 6
-
 1. He went away from there and came to his hometown, and his disciples followed him.
 2. And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands?
 3. Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us? And they took offense at him.

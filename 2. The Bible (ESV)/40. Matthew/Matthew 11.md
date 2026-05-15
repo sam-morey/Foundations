@@ -1,7 +1,5 @@
 ← [[Matthew 10]] | [[Matthew 12]] →
 
-# Chapter 11
-
 1. When Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in their cities.
 2. Now when John heard in prison about the deeds of the Christ, he sent word by his disciples
 3. and said to him, Are you the one who is to come, or shall we look for another?

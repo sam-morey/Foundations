@@ -1,7 +1,5 @@
 ← [[II Chronicles 36]] | [[Ezra 2]] →
 
-# Chapter 1
-
 1. In the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom and also put it in writing :
 2. Thus says Cyrus king of Persia : The Lord, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah.
 3. Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the Lord, the God of Israel — he is the God who is in Jerusalem.

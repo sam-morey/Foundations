@@ -1,7 +1,5 @@
 ← [[Jeremiah 36]] | [[Jeremiah 38]] →
 
-# Chapter 37
-
 1. Zedekiah the son of Josiah, whom Nebuchadnezzar king of Babylon made king in the land of Judah, reigned instead of Coniah the son of Jehoiakim.
 2. But neither he nor his servants nor the people of the land listened to the words of the Lord that he spoke through Jeremiah the prophet.
 3. King Zedekiah sent Jehucal the son of Shelemiah, and Zephaniah the priest, the son of Maaseiah, to Jeremiah the prophet, saying, Please pray for us to the Lord our God.

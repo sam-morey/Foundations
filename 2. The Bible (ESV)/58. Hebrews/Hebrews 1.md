@@ -1,7 +1,5 @@
 ← [[Philemon 1]] | [[Hebrews 2]] →
 
-# Chapter 1
-
 1. Long ago, at many times and in many ways, God spoke to our fathers by the prophets,
 2. but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 3. He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,

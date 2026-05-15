@@ -1,7 +1,5 @@
 ← [[I Samuel 24]] | [[I Samuel 26]] →
 
-# Chapter 25
-
 1. Now Samuel died. And all Israel assembled and mourned for him, and they buried him in his house at Ramah. Then David rose and went down to the wilderness of Paran.
 2. And there was a man in Maon whose business was in Carmel. The man was very rich; he had three thousand sheep and a thousand goats. He was shearing his sheep in Carmel.
 3. Now the name of the man was Nabal, and the name of his wife Abigail. The woman was discerning and beautiful, but the man was harsh and badly behaved; he was a Calebite.

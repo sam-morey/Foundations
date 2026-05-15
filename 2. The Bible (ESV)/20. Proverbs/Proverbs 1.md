@@ -1,7 +1,5 @@
 ← [[Psalms 150]] | [[Proverbs 2]] →
 
-# Chapter 1
-
 1. The proverbs of Solomon, son of David, king of Israel :
 2. To know wisdom and instruction, to understand words of insight,
 3. to receive instruction in wise dealing, in righteousness, justice, and equity;

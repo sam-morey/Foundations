@@ -1,7 +1,5 @@
 ← [[Haggai 1]] | [[Zechariah 1]] →
 
-# Chapter 2
-
 1. In the seventh month, on the twenty-first day of the month, the word of the Lord came by the hand of Haggai the prophet,
 2. Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to all the remnant of the people, and say,
 3. Who is left among you who saw this house in its former glory? How do you see it now? Is it not as nothing in your eyes?

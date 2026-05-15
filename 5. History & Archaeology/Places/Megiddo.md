@@ -1,5 +1,3 @@
-# Megiddo
-
 **Location:** Tel Megiddo, Jezreel Valley, northern Israel — on the southeastern spur of the Carmel ridge, approximately 35 km southeast of Haifa; modern moshav Megido nearby; 32.5853° N, 35.1836° E
 **Testament:** Both
 **Key Themes:** [[Warfare and Battle]] · [[Kingdom of Israel]] · [[Prophecy and Fulfillment]] · [[Judgment]]

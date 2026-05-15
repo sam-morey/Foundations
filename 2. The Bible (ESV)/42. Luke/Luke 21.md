@@ -1,7 +1,5 @@
 ← [[Luke 20]] | [[Luke 22]] →
 
-# Chapter 21
-
 1. Jesus looked up and saw the rich putting their gifts into the offering box,
 2. and he saw a poor widow put in two small copper coins.
 3. And he said, Truly, I tell you, this poor widow has put in more than all of them.

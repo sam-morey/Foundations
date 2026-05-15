@@ -1,7 +1,5 @@
 ← [[Romans 2]] | [[Romans 4]] →
 
-# Chapter 3
-
 1. Then what advantage has the Jew? Or what is the value of circumcision?
 2. Much in every way. To begin with, the Jews were entrusted with the oracles of God.
 3. What if some were unfaithful? Does their faithlessness nullify the faithfulness of God?

@@ -1,7 +1,5 @@
 ← [[Leviticus 12]] | [[Leviticus 14]] →
 
-# Chapter 13
-
 1. The Lord spoke to Moses and Aaron, saying,
 2. When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into a case of leprous disease on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests,
 3. and the priest shall examine the diseased area on the skin of his body. And if the hair in the diseased area has turned white and the disease appears to be deeper than the skin of his body, it is a case of leprous disease. When the priest has examined him, he shall pronounce him unclean.

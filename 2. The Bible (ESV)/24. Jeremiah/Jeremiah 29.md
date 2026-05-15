@@ -1,7 +1,5 @@
 ← [[Jeremiah 28]] | [[Jeremiah 30]] →
 
-# Chapter 29
-
 1. These are the words of the letter that Jeremiah the prophet sent from Jerusalem to the surviving elders of the exiles, and to the priests, the prophets, and all the people, whom Nebuchadnezzar had taken into exile from Jerusalem to Babylon.
 2. This was after King Jeconiah and the queen mother, the eunuchs, the officials of Judah and Jerusalem, the craftsmen, and the metal workers had departed from Jerusalem.
 3. The letter was sent by the hand of Elasah the son of Shaphan and Gemariah the son of Hilkiah, whom Zedekiah king of Judah sent to Babylon to Nebuchadnezzar king of Babylon. It said :

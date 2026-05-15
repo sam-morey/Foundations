@@ -1,7 +1,5 @@
 ← [[Deuteronomy 11]] | [[Deuteronomy 13]] →
 
-# Chapter 12
-
 1. These are the statutes and rules that you shall be careful to do in the land that the Lord, the God of your fathers, has given you to possess, all the days that you live on the earth.
 2. You shall surely destroy all the places where the nations whom you shall dispossess served their gods, on the high mountains and on the hills and under every green tree.
 3. You shall tear down their altars and dash in pieces their pillars and burn their Asherim with fire. You shall chop down the carved images of their gods and destroy their name out of that place.

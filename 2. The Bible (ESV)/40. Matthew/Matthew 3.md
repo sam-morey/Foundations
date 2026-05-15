@@ -1,7 +1,5 @@
 ← [[Matthew 2]] | [[Matthew 4]] →
 
-# Chapter 3
-
 1. In those days John the Baptist came preaching in the wilderness of Judea,
 2. Repent, for the kingdom of heaven is at hand.
 3. For this is he who was spoken of by the prophet Isaiah when he said, The voice of one crying in the wilderness : Prepare the way of the Lord; make his paths straight.

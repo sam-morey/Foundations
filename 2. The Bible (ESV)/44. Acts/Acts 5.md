@@ -1,7 +1,5 @@
 ← [[Acts 4]] | [[Acts 6]] →
 
-# Chapter 5
-
 1. But a man named Ananias, with his wife Sapphira, sold a piece of property,
 2. and with his wife’s knowledge he kept back for himself some of the proceeds and brought only a part of it and laid it at the apostles ’ feet.
 3. But Peter said, Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back for yourself part of the proceeds of the land?

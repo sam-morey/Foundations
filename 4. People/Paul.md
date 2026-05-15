@@ -1,5 +1,3 @@
-# Paul
-
 **Testament:** New Testament
 **Era:** The Early Church
 **Appears In:** [[3. Overviews/44. Acts Overview|Acts]], [[3. Overviews/45. Romans Overview|Romans]], [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters]]

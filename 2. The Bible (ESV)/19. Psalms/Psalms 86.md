@@ -1,7 +1,5 @@
 ← [[Psalms 85]] | [[Psalms 87]] →
 
-# Chapter 86
-
 1. Great Is Your Steadfast Love A Prayer of David. Incline your ear, O Lord, and answer me, for I am poor and needy.
 2. Preserve my life, for I am godly; save your servant, who trusts in you—you are my God.
 3. Be gracious to me, O Lord, for to you do I cry all the day.

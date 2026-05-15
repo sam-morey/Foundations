@@ -1,7 +1,5 @@
 ← [[Revelation of John 5]] | [[Revelation of John 7]] →
 
-# Chapter 6
-
 1. Now I watched when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, Come!
 2. And I looked, and behold, a white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer.
 3. When he opened the second seal, I heard the second living creature say, Come!

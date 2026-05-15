@@ -1,7 +1,5 @@
 ← [[Job 20]] | [[Job 22]] →
 
-# Chapter 21
-
 1. Then Job answered and said :
 2. Keep listening to my words, and let this be your comfort.
 3. Bear with me, and I will speak, and after I have spoken, mock on.

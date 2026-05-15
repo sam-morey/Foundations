@@ -1,7 +1,5 @@
 ← [[Jeremiah 21]] | [[Jeremiah 23]] →
 
-# Chapter 22
-
 1. Thus says the Lord : Go down to the house of the king of Judah and speak there this word,
 2. and say, Hear the word of the Lord, O king of Judah, who sits on the throne of David, you, and your servants, and your people who enter these gates.
 3. Thus says the Lord : Do justice and righteousness, and deliver from the hand of the oppressor him who has been robbed. And do no wrong or violence to the resident alien, the fatherless, and the widow, nor shed innocent blood in this place.

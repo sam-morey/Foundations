@@ -1,5 +1,3 @@
-# Messiah & Christ
-
 *Messiah* (Hebrew) and *Christ* (Greek) both mean "Anointed One." The OT builds a detailed portrait of a coming king, priest, and prophet — and the NT proclaims that Jesus of Nazareth is that person.
 
 ## Old Testament Prophecies & Anticipations

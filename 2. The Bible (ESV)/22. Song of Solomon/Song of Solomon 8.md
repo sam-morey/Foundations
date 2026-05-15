@@ -1,7 +1,5 @@
 ← [[Song of Solomon 7]] | [[Isaiah 1]] →
 
-# Chapter 8
-
 1. Oh that you were like a brother to me who nursed at my mother’s breasts! If I found you outside, I would kiss you, and none would despise me.
 2. I would lead you and bring you into the house of my mother — she who used to teach me. I would give you spiced wine to drink, the juice of my pomegranate.
 3. His left hand is under my head, and his right hand embraces me!

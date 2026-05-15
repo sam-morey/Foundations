@@ -1,5 +1,3 @@
-# Mordecai
-
 **Testament:** Old Testament
 **Era:** The Return
 **Appears In:** [[3. Overviews/17. Esther Overview|Esther]]

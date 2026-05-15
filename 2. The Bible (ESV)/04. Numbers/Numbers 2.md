@@ -1,7 +1,5 @@
 ← [[Numbers 1]] | [[Numbers 3]] →
 
-# Chapter 2
-
 1. The Lord spoke to Moses and Aaron, saying,
 2. The people of Israel shall camp each by his own standard, with the banners of their fathers ’ houses. They shall camp facing the tent of meeting on every side.
 3. Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the chief of the people of Judah being Nahshon the son of Amminadab,

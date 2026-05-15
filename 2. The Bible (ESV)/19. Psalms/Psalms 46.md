@@ -1,7 +1,5 @@
 ← [[Psalms 45]] | [[Psalms 47]] →
 
-# Chapter 46
-
 1. God Is Our Fortress To the choirmaster. Of the Sons of Korah. According to Alamoth. A Song. God is our refuge and strength, a very present help in trouble.
 2. Therefore we will not fear though the earth gives way, though the mountains be moved into the heart of the sea,
 3. though its waters roar and foam, though the mountains tremble at its swelling.

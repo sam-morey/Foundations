@@ -1,7 +1,5 @@
 ← [[Genesis 39]] | [[Genesis 41]] →
 
-# Chapter 40
-
 1. Some time after this, the cupbearer of the king of Egypt and his baker committed an offense against their lord the king of Egypt.
 2. And Pharaoh was angry with his two officers, the chief cupbearer and the chief baker,
 3. and he put them in custody in the house of the captain of the guard, in the prison where Joseph was confined.

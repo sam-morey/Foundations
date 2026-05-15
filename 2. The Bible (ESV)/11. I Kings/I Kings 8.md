@@ -1,7 +1,5 @@
 ← [[I Kings 7]] | [[I Kings 9]] →
 
-# Chapter 8
-
 1. Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers ’ houses of the people of Israel, before King Solomon in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
 2. And all the men of Israel assembled to King Solomon at the feast in the month Ethanim, which is the seventh month.
 3. And all the elders of Israel came, and the priests took up the ark.

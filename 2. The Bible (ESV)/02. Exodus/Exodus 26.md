@@ -1,7 +1,5 @@
 ← [[Exodus 25]] | [[Exodus 27]] →
 
-# Chapter 26
-
 1. Moreover, you shall make the tabernacle with ten curtains of fine twined linen and blue and purple and scarlet yarns; you shall make them with cherubim skillfully worked into them.
 2. The length of each curtain shall be twenty-eight cubits, and the breadth of each curtain four cubits; all the curtains shall be the same size.
 3. Five curtains shall be coupled to one another, and the other five curtains shall be coupled to one another.

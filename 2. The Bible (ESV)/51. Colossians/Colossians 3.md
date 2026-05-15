@@ -1,7 +1,5 @@
 ← [[Colossians 2]] | [[Colossians 4]] →
 
-# Chapter 3
-
 1. If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God.
 2. Set your minds on things that are above, not on things that are on earth.
 3. For you have died, and your life is hidden with Christ in God.

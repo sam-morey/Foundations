@@ -1,7 +1,5 @@
 ← [[Hosea 13]] | [[Joel 1]] →
 
-# Chapter 14
-
 1. Return, O Israel, to the Lord your God, for you have stumbled because of your iniquity.
 2. Take with you words and return to the Lord; say to him, Take away all iniquity; accept what is good, and we will pay with bulls the vows of our lips.
 3. Assyria shall not save us; we will not ride on horses; and we will say no more, Our God, to the work of our hands. In you the orphan finds mercy.

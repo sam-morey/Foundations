@@ -1,7 +1,5 @@
 ← [[Luke 22]] | [[Luke 24]] →
 
-# Chapter 23
-
 1. Then the whole company of them arose and brought him before Pilate.
 2. And they began to accuse him, saying, We found this man misleading our nation and forbidding us to give tribute to Caesar, and saying that he himself is Christ, a king.
 3. And Pilate asked him, Are you the King of the Jews? And he answered him, You have said so.

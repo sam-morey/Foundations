@@ -1,7 +1,5 @@
 ← [[II Chronicles 26]] | [[II Chronicles 28]] →
 
-# Chapter 27
-
 1. Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok.
 2. And he did what was right in the eyes of the Lord according to all that his father Uzziah had done, except he did not enter the temple of the Lord. But the people still followed corrupt practices.
 3. He built the upper gate of the house of the Lord and did much building on the wall of Ophel.

@@ -1,7 +1,5 @@
 ← [[Ezra 3]] | [[Ezra 5]] →
 
-# Chapter 4
-
 1. Now when the adversaries of Judah and Benjamin heard that the returned exiles were building a temple to the Lord, the God of Israel,
 2. they approached Zerubbabel and the heads of fathers ’ houses and said to them, Let us build with you, for we worship your God as you do, and we have been sacrificing to him ever since the days of Esarhaddon king of Assyria who brought us here.
 3. But Zerubbabel, Jeshua, and the rest of the heads of fathers ’ houses in Israel said to them, You have nothing to do with us in building a house to our God; but we alone will build to the Lord, the God of Israel, as King Cyrus the king of Persia has commanded us.

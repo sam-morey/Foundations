@@ -1,7 +1,5 @@
 ← [[Exodus 17]] | [[Exodus 19]] →
 
-# Chapter 18
-
 1. Jethro, the priest of Midian, Moses ’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the Lord had brought Israel out of Egypt.
 2. Now Jethro, Moses ’ father-in-law, had taken Zipporah, Moses ’ wife, after he had sent her home,
 3. along with her two sons. The name of the one was Gershom ( for he said, I have been a sojourner in a foreign land ),

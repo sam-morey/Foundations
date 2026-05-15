@@ -1,7 +1,5 @@
 ← [[Isaiah 34]] | [[Isaiah 36]] →
 
-# Chapter 35
-
 1. The wilderness and the dry land shall be glad; the desert shall rejoice and blossom like the crocus;
 2. it shall blossom abundantly and rejoice with joy and singing. The glory of Lebanon shall be given to it, the majesty of Carmel and Sharon. They shall see the glory of the Lord, the majesty of our God.
 3. Strengthen the weak hands, and make firm the feeble knees.

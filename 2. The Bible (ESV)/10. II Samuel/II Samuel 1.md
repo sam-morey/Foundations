@@ -1,7 +1,5 @@
 ← [[I Samuel 31]] | [[II Samuel 2]] →
 
-# Chapter 1
-
 1. After the death of Saul, when David had returned from striking down the Amalekites, David remained two days in Ziklag.
 2. And on the third day, behold, a man came from Saul’s camp, with his clothes torn and dirt on his head. And when he came to David, he fell to the ground and paid homage.
 3. David said to him, Where do you come from? And he said to him, I have escaped from the camp of Israel.

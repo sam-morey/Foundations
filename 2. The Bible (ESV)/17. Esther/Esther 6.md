@@ -1,7 +1,5 @@
 ← [[Esther 5]] | [[Esther 7]] →
 
-# Chapter 6
-
 1. On that night the king could not sleep. And he gave orders to bring the book of memorable deeds, the chronicles, and they were read before the king.
 2. And it was found written how Mordecai had told about Bigthana and Teresh, two of the king’s eunuchs, who guarded the threshold, and who had sought to lay hands on King Ahasuerus.
 3. And the king said, What honor or distinction has been bestowed on Mordecai for this? The king’s young men who attended him said, Nothing has been done for him.

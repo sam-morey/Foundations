@@ -1,7 +1,5 @@
 ← [[Ezekiel 1]] | [[Ezekiel 3]] →
 
-# Chapter 2
-
 1. And he said to me, Son of man, stand on your feet, and I will speak with you.
 2. And as he spoke to me, the Spirit entered into me and set me on my feet, and I heard him speaking to me.
 3. And he said to me, Son of man, I send you to the people of Israel, to nations of rebels, who have rebelled against me. They and their fathers have transgressed against me to this very day.

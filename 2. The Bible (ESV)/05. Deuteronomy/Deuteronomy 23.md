@@ -1,7 +1,5 @@
 ← [[Deuteronomy 22]] | [[Deuteronomy 24]] →
 
-# Chapter 23
-
 1. No one whose testicles are crushed or whose male organ is cut off shall enter the assembly of the Lord.
 2. No one born of a forbidden union may enter the assembly of the Lord. Even to the tenth generation, none of his descendants may enter the assembly of the Lord.
 3. No Ammonite or Moabite may enter the assembly of the Lord. Even to the tenth generation, none of them may enter the assembly of the Lord forever,

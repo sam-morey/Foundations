@@ -1,7 +1,5 @@
 ← [[Ezekiel 28]] | [[Ezekiel 30]] →
 
-# Chapter 29
-
 1. In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me:
 2. Son of man, set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt;
 3. speak, and say, Thus says the Lord God : Behold, I am against you, Pharaoh king of Egypt, the great dragon that lies in the midst of his streams, that says, My Nile is my own; I made it for myself.

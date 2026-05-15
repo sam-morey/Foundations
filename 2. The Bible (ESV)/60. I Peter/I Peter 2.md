@@ -1,7 +1,5 @@
 ← [[I Peter 1]] | [[I Peter 3]] →
 
-# Chapter 2
-
 1. So put away all malice and all deceit and hypocrisy and envy and all slander.
 2. Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation—
 3. if indeed you have tasted that the Lord is good.

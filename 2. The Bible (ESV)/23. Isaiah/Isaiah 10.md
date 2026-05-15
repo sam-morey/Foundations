@@ -1,7 +1,5 @@
 ← [[Isaiah 9]] | [[Isaiah 11]] →
 
-# Chapter 10
-
 1. Woe to those who decree iniquitous decrees, and the writers who keep writing oppression,
 2. to turn aside the needy from justice and to rob the poor of my people of their right, that widows may be their spoil, and that they may make the fatherless their prey!
 3. What will you do on the day of punishment, in the ruin that will come from afar? To whom will you flee for help, and where will you leave your wealth?

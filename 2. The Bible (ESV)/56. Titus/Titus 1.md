@@ -1,7 +1,5 @@
 ← [[II Timothy 4]] | [[Titus 2]] →
 
-# Chapter 1
-
 1. Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness,
 2. in hope of eternal life, which God, who never lies, promised before the ages began
 3. and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior;

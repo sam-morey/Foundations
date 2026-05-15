@@ -1,7 +1,5 @@
 ← [[Galatians 1]] | [[Galatians 3]] →
 
-# Chapter 2
-
 1. Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me.
 2. I went up because of a revelation and set before them ( though privately before those who seemed influential ) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain.
 3. But even Titus, who was with me, was not forced to be circumcised, though he was a Greek.

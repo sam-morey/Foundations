@@ -1,7 +1,5 @@
 ← [[John 4]] | [[John 6]] →
 
-# Chapter 5
-
 1. After this there was a feast of the Jews, and Jesus went up to Jerusalem.
 2. Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades.
 3. In these lay a multitude of invalids — blind, lame, and paralyzed.

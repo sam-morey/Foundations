@@ -1,7 +1,5 @@
 ← [[Daniel 3]] | [[Daniel 5]] →
 
-# Chapter 4
-
 1. King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth : Peace be multiplied to you!
 2. It has seemed good to me to show the signs and wonders that the Most High God has done for me.
 3. How great are his signs, how mighty his wonders! His kingdom is an everlasting kingdom, and his dominion endures from generation to generation.

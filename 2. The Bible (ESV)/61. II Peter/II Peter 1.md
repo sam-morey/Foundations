@@ -1,7 +1,5 @@
 ← [[I Peter 5]] | [[II Peter 2]] →
 
-# Chapter 1
-
 1. Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ :
 2. May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.
 3. His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence,

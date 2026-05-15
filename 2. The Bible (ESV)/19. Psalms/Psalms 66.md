@@ -1,7 +1,5 @@
 ← [[Psalms 65]] | [[Psalms 67]] →
 
-# Chapter 66
-
 1. How Awesome Are Your Deeds To the choirmaster. A Song. A Psalm. Shout for joy to God, all the earth;
 2. sing the glory of his name; give to him glorious praise!
 3. Say to God, How awesome are your deeds! So great is your power that your enemies come cringing to you.

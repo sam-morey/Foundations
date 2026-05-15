@@ -1,7 +1,5 @@
 ← [[Romans 5]] | [[Romans 7]] →
 
-# Chapter 6
-
 1. What shall we say then? Are we to continue in sin that grace may abound?
 2. By no means! How can we who died to sin still live in it?
 3. Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?

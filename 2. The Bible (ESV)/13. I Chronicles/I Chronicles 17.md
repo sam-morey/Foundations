@@ -1,7 +1,5 @@
 ← [[I Chronicles 16]] | [[I Chronicles 18]] →
 
-# Chapter 17
-
 1. Now when David lived in his house, David said to Nathan the prophet, Behold, I dwell in a house of cedar, but the ark of the covenant of the Lord is under a tent.
 2. And Nathan said to David, Do all that is in your heart, for God is with you.
 3. But that same night the word of the Lord came to Nathan,

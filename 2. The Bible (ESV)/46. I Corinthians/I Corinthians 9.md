@@ -1,7 +1,5 @@
 ← [[I Corinthians 8]] | [[I Corinthians 10]] →
 
-# Chapter 9
-
 1. Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are not you my workmanship in the Lord?
 2. If to others I am not an apostle, at least I am to you, for you are the seal of my apostleship in the Lord.
 3. This is my defense to those who would examine me.

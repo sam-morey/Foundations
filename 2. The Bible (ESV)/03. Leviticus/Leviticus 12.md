@@ -1,7 +1,5 @@
 ← [[Leviticus 11]] | [[Leviticus 13]] →
 
-# Chapter 12
-
 1. The Lord spoke to Moses, saying,
 2. Speak to the people of Israel, saying, If a woman conceives and bears a male child, then she shall be unclean seven days. As at the time of her menstruation, she shall be unclean.
 3. And on the eighth day the flesh of his foreskin shall be circumcised.

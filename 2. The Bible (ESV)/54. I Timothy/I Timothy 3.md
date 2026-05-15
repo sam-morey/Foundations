@@ -1,7 +1,5 @@
 ← [[I Timothy 2]] | [[I Timothy 4]] →
 
-# Chapter 3
-
 1. The saying is trustworthy : If anyone aspires to the office of overseer, he desires a noble task.
 2. Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach,
 3. not a drunkard, not violent but gentle, not quarrelsome, not a lover of money.

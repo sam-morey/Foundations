@@ -1,7 +1,5 @@
 ← [[John 9]] | [[John 11]] →
 
-# Chapter 10
-
 1. Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.
 2. But he who enters by the door is the shepherd of the sheep.
 3. To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out.

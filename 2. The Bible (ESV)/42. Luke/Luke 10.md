@@ -1,7 +1,5 @@
 ← [[Luke 9]] | [[Luke 11]] →
 
-# Chapter 10
-
 1. After this the Lord appointed seventy-two others and sent them on ahead of him, two by two, into every town and place where he himself was about to go.
 2. And he said to them, The harvest is plentiful, but the laborers are few. Therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.
 3. Go your way; behold, I am sending you out as lambs in the midst of wolves.

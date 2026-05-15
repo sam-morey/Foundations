@@ -1,7 +1,5 @@
 ← [[I Corinthians 15]] | [[II Corinthians 1]] →
 
-# Chapter 16
-
 1. Now concerning the collection for the saints : as I directed the churches of Galatia, so you also are to do.
 2. On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come.
 3. And when I arrive, I will send those whom you accredit by letter to carry your gift to Jerusalem.

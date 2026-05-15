@@ -1,7 +1,5 @@
 ← [[Genesis 3]] | [[Genesis 5]] →
 
-# Chapter 4
-
 1. Now Adam knew Eve his wife, and she conceived and bore Cain, saying, I have gotten a man with the help of the Lord.
 2. And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground.
 3. In the course of time Cain brought to the Lord an offering of the fruit of the ground,

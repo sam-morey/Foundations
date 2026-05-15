@@ -1,7 +1,5 @@
 ← [[Acts 12]] | [[Acts 14]] →
 
-# Chapter 13
-
 1. Now there were in the church at Antioch prophets and teachers, Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen a lifelong friend of Herod the tetrarch, and Saul.
 2. While they were worshiping the Lord and fasting, the Holy Spirit said, Set apart for me Barnabas and Saul for the work to which I have called them.
 3. Then after fasting and praying they laid their hands on them and sent them off.

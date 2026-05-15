@@ -1,7 +1,5 @@
 ← [[Jeremiah 39]] | [[Jeremiah 41]] →
 
-# Chapter 40
-
 1. The word that came to Jeremiah from the Lord after Nebuzaradan the captain of the guard had let him go from Ramah, when he took him bound in chains along with all the captives of Jerusalem and Judah who were being exiled to Babylon.
 2. The captain of the guard took Jeremiah and said to him, The Lord your God pronounced this disaster against this place.
 3. The Lord has brought it about, and has done as he said. Because you sinned against the Lord and did not obey his voice, this thing has come upon you.

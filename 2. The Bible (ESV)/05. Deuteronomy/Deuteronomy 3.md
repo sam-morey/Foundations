@@ -1,7 +1,5 @@
 ← [[Deuteronomy 2]] | [[Deuteronomy 4]] →
 
-# Chapter 3
-
 1. Then we turned and went up the way to Bashan. And Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
 2. But the Lord said to me, Do not fear him, for I have given him and all his people and his land into your hand. And you shall do to him as you did to Sihon the king of the Amorites, who lived at Heshbon.
 3. So the Lord our God gave into our hand Og also, the king of Bashan, and all his people, and we struck him down until he had no survivor left.

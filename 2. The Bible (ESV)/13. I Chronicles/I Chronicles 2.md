@@ -1,7 +1,5 @@
 ← [[I Chronicles 1]] | [[I Chronicles 3]] →
 
-# Chapter 2
-
 1. These are the sons of Israel : Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 2. Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
 3. The sons of Judah : Er, Onan and Shelah; these three Bath-shua the Canaanite bore to him. Now Er, Judah’s firstborn, was evil in the sight of the Lord, and he put him to death.

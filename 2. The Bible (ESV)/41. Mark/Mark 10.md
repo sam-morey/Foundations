@@ -1,7 +1,5 @@
 ← [[Mark 9]] | [[Mark 11]] →
 
-# Chapter 10
-
 1. And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them.
 2. And Pharisees came up and in order to test him asked, Is it lawful for a man to divorce his wife?
 3. He answered them, What did Moses command you?

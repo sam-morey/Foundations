@@ -1,7 +1,5 @@
 ← [[Luke 1]] | [[Luke 3]] →
 
-# Chapter 2
-
 1. In those days a decree went out from Caesar Augustus that all the world should be registered.
 2. This was the first registration when Quirinius was governor of Syria.
 3. And all went to be registered, each to his own town.

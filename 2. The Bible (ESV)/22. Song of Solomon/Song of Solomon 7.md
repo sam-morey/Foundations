@@ -1,7 +1,5 @@
 ← [[Song of Solomon 6]] | [[Song of Solomon 8]] →
 
-# Chapter 7
-
 1. How beautiful are your feet in sandals, O noble daughter! Your rounded thighs are like jewels, the work of a master hand.
 2. Your navel is a rounded bowl that never lacks mixed wine. Your belly is a heap of wheat, encircled with lilies.
 3. Your two breasts are like two fawns, twins of a gazelle.

@@ -1,7 +1,5 @@
 ← [[Isaiah 14]] | [[Isaiah 16]] →
 
-# Chapter 15
-
 1. An oracle concerning Moab. Because Ar of Moab is laid waste in a night, Moab is undone; because Kir of Moab is laid waste in a night, Moab is undone.
 2. He has gone up to the temple, and to Dibon, to the high places to weep; over Nebo and over Medeba Moab wails. On every head is baldness; every beard is shorn;
 3. in the streets they wear sackcloth; on the housetops and in the squares everyone wails and melts in tears.

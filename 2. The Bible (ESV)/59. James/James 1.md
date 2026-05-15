@@ -1,7 +1,5 @@
 ← [[Hebrews 13]] | [[James 2]] →
 
-# Chapter 1
-
 1. James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion : Greetings.
 2. Count it all joy, my brothers, when you meet trials of various kinds,
 3. for you know that the testing of your faith produces steadfastness.

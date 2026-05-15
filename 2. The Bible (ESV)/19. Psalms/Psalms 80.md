@@ -1,7 +1,5 @@
 ← [[Psalms 79]] | [[Psalms 81]] →
 
-# Chapter 80
-
 1. Restore Us, O God To the choirmaster : according to Lilies. A Testimony. Of Asaph, a Psalm. Give ear, O Shepherd of Israel, you who lead Joseph like a flock. You who are enthroned upon the cherubim, shine forth.
 2. Before Ephraim and Benjamin and Manasseh, stir up your might and come to save us!
 3. Restore us, O God; let your face shine, that we may be saved!

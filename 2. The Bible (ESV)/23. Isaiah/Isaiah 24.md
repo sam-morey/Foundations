@@ -1,7 +1,5 @@
 ← [[Isaiah 23]] | [[Isaiah 25]] →
 
-# Chapter 24
-
 1. Behold, the Lord will empty the earth and make it desolate, and he will twist its surface and scatter its inhabitants.
 2. And it shall be, as with the people, so with the priest; as with the slave, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the creditor, so with the debtor.
 3. The earth shall be utterly empty and utterly plundered; for the Lord has spoken this word.

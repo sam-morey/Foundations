@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 6]] | [[Ecclesiastes 8]] →
 
-# Chapter 7
-
 1. A good name is better than precious ointment, and the day of death than the day of birth.
 2. It is better to go to the house of mourning than to go to the house of feasting, for this is the end of all mankind, and the living will lay it to heart.
 3. Sorrow is better than laughter, for by sadness of face the heart is made glad.

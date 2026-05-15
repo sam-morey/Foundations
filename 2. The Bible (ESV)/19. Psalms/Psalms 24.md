@@ -1,7 +1,5 @@
 ← [[Psalms 23]] | [[Psalms 25]] →
 
-# Chapter 24
-
 1. The King of Glory A Psalm of David. The earth is the Lord ’s and the fullness thereof, the world and those who dwell therein,
 2. for he has founded it upon the seas and established it upon the rivers.
 3. Who shall ascend the hill of the Lord? And who shall stand in his holy place?

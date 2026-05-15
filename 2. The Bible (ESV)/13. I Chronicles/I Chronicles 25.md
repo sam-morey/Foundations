@@ -1,7 +1,5 @@
 ← [[I Chronicles 24]] | [[I Chronicles 26]] →
 
-# Chapter 25
-
 1. David and the chiefs of the service also set apart for the service the sons of Asaph, and of Heman, and of Jeduthun, who prophesied with lyres, with harps, and with cymbals. The list of those who did the work and of their duties was:
 2. Of the sons of Asaph : Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king.
 3. Of Jeduthun, the sons of Jeduthun : Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, who prophesied with the lyre in thanksgiving and praise to the Lord.

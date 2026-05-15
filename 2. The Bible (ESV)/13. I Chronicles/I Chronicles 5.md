@@ -1,7 +1,5 @@
 ← [[I Chronicles 4]] | [[I Chronicles 6]] →
 
-# Chapter 5
-
 1. The sons of Reuben the firstborn of Israel ( for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel, so that he could not be enrolled as the oldest son;
 2. though Judah became strong among his brothers and a chief came from him, yet the birthright belonged to Joseph ),
 3. the sons of Reuben, the firstborn of Israel : Hanoch, Pallu, Hezron, and Carmi.

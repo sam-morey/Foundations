@@ -1,7 +1,5 @@
 ← [[Amos 5]] | [[Amos 7]] →
 
-# Chapter 6
-
 1. Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria, the notable men of the first of the nations, to whom the house of Israel comes!
 2. Pass over to Calneh, and see, and from there go to Hamath the great; then go down to Gath of the Philistines. Are you better than these kingdoms? Or is their territory greater than your territory,
 3. O you who put far away the day of disaster and bring near the seat of violence?

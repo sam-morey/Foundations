@@ -1,7 +1,5 @@
 ← [[Luke 2]] | [[Luke 4]] →
 
-# Chapter 3
-
 1. In the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,
 2. during the high priesthood of Annas and Caiaphas, the word of God came to John the son of Zechariah in the wilderness.
 3. And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins.

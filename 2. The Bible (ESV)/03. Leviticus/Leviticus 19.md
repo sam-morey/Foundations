@@ -1,7 +1,5 @@
 ← [[Leviticus 18]] | [[Leviticus 20]] →
 
-# Chapter 19
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the Lord your God am holy.
 3. Every one of you shall revere his mother and his father, and you shall keep my Sabbaths : I am the Lord your God.

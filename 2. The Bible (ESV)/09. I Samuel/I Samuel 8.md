@@ -1,7 +1,5 @@
 ← [[I Samuel 7]] | [[I Samuel 9]] →
 
-# Chapter 8
-
 1. When Samuel became old, he made his sons judges over Israel.
 2. The name of his firstborn son was Joel, and the name of his second, Abijah; they were judges in Beersheba.
 3. Yet his sons did not walk in his ways but turned aside after gain. They took bribes and perverted justice.

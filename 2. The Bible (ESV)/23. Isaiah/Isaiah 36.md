@@ -1,7 +1,5 @@
 ← [[Isaiah 35]] | [[Isaiah 37]] →
 
-# Chapter 36
-
 1. In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them.
 2. And the king of Assyria sent the Rabshakeh from Lachish to King Hezekiah at Jerusalem, with a great army. And he stood by the conduit of the upper pool on the highway to the Washer’s Field.
 3. And there came out to him Eliakim the son of Hilkiah, who was over the household, and Shebna the secretary, and Joah the son of Asaph, the recorder.

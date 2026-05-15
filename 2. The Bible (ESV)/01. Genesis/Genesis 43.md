@@ -1,7 +1,5 @@
 ← [[Genesis 42]] | [[Genesis 44]] →
 
-# Chapter 43
-
 1. Now the famine was severe in the land.
 2. And when they had eaten the grain that they had brought from Egypt, their father said to them, Go again, buy us a little food.
 3. But Judah said to him, The man solemnly warned us, saying, You shall not see my face unless your brother is with you.

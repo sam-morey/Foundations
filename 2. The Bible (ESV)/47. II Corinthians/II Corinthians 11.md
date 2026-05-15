@@ -1,7 +1,5 @@
 ← [[II Corinthians 10]] | [[II Corinthians 12]] →
 
-# Chapter 11
-
 1. I wish you would bear with me in a little foolishness. Do bear with me!
 2. For I feel a divine jealousy for you, since I betrothed you to one husband, to present you as a pure virgin to Christ.
 3. But I am afraid that as the serpent deceived Eve by his cunning, your thoughts will be led astray from a sincere and pure devotion to Christ.

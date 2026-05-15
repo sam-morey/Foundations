@@ -1,7 +1,5 @@
 ← [[Malachi 2]] | [[Malachi 4]] →
 
-# Chapter 3
-
 1. Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the Lord of hosts.
 2. But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner’s fire and like fullers ’ soap.
 3. He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the Lord.

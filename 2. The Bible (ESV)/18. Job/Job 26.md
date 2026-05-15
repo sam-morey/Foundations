@@ -1,7 +1,5 @@
 ← [[Job 25]] | [[Job 27]] →
 
-# Chapter 26
-
 1. Then Job answered and said :
 2. How you have helped him who has no power! How you have saved the arm that has no strength!
 3. How you have counseled him who has no wisdom, and plentifully declared sound knowledge!

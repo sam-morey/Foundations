@@ -1,7 +1,5 @@
 ← [[I Samuel 13]] | [[I Samuel 15]] →
 
-# Chapter 14
-
 1. One day Jonathan the son of Saul said to the young man who carried his armor, Come, let us go over to the Philistine garrison on the other side. But he did not tell his father.
 2. Saul was staying in the outskirts of Gibeah in the pomegranate cave at Migron. The people who were with him were about six hundred men,
 3. including Ahijah the son of Ahitub, Ichabod’s brother, son of Phinehas, son of Eli, the priest of the Lord in Shiloh, wearing an ephod. And the people did not know that Jonathan had gone.

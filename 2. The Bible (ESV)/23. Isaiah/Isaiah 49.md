@@ -1,7 +1,5 @@
 ← [[Isaiah 48]] | [[Isaiah 50]] →
 
-# Chapter 49
-
 1. Listen to me, O coastlands, and give attention, you peoples from afar. The Lord called me from the womb, from the body of my mother he named my name.
 2. He made my mouth like a sharp sword; in the shadow of his hand he hid me; he made me a polished arrow; in his quiver he hid me away.
 3. And he said to me, You are my servant, Israel, in whom I will be glorified.

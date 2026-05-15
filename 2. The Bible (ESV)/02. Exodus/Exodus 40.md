@@ -1,7 +1,5 @@
 ← [[Exodus 39]] | [[Leviticus 1]] →
 
-# Chapter 40
-
 1. The Lord spoke to Moses, saying,
 2. On the first day of the first month you shall erect the tabernacle of the tent of meeting.
 3. And you shall put in it the ark of the testimony, and you shall screen the ark with the veil.

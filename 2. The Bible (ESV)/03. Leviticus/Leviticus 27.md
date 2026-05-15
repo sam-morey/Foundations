@@ -1,7 +1,5 @@
 ← [[Leviticus 26]] | [[Numbers 1]] →
 
-# Chapter 27
-
 1. The Lord spoke to Moses, saying,
 2. Speak to the people of Israel and say to them, If anyone makes a special vow to the Lord involving the valuation of persons,
 3. then the valuation of a male from twenty years old up to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.

@@ -1,7 +1,5 @@
 ← [[Proverbs 18]] | [[Proverbs 20]] →
 
-# Chapter 19
-
 1. Better is a poor person who walks in his integrity than one who is crooked in speech and is a fool.
 2. Desire without knowledge is not good, and whoever makes haste with his feet misses his way.
 3. When a man’s folly brings his way to ruin, his heart rages against the Lord.

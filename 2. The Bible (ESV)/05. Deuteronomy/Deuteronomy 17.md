@@ -1,7 +1,5 @@
 ← [[Deuteronomy 16]] | [[Deuteronomy 18]] →
 
-# Chapter 17
-
 1. You shall not sacrifice to the Lord your God an ox or a sheep in which is a blemish, any defect whatever, for that is an abomination to the Lord your God.
 2. If there is found among you, within any of your towns that the Lord your God is giving you, a man or woman who does what is evil in the sight of the Lord your God, in transgressing his covenant,
 3. and has gone and served other gods and worshiped them, or the sun or the moon or any of the host of heaven, which I have forbidden,

@@ -1,7 +1,5 @@
 ← [[Psalms 97]] | [[Psalms 99]] →
 
-# Chapter 98
-
 1. Make a Joyful Noise to the Lord A Psalm. Oh sing to the Lord a new song, for he has done marvelous things! His right hand and his holy arm have worked salvation for him.
 2. The Lord has made known his salvation; he has revealed his righteousness in the sight of the nations.
 3. He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the salvation of our God.

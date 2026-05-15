@@ -1,7 +1,5 @@
 ← [[Exodus 35]] | [[Exodus 37]] →
 
-# Chapter 36
-
 1. Bezalel and Oholiab and every craftsman in whom the Lord has put skill and intelligence to know how to do any work in the construction of the sanctuary shall work in accordance with all that the Lord has commanded.
 2. And Moses called Bezalel and Oholiab and every craftsman in whose mind the Lord had put skill, everyone whose heart stirred him up to come to do the work.
 3. And they received from Moses all the contribution that the people of Israel had brought for doing the work on the sanctuary. They still kept bringing him freewill offerings every morning,

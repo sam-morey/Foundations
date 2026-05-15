@@ -1,7 +1,5 @@
 ← [[Romans 16]] | [[I Corinthians 2]] →
 
-# Chapter 1
-
 1. Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,
 2. To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours :
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.

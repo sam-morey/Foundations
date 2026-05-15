@@ -1,7 +1,5 @@
 ← [[Matthew 22]] | [[Matthew 24]] →
 
-# Chapter 23
-
 1. Then Jesus said to the crowds and to his disciples,
 2. The scribes and the Pharisees sit on Moses ’ seat,
 3. so do and observe whatever they tell you, but not the works they do. For they preach, but do not practice.

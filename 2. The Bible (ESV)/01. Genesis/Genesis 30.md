@@ -1,7 +1,5 @@
 ← [[Genesis 29]] | [[Genesis 31]] →
 
-# Chapter 30
-
 1. When Rachel saw that she bore Jacob no children, she envied her sister. She said to Jacob, Give me children, or I shall die!
 2. Jacob’s anger was kindled against Rachel, and he said, Am I in the place of God, who has withheld from you the fruit of the womb?
 3. Then she said, Here is my servant Bilhah; go in to her, so that she may give birth on my behalf, that even I may have children through her.

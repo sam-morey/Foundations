@@ -1,7 +1,5 @@
 ← [[Genesis 26]] | [[Genesis 28]] →
 
-# Chapter 27
-
 1. When Isaac was old and his eyes were dim so that he could not see, he called Esau his older son and said to him, My son; and he answered, Here I am.
 2. He said, Behold, I am old; I do not know the day of my death.
 3. Now then, take your weapons, your quiver and your bow, and go out to the field and hunt game for me,

@@ -1,7 +1,5 @@
 ← [[Exodus 36]] | [[Exodus 38]] →
 
-# Chapter 37
-
 1. Bezalel made the ark of acacia wood. Two cubits and a half was its length, a cubit and a half its breadth, and a cubit and a half its height.
 2. And he overlaid it with pure gold inside and outside, and made a molding of gold around it.
 3. And he cast for it four rings of gold for its four feet, two rings on its one side and two rings on its other side.

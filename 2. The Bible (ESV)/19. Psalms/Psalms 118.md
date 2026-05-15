@@ -1,7 +1,5 @@
 ← [[Psalms 117]] | [[Psalms 119]] →
 
-# Chapter 118
-
 1. His Steadfast Love Endures Forever Oh give thanks to the Lord, for he is good; for his steadfast love endures forever!
 2. Let Israel say, His steadfast love endures forever.
 3. Let the house of Aaron say, His steadfast love endures forever.

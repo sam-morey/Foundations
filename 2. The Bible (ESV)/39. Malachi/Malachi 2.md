@@ -1,7 +1,5 @@
 ← [[Malachi 1]] | [[Malachi 3]] →
 
-# Chapter 2
-
 1. And now, O priests, this command is for you.
 2. If you will not listen, if you will not take it to heart to give honor to my name, says the Lord of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart.
 3. Behold, I will rebuke your offspring, and spread dung on your faces, the dung of your offerings, and you shall be taken away with it.

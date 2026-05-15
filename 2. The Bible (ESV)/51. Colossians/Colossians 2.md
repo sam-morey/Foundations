@@ -1,7 +1,5 @@
 ← [[Colossians 1]] | [[Colossians 3]] →
 
-# Chapter 2
-
 1. For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face,
 2. that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God’s mystery, which is Christ,
 3. in whom are hidden all the treasures of wisdom and knowledge.

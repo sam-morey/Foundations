@@ -1,7 +1,5 @@
 ← [[Exodus 26]] | [[Exodus 28]] →
 
-# Chapter 27
-
 1. You shall make the altar of acacia wood, five cubits long and five cubits broad. The altar shall be square, and its height shall be three cubits.
 2. And you shall make horns for it on its four corners; its horns shall be of one piece with it, and you shall overlay it with bronze.
 3. You shall make pots for it to receive its ashes, and shovels and basins and forks and fire pans. You shall make all its utensils of bronze.

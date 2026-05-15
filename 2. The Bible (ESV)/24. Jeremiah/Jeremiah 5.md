@@ -1,7 +1,5 @@
 ← [[Jeremiah 4]] | [[Jeremiah 6]] →
 
-# Chapter 5
-
 1. Run to and fro through the streets of Jerusalem, look and take note! Search her squares to see if you can find a man, one who does justice and seeks truth, that I may pardon her.
 2. Though they say, As the Lord lives, yet they swear falsely.
 3. O Lord, do not your eyes look for truth? You have struck them down, but they felt no anguish; you have consumed them, but they refused to take correction. They have made their faces harder than rock; they have refused to repent.

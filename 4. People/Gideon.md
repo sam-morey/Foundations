@@ -1,5 +1,3 @@
-# Gideon
-
 **Testament:** Old Testament
 **Era:** The Judges
 **Appears In:** [[3. Overviews/07. Judges Overview|Judges]]

@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 8]] | [[Ecclesiastes 10]] →
 
-# Chapter 9
-
 1. But all this I laid to heart, examining it all, how the righteous and the wise and their deeds are in the hand of God. Whether it is love or hate, man does not know; both are before him.
 2. It is the same for all, since the same event happens to the righteous and the wicked, to the good and the evil, to the clean and the unclean, to him who sacrifices and him who does not sacrifice. As the good one is, so is the sinner, and he who swears is as he who shuns an oath.
 3. This is an evil in all that is done under the sun, that the same event happens to all. Also, the hearts of the children of man are full of evil, and madness is in their hearts while they live, and after that they go to the dead.

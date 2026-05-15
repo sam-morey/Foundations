@@ -1,7 +1,5 @@
 ← [[Genesis 34]] | [[Genesis 36]] →
 
-# Chapter 35
-
 1. God said to Jacob, Arise, go up to Bethel and dwell there. Make an altar there to the God who appeared to you when you fled from your brother Esau.
 2. So Jacob said to his household and to all who were with him, Put away the foreign gods that are among you and purify yourselves and change your garments.
 3. Then let us arise and go up to Bethel, so that I may make there an altar to the God who answers me in the day of my distress and has been with me wherever I have gone.

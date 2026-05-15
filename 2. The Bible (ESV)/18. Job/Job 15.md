@@ -1,7 +1,5 @@
 ← [[Job 14]] | [[Job 16]] →
 
-# Chapter 15
-
 1. Then Eliphaz the Temanite answered and said :
 2. Should a wise man answer with windy knowledge, and fill his belly with the east wind?
 3. Should he argue in unprofitable talk, or in words with which he can do no good?

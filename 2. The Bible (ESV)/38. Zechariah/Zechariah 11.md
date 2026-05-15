@@ -1,7 +1,5 @@
 ← [[Zechariah 10]] | [[Zechariah 12]] →
 
-# Chapter 11
-
 1. Open your doors, O Lebanon, that the fire may devour your cedars!
 2. Wail, O cypress, for the cedar has fallen, for the glorious trees are ruined! Wail, oaks of Bashan, for the thick forest has been felled!
 3. The sound of the wail of the shepherds, for their glory is ruined! The sound of the roar of the lions, for the thicket of the Jordan is ruined!

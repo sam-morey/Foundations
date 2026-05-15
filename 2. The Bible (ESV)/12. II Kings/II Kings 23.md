@@ -1,7 +1,5 @@
 ← [[II Kings 22]] | [[II Kings 24]] →
 
-# Chapter 23
-
 1. Then the king sent, and all the elders of Judah and Jerusalem were gathered to him.
 2. And the king went up to the house of the Lord, and with him all the men of Judah and all the inhabitants of Jerusalem and the priests and the prophets, all the people, both small and great. And he read in their hearing all the words of the Book of the Covenant that had been found in the house of the Lord.
 3. And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his statutes with all his heart and all his soul, to perform the words of this covenant that were written in this book. And all the people joined in the covenant.

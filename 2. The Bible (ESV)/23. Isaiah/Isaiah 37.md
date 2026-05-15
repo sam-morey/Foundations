@@ -1,7 +1,5 @@
 ← [[Isaiah 36]] | [[Isaiah 38]] →
 
-# Chapter 37
-
 1. As soon as King Hezekiah heard it, he tore his clothes and covered himself with sackcloth and went into the house of the Lord.
 2. And he sent Eliakim, who was over the household, and Shebna the secretary, and the senior priests, covered with sackcloth, to the prophet Isaiah the son of Amoz.
 3. They said to him, Thus says Hezekiah, This day is a day of distress, of rebuke, and of disgrace; children have come to the point of birth, and there is no strength to bring them forth.

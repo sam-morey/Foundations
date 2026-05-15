@@ -1,7 +1,5 @@
 ← [[Hebrews 8]] | [[Hebrews 10]] →
 
-# Chapter 9
-
 1. Now even the first covenant had regulations for worship and an earthly place of holiness.
 2. For a tent was prepared, the first section, in which were the lampstand and the table and the bread of the Presence. It is called the Holy Place.
 3. Behind the second curtain was a second section called the Most Holy Place,

@@ -1,7 +1,5 @@
 ← [[Genesis 19]] | [[Genesis 21]] →
 
-# Chapter 20
-
 1. From there Abraham journeyed toward the territory of the Negeb and lived between Kadesh and Shur; and he sojourned in Gerar.
 2. And Abraham said of Sarah his wife, She is my sister. And Abimelech king of Gerar sent and took Sarah.
 3. But God came to Abimelech in a dream by night and said to him, Behold, you are a dead man because of the woman whom you have taken, for she is a man’s wife.

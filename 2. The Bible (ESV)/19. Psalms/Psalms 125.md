@@ -1,7 +1,5 @@
 ← [[Psalms 124]] | [[Psalms 126]] →
 
-# Chapter 125
-
 1. The Lord Surrounds His People A Song of Ascents. Those who trust in the Lord are like Mount Zion, which cannot be moved, but abides forever.
 2. As the mountains surround Jerusalem, so the Lord surrounds his people, from this time forth and forevermore.
 3. For the scepter of wickedness shall not rest on the land allotted to the righteous, lest the righteous stretch out their hands to do wrong.

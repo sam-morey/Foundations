@@ -1,7 +1,5 @@
 ← [[Psalms 19]] | [[Psalms 21]] →
 
-# Chapter 20
-
 1. Trust in the Name of the Lord Our God To the choirmaster. A Psalm of David. May the Lord answer you in the day of trouble! May the name of the God of Jacob protect you!
 2. May he send you help from the sanctuary and give you support from Zion!
 3. May he remember all your offerings and regard with favor your burnt sacrifices!

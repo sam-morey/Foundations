@@ -1,5 +1,3 @@
-# Rome
-
 **Location:** Rome, Lazio, Italy — the biblical sites cluster around the Forum Romanum, Palatine Hill, Capitoline Hill, the Appian Way (Via Appia), and the catacombs of the Via Appia corridor; GPS ~41.89°N 12.49°E
 **Testament:** NT
 **Key Themes:** [[Sovereignty of God]] · [[Suffering and Persecution]] · [[The Gospel]]

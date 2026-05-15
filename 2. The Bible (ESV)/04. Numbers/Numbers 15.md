@@ -1,7 +1,5 @@
 ← [[Numbers 14]] | [[Numbers 16]] →
 
-# Chapter 15
-
 1. The Lord spoke to Moses, saying,
 2. Speak to the people of Israel and say to them, When you come into the land you are to inhabit, which I am giving you,
 3. and you offer to the Lord from the herd or from the flock a food offering or a burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or at your appointed feasts, to make a pleasing aroma to the Lord,

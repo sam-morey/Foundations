@@ -1,7 +1,5 @@
 ← [[Psalms 111]] | [[Psalms 113]] →
 
-# Chapter 112
-
 1. The Righteous Will Never Be Moved Praise the Lord! Blessed is the man who fears the Lord, who greatly delights in his commandments!
 2. His offspring will be mighty in the land; the generation of the upright will be blessed.
 3. Wealth and riches are in his house, and his righteousness endures forever.

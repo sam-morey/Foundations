@@ -1,7 +1,5 @@
 ← [[Proverbs 23]] | [[Proverbs 25]] →
 
-# Chapter 24
-
 1. Be not envious of evil men, nor desire to be with them,
 2. for their hearts devise violence, and their lips talk of trouble.
 3. By wisdom a house is built, and by understanding it is established;

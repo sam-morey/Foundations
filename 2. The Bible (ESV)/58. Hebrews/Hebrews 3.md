@@ -1,7 +1,5 @@
 ← [[Hebrews 2]] | [[Hebrews 4]] →
 
-# Chapter 3
-
 1. Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession,
 2. who was faithful to him who appointed him, just as Moses also was faithful in all God’s house.
 3. For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself.

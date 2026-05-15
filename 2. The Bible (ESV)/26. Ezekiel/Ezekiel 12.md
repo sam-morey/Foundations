@@ -1,7 +1,5 @@
 ← [[Ezekiel 11]] | [[Ezekiel 13]] →
 
-# Chapter 12
-
 1. The word of the Lord came to me:
 2. Son of man, you dwell in the midst of a rebellious house, who have eyes to see, but see not, who have ears to hear, but hear not, for they are a rebellious house.
 3. As for you, son of man, prepare for yourself an exile’s baggage, and go into exile by day in their sight. You shall go like an exile from your place to another place in their sight. Perhaps they will understand, though they are a rebellious house.

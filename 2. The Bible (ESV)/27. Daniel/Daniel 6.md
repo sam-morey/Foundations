@@ -1,7 +1,5 @@
 ← [[Daniel 5]] | [[Daniel 7]] →
 
-# Chapter 6
-
 1. It pleased Darius to set over the kingdom 120 satraps, to be throughout the whole kingdom;
 2. and over them three high officials, of whom Daniel was one, to whom these satraps should give account, so that the king might suffer no loss.
 3. Then this Daniel became distinguished above all the other high officials and satraps, because an excellent spirit was in him. And the king planned to set him over the whole kingdom.

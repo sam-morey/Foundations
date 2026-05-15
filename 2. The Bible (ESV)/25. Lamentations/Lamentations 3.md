@@ -1,7 +1,5 @@
 ← [[Lamentations 2]] | [[Lamentations 4]] →
 
-# Chapter 3
-
 1. I am the man who has seen affliction under the rod of his wrath;
 2. he has driven and brought me into darkness without any light;
 3. surely against me he turns his hand again and again the whole day long.

@@ -1,7 +1,5 @@
 ← [[Genesis 40]] | [[Genesis 42]] →
 
-# Chapter 41
-
 1. After two whole years, Pharaoh dreamed that he was standing by the Nile,
 2. and behold, there came up out of the Nile seven cows attractive and plump, and they fed in the reed grass.
 3. And behold, seven other cows, ugly and thin, came up out of the Nile after them, and stood by the other cows on the bank of the Nile.

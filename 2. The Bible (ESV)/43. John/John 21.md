@@ -1,7 +1,5 @@
 ← [[John 20]] | [[Acts 1]] →
 
-# Chapter 21
-
 1. After this Jesus revealed himself again to the disciples by the Sea of Tiberias, and he revealed himself in this way.
 2. Simon Peter, Thomas ( called the Twin ), Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were together.
 3. Simon Peter said to them, I am going fishing. They said to him, We will go with you. They went out and got into the boat, but that night they caught nothing.

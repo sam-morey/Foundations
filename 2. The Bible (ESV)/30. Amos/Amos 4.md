@@ -1,7 +1,5 @@
 ← [[Amos 3]] | [[Amos 5]] →
 
-# Chapter 4
-
 1. Hear this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who say to your husbands, Bring, that we may drink!
 2. The Lord God has sworn by his holiness that, behold, the days are coming upon you, when they shall take you away with hooks, even the last of you with fishhooks.
 3. And you shall go out through the breaches, each one straight ahead; and you shall be cast out into Harmon, declares the Lord.

@@ -1,7 +1,5 @@
 ← [[Hosea 3]] | [[Hosea 5]] →
 
-# Chapter 4
-
 1. Hear the word of the Lord, O children of Israel, for the Lord has a controversy with the inhabitants of the land. There is no faithfulness or steadfast love, and no knowledge of God in the land;
 2. there is swearing, lying, murder, stealing, and committing adultery; they break all bounds, and bloodshed follows bloodshed.
 3. Therefore the land mourns, and all who dwell in it languish, and also the beasts of the field and the birds of the heavens, and even the fish of the sea are taken away.

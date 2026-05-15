@@ -1,7 +1,5 @@
 ← [[Genesis 38]] | [[Genesis 40]] →
 
-# Chapter 39
-
 1. Now Joseph had been brought down to Egypt, and Potiphar, an officer of Pharaoh, the captain of the guard, an Egyptian, had bought him from the Ishmaelites who had brought him down there.
 2. The Lord was with Joseph, and he became a successful man, and he was in the house of his Egyptian master.
 3. His master saw that the Lord was with him and that the Lord caused all that he did to succeed in his hands.

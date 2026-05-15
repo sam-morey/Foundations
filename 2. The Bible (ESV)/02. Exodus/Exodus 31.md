@@ -1,7 +1,5 @@
 ← [[Exodus 30]] | [[Exodus 32]] →
 
-# Chapter 31
-
 1. The Lord said to Moses,
 2. See, I have called by name Bezalel the son of Uri, son of Hur, of the tribe of Judah,
 3. and I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship,

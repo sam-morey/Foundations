@@ -1,7 +1,5 @@
 ← [[II Peter 3]] | [[I John 2]] →
 
-# Chapter 1
-
 1. That which was from the beginning, which we have heard, which we have seen with our eyes, which we looked upon and have touched with our hands, concerning the word of life —
 2. the life was made manifest, and we have seen it, and testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us —
 3. that which we have seen and heard we proclaim also to you, so that you too may have fellowship with us; and indeed our fellowship is with the Father and with his Son Jesus Christ.

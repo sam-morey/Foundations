@@ -1,7 +1,5 @@
 ← [[Hosea 7]] | [[Hosea 9]] →
 
-# Chapter 8
-
 1. Set the trumpet to your lips! One like a vulture is over the house of the Lord, because they have transgressed my covenant and rebelled against my law.
 2. To me they cry, My God, we— Israel — know you.
 3. Israel has spurned the good; the enemy shall pursue him.

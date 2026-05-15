@@ -1,7 +1,5 @@
 ← [[II Samuel 8]] | [[II Samuel 10]] →
 
-# Chapter 9
-
 1. And David said, Is there still anyone left of the house of Saul, that I may show him kindness for Jonathan’s sake?
 2. Now there was a servant of the house of Saul whose name was Ziba, and they called him to David. And the king said to him, Are you Ziba? And he said, I am your servant.
 3. And the king said, Is there not still someone of the house of Saul, that I may show the kindness of God to him? Ziba said to the king, There is still a son of Jonathan; he is crippled in his feet.

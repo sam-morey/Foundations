@@ -1,7 +1,5 @@
 ← [[Joshua 11]] | [[Joshua 13]] →
 
-# Chapter 12
-
 1. Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise, from the Valley of the Arnon to Mount Hermon, with all the Arabah eastward :
 2. Sihon king of the Amorites who lived at Heshbon and ruled from Aroer, which is on the edge of the Valley of the Arnon, and from the middle of the valley as far as the river Jabbok, the boundary of the Ammonites, that is, half of Gilead,
 3. and the Arabah to the Sea of Chinneroth eastward, and in the direction of Beth-jeshimoth, to the Sea of the Arabah, the Salt Sea, southward to the foot of the slopes of Pisgah;

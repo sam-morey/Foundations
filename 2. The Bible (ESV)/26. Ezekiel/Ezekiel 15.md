@@ -1,7 +1,5 @@
 ← [[Ezekiel 14]] | [[Ezekiel 16]] →
 
-# Chapter 15
-
 1. And the word of the Lord came to me:
 2. Son of man, how does the wood of the vine surpass any wood, the vine branch that is among the trees of the forest?
 3. Is wood taken from it to make anything? Do people take a peg from it to hang any vessel on it?

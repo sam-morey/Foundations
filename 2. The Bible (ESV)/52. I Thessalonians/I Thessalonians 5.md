@@ -1,7 +1,5 @@
 ← [[I Thessalonians 4]] | [[II Thessalonians 1]] →
 
-# Chapter 5
-
 1. Now concerning the times and the seasons, brothers, you have no need to have anything written to you.
 2. For you yourselves are fully aware that the day of the Lord will come like a thief in the night.
 3. While people are saying, There is peace and security, then sudden destruction will come upon them as labor pains come upon a pregnant woman, and they will not escape.

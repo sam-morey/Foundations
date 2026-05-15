@@ -1,7 +1,5 @@
 ← [[Numbers 6]] | [[Numbers 8]] →
 
-# Chapter 7
-
 1. On the day when Moses had finished setting up the tabernacle and had anointed and consecrated it with all its furnishings and had anointed and consecrated the altar with all its utensils,
 2. the chiefs of Israel, heads of their fathers ’ houses, who were the chiefs of the tribes, who were over those who were listed, approached
 3. and brought their offerings before the Lord, six wagons and twelve oxen, a wagon for every two of the chiefs, and for each one an ox. They brought them before the tabernacle.

@@ -1,7 +1,5 @@
 ← [[I Chronicles 20]] | [[I Chronicles 22]] →
 
-# Chapter 21
-
 1. Then Satan stood against Israel and incited David to number Israel.
 2. So David said to Joab and the commanders of the army, Go, number Israel, from Beersheba to Dan, and bring me a report, that I may know their number.
 3. But Joab said, May the Lord add to his people a hundred times as many as they are! Are they not, my lord the king, all of them my lord’s servants? Why then should my lord require this? Why should it be a cause of guilt for Israel?

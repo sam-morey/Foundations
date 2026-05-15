@@ -1,7 +1,5 @@
 ← [[Jeremiah 31]] | [[Jeremiah 33]] →
 
-# Chapter 32
-
 1. The word that came to Jeremiah from the Lord in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
 2. At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was shut up in the court of the guard that was in the palace of the king of Judah.
 3. For Zedekiah king of Judah had imprisoned him, saying, Why do you prophesy and say, Thus says the Lord : Behold, I am giving this city into the hand of the king of Babylon, and he shall capture it;

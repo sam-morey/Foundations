@@ -1,7 +1,5 @@
 ← [[I Samuel 3]] | [[I Samuel 5]] →
 
-# Chapter 4
-
 1. And the word of Samuel came to all Israel. Now Israel went out to battle against the Philistines. They encamped at Ebenezer, and the Philistines encamped at Aphek.
 2. The Philistines drew up in line against Israel, and when the battle spread, Israel was defeated before the Philistines, who killed about four thousand men on the field of battle.
 3. And when the people came to the camp, the elders of Israel said, Why has the Lord defeated us today before the Philistines? Let us bring the ark of the covenant of the Lord here from Shiloh, that it may come among us and save us from the power of our enemies.

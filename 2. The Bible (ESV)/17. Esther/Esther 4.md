@@ -1,7 +1,5 @@
 ← [[Esther 3]] | [[Esther 5]] →
 
-# Chapter 4
-
 1. When Mordecai learned all that had been done, Mordecai tore his clothes and put on sackcloth and ashes, and went out into the midst of the city, and he cried out with a loud and bitter cry.
 2. He went up to the entrance of the king’s gate, for no one was allowed to enter the king’s gate clothed in sackcloth.
 3. And in every province, wherever the king’s command and his decree reached, there was great mourning among the Jews, with fasting and weeping and lamenting, and many of them lay in sackcloth and ashes.

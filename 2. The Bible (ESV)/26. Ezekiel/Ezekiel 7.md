@@ -1,7 +1,5 @@
 ← [[Ezekiel 6]] | [[Ezekiel 8]] →
 
-# Chapter 7
-
 1. The word of the Lord came to me:
 2. And you, O son of man, thus says the Lord God to the land of Israel : An end! The end has come upon the four corners of the land.
 3. Now the end is upon you, and I will send my anger upon you; I will judge you according to your ways, and I will punish you for all your abominations.

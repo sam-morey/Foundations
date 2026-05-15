@@ -1,7 +1,5 @@
 ← [[Isaiah 40]] | [[Isaiah 42]] →
 
-# Chapter 41
-
 1. Listen to me in silence, O coastlands; let the peoples renew their strength; let them approach, then let them speak; let us together draw near for judgment.
 2. Who stirred up one from the east whom victory meets at every step? He gives up nations before him, so that he tramples kings underfoot; he makes them like dust with his sword, like driven stubble with his bow.
 3. He pursues them and passes on safely, by paths his feet have not trod.

@@ -1,7 +1,5 @@
 ← [[II Kings 1]] | [[II Kings 3]] →
 
-# Chapter 2
-
 1. Now when the Lord was about to take Elijah up to heaven by a whirlwind, Elijah and Elisha were on their way from Gilgal.
 2. And Elijah said to Elisha, Please stay here, for the Lord has sent me as far as Bethel. But Elisha said, As the Lord lives, and as you yourself live, I will not leave you. So they went down to Bethel.
 3. And the sons of the prophets who were in Bethel came out to Elisha and said to him, Do you know that today the Lord will take away your master from over you? And he said, Yes, I know it; keep quiet.

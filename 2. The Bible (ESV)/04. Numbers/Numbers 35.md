@@ -1,7 +1,5 @@
 ← [[Numbers 34]] | [[Numbers 36]] →
 
-# Chapter 35
-
 1. The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,
 2. Command the people of Israel to give to the Levites some of the inheritance of their possession as cities for them to dwell in. And you shall give to the Levites pasturelands around the cities.
 3. The cities shall be theirs to dwell in, and their pasturelands shall be for their cattle and for their livestock and for all their beasts.

@@ -1,7 +1,5 @@
 ← [[Daniel 9]] | [[Daniel 11]] →
 
-# Chapter 10
-
 1. In the third year of Cyrus king of Persia a word was revealed to Daniel, who was named Belteshazzar. And the word was true, and it was a great conflict. And he understood the word and had understanding of the vision.
 2. In those days I, Daniel, was mourning for three weeks.
 3. I ate no delicacies, no meat or wine entered my mouth, nor did I anoint myself at all, for the full three weeks.

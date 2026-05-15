@@ -1,7 +1,5 @@
 ← [[Isaiah 7]] | [[Isaiah 9]] →
 
-# Chapter 8
-
 1. Then the Lord said to me, Take a large tablet and write on it in common characters, Belonging to Maher-shalal-hash-baz.
 2. And I will get reliable witnesses, Uriah the priest and Zechariah the son of Jeberechiah, to attest for me.
 3. And I went to the prophetess, and she conceived and bore a son. Then the Lord said to me, Call his name Maher-shalal-hash-baz;

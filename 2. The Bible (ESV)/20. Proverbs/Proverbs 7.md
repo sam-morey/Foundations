@@ -1,7 +1,5 @@
 ← [[Proverbs 6]] | [[Proverbs 8]] →
 
-# Chapter 7
-
 1. My son, keep my words and treasure up my commandments with you;
 2. keep my commandments and live; keep my teaching as the apple of your eye;
 3. bind them on your fingers; write them on the tablet of your heart.

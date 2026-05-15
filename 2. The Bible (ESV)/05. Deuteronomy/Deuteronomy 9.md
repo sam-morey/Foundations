@@ -1,7 +1,5 @@
 ← [[Deuteronomy 8]] | [[Deuteronomy 10]] →
 
-# Chapter 9
-
 1. Hear, O Israel : you are to cross over the Jordan today, to go in to dispossess nations greater and mightier than you, cities great and fortified up to heaven,
 2. a people great and tall, the sons of the Anakim, whom you know, and of whom you have heard it said, Who can stand before the sons of Anak?
 3. Know therefore today that he who goes over before you as a consuming fire is the Lord your God. He will destroy them and subdue them before you. So you shall drive them out and make them perish quickly, as the Lord has promised you.

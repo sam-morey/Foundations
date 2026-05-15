@@ -1,7 +1,5 @@
 ← [[I Peter 3]] | [[I Peter 5]] →
 
-# Chapter 4
-
 1. Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin,
 2. so as to live for the rest of the time in the flesh no longer for human passions but for the will of God.
 3. For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry.

@@ -1,7 +1,5 @@
 ← [[Psalms 66]] | [[Psalms 68]] →
 
-# Chapter 67
-
 1. Make Your Face Shine upon Us To the choirmaster : with stringed instruments. A Psalm. A Song. May God be gracious to us and bless us and make his face to shine upon us,
 2. that your way may be known on earth, your saving power among all nations.
 3. Let the peoples praise you, O God; let all the peoples praise you!

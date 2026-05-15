@@ -1,7 +1,5 @@
 ← [[Numbers 30]] | [[Numbers 32]] →
 
-# Chapter 31
-
 1. The Lord spoke to Moses, saying,
 2. Avenge the people of Israel on the Midianites. Afterward you shall be gathered to your people.
 3. So Moses spoke to the people, saying, Arm men from among you for the war, that they may go against Midian to execute the Lord ’s vengeance on Midian.

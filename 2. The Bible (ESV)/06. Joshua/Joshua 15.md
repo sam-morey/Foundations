@@ -1,7 +1,5 @@
 ← [[Joshua 14]] | [[Joshua 16]] →
 
-# Chapter 15
-
 1. The allotment for the tribe of the people of Judah according to their clans reached southward to the boundary of Edom, to the wilderness of Zin at the farthest south.
 2. And their south boundary ran from the end of the Salt Sea, from the bay that faces southward.
 3. It goes out southward of the ascent of Akrabbim, passes along to Zin, and goes up south of Kadesh-barnea, along by Hezron, up to Addar, turns about to Karka,

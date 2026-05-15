@@ -1,7 +1,5 @@
 ← [[I Samuel 19]] | [[I Samuel 21]] →
 
-# Chapter 20
-
 1. Then David fled from Naioth in Ramah and came and said before Jonathan, What have I done? What is my guilt? And what is my sin before your father, that he seeks my life?
 2. And he said to him, Far from it! You shall not die. Behold, my father does nothing either great or small without disclosing it to me. And why should my father hide this from me? It is not so.
 3. But David vowed again, saying, Your father knows well that I have found favor in your eyes, and he thinks, Do not let Jonathan know this, lest he be grieved. But truly, as the Lord lives and as your soul lives, there is but a step between me and death.

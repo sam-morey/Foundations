@@ -1,5 +1,3 @@
-# Justice & Righteousness
-
 The Hebrew words *mishpat* (justice) and *tzedakah* (righteousness) appear together hundreds of times in the OT. True religion is never merely ritual — it produces justice for the vulnerable and righteous ordering of society. God is both the standard of righteousness and the champion of justice.
 
 ## Key Passages

@@ -1,7 +1,5 @@
 ← [[Genesis 44]] | [[Genesis 46]] →
 
-# Chapter 45
-
 1. Then Joseph could not control himself before all those who stood by him. He cried, Make everyone go out from me. So no one stayed with him when Joseph made himself known to his brothers.
 2. And he wept aloud, so that the Egyptians heard it, and the household of Pharaoh heard it.
 3. And Joseph said to his brothers, I am Joseph! Is my father still alive? But his brothers could not answer him, for they were dismayed at his presence.

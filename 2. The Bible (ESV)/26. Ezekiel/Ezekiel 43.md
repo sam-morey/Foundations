@@ -1,7 +1,5 @@
 ← [[Ezekiel 42]] | [[Ezekiel 44]] →
 
-# Chapter 43
-
 1. Then he led me to the gate, the gate facing east.
 2. And behold, the glory of the God of Israel was coming from the east. And the sound of his coming was like the sound of many waters, and the earth shone with his glory.
 3. And the vision I saw was just like the vision that I had seen when he came to destroy the city, and just like the vision that I had seen by the Chebar canal. And I fell on my face.

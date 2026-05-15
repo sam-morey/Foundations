@@ -1,7 +1,5 @@
 ← [[Ezekiel 19]] | [[Ezekiel 21]] →
 
-# Chapter 20
-
 1. In the seventh year, in the fifth month, on the tenth day of the month, certain of the elders of Israel came to inquire of the Lord, and sat before me.
 2. And the word of the Lord came to me:
 3. Son of man, speak to the elders of Israel, and say to them, Thus says the Lord God, Is it to inquire of me that you come? As I live, declares the Lord God, I will not be inquired of by you.

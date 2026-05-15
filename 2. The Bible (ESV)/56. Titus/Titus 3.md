@@ -1,7 +1,5 @@
 ← [[Titus 2]] | [[Philemon 1]] →
 
-# Chapter 3
-
 1. Remind them to be submissive to rulers and authorities, to be obedient, to be ready for every good work,
 2. to speak evil of no one, to avoid quarreling, to be gentle, and to show perfect courtesy toward all people.
 3. For we ourselves were once foolish, disobedient, led astray, slaves to various passions and pleasures, passing our days in malice and envy, hated by others and hating one another.

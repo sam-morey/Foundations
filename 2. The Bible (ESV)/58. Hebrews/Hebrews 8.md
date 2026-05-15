@@ -1,7 +1,5 @@
 ← [[Hebrews 7]] | [[Hebrews 9]] →
 
-# Chapter 8
-
 1. Now the point in what we are saying is this: we have such a high priest, one who is seated at the right hand of the throne of the Majesty in heaven,
 2. a minister in the holy places, in the true tent that the Lord set up, not man.
 3. For every high priest is appointed to offer gifts and sacrifices; thus it is necessary for this priest also to have something to offer.

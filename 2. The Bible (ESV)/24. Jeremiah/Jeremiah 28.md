@@ -1,7 +1,5 @@
 ← [[Jeremiah 27]] | [[Jeremiah 29]] →
 
-# Chapter 28
-
 1. In that same year, at the beginning of the reign of Zedekiah king of Judah, in the fifth month of the fourth year, Hananiah the son of Azzur, the prophet from Gibeon, spoke to me in the house of the Lord, in the presence of the priests and all the people, saying,
 2. Thus says the Lord of hosts, the God of Israel : I have broken the yoke of the king of Babylon.
 3. Within two years I will bring back to this place all the vessels of the Lord ’s house, which Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.

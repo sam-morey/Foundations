@@ -1,7 +1,5 @@
 ← [[Proverbs 19]] | [[Proverbs 21]] →
 
-# Chapter 20
-
 1. Wine is a mocker, strong drink a brawler, and whoever is led astray by it is not wise.
 2. The terror of a king is like the growling of a lion; whoever provokes him to anger forfeits his life.
 3. It is an honor for a man to keep aloof from strife, but every fool will be quarreling.

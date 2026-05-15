@@ -1,7 +1,5 @@
 ← [[Genesis 9]] | [[Genesis 11]] →
 
-# Chapter 10
-
 1. These are the generations of the sons of Noah, Shem, Ham, and Japheth. Sons were born to them after the flood.
 2. The sons of Japheth : Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 3. The sons of Gomer : Ashkenaz, Riphath, and Togarmah.

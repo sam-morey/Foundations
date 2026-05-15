@@ -1,7 +1,5 @@
 ← [[II Corinthians 4]] | [[II Corinthians 6]] →
 
-# Chapter 5
-
 1. For we know that if the tent that is our earthly home is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.
 2. For in this tent we groan, longing to put on our heavenly dwelling,
 3. if indeed by putting it on we may not be found naked.

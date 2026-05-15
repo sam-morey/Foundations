@@ -1,7 +1,5 @@
 ← [[Leviticus 2]] | [[Leviticus 4]] →
 
-# Chapter 3
-
 1. If his offering is a sacrifice of peace offering, if he offers an animal from the herd, male or female, he shall offer it without blemish before the Lord.
 2. And he shall lay his hand on the head of his offering and kill it at the entrance of the tent of meeting, and Aaron’s sons the priests shall throw the blood against the sides of the altar.
 3. And from the sacrifice of the peace offering, as a food offering to the Lord, he shall offer the fat covering the entrails and all the fat that is on the entrails,

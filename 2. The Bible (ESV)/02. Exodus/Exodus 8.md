@@ -1,7 +1,5 @@
 ← [[Exodus 7]] | [[Exodus 9]] →
 
-# Chapter 8
-
 1. Then the Lord said to Moses, Go in to Pharaoh and say to him, Thus says the Lord, Let my people go, that they may serve me.
 2. But if you refuse to let them go, behold, I will plague all your country with frogs.
 3. The Nile shall swarm with frogs that shall come up into your house and into your bedroom and on your bed and into the houses of your servants and your people, and into your ovens and your kneading bowls.

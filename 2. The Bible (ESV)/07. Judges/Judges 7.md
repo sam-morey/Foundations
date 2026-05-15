@@ -1,7 +1,5 @@
 ← [[Judges 6]] | [[Judges 8]] →
 
-# Chapter 7
-
 1. Then Jerubbaal (that is, Gideon ) and all the people who were with him rose early and encamped beside the spring of Harod. And the camp of Midian was north of them, by the hill of Moreh, in the valley.
 2. The Lord said to Gideon, The people with you are too many for me to give the Midianites into their hand, lest Israel boast over me, saying, My own hand has saved me.
 3. Now therefore proclaim in the ears of the people, saying, Whoever is fearful and trembling, let him return home and hurry away from Mount Gilead. Then 22,000 of the people returned, and 10,000 remained.

@@ -1,7 +1,5 @@
 ← [[Job 34]] | [[Job 36]] →
 
-# Chapter 35
-
 1. And Elihu answered and said :
 2. Do you think this to be just? Do you say, It is my right before God,
 3. that you ask, What advantage have I? How am I better off than if I had sinned?

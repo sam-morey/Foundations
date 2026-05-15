@@ -1,7 +1,5 @@
 ← [[Psalms 47]] | [[Psalms 49]] →
 
-# Chapter 48
-
 1. Zion, the City of Our God A Song. A Psalm of the Sons of Korah. Great is the Lord and greatly to be praised in the city of our God! His holy mountain,
 2. beautiful in elevation, is the joy of all the earth, Mount Zion, in the far north, the city of the great King.
 3. Within her citadels God has made himself known as a fortress.

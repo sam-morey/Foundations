@@ -1,7 +1,5 @@
 ← [[Exodus 4]] | [[Exodus 6]] →
 
-# Chapter 5
-
 1. Afterward Moses and Aaron went and said to Pharaoh, Thus says the Lord, the God of Israel, Let my people go, that they may hold a feast to me in the wilderness.
 2. But Pharaoh said, Who is the Lord, that I should obey his voice and let Israel go? I do not know the Lord, and moreover, I will not let Israel go.
 3. Then they said, The God of the Hebrews has met with us. Please let us go a three days ’ journey into the wilderness that we may sacrifice to the Lord our God, lest he fall upon us with pestilence or with the sword.

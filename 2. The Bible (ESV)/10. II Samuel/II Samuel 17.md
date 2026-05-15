@@ -1,7 +1,5 @@
 ← [[II Samuel 16]] | [[II Samuel 18]] →
 
-# Chapter 17
-
 1. Moreover, Ahithophel said to Absalom, Let me choose twelve thousand men, and I will arise and pursue David tonight.
 2. I will come upon him while he is weary and discouraged and throw him into a panic, and all the people who are with him will flee. I will strike down only the king,
 3. and I will bring all the people back to you as a bride comes home to her husband. You seek the life of only one man, and all the people will be at peace.

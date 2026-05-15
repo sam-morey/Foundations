@@ -1,7 +1,5 @@
 ← [[Zechariah 11]] | [[Zechariah 13]] →
 
-# Chapter 12
-
 1. The oracle of the word of the Lord concerning Israel : Thus declares the Lord, who stretched out the heavens and founded the earth and formed the spirit of man within him:
 2. Behold, I am about to make Jerusalem a cup of staggering to all the surrounding peoples. The siege of Jerusalem will also be against Judah.
 3. On that day I will make Jerusalem a heavy stone for all the peoples. All who lift it will surely hurt themselves. And all the nations of the earth will gather against it.

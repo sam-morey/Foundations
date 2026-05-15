@@ -1,7 +1,5 @@
 ← [[Numbers 22]] | [[Numbers 24]] →
 
-# Chapter 23
-
 1. And Balaam said to Balak, Build for me here seven altars, and prepare for me here seven bulls and seven rams.
 2. Balak did as Balaam had said. And Balak and Balaam offered on each altar a bull and a ram.
 3. And Balaam said to Balak, Stand beside your burnt offering, and I will go. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you. And he went to a bare height,

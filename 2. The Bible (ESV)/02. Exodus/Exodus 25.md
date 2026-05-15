@@ -1,7 +1,5 @@
 ← [[Exodus 24]] | [[Exodus 26]] →
 
-# Chapter 25
-
 1. The Lord said to Moses,
 2. Speak to the people of Israel, that they take for me a contribution. From every man whose heart moves him you shall receive the contribution for me.
 3. And this is the contribution that you shall receive from them: gold, silver, and bronze,

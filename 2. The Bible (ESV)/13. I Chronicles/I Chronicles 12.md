@@ -1,7 +1,5 @@
 ← [[I Chronicles 11]] | [[I Chronicles 13]] →
 
-# Chapter 12
-
 1. Now these are the men who came to David at Ziklag, while he could not move about freely because of Saul the son of Kish. And they were among the mighty men who helped him in war.
 2. They were bowmen and could shoot arrows and sling stones with either the right or the left hand; they were Benjaminites, Saul’s kinsmen.
 3. The chief was Ahiezer, then Joash, both sons of Shemaah of Gibeah; also Jeziel and Pelet, the sons of Azmaveth; Beracah, Jehu of Anathoth,

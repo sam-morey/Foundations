@@ -1,7 +1,5 @@
 ← [[II Samuel 18]] | [[II Samuel 20]] →
 
-# Chapter 19
-
 1. It was told Joab, Behold, the king is weeping and mourning for Absalom.
 2. So the victory that day was turned into mourning for all the people, for the people heard that day, The king is grieving for his son.
 3. And the people stole into the city that day as people steal in who are ashamed when they flee in battle.

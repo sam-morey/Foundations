@@ -1,7 +1,5 @@
 ← [[Revelation of John 21]]
 
-# Chapter 22
-
 1. Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb
 2. through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations.
 3. No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him.

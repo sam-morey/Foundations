@@ -1,7 +1,5 @@
 ← [[Job 42]] | [[Psalms 2]] →
 
-# Chapter 1
-
 1. The Way of the Righteous and the Wicked Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;
 2. but his delight is in the law of the Lord, and on his law he meditates day and night.
 3. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.

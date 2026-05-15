@@ -1,7 +1,5 @@
 ← [[Exodus 1]] | [[Exodus 3]] →
 
-# Chapter 2
-
 1. Now a man from the house of Levi went and took as his wife a Levite woman.
 2. The woman conceived and bore a son, and when she saw that he was a fine child, she hid him three months.
 3. When she could hide him no longer, she took for him a basket made of bulrushes and daubed it with bitumen and pitch. She put the child in it and placed it among the reeds by the river bank.

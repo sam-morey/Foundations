@@ -1,7 +1,5 @@
 ← [[Numbers 8]] | [[Numbers 10]] →
 
-# Chapter 9
-
 1. And the Lord spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,
 2. Let the people of Israel keep the Passover at its appointed time.
 3. On the fourteenth day of this month, at twilight, you shall keep it at its appointed time; according to all its statutes and all its rules you shall keep it.

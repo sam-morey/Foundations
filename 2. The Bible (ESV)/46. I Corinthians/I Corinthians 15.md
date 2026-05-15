@@ -1,7 +1,5 @@
 ← [[I Corinthians 14]] | [[I Corinthians 16]] →
 
-# Chapter 15
-
 1. Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand,
 2. and by which you are being saved, if you hold fast to the word I preached to you — unless you believed in vain.
 3. For I delivered to you as of first importance what I also received : that Christ died for our sins in accordance with the Scriptures,

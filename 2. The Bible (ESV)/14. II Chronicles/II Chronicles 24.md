@@ -1,7 +1,5 @@
 ← [[II Chronicles 23]] | [[II Chronicles 25]] →
 
-# Chapter 24
-
 1. Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.
 2. And Joash did what was right in the eyes of the Lord all the days of Jehoiada the priest.
 3. Jehoiada got for him two wives, and he had sons and daughters.

@@ -1,7 +1,5 @@
 ← [[Acts 7]] | [[Acts 9]] →
 
-# Chapter 8
-
 1. And Saul approved of his execution. And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
 2. Devout men buried Stephen and made great lamentation over him.
 3. But Saul was ravaging the church, and entering house after house, he dragged off men and women and committed them to prison.

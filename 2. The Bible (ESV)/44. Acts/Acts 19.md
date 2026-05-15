@@ -1,7 +1,5 @@
 ← [[Acts 18]] | [[Acts 20]] →
 
-# Chapter 19
-
 1. And it happened that while Apollos was at Corinth, Paul passed through the inland country and came to Ephesus. There he found some disciples.
 2. And he said to them, Did you receive the Holy Spirit when you believed? And they said, No, we have not even heard that there is a Holy Spirit.
 3. And he said, Into what then were you baptized? They said, Into John’s baptism.

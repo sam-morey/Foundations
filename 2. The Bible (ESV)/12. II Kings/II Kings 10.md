@@ -1,7 +1,5 @@
 ← [[II Kings 9]] | [[II Kings 11]] →
 
-# Chapter 10
-
 1. Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria, to the rulers of the city, to the elders, and to the guardians of the sons of Ahab, saying,
 2. Now then, as soon as this letter comes to you, seeing your master’s sons are with you, and there are with you chariots and horses, fortified cities also, and weapons,
 3. select the best and fittest of your master’s sons and set him on his father’s throne and fight for your master’s house.

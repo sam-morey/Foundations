@@ -1,7 +1,5 @@
 ← [[Luke 3]] | [[Luke 5]] →
 
-# Chapter 4
-
 1. And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness
 2. for forty days, being tempted by the devil. And he ate nothing during those days. And when they were ended, he was hungry.
 3. The devil said to him, If you are the Son of God, command this stone to become bread.

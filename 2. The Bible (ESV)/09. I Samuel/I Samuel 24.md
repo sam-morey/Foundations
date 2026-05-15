@@ -1,7 +1,5 @@
 ← [[I Samuel 23]] | [[I Samuel 25]] →
 
-# Chapter 24
-
 1. When Saul returned from following the Philistines, he was told, Behold, David is in the wilderness of Engedi.
 2. Then Saul took three thousand chosen men out of all Israel and went to seek David and his men in front of the Wildgoats ’ Rocks.
 3. And he came to the sheepfolds by the way, where there was a cave, and Saul went in to relieve himself. Now David and his men were sitting in the innermost parts of the cave.

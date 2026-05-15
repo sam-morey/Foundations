@@ -1,7 +1,5 @@
 ← [[Daniel 12]] | [[Hosea 2]] →
 
-# Chapter 1
-
 1. The word of the Lord that came to Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 2. When the Lord first spoke through Hosea, the Lord said to Hosea, Go, take to yourself a wife of whoredom and have children of whoredom, for the land commits great whoredom by forsaking the Lord.
 3. So he went and took Gomer, the daughter of Diblaim, and she conceived and bore him a son.

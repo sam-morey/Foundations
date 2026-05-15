@@ -1,7 +1,5 @@
 ← [[Jeremiah 16]] | [[Jeremiah 18]] →
 
-# Chapter 17
-
 1. The sin of Judah is written with a pen of iron; with a point of diamond it is engraved on the tablet of their heart, and on the horns of their altars,
 2. while their children remember their altars and their Asherim, beside every green tree and on the high hills,
 3. on the mountains in the open country. Your wealth and all your treasures I will give for spoil as the price of your high places for sin throughout all your territory.

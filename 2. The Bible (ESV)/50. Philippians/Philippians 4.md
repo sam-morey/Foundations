@@ -1,7 +1,5 @@
 ← [[Philippians 3]] | [[Colossians 1]] →
 
-# Chapter 4
-
 1. Therefore, my brothers, whom I love and long for, my joy and crown, stand firm thus in the Lord, my beloved.
 2. I entreat Euodia and I entreat Syntyche to agree in the Lord.
 3. Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life.

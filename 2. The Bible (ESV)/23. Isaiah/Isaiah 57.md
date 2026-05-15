@@ -1,7 +1,5 @@
 ← [[Isaiah 56]] | [[Isaiah 58]] →
 
-# Chapter 57
-
 1. The righteous man perishes, and no one lays it to heart; devout men are taken away, while no one understands. For the righteous man is taken away from calamity;
 2. he enters into peace; they rest in their beds who walk in their uprightness.
 3. But you, draw near, sons of the sorceress, offspring of the adulterer and the loose woman.

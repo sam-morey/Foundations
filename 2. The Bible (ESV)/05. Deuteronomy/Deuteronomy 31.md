@@ -1,7 +1,5 @@
 ← [[Deuteronomy 30]] | [[Deuteronomy 32]] →
 
-# Chapter 31
-
 1. So Moses continued to speak these words to all Israel.
 2. And he said to them, I am 120 years old today. I am no longer able to go out and come in. The Lord has said to me, You shall not go over this Jordan.
 3. The Lord your God himself will go over before you. He will destroy these nations before you, so that you shall dispossess them, and Joshua will go over at your head, as the Lord has spoken.

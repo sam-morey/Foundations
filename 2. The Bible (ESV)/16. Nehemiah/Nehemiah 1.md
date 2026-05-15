@@ -1,7 +1,5 @@
 ← [[Ezra 10]] | [[Nehemiah 2]] →
 
-# Chapter 1
-
 1. The words of Nehemiah the son of Hacaliah. Now it happened in the month of Chislev, in the twentieth year, as I was in Susa the citadel,
 2. that Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem.
 3. And they said to me, The remnant there in the province who had survived the exile is in great trouble and shame. The wall of Jerusalem is broken down, and its gates are destroyed by fire.

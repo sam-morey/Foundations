@@ -1,7 +1,5 @@
 ← [[Acts 6]] | [[Acts 8]] →
 
-# Chapter 7
-
 1. And the high priest said, Are these things so?
 2. And Stephen said : Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran,
 3. and said to him, Go out from your land and from your kindred and go into the land that I will show you.

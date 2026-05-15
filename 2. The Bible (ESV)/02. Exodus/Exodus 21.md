@@ -1,7 +1,5 @@
 ← [[Exodus 20]] | [[Exodus 22]] →
 
-# Chapter 21
-
 1. Now these are the rules that you shall set before them.
 2. When you buy a Hebrew slave, he shall serve six years, and in the seventh he shall go out free, for nothing.
 3. If he comes in single, he shall go out single; if he comes in married, then his wife shall go out with him.

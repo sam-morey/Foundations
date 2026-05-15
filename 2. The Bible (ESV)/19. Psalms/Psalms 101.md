@@ -1,7 +1,5 @@
 ← [[Psalms 100]] | [[Psalms 102]] →
 
-# Chapter 101
-
 1. I Will Walk with Integrity A Psalm of David. I will sing of steadfast love and justice; to you, O Lord, I will make music.
 2. I will ponder the way that is blameless. Oh when will you come to me? I will walk with integrity of heart within my house;
 3. I will not set before my eyes anything that is worthless. I hate the work of those who fall away; it shall not cling to me.

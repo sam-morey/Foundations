@@ -1,5 +1,3 @@
-# Grace & Mercy
-
 Grace is God's undeserved favor — giving good things to those who deserve judgment. Mercy is withholding deserved punishment. Together they describe the character of God at the heart of the gospel.
 
 ## Key Passages

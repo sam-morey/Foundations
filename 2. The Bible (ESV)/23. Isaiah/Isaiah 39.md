@@ -1,7 +1,5 @@
 ← [[Isaiah 38]] | [[Isaiah 40]] →
 
-# Chapter 39
-
 1. At that time Merodach-baladan the son of Baladan, king of Babylon, sent envoys with letters and a present to Hezekiah, for he heard that he had been sick and had recovered.
 2. And Hezekiah welcomed them gladly. And he showed them his treasure house, the silver, the gold, the spices, the precious oil, his whole armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them.
 3. Then Isaiah the prophet came to King Hezekiah, and said to him, What did these men say? And from where did they come to you? Hezekiah said, They have come to me from a far country, from Babylon.

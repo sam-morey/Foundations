@@ -1,7 +1,5 @@
 ← [[Proverbs 4]] | [[Proverbs 6]] →
 
-# Chapter 5
-
 1. My son, be attentive to my wisdom; incline your ear to my understanding,
 2. that you may keep discretion, and your lips may guard knowledge.
 3. For the lips of a forbidden woman drip honey, and her speech is smoother than oil,

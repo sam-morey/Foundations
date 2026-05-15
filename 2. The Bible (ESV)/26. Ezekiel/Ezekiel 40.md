@@ -1,7 +1,5 @@
 ← [[Ezekiel 39]] | [[Ezekiel 41]] →
 
-# Chapter 40
-
 1. In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down, on that very day, the hand of the Lord was upon me, and he brought me to the city.
 2. In visions of God he brought me to the land of Israel, and set me down on a very high mountain, on which was a structure like a city to the south.
 3. When he brought me there, behold, there was a man whose appearance was like bronze, with a linen cord and a measuring reed in his hand. And he was standing in the gateway.

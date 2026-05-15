@@ -1,7 +1,5 @@
 ← [[II Chronicles 19]] | [[II Chronicles 21]] →
 
-# Chapter 20
-
 1. After this the Moabites and Ammonites, and with them some of the Meunites, came against Jehoshaphat for battle.
 2. Some men came and told Jehoshaphat, A great multitude is coming against you from Edom, from beyond the sea; and, behold, they are in Hazazon-tamar (that is, Engedi ).
 3. Then Jehoshaphat was afraid and set his face to seek the Lord, and proclaimed a fast throughout all Judah.

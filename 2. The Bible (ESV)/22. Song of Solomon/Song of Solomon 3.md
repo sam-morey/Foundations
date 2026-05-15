@@ -1,7 +1,5 @@
 ← [[Song of Solomon 2]] | [[Song of Solomon 4]] →
 
-# Chapter 3
-
 1. On my bed by night I sought him whom my soul loves; I sought him, but found him not.
 2. I will rise now and go about the city, in the streets and in the squares; I will seek him whom my soul loves. I sought him, but found him not.
 3. The watchmen found me as they went about in the city. Have you seen him whom my soul loves?

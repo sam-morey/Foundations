@@ -1,7 +1,5 @@
 ← [[I Samuel 12]] | [[I Samuel 14]] →
 
-# Chapter 13
-
 1. Saul lived for one year and then became king, and when he had reigned for two years over Israel,
 2. Saul chose three thousand men of Israel. Two thousand were with Saul in Michmash and the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. The rest of the people he sent home, every man to his tent.
 3. Jonathan defeated the garrison of the Philistines that was at Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.

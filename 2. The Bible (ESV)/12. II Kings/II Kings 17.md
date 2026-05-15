@@ -1,7 +1,5 @@
 ← [[II Kings 16]] | [[II Kings 18]] →
 
-# Chapter 17
-
 1. In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel, and he reigned nine years.
 2. And he did what was evil in the sight of the Lord, yet not as the kings of Israel who were before him.
 3. Against him came up Shalmaneser king of Assyria. And Hoshea became his vassal and paid him tribute.

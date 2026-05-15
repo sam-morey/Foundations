@@ -1,7 +1,5 @@
 ← [[Psalms 104]] | [[Psalms 106]] →
 
-# Chapter 105
-
 1. Tell of All His Wonderful Works Oh give thanks to the Lord; call upon his name; make known his deeds among the peoples!
 2. Sing to him, sing praises to him; tell of all his wondrous works!
 3. Glory in his holy name; let the hearts of those who seek the Lord rejoice!

@@ -1,7 +1,5 @@
 ← [[Acts 19]] | [[Acts 21]] →
 
-# Chapter 20
-
 1. After the uproar ceased, Paul sent for the disciples, and after encouraging them, he said farewell and departed for Macedonia.
 2. When he had gone through those regions and had given them much encouragement, he came to Greece.
 3. There he spent three months, and when a plot was made against him by the Jews as he was about to set sail for Syria, he decided to return through Macedonia.

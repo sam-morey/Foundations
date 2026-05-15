@@ -1,7 +1,5 @@
 ← [[I Timothy 5]] | [[II Timothy 1]] →
 
-# Chapter 6
-
 1. Let all who are under a yoke as bondservants regard their own masters as worthy of all honor, so that the name of God and the teaching may not be reviled.
 2. Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved. Teach and urge these things.
 3. If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness,

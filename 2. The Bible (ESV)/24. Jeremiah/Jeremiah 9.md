@@ -1,7 +1,5 @@
 ← [[Jeremiah 8]] | [[Jeremiah 10]] →
 
-# Chapter 9
-
 1. Oh that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!
 2. Oh that I had in the desert a travelers ’ lodging place, that I might leave my people and go away from them! For they are all adulterers, a company of treacherous men.
 3. They bend their tongue like a bow; falsehood and not truth has grown strong in the land; for they proceed from evil to evil, and they do not know me, declares the Lord.

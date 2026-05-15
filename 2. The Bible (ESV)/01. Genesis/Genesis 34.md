@@ -1,7 +1,5 @@
 ← [[Genesis 33]] | [[Genesis 35]] →
 
-# Chapter 34
-
 1. Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the women of the land.
 2. And when Shechem the son of Hamor the Hivite, the prince of the land, saw her, he seized her and lay with her and humiliated her.
 3. And his soul was drawn to Dinah the daughter of Jacob. He loved the young woman and spoke tenderly to her.

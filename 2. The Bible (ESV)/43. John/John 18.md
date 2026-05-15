@@ -1,7 +1,5 @@
 ← [[John 17]] | [[John 19]] →
 
-# Chapter 18
-
 1. When Jesus had spoken these words, he went out with his disciples across the brook Kidron, where there was a garden, which he and his disciples entered.
 2. Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples.
 3. So Judas, having procured a band of soldiers and some officers from the chief priests and the Pharisees, went there with lanterns and torches and weapons.

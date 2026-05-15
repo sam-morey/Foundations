@@ -1,7 +1,5 @@
 ← [[II Chronicles 15]] | [[II Chronicles 17]] →
 
-# Chapter 16
-
 1. In the thirty-sixth year of the reign of Asa, Baasha king of Israel went up against Judah and built Ramah, that he might permit no one to go out or come in to Asa king of Judah.
 2. Then Asa took silver and gold from the treasures of the house of the Lord and the king’s house and sent them to Ben-hadad king of Syria, who lived in Damascus, saying,
 3. There is a covenant between me and you, as there was between my father and your father. Behold, I am sending to you silver and gold. Go, break your covenant with Baasha king of Israel, that he may withdraw from me.

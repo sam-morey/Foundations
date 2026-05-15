@@ -1,7 +1,5 @@
 ← [[II Chronicles 22]] | [[II Chronicles 24]] →
 
-# Chapter 23
-
 1. But in the seventh year Jehoiada took courage and entered into a covenant with the commanders of hundreds, Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri.
 2. And they went about through Judah and gathered the Levites from all the cities of Judah, and the heads of fathers ’ houses of Israel, and they came to Jerusalem.
 3. And all the assembly made a covenant with the king in the house of God. And Jehoiada said to them, Behold, the king’s son! Let him reign, as the Lord spoke concerning the sons of David.

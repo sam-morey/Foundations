@@ -1,7 +1,5 @@
 ← [[Psalms 9]] | [[Psalms 11]] →
 
-# Chapter 10
-
 1. Why Do You Hide Yourself? Why, O Lord, do you stand far away? Why do you hide yourself in times of trouble?
 2. In arrogance the wicked hotly pursue the poor; let them be caught in the schemes that they have devised.
 3. For the wicked boasts of the desires of his soul, and the one greedy for gain curses and renounces the Lord.

@@ -1,7 +1,5 @@
 ← [[Numbers 12]] | [[Numbers 14]] →
 
-# Chapter 13
-
 1. The Lord spoke to Moses, saying,
 2. Send men to spy out the land of Canaan, which I am giving to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them.
 3. So Moses sent them from the wilderness of Paran, according to the command of the Lord, all of them men who were heads of the people of Israel.

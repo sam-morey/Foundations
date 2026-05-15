@@ -1,7 +1,5 @@
 ← [[I Chronicles 6]] | [[I Chronicles 8]] →
 
-# Chapter 7
-
 1. The sons of Issachar : Tola, Puah, Jashub, and Shimron, four.
 2. The sons of Tola : Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers ’ houses, namely of Tola, mighty warriors of their generations, their number in the days of David being 22,600.
 3. The son of Uzzi : Izrahiah. And the sons of Izrahiah : Michael, Obadiah, Joel, and Isshiah, all five of them were chief men.

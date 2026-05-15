@@ -1,7 +1,5 @@
 ← [[I Chronicles 8]] | [[I Chronicles 10]] →
 
-# Chapter 9
-
 1. So all Israel was recorded in genealogies, and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their breach of faith.
 2. Now the first to dwell again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants.
 3. And some of the people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem :

@@ -1,7 +1,5 @@
 ← [[Judges 17]] | [[Judges 19]] →
 
-# Chapter 18
-
 1. In those days there was no king in Israel. And in those days the tribe of the people of Dan was seeking for itself an inheritance to dwell in, for until then no inheritance among the tribes of Israel had fallen to them.
 2. So the people of Dan sent five able men from the whole number of their tribe, from Zorah and from Eshtaol, to spy out the land and to explore it. And they said to them, Go and explore the land. And they came to the hill country of Ephraim, to the house of Micah, and lodged there.
 3. When they were by the house of Micah, they recognized the voice of the young Levite. And they turned aside and said to him, Who brought you here? What are you doing in this place? What is your business here?

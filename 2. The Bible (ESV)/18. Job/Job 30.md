@@ -1,7 +1,5 @@
 ← [[Job 29]] | [[Job 31]] →
 
-# Chapter 30
-
 1. But now they laugh at me, men who are younger than I, whose fathers I would have disdained to set with the dogs of my flock.
 2. What could I gain from the strength of their hands, men whose vigor is gone?
 3. Through want and hard hunger they gnaw the dry ground by night in waste and desolation;

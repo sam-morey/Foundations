@@ -1,7 +1,5 @@
 ← [[Daniel 6]] | [[Daniel 8]] →
 
-# Chapter 7
-
 1. In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.
 2. Daniel declared, I saw in my vision by night, and behold, the four winds of heaven were stirring up the great sea.
 3. And four great beasts came up out of the sea, different from one another.

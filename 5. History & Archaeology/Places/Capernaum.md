@@ -1,5 +1,3 @@
-# Capernaum
-
 **Location:** Tel Hum, northwestern shore of the Sea of Galilee, Galilee region, Israel — approximately 3 km northeast of Tabgha
 **Testament:** NT
 **Key Themes:** [[Kingdom of God]] · [[Miracles of Jesus]] · [[Discipleship]]

@@ -1,7 +1,5 @@
 ← [[Hebrews 1]] | [[Hebrews 3]] →
 
-# Chapter 2
-
 1. Therefore we must pay much closer attention to what we have heard, lest we drift away from it.
 2. For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution,
 3. how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard,

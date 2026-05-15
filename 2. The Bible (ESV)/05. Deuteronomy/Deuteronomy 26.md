@@ -1,7 +1,5 @@
 ← [[Deuteronomy 25]] | [[Deuteronomy 27]] →
 
-# Chapter 26
-
 1. When you come into the land that the Lord your God is giving you for an inheritance and have taken possession of it and live in it,
 2. you shall take some of the first of all the fruit of the ground, which you harvest from your land that the Lord your God is giving you, and you shall put it in a basket, and you shall go to the place that the Lord your God will choose, to make his name to dwell there.
 3. And you shall go to the priest who is in office at that time and say to him, I declare today to the Lord your God that I have come into the land that the Lord swore to our fathers to give us.

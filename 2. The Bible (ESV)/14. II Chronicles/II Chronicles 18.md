@@ -1,7 +1,5 @@
 ← [[II Chronicles 17]] | [[II Chronicles 19]] →
 
-# Chapter 18
-
 1. Now Jehoshaphat had great riches and honor, and he made a marriage alliance with Ahab.
 2. After some years he went down to Ahab in Samaria. And Ahab killed an abundance of sheep and oxen for him and for the people who were with him, and induced him to go up against Ramoth-gilead.
 3. Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth-gilead? He answered him, I am as you are, my people as your people. We will be with you in the war.

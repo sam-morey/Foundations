@@ -1,7 +1,5 @@
 ← [[Job 26]] | [[Job 28]] →
 
-# Chapter 27
-
 1. And Job again took up his discourse, and said :
 2. As God lives, who has taken away my right, and the Almighty, who has made my soul bitter,
 3. as long as my breath is in me, and the spirit of God is in my nostrils,

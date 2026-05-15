@@ -1,7 +1,5 @@
 ← [[II Thessalonians 1]] | [[II Thessalonians 3]] →
 
-# Chapter 2
-
 1. Now concerning the coming of our Lord Jesus Christ and our being gathered together to him, we ask you, brothers,
 2. not to be quickly shaken in mind or alarmed, either by a spirit or a spoken word, or a letter seeming to be from us, to the effect that the day of the Lord has come.
 3. Let no one deceive you in any way. For that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed, the son of destruction,

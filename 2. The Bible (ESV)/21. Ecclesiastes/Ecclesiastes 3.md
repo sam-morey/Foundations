@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 2]] | [[Ecclesiastes 4]] →
 
-# Chapter 3
-
 1. For everything there is a season, and a time for every matter under heaven :
 2. a time to be born, and a time to die; a time to plant, and a time to pluck up what is planted;
 3. a time to kill, and a time to heal; a time to break down, and a time to build up;

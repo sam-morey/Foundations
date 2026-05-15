@@ -1,7 +1,5 @@
 ← [[Amos 7]] | [[Amos 9]] →
 
-# Chapter 8
-
 1. This is what the Lord God showed me: behold, a basket of summer fruit.
 2. And he said, Amos, what do you see? And I said, A basket of summer fruit. Then the Lord said to me, The end has come upon my people Israel; I will never again pass by them.
 3. The songs of the temple shall become wailings in that day, declares the Lord God. So many dead bodies! They are thrown everywhere! Silence!

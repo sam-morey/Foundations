@@ -1,7 +1,5 @@
 ← [[I Kings 13]] | [[I Kings 15]] →
 
-# Chapter 14
-
 1. At that time Abijah the son of Jeroboam fell sick.
 2. And Jeroboam said to his wife, Arise, and disguise yourself, that it not be known that you are the wife of Jeroboam, and go to Shiloh. Behold, Ahijah the prophet is there, who said of me that I should be king over this people.
 3. Take with you ten loaves, some cakes, and a jar of honey, and go to him. He will tell you what shall happen to the child.

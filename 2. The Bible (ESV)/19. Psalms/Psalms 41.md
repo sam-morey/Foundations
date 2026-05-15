@@ -1,7 +1,5 @@
 ← [[Psalms 40]] | [[Psalms 42]] →
 
-# Chapter 41
-
 1. O Lord, Be Gracious to Me To the choirmaster. A Psalm of David. Blessed is the one who considers the poor! In the day of trouble the Lord delivers him;
 2. the Lord protects him and keeps him alive; he is called blessed in the land; you do not give him up to the will of his enemies.
 3. The Lord sustains him on his sickbed; in his illness you restore him to full health.

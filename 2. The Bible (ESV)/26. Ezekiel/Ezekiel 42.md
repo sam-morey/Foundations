@@ -1,7 +1,5 @@
 ← [[Ezekiel 41]] | [[Ezekiel 43]] →
 
-# Chapter 42
-
 1. Then he led me out into the outer court, toward the north, and he brought me to the chambers that were opposite the separate yard and opposite the building on the north.
 2. The length of the building whose door faced north was a hundred cubits, and the breadth fifty cubits.
 3. Facing the twenty cubits that belonged to the inner court, and facing the pavement that belonged to the outer court, was gallery against gallery in three stories.

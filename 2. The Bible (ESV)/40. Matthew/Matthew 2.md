@@ -1,7 +1,5 @@
 ← [[Matthew 1]] | [[Matthew 3]] →
 
-# Chapter 2
-
 1. Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem,
 2. saying, Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.
 3. When Herod the king heard this, he was troubled, and all Jerusalem with him;

@@ -1,7 +1,5 @@
 ← [[Hosea 8]] | [[Hosea 10]] →
 
-# Chapter 9
-
 1. Rejoice not, O Israel! Exult not like the peoples; for you have played the whore, forsaking your God. You have loved a prostitute’s wages on all threshing floors.
 2. Threshing floor and wine vat shall not feed them, and the new wine shall fail them.
 3. They shall not remain in the land of the Lord, but Ephraim shall return to Egypt, and they shall eat unclean food in Assyria.

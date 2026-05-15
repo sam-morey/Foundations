@@ -1,7 +1,5 @@
 ← [[Job 38]] | [[Job 40]] →
 
-# Chapter 39
-
 1. Do you know when the mountain goats give birth? Do you observe the calving of the does?
 2. Can you number the months that they fulfill, and do you know the time when they give birth,
 3. when they crouch, bring forth their offspring, and are delivered of their young?

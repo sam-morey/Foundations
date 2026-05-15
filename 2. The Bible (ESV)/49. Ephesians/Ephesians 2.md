@@ -1,7 +1,5 @@
 ← [[Ephesians 1]] | [[Ephesians 3]] →
 
-# Chapter 2
-
 1. And you were dead in the trespasses and sins
 2. in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience —
 3. among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind.

@@ -1,7 +1,5 @@
 ← [[Nehemiah 10]] | [[Nehemiah 12]] →
 
-# Chapter 11
-
 1. Now the leaders of the people lived in Jerusalem. And the rest of the people cast lots to bring one out of ten to live in Jerusalem the holy city, while nine out of ten remained in the other towns.
 2. And the people blessed all the men who willingly offered to live in Jerusalem.
 3. These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns : Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants.

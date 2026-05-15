@@ -1,7 +1,5 @@
 ← [[Deuteronomy 6]] | [[Deuteronomy 8]] →
 
-# Chapter 7
-
 1. When the Lord your God brings you into the land that you are entering to take possession of it, and clears away many nations before you, the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, seven nations more numerous and mightier than you,
 2. and when the Lord your God gives them over to you, and you defeat them, then you must devote them to complete destruction. You shall make no covenant with them and show no mercy to them.
 3. You shall not intermarry with them, giving your daughters to their sons or taking their daughters for your sons,

@@ -1,7 +1,5 @@
 ← [[I Kings 21]] | [[II Kings 1]] →
 
-# Chapter 22
-
 1. For three years Syria and Israel continued without war.
 2. But in the third year Jehoshaphat the king of Judah came down to the king of Israel.
 3. And the king of Israel said to his servants, Do you know that Ramoth-gilead belongs to us, and we keep quiet and do not take it out of the hand of the king of Syria?

@@ -1,7 +1,5 @@
 ← [[II Samuel 10]] | [[II Samuel 12]] →
 
-# Chapter 11
-
 1. , In the spring of the year, the time when kings go out to battle, David sent Joab, and his servants with him, and all Israel. And they ravaged the Ammonites and besieged Rabbah. But David remained at Jerusalem.
 2. It happened, late one afternoon, when David arose from his couch and was walking on the roof of the king’s house, that he saw from the roof a woman bathing; and the woman was very beautiful.
 3. And David sent and inquired about the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?

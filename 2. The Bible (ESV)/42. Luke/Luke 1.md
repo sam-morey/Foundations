@@ -1,7 +1,5 @@
 ← [[Mark 16]] | [[Luke 2]] →
 
-# Chapter 1
-
 1. Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,
 2. just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us,
 3. it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus,

@@ -1,7 +1,5 @@
 ← [[Ephesians 2]] | [[Ephesians 4]] →
 
-# Chapter 3
-
 1. For this reason I, Paul, a prisoner for Christ Jesus on behalf of you Gentiles —
 2. assuming that you have heard of the stewardship of God’s grace that was given to me for you,
 3. how the mystery was made known to me by revelation, as I have written briefly.

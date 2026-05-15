@@ -1,7 +1,5 @@
 ← [[Psalms 34]] | [[Psalms 36]] →
 
-# Chapter 35
-
 1. Great Is the Lord Of David. Contend, O Lord, with those who contend with me; fight against those who fight against me!
 2. Take hold of shield and buckler and rise for my help!
 3. Draw the spear and javelin against my pursuers! Say to my soul, I am your salvation!

@@ -1,7 +1,5 @@
 ← [[II Kings 24]] | [[I Chronicles 1]] →
 
-# Chapter 25
-
 1. And in the ninth year of his reign, in the tenth month, on the tenth day of the month, Nebuchadnezzar king of Babylon came with all his army against Jerusalem and laid siege to it. And they built siegeworks all around it.
 2. So the city was besieged till the eleventh year of King Zedekiah.
 3. On the ninth day of the fourth month the famine was so severe in the city that there was no food for the people of the land.

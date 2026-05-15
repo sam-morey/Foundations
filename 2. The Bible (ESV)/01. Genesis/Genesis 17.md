@@ -1,7 +1,5 @@
 ← [[Genesis 16]] | [[Genesis 18]] →
 
-# Chapter 17
-
 1. When Abram was ninety-nine years old the Lord appeared to Abram and said to him, I am God Almighty; walk before me, and be blameless,
 2. that I may make my covenant between me and you, and may multiply you greatly.
 3. Then Abram fell on his face. And God said to him,

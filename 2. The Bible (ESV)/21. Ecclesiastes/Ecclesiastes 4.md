@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 3]] | [[Ecclesiastes 5]] →
 
-# Chapter 4
-
 1. Again I saw all the oppressions that are done under the sun. And behold, the tears of the oppressed, and they had no one to comfort them! On the side of their oppressors there was power, and there was no one to comfort them.
 2. And I thought the dead who are already dead more fortunate than the living who are still alive.
 3. But better than both is he who has not yet been and has not seen the evil deeds that are done under the sun.

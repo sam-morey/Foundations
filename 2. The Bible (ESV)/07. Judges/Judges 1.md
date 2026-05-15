@@ -1,7 +1,5 @@
 ← [[Joshua 24]] | [[Judges 2]] →
 
-# Chapter 1
-
 1. After the death of Joshua, the people of Israel inquired of the Lord, Who shall go up first for us against the Canaanites, to fight against them?
 2. The Lord said, Judah shall go up; behold, I have given the land into his hand.
 3. And Judah said to Simeon his brother, Come up with me into the territory allotted to me, that we may fight against the Canaanites. And I likewise will go with you into the territory allotted to you. So Simeon went with him.

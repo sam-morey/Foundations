@@ -1,7 +1,5 @@
 ← [[Psalms 7]] | [[Psalms 9]] →
 
-# Chapter 8
-
 1. How Majestic Is Your Name To the choirmaster : according to The Gittith. A Psalm of David. O Lord, our Lord, how majestic is your name in all the earth! You have set your glory above the heavens.
 2. Out of the mouth of babies and infants, you have established strength because of your foes, to still the enemy and the avenger.
 3. When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place,

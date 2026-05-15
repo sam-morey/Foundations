@@ -1,7 +1,5 @@
 ← [[Luke 5]] | [[Luke 7]] →
 
-# Chapter 6
-
 1. On a Sabbath, while he was going through the grainfields, his disciples plucked and ate some heads of grain, rubbing them in their hands.
 2. But some of the Pharisees said, Why are you doing what is not lawful to do on the Sabbath?
 3. And Jesus answered them, Have you not read what David did when he was hungry, he and those who were with him :

@@ -1,7 +1,5 @@
 ← [[John 10]] | [[John 12]] →
 
-# Chapter 11
-
 1. Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha.
 2. It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill.
 3. So the sisters sent to him, saying, Lord, he whom you love is ill.

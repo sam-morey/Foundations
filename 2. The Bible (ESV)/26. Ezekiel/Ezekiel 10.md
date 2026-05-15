@@ -1,7 +1,5 @@
 ← [[Ezekiel 9]] | [[Ezekiel 11]] →
 
-# Chapter 10
-
 1. Then I looked, and behold, on the expanse that was over the heads of the cherubim there appeared above them something like a sapphire, in appearance like a throne.
 2. And he said to the man clothed in linen, Go in among the whirling wheels underneath the cherubim. Fill your hands with burning coals from between the cherubim, and scatter them over the city. And he went in before my eyes.
 3. Now the cherubim were standing on the south side of the house, when the man went in, and a cloud filled the inner court.

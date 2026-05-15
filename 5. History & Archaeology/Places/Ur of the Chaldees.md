@@ -1,5 +1,3 @@
-# Ur of the Chaldees
-
 **Location:** Tell el-Muqayyar ("Mound of Pitch"), Dhi Qar Governorate, southern Iraq — approximately 15 km southwest of Nasiriyah, 10 km from the Euphrates River; GPS ~30.96°N 46.10°E
 **Testament:** OT
 **Key Themes:** [[Covenant]] · [[Call and Vocation]] · [[Faith]]

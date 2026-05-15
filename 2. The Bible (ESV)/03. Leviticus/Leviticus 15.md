@@ -1,7 +1,5 @@
 ← [[Leviticus 14]] | [[Leviticus 16]] →
 
-# Chapter 15
-
 1. The Lord spoke to Moses and Aaron, saying,
 2. Speak to the people of Israel and say to them, When any man has a discharge from his body, his discharge is unclean.
 3. And this is the law of his uncleanness for a discharge : whether his body runs with his discharge, or his body is blocked up by his discharge, it is his uncleanness.

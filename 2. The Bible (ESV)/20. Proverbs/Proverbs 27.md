@@ -1,7 +1,5 @@
 ← [[Proverbs 26]] | [[Proverbs 28]] →
 
-# Chapter 27
-
 1. Do not boast about tomorrow, for you do not know what a day may bring.
 2. Let another praise you, and not your own mouth; a stranger, and not your own lips.
 3. A stone is heavy, and sand is weighty, but a fool’s provocation is heavier than both.

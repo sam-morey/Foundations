@@ -1,7 +1,5 @@
 ← [[Psalms 93]] | [[Psalms 95]] →
 
-# Chapter 94
-
 1. The Lord Will Not Forsake His People O Lord, God of vengeance, O God of vengeance, shine forth!
 2. Rise up, O judge of the earth; repay to the proud what they deserve!
 3. O Lord, how long shall the wicked, how long shall the wicked exult?

@@ -1,7 +1,5 @@
 ← [[Jeremiah 9]] | [[Jeremiah 11]] →
 
-# Chapter 10
-
 1. Hear the word that the Lord speaks to you, O house of Israel.
 2. Thus says the Lord : Learn not the way of the nations, nor be dismayed at the signs of the heavens because the nations are dismayed at them,
 3. for the customs of the peoples are vanity. A tree from the forest is cut down and worked with an axe by the hands of a craftsman.

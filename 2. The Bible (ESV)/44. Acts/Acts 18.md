@@ -1,7 +1,5 @@
 ← [[Acts 17]] | [[Acts 19]] →
 
-# Chapter 18
-
 1. After this Paul left Athens and went to Corinth.
 2. And he found a Jew named Aquila, a native of Pontus, recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. And he went to see them,
 3. and because he was of the same trade he stayed with them and worked, for they were tentmakers by trade.

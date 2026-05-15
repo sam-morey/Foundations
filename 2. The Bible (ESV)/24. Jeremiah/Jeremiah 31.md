@@ -1,7 +1,5 @@
 ← [[Jeremiah 30]] | [[Jeremiah 32]] →
 
-# Chapter 31
-
 1. At that time, declares the Lord, I will be the God of all the clans of Israel, and they shall be my people.
 2. Thus says the Lord : The people who survived the sword found grace in the wilderness; when Israel sought for rest,
 3. the Lord appeared to him from far away. I have loved you with an everlasting love; therefore I have continued my faithfulness to you.

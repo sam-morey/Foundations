@@ -1,7 +1,5 @@
 ← [[Proverbs 21]] | [[Proverbs 23]] →
 
-# Chapter 22
-
 1. A good name is to be chosen rather than great riches, and favor is better than silver or gold.
 2. The rich and the poor meet together; the Lord is the maker of them all.
 3. The prudent sees danger and hides himself, but the simple go on and suffer for it.

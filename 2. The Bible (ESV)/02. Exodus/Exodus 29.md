@@ -1,7 +1,5 @@
 ← [[Exodus 28]] | [[Exodus 30]] →
 
-# Chapter 29
-
 1. Now this is what you shall do to them to consecrate them, that they may serve me as priests. Take one bull of the herd and two rams without blemish,
 2. and unleavened bread, unleavened cakes mixed with oil, and unleavened wafers smeared with oil. You shall make them of fine wheat flour.
 3. You shall put them in one basket and bring them in the basket, and bring the bull and the two rams.

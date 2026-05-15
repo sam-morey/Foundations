@@ -1,7 +1,5 @@
 ← [[II Kings 12]] | [[II Kings 14]] →
 
-# Chapter 13
-
 1. In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and he reigned seventeen years.
 2. He did what was evil in the sight of the Lord and followed the sins of Jeroboam the son of Nebat, which he made Israel to sin; he did not depart from them.
 3. And the anger of the Lord was kindled against Israel, and he gave them continually into the hand of Hazael king of Syria and into the hand of Ben-hadad the son of Hazael.

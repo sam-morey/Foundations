@@ -1,7 +1,5 @@
 ← [[I Thessalonians 3]] | [[I Thessalonians 5]] →
 
-# Chapter 4
-
 1. Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you do so more and more.
 2. For you know what instructions we gave you through the Lord Jesus.
 3. For this is the will of God, your sanctification : that you abstain from sexual immorality;

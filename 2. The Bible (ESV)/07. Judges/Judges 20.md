@@ -1,7 +1,5 @@
 ← [[Judges 19]] | [[Judges 21]] →
 
-# Chapter 20
-
 1. Then all the people of Israel came out, from Dan to Beersheba, including the land of Gilead, and the congregation assembled as one man to the Lord at Mizpah.
 2. And the chiefs of all the people, of all the tribes of Israel, presented themselves in the assembly of the people of God, 400,000 men on foot that drew the sword.
 3. (Now the people of Benjamin heard that the people of Israel had gone up to Mizpah .) And the people of Israel said, Tell us, how did this evil happen?

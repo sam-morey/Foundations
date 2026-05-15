@@ -1,7 +1,5 @@
 ← [[Luke 14]] | [[Luke 16]] →
 
-# Chapter 15
-
 1. Now the tax collectors and sinners were all drawing near to hear him.
 2. And the Pharisees and the scribes grumbled, saying, This man receives sinners and eats with them.
 3. So he told them this parable :

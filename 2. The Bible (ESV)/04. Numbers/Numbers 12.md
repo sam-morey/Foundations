@@ -1,7 +1,5 @@
 ← [[Numbers 11]] | [[Numbers 13]] →
 
-# Chapter 12
-
 1. Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman.
 2. And they said, Has the Lord indeed spoken only through Moses? Has he not spoken through us also? And the Lord heard it.
 3. Now the man Moses was very meek, more than all people who were on the face of the earth.

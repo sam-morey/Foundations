@@ -1,7 +1,5 @@
 ← [[Hosea 4]] | [[Hosea 6]] →
 
-# Chapter 5
-
 1. Hear this, O priests! Pay attention, O house of Israel! Give ear, O house of the king! For the judgment is for you; for you have been a snare at Mizpah and a net spread upon Tabor.
 2. And the revolters have gone deep into slaughter, but I will discipline all of them.
 3. I know Ephraim, and Israel is not hidden from me; for now, O Ephraim, you have played the whore; Israel is defiled.

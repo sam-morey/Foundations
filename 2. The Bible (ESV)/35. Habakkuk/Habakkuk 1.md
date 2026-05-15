@@ -1,7 +1,5 @@
 ← [[Nahum 3]] | [[Habakkuk 2]] →
 
-# Chapter 1
-
 1. The oracle that Habakkuk the prophet saw.
 2. O Lord, how long shall I cry for help, and you will not hear? Or cry to you Violence! and you will not save?
 3. Why do you make me see iniquity, and why do you idly look at wrong? Destruction and violence are before me; strife and contention arise.

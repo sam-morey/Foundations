@@ -1,7 +1,5 @@
 ← [[Exodus 31]] | [[Exodus 33]] →
 
-# Chapter 32
-
 1. When the people saw that Moses delayed to come down from the mountain, the people gathered themselves together to Aaron and said to him, Up, make us gods who shall go before us. As for this Moses, the man who brought us up out of the land of Egypt, we do not know what has become of him.
 2. So Aaron said to them, Take off the rings of gold that are in the ears of your wives, your sons, and your daughters, and bring them to me.
 3. So all the people took off the rings of gold that were in their ears and brought them to Aaron.

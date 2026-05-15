@@ -1,7 +1,5 @@
 ← [[Ezekiel 15]] | [[Ezekiel 17]] →
 
-# Chapter 16
-
 1. Again the word of the Lord came to me:
 2. Son of man, make known to Jerusalem her abominations,
 3. and say, Thus says the Lord God to Jerusalem : Your origin and your birth are of the land of the Canaanites; your father was an Amorite and your mother a Hittite.

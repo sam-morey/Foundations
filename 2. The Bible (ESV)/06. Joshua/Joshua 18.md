@@ -1,7 +1,5 @@
 ← [[Joshua 17]] | [[Joshua 19]] →
 
-# Chapter 18
-
 1. Then the whole congregation of the people of Israel assembled at Shiloh and set up the tent of meeting there. The land lay subdued before them.
 2. There remained among the people of Israel seven tribes whose inheritance had not yet been apportioned.
 3. So Joshua said to the people of Israel, How long will you put off going in to take possession of the land, which the Lord, the God of your fathers, has given you?

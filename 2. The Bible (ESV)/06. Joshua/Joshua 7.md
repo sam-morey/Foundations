@@ -1,7 +1,5 @@
 ← [[Joshua 6]] | [[Joshua 8]] →
 
-# Chapter 7
-
 1. But the people of Israel broke faith in regard to the devoted things, for Achan the son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of the devoted things. And the anger of the Lord burned against the people of Israel.
 2. Joshua sent men from Jericho to Ai, which is near Beth-aven, east of Bethel, and said to them, Go up and spy out the land. And the men went up and spied out Ai.
 3. And they returned to Joshua and said to him, Do not have all the people go up, but let about two or three thousand men go up and attack Ai. Do not make the whole people toil up there, for they are few.

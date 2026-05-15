@@ -1,7 +1,5 @@
 ← [[Jeremiah 43]] | [[Jeremiah 45]] →
 
-# Chapter 44
-
 1. The word that came to Jeremiah concerning all the Judeans who lived in the land of Egypt, at Migdol, at Tahpanhes, at Memphis, and in the land of Pathros,
 2. Thus says the Lord of hosts, the God of Israel : You have seen all the disaster that I brought upon Jerusalem and upon all the cities of Judah. Behold, this day they are a desolation, and no one dwells in them,
 3. because of the evil that they committed, provoking me to anger, in that they went to make offerings and serve other gods that they knew not, neither they, nor you, nor your fathers.

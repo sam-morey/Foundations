@@ -1,7 +1,5 @@
 ← [[I Samuel 26]] | [[I Samuel 28]] →
 
-# Chapter 27
-
 1. Then David said in his heart, Now I shall perish one day by the hand of Saul. There is nothing better for me than that I should escape to the land of the Philistines. Then Saul will despair of seeking me any longer within the borders of Israel, and I shall escape out of his hand.
 2. So David arose and went over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath.
 3. And David lived with Achish at Gath, he and his men, every man with his household, and David with his two wives, Ahinoam of Jezreel, and Abigail of Carmel, Nabal’s widow.

@@ -1,7 +1,5 @@
 ← [[I Samuel 9]] | [[I Samuel 11]] →
 
-# Chapter 10
-
 1. Then Samuel took a flask of oil and poured it on his head and kissed him and said, Has not the Lord anointed you to be prince over his people Israel? And you shall reign over the people of the Lord and you will save them from the hand of their surrounding enemies. And this shall be the sign to you that the Lord has anointed you to be prince over his heritage.
 2. When you depart from me today, you will meet two men by Rachel’s tomb in the territory of Benjamin at Zelzah, and they will say to you, The donkeys that you went to seek are found, and now your father has ceased to care about the donkeys and is anxious about you, saying, What shall I do about my son?
 3. Then you shall go on from there farther and come to the oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.

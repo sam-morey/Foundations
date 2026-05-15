@@ -1,7 +1,5 @@
 ← [[Leviticus 22]] | [[Leviticus 24]] →
 
-# Chapter 23
-
 1. The Lord spoke to Moses, saying,
 2. Speak to the people of Israel and say to them, These are the appointed feasts of the Lord that you shall proclaim as holy convocations; they are my appointed feasts.
 3. Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the Lord in all your dwelling places.

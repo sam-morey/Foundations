@@ -1,7 +1,5 @@
 ← [[I Corinthians 11]] | [[I Corinthians 13]] →
 
-# Chapter 12
-
 1. Now concerning spiritual gifts, brothers, I do not want you to be uninformed.
 2. You know that when you were pagans you were led astray to mute idols, however you were led.
 3. Therefore I want you to understand that no one speaking in the Spirit of God ever says Jesus is accursed! and no one can say Jesus is Lord except in the Holy Spirit.

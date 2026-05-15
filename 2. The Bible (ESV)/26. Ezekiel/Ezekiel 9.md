@@ -1,7 +1,5 @@
 ← [[Ezekiel 8]] | [[Ezekiel 10]] →
 
-# Chapter 9
-
 1. Then he cried in my ears with a loud voice, saying, Bring near the executioners of the city, each with his destroying weapon in his hand.
 2. And behold, six men came from the direction of the upper gate, which faces north, each with his weapon for slaughter in his hand, and with them was a man clothed in linen, with a writing case at his waist. And they went in and stood beside the bronze altar.
 3. Now the glory of the God of Israel had gone up from the cherub on which it rested to the threshold of the house. And he called to the man clothed in linen, who had the writing case at his waist.

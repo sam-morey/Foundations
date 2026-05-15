@@ -1,7 +1,5 @@
 ← [[Genesis 20]] | [[Genesis 22]] →
 
-# Chapter 21
-
 1. The Lord visited Sarah as he had said, and the Lord did to Sarah as he had promised.
 2. And Sarah conceived and bore Abraham a son in his old age at the time of which God had spoken to him.
 3. Abraham called the name of his son who was born to him, whom Sarah bore him, Isaac.

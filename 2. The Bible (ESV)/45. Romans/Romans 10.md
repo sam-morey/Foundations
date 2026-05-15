@@ -1,7 +1,5 @@
 ← [[Romans 9]] | [[Romans 11]] →
 
-# Chapter 10
-
 1. Brothers, my heart’s desire and prayer to God for them is that they may be saved.
 2. For I bear them witness that they have a zeal for God, but not according to knowledge.
 3. For, being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God’s righteousness.

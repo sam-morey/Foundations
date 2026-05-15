@@ -1,7 +1,5 @@
 ← [[Exodus 34]] | [[Exodus 36]] →
 
-# Chapter 35
-
 1. Moses assembled all the congregation of the people of Israel and said to them, These are the things that the Lord has commanded you to do.
 2. Six days work shall be done, but on the seventh day you shall have a Sabbath of solemn rest, holy to the Lord. Whoever does any work on it shall be put to death.
 3. You shall kindle no fire in all your dwelling places on the Sabbath day.

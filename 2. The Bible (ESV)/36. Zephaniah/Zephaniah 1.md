@@ -1,7 +1,5 @@
 ← [[Habakkuk 3]] | [[Zephaniah 2]] →
 
-# Chapter 1
-
 1. The word of the Lord that came to Zephaniah the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.
 2. I will utterly sweep away everything from the face of the earth, declares the Lord.
 3. I will sweep away man and beast; I will sweep away the birds of the heavens and the fish of the sea, and the rubble with the wicked. I will cut off mankind from the face of the earth, declares the Lord.

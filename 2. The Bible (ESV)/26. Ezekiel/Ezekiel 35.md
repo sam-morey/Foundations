@@ -1,7 +1,5 @@
 ← [[Ezekiel 34]] | [[Ezekiel 36]] →
 
-# Chapter 35
-
 1. The word of the Lord came to me:
 2. Son of man, set your face against Mount Seir, and prophesy against it,
 3. and say to it, Thus says the Lord God : Behold, I am against you, Mount Seir, and I will stretch out my hand against you, and I will make you a desolation and a waste.

@@ -1,7 +1,5 @@
 ← [[Daniel 11]] | [[Hosea 1]] →
 
-# Chapter 12
-
 1. At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book.
 2. And many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 3. And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever.

@@ -1,7 +1,5 @@
 ← [[Exodus 33]] | [[Exodus 35]] →
 
-# Chapter 34
-
 1. The Lord said to Moses, Cut for yourself two tablets of stone like the first, and I will write on the tablets the words that were on the first tablets, which you broke.
 2. Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain.
 3. No one shall come up with you, and let no one be seen throughout all the mountain. Let no flocks or herds graze opposite that mountain.

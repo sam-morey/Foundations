@@ -1,5 +1,3 @@
-# Redemption & Salvation
-
 Redemption means to buy back what was lost or enslaved. Salvation is the broader concept of rescue from danger, condemnation, and death. Together they describe God's great project of reclaiming his people and his world.
 
 ## Key Passages

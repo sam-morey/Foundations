@@ -1,7 +1,5 @@
 ← [[Mark 2]] | [[Mark 4]] →
 
-# Chapter 3
-
 1. Again he entered the synagogue, and a man was there with a withered hand.
 2. And they watched Jesus, to see whether he would heal him on the Sabbath, so that they might accuse him.
 3. And he said to the man with the withered hand, Come here.

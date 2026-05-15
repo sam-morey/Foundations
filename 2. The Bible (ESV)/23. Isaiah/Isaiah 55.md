@@ -1,7 +1,5 @@
 ← [[Isaiah 54]] | [[Isaiah 56]] →
 
-# Chapter 55
-
 1. Come, everyone who thirsts, come to the waters; and he who has no money, come, buy and eat! Come, buy wine and milk without money and without price.
 2. Why do you spend your money for that which is not bread, and your labor for that which does not satisfy? Listen diligently to me, and eat what is good, and delight yourselves in rich food.
 3. Incline your ear, and come to me; hear, that your soul may live; and I will make with you an everlasting covenant, my steadfast, sure love for David.

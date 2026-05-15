@@ -1,7 +1,5 @@
 ← [[Judges 3]] | [[Judges 5]] →
 
-# Chapter 4
-
 1. And the people of Israel again did what was evil in the sight of the Lord after Ehud died.
 2. And the Lord sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his army was Sisera, who lived in Harosheth-hagoyim.
 3. Then the people of Israel cried out to the Lord for help, for he had 900 chariots of iron and he oppressed the people of Israel cruelly for twenty years.

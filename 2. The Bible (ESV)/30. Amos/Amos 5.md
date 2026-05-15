@@ -1,7 +1,5 @@
 ← [[Amos 4]] | [[Amos 6]] →
 
-# Chapter 5
-
 1. Hear this word that I take up over you in lamentation, O house of Israel :
 2. Fallen, no more to rise, is the virgin Israel; forsaken on her land, with none to raise her up.
 3. For thus says the Lord God : The city that went out a thousand shall have a hundred left, and that which went out a hundred shall have ten left to the house of Israel.

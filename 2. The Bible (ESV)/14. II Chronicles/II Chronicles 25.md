@@ -1,7 +1,5 @@
 ← [[II Chronicles 24]] | [[II Chronicles 26]] →
 
-# Chapter 25
-
 1. Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan of Jerusalem.
 2. And he did what was right in the eyes of the Lord, yet not with a whole heart.
 3. And as soon as the royal power was firmly his, he killed his servants who had struck down the king his father.

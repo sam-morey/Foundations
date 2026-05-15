@@ -1,7 +1,5 @@
 ← [[Colossians 4]] | [[I Thessalonians 2]] →
 
-# Chapter 1
-
 1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ : Grace to you and peace.
 2. We give thanks to God always for all of you, constantly mentioning you in our prayers,
 3. remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.

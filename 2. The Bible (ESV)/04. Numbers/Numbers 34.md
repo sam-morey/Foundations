@@ -1,7 +1,5 @@
 ← [[Numbers 33]] | [[Numbers 35]] →
 
-# Chapter 34
-
 1. The Lord spoke to Moses, saying,
 2. Command the people of Israel, and say to them, When you enter the land of Canaan ( this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders ),
 3. your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of the Salt Sea on the east.

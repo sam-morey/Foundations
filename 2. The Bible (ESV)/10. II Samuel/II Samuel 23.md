@@ -1,7 +1,5 @@
 ← [[II Samuel 22]] | [[II Samuel 24]] →
 
-# Chapter 23
-
 1. Now these are the last words of David : The oracle of David, the son of Jesse, the oracle of the man who was raised on high, the anointed of the God of Jacob, the sweet psalmist of Israel :
 2. The Spirit of the Lord speaks by me; his word is on my tongue.
 3. The God of Israel has spoken; the Rock of Israel has said to me: When one rules justly over men, ruling in the fear of God,

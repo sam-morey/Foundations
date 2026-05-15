@@ -1,7 +1,5 @@
 ← [[Isaiah 45]] | [[Isaiah 47]] →
 
-# Chapter 46
-
 1. Bel bows down; Nebo stoops; their idols are on beasts and livestock; these things you carry are borne as burdens on weary beasts.
 2. They stoop; they bow down together; they cannot save the burden, but themselves go into captivity.
 3. Listen to me, O house of Jacob, all the remnant of the house of Israel, who have been borne by me from before your birth, carried from the womb;

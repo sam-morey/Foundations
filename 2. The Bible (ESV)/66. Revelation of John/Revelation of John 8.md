@@ -1,7 +1,5 @@
 ← [[Revelation of John 7]] | [[Revelation of John 9]] →
 
-# Chapter 8
-
 1. When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 2. Then I saw the seven angels who stand before God, and seven trumpets were given to them.
 3. And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne,

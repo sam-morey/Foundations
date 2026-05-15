@@ -1,7 +1,5 @@
 ← [[Ezekiel 46]] | [[Ezekiel 48]] →
 
-# Chapter 47
-
 1. Then he brought me back to the door of the temple, and behold, water was issuing from below the threshold of the temple toward the east ( for the temple faced east ). The water was flowing down from below the south end of the threshold of the temple, south of the altar.
 2. Then he brought me out by way of the north gate and led me around on the outside to the outer gate that faces toward the east; and behold, the water was trickling out on the south side.
 3. Going on eastward with a measuring line in his hand, the man measured a thousand cubits, and then led me through the water, and it was ankle-deep.

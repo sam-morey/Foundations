@@ -1,7 +1,5 @@
 ← [[I Chronicles 9]] | [[I Chronicles 11]] →
 
-# Chapter 10
-
 1. Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa.
 2. And the Philistines overtook Saul and his sons, and the Philistines struck down Jonathan and Abinadab and Malchi-shua, the sons of Saul.
 3. The battle pressed hard against Saul, and the archers found him, and he was wounded by the archers.

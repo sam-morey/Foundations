@@ -1,5 +1,3 @@
-# Nazareth
-
 **Location:** Nazareth, Lower Galilee, northern Israel — in the hills above the Jezreel Valley, approximately 25 km west of the Sea of Galilee; 32.6996° N, 35.3035° E; elevation ~347 m above sea level
 **Testament:** NT (Jesus's hometown)
 **Key Themes:** [[Incarnation]] · [[Rejection]] · [[Prophecy and Fulfillment]] · [[Kingdom of God]]

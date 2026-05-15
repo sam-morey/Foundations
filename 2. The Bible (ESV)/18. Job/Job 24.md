@@ -1,7 +1,5 @@
 ← [[Job 23]] | [[Job 25]] →
 
-# Chapter 24
-
 1. Why are not times of judgment kept by the Almighty, and why do those who know him never see his days?
 2. Some move landmarks; they seize flocks and pasture them.
 3. They drive away the donkey of the fatherless; they take the widow’s ox for a pledge.

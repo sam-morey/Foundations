@@ -1,7 +1,5 @@
 ← [[Genesis 12]] | [[Genesis 14]] →
 
-# Chapter 13
-
 1. So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, into the Negeb.
 2. Now Abram was very rich in livestock, in silver, and in gold.
 3. And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai,

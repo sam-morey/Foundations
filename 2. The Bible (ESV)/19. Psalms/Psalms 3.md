@@ -1,7 +1,5 @@
 ← [[Psalms 2]] | [[Psalms 4]] →
 
-# Chapter 3
-
 1. Save Me, O My God A Psalm of David, when he fled from Absalom his son. O Lord, how many are my foes! Many are rising against me;
 2. many are saying of my soul, there is no salvation for him in God.
 3. But you, O Lord, are a shield about me, my glory, and the lifter of my head.

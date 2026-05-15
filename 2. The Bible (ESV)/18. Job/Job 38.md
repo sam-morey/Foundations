@@ -1,7 +1,5 @@
 ← [[Job 37]] | [[Job 39]] →
 
-# Chapter 38
-
 1. Then the Lord answered Job out of the whirlwind and said :
 2. Who is this that darkens counsel by words without knowledge?
 3. Dress for action like a man; I will question you, and you make it known to me.

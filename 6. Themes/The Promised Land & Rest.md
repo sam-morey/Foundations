@@ -1,5 +1,3 @@
-# The Promised Land & Rest
-
 God promised Abraham a land — a place of security, abundance, and his presence. This promise shapes Israel's entire story. In the NT, the physical land becomes a type of a greater rest: life in the new creation.
 
 ## Key Passages

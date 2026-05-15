@@ -1,5 +1,3 @@
-# Jeremiah
-
 **Testament:** Old Testament
 **Era:** The Prophets
 **Appears In:** [[3. Overviews/24. Jeremiah Overview|Jeremiah]]

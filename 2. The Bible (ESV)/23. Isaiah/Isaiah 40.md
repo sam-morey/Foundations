@@ -1,7 +1,5 @@
 ← [[Isaiah 39]] | [[Isaiah 41]] →
 
-# Chapter 40
-
 1. Comfort, comfort my people, says your God.
 2. Speak tenderly to Jerusalem, and cry to her that her warfare is ended, that her iniquity is pardoned, that she has received from the Lord ’s hand double for all her sins.
 3. A voice cries : In the wilderness prepare the way of the Lord; make straight in the desert a highway for our God.

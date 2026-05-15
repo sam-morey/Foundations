@@ -1,7 +1,5 @@
 ← [[Esther 10]] | [[Job 2]] →
 
-# Chapter 1
-
 1. There was a man in the land of Uz whose name was Job, and that man was blameless and upright, one who feared God and turned away from evil.
 2. There were born to him seven sons and three daughters.
 3. He possessed 7,000 sheep, 3,000 camels, 500 yoke of oxen, and 500 female donkeys, and very many servants, so that this man was the greatest of all the people of the east.

@@ -1,7 +1,5 @@
 ← [[II Timothy 1]] | [[II Timothy 3]] →
 
-# Chapter 2
-
 1. You then, my child, be strengthened by the grace that is in Christ Jesus,
 2. and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also.
 3. Share in suffering as a good soldier of Christ Jesus.

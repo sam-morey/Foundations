@@ -1,7 +1,5 @@
 ← [[I Kings 14]] | [[I Kings 16]] →
 
-# Chapter 15
-
 1. Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam began to reign over Judah.
 2. He reigned for three years in Jerusalem. His mother’s name was Maacah the daughter of Abishalom.
 3. And he walked in all the sins that his father did before him, and his heart was not wholly true to the Lord his God, as the heart of David his father.

@@ -1,7 +1,5 @@
 ← [[I John 1]] | [[I John 3]] →
 
-# Chapter 2
-
 1. My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous.
 2. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.
 3. And by this we know that we have come to know him, if we keep his commandments.

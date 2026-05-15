@@ -1,7 +1,5 @@
 ← [[Proverbs 3]] | [[Proverbs 5]] →
 
-# Chapter 4
-
 1. Hear, O sons, a father’s instruction, and be attentive, that you may gain insight,
 2. for I give you good precepts; do not forsake my teaching.
 3. When I was a son with my father, tender, the only one in the sight of my mother,

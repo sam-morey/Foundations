@@ -1,7 +1,5 @@
 ← [[Zephaniah 2]] | [[Haggai 1]] →
 
-# Chapter 3
-
 1. Woe to her who is rebellious and defiled, the oppressing city!
 2. She listens to no voice; she accepts no correction. She does not trust in the Lord; she does not draw near to her God.
 3. Her officials within her are roaring lions; her judges are evening wolves that leave nothing till the morning.

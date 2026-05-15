@@ -1,7 +1,5 @@
 ← [[John 11]] | [[John 13]] →
 
-# Chapter 12
-
 1. Six days before the Passover, Jesus therefore came to Bethany, where Lazarus was, whom Jesus had raised from the dead.
 2. So they gave a dinner for him there. Martha served, and Lazarus was one of those reclining with him at table.
 3. Mary therefore took a pound of expensive ointment made from pure nard, and anointed the feet of Jesus and wiped his feet with her hair. The house was filled with the fragrance of the perfume.

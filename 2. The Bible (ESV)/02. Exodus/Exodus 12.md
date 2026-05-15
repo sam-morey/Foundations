@@ -1,7 +1,5 @@
 ← [[Exodus 11]] | [[Exodus 13]] →
 
-# Chapter 12
-
 1. The Lord said to Moses and Aaron in the land of Egypt,
 2. This month shall be for you the beginning of months. It shall be the first month of the year for you.
 3. Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers ’ houses, a lamb for a household.

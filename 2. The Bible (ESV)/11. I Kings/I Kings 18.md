@@ -1,7 +1,5 @@
 ← [[I Kings 17]] | [[I Kings 19]] →
 
-# Chapter 18
-
 1. After many days the word of the Lord came to Elijah, in the third year, saying, Go, show yourself to Ahab, and I will send rain upon the earth.
 2. So Elijah went to show himself to Ahab. Now the famine was severe in Samaria.
 3. And Ahab called Obadiah, who was over the household. (Now Obadiah feared the Lord greatly,

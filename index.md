@@ -1,8 +1,6 @@
 ---
-title: The Library Vault
+title: Foundations — Exploring the Bible
 ---
-
-# The Library Vault
 
 A personal knowledge base of book notes, ideas, and synthesis — organized for thinking, not just storage.
 

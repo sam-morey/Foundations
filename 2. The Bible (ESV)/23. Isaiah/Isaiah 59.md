@@ -1,7 +1,5 @@
 ← [[Isaiah 58]] | [[Isaiah 60]] →
 
-# Chapter 59
-
 1. Behold, the Lord ’s hand is not shortened, that it cannot save, or his ear dull, that it cannot hear;
 2. but your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear.
 3. For your hands are defiled with blood and your fingers with iniquity; your lips have spoken lies; your tongue mutters wickedness.

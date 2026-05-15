@@ -1,7 +1,5 @@
 ← [[Isaiah 29]] | [[Isaiah 31]] →
 
-# Chapter 30
-
 1. Ah, stubborn children, declares the Lord, who carry out a plan, but not mine, and who make an alliance, but not of my Spirit, that they may add sin to sin;
 2. who set out to go down to Egypt, without asking for my direction, to take refuge in the protection of Pharaoh and to seek shelter in the shadow of Egypt!
 3. Therefore shall the protection of Pharaoh turn to your shame, and the shelter in the shadow of Egypt to your humiliation.

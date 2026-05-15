@@ -1,7 +1,5 @@
 ← [[II Corinthians 11]] | [[II Corinthians 13]] →
 
-# Chapter 12
-
 1. I must go on boasting. Though there is nothing to be gained by it, I will go on to visions and revelations of the Lord.
 2. I know a man in Christ who fourteen years ago was caught up to the third heaven — whether in the body or out of the body I do not know, God knows.
 3. And I know that this man was caught up into paradise — whether in the body or out of the body I do not know, God knows —

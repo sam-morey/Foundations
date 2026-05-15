@@ -1,7 +1,5 @@
 ← [[Ezekiel 45]] | [[Ezekiel 47]] →
 
-# Chapter 46
-
 1. Thus says the Lord God : The gate of the inner court that faces east shall be shut on the six working days, but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.
 2. The prince shall enter by the vestibule of the gate from outside, and shall take his stand by the post of the gate. The priests shall offer his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until evening.
 3. The people of the land shall bow down at the entrance of that gate before the Lord on the Sabbaths and on the new moons.

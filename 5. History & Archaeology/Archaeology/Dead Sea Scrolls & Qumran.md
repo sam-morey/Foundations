@@ -1,5 +1,3 @@
-# Qumran & the Dead Sea Scrolls
-
 **Location:** Khirbet Qumran, northwestern shore of the Dead Sea, West Bank — approximately 1.5 km from the shoreline, 13 km south of Jericho; GPS ~31.74°N 35.46°E
 **Testament:** Intertestamental / OT Background
 **Key Themes:** [[Scripture and Canon]] · [[Messianic Expectation]] · [[Covenant Community]]

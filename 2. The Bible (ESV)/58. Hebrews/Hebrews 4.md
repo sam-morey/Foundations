@@ -1,7 +1,5 @@
 ← [[Hebrews 3]] | [[Hebrews 5]] →
 
-# Chapter 4
-
 1. Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it.
 2. For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened.
 3. For we who have believed enter that rest, as he has said, As I swore in my wrath, They shall not enter my rest, although his works were finished from the foundation of the world.

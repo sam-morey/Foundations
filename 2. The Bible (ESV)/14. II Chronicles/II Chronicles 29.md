@@ -1,7 +1,5 @@
 ← [[II Chronicles 28]] | [[II Chronicles 30]] →
 
-# Chapter 29
-
 1. Hezekiah began to reign when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abijah the daughter of Zechariah.
 2. And he did what was right in the eyes of the Lord, according to all that David his father had done.
 3. In the first year of his reign, in the first month, he opened the doors of the house of the Lord and repaired them.

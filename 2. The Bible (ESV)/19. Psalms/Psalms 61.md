@@ -1,7 +1,5 @@
 ← [[Psalms 60]] | [[Psalms 62]] →
 
-# Chapter 61
-
 1. Lead Me to the Rock To the choirmaster : with stringed instruments. Of David. Hear my cry, O God, listen to my prayer;
 2. from the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I,
 3. for you have been my refuge, a strong tower against the enemy.

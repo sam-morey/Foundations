@@ -1,7 +1,5 @@
 ← [[II Samuel 13]] | [[II Samuel 15]] →
 
-# Chapter 14
-
 1. Now Joab the son of Zeruiah knew that the king’s heart went out to Absalom.
 2. And Joab sent to Tekoa and brought from there a wise woman and said to her, Pretend to be a mourner and put on mourning garments. Do not anoint yourself with oil, but behave like a woman who has been mourning many days for the dead.
 3. Go to the king and speak thus to him. So Joab put the words in her mouth.

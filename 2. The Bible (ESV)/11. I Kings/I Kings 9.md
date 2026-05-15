@@ -1,7 +1,5 @@
 ← [[I Kings 8]] | [[I Kings 10]] →
 
-# Chapter 9
-
 1. As soon as Solomon had finished building the house of the Lord and the king’s house and all that Solomon desired to build,
 2. the Lord appeared to Solomon a second time, as he had appeared to him at Gibeon.
 3. And the Lord said to him, I have heard your prayer and your plea, which you have made before me. I have consecrated this house that you have built, by putting my name there forever. My eyes and my heart will be there for all time.

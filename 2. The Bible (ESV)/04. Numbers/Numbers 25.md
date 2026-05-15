@@ -1,7 +1,5 @@
 ← [[Numbers 24]] | [[Numbers 26]] →
 
-# Chapter 25
-
 1. While Israel lived in Shittim, the people began to whore with the daughters of Moab.
 2. These invited the people to the sacrifices of their gods, and the people ate and bowed down to their gods.
 3. So Israel yoked himself to Baal of Peor. And the anger of the Lord was kindled against Israel.

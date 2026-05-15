@@ -1,7 +1,5 @@
 ← [[Nehemiah 6]] | [[Nehemiah 8]] →
 
-# Chapter 7
-
 1. Now when the wall had been built and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed,
 2. I gave my brother Hanani and Hananiah the governor of the castle charge over Jerusalem, for he was a more faithful and God-fearing man than many.
 3. And I said to them, Let not the gates of Jerusalem be opened until the sun is hot. And while they are still standing guard, let them shut and bar the doors. Appoint guards from among the inhabitants of Jerusalem, some at their guard posts and some in front of their own homes.

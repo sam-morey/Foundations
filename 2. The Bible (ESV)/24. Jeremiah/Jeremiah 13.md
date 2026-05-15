@@ -1,7 +1,5 @@
 ← [[Jeremiah 12]] | [[Jeremiah 14]] →
 
-# Chapter 13
-
 1. Thus says the Lord to me, Go and buy a linen loincloth and put it around your waist, and do not dip it in water.
 2. So I bought a loincloth according to the word of the Lord, and put it around my waist.
 3. And the word of the Lord came to me a second time,

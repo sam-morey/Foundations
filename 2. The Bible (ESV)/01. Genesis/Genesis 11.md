@@ -1,7 +1,5 @@
 ← [[Genesis 10]] | [[Genesis 12]] →
 
-# Chapter 11
-
 1. Now the whole earth had one language and the same words.
 2. And as people migrated from the east, they found a plain in the land of Shinar and settled there.
 3. And they said to one another, Come, let us make bricks, and burn them thoroughly. And they had brick for stone, and bitumen for mortar.

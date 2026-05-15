@@ -1,7 +1,5 @@
 ← [[Genesis 48]] | [[Genesis 50]] →
 
-# Chapter 49
-
 1. Then Jacob called his sons and said, Gather yourselves together, that I may tell you what shall happen to you in days to come.
 2. Assemble and listen, O sons of Jacob, listen to Israel your father.
 3. Reuben, you are my firstborn, my might, and the firstfruits of my strength, preeminent in dignity and preeminent in power.

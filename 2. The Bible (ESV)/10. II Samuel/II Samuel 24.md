@@ -1,7 +1,5 @@
 ← [[II Samuel 23]] | [[I Kings 1]] →
 
-# Chapter 24
-
 1. , Again the anger of the Lord was kindled against Israel, and he incited David against them, saying, Go, number Israel and Judah.
 2. So the king said to Joab, the commander of the army, who was with him, Go through all the tribes of Israel, from Dan to Beersheba, and number the people, that I may know the number of the people.
 3. But Joab said to the king, May the Lord your God add to the people a hundred times as many as they are, while the eyes of my lord the king still see it, but why does my lord the king delight in this thing?

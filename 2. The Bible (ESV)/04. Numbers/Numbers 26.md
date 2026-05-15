@@ -1,7 +1,5 @@
 ← [[Numbers 25]] | [[Numbers 27]] →
 
-# Chapter 26
-
 1. After the plague, the Lord said to Moses and to Eleazar the son of Aaron, the priest,
 2. Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers ’ houses, all in Israel who are able to go to war.
 3. And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,

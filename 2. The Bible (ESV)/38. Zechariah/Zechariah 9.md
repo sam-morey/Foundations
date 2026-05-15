@@ -1,7 +1,5 @@
 ← [[Zechariah 8]] | [[Zechariah 10]] →
 
-# Chapter 9
-
 1. The oracle of the word of the Lord is against the land of Hadrach and Damascus is its resting place. For the Lord has an eye on mankind and on all the tribes of Israel,
 2. and on Hamath also, which borders on it, Tyre and Sidon, though they are very wise.
 3. Tyre has built herself a rampart and heaped up silver like dust, and fine gold like the mud of the streets.

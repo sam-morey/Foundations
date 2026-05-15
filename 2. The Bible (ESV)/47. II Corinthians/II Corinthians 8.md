@@ -1,7 +1,5 @@
 ← [[II Corinthians 7]] | [[II Corinthians 9]] →
 
-# Chapter 8
-
 1. We want you to know, brothers, about the grace of God that has been given among the churches of Macedonia,
 2. for in a severe test of affliction, their abundance of joy and their extreme poverty have overflowed in a wealth of generosity on their part.
 3. For they gave according to their means, as I can testify, and beyond their means, of their own accord,

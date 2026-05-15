@@ -1,7 +1,5 @@
 ← [[Psalms 13]] | [[Psalms 15]] →
 
-# Chapter 14
-
 1. The Fool Says, There Is No God To the choirmaster. Of David. The fool says in his heart, There is no God. They are corrupt, they do abominable deeds, there is none who does good.
 2. The Lord looks down from heaven on the children of man, to see if there are any who understand, who seek after God.
 3. They have all turned aside; together they have become corrupt; there is none who does good, not even one.

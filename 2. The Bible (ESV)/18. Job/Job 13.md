@@ -1,7 +1,5 @@
 ← [[Job 12]] | [[Job 14]] →
 
-# Chapter 13
-
 1. Behold, my eye has seen all this, my ear has heard and understood it.
 2. What you know, I also know; I am not inferior to you.
 3. But I would speak to the Almighty, and I desire to argue my case with God.

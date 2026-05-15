@@ -1,7 +1,5 @@
 ← [[Psalms 20]] | [[Psalms 22]] →
 
-# Chapter 21
-
 1. The King Rejoices in the Lord ’s Strength To the choirmaster. A Psalm of David. O Lord, in your strength the king rejoices, and in your salvation how greatly he exults!
 2. You have given him his heart’s desire and have not withheld the request of his lips.
 3. For you meet him with rich blessings; you set a crown of fine gold upon his head.

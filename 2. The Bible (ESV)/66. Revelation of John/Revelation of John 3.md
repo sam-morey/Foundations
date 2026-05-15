@@ -1,7 +1,5 @@
 ← [[Revelation of John 2]] | [[Revelation of John 4]] →
 
-# Chapter 3
-
 1. And to the angel of the church in Sardis write : The words of him who has the seven spirits of God and the seven stars. I know your works. You have the reputation of being alive, but you are dead.
 2. Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God.
 3. Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.

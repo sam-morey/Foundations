@@ -1,7 +1,5 @@
 ← [[Romans 15]] | [[I Corinthians 1]] →
 
-# Chapter 16
-
 1. I commend to you our sister Phoebe, a servant of the church at Cenchreae,
 2. that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
 3. Greet Prisca and Aquila, my fellow workers in Christ Jesus,

@@ -1,7 +1,5 @@
 ← [[Acts 21]] | [[Acts 23]] →
 
-# Chapter 22
-
 1. Brothers and fathers, hear the defense that I now make before you.
 2. And when they heard that he was addressing them in the Hebrew language, they became even more quiet. And he said :
 3. I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated at the feet of Gamaliel according to the strict manner of the law of our fathers, being zealous for God as all of you are this day.

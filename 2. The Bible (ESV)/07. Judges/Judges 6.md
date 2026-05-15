@@ -1,7 +1,5 @@
 ← [[Judges 5]] | [[Judges 7]] →
 
-# Chapter 6
-
 1. The people of Israel did what was evil in the sight of the Lord, and the Lord gave them into the hand of Midian seven years.
 2. And the hand of Midian overpowered Israel, and because of Midian the people of Israel made for themselves the dens that are in the mountains and the caves and the strongholds.
 3. For whenever the Israelites planted crops, the Midianites and the Amalekites and the people of the East would come up against them.

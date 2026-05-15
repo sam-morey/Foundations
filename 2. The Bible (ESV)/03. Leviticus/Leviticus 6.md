@@ -1,7 +1,5 @@
 ← [[Leviticus 5]] | [[Leviticus 7]] →
 
-# Chapter 6
-
 1. The Lord spoke to Moses, saying,
 2. If anyone sins and commits a breach of faith against the Lord by deceiving his neighbor in a matter of deposit or security, or through robbery, or if he has oppressed his neighbor
 3. or has found something lost and lied about it, swearing falsely —in any of all the things that people do and sin thereby —

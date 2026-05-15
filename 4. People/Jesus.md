@@ -1,5 +1,3 @@
-# Jesus
-
 **Testament:** Both — the fulfillment of the entire Old Testament and the center of the New
 **Era:** The Gospels · The Early Church
 **Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], and throughout all Scripture

@@ -1,7 +1,5 @@
 ← [[John 8]] | [[John 10]] →
 
-# Chapter 9
-
 1. As he passed by, he saw a man blind from birth.
 2. And his disciples asked him, Rabbi, who sinned, this man or his parents, that he was born blind?
 3. Jesus answered, It was not that this man sinned, or his parents, but that the works of God might be displayed in him.

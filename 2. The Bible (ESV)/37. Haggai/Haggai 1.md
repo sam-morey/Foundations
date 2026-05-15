@@ -1,7 +1,5 @@
 ← [[Zephaniah 3]] | [[Haggai 2]] →
 
-# Chapter 1
-
 1. In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest :
 2. Thus says the Lord of hosts : These people say the time has not yet come to rebuild the house of the Lord.
 3. Then the word of the Lord came by the hand of Haggai the prophet,

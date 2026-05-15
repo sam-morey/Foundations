@@ -1,7 +1,5 @@
 ← [[Psalms 69]] | [[Psalms 71]] →
 
-# Chapter 70
-
 1. O Lord, Do Not Delay To the choirmaster. Of David, for the memorial offering. Make haste, O God, to deliver me! O Lord, make haste to help me!
 2. Let them be put to shame and confusion who seek my life! Let them be turned back and brought to dishonor who delight in my hurt!
 3. Let them turn back because of their shame who say, Aha, Aha!

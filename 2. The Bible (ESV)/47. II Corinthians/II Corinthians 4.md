@@ -1,7 +1,5 @@
 ← [[II Corinthians 3]] | [[II Corinthians 5]] →
 
-# Chapter 4
-
 1. Therefore, having this ministry by the mercy of God, we do not lose heart.
 2. But we have renounced disgraceful, underhanded ways. We refuse to practice cunning or to tamper with God’s word, but by the open statement of the truth we would commend ourselves to everyone’s conscience in the sight of God.
 3. And even if our gospel is veiled, it is veiled to those who are perishing.

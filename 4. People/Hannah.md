@@ -1,5 +1,3 @@
-# Hannah
-
 **Testament:** Old Testament
 **Era:** The Judges
 **Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]]

@@ -1,7 +1,5 @@
 ← [[Isaiah 31]] | [[Isaiah 33]] →
 
-# Chapter 32
-
 1. Behold, a king will reign in righteousness, and princes will rule in justice.
 2. Each will be like a hiding place from the wind, a shelter from the storm, like streams of water in a dry place, like the shade of a great rock in a weary land.
 3. Then the eyes of those who see will not be closed, and the ears of those who hear will give attention.

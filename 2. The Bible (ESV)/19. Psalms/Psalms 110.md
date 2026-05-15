@@ -1,7 +1,5 @@
 ← [[Psalms 109]] | [[Psalms 111]] →
 
-# Chapter 110
-
 1. Sit at My Right Hand A Psalm of David. The Lord says to my Lord : Sit at my right hand, until I make your enemies your footstool.
 2. The Lord sends forth from Zion your mighty scepter. Rule in the midst of your enemies!
 3. Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours.

@@ -1,7 +1,5 @@
 ← [[Revelation of John 14]] | [[Revelation of John 16]] →
 
-# Chapter 15
-
 1. Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
 2. And I saw what appeared to be a sea of glass mingled with fire —and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands.
 3. And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!

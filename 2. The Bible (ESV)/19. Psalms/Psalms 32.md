@@ -1,7 +1,5 @@
 ← [[Psalms 31]] | [[Psalms 33]] →
 
-# Chapter 32
-
 1. Blessed Are the Forgiven A Maskil of David. Blessed is the one whose transgression is forgiven, whose sin is covered.
 2. Blessed is the man against whom the Lord counts no iniquity, and in whose spirit there is no deceit.
 3. For when I kept silent, my bones wasted away through my groaning all day long.

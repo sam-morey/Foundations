@@ -1,7 +1,5 @@
 ← [[Mark 10]] | [[Mark 12]] →
 
-# Chapter 11
-
 1. Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples
 2. and said to them, Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it.
 3. If anyone says to you, Why are you doing this? say, The Lord has need of it and will send it back here immediately.

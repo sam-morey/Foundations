@@ -1,7 +1,5 @@
 ← [[Job 6]] | [[Job 8]] →
 
-# Chapter 7
-
 1. Has not man a hard service on earth, and are not his days like the days of a hired hand?
 2. Like a slave who longs for the shadow, and like a hired hand who looks for his wages,
 3. so I am allotted months of emptiness, and nights of misery are apportioned to me.

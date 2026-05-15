@@ -1,7 +1,5 @@
 ← [[Genesis 49]] | [[Exodus 1]] →
 
-# Chapter 50
-
 1. Then Joseph fell on his father’s face and wept over him and kissed him.
 2. And Joseph commanded his servants the physicians to embalm his father. So the physicians embalmed Israel.
 3. Forty days were required for it, for that is how many are required for embalming. And the Egyptians wept for him seventy days.

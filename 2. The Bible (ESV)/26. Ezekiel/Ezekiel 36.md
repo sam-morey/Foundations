@@ -1,7 +1,5 @@
 ← [[Ezekiel 35]] | [[Ezekiel 37]] →
 
-# Chapter 36
-
 1. And you, son of man, prophesy to the mountains of Israel, and say, O mountains of Israel, hear the word of the Lord.
 2. Thus says the Lord God : Because the enemy said of you, Aha! and, The ancient heights have become our possession,
 3. therefore prophesy, and say, Thus says the Lord God : Precisely because they made you desolate and crushed you from all sides, so that you became the possession of the rest of the nations, and you became the talk and evil gossip of the people,

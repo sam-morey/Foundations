@@ -1,7 +1,5 @@
 ← [[Luke 8]] | [[Luke 10]] →
 
-# Chapter 9
-
 1. And he called the twelve together and gave them power and authority over all demons and to cure diseases,
 2. and he sent them out to proclaim the kingdom of God and to heal.
 3. And he said to them, Take nothing for your journey, no staff, nor bag, nor bread, nor money; and do not have two tunics.

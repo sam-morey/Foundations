@@ -1,7 +1,5 @@
 ← [[Genesis 37]] | [[Genesis 39]] →
 
-# Chapter 38
-
 1. It happened at that time that Judah went down from his brothers and turned aside to a certain Adullamite, whose name was Hirah.
 2. There Judah saw the daughter of a certain Canaanite whose name was Shua. He took her and went in to her,
 3. and she conceived and bore a son, and he called his name Er.

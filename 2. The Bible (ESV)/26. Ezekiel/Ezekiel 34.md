@@ -1,7 +1,5 @@
 ← [[Ezekiel 33]] | [[Ezekiel 35]] →
 
-# Chapter 34
-
 1. The word of the Lord came to me:
 2. Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus says the Lord God : Ah, shepherds of Israel who have been feeding yourselves! Should not shepherds feed the sheep?
 3. You eat the fat, you clothe yourselves with the wool, you slaughter the fat ones, but you do not feed the sheep.

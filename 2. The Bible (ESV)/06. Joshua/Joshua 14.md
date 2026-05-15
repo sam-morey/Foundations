@@ -1,7 +1,5 @@
 ← [[Joshua 13]] | [[Joshua 15]] →
 
-# Chapter 14
-
 1. These are the inheritances that the people of Israel received in the land of Canaan, which Eleazar the priest and Joshua the son of Nun and the heads of the fathers ’ houses of the tribes of the people of Israel gave them to inherit.
 2. Their inheritance was by lot, just as the Lord had commanded by the hand of Moses for the nine and one-half tribes.
 3. For Moses had given an inheritance to the two and one-half tribes beyond the Jordan, but to the Levites he gave no inheritance among them.

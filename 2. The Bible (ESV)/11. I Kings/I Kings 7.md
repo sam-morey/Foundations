@@ -1,7 +1,5 @@
 ← [[I Kings 6]] | [[I Kings 8]] →
 
-# Chapter 7
-
 1. Solomon was building his own house thirteen years, and he finished his entire house.
 2. He built the House of the Forest of Lebanon. Its length was a hundred cubits and its breadth fifty cubits and its height thirty cubits, and it was built on four rows of cedar pillars, with cedar beams on the pillars.
 3. And it was covered with cedar above the chambers that were on the forty-five pillars, fifteen in each row.

@@ -1,7 +1,5 @@
 ← [[Psalms 90]] | [[Psalms 92]] →
 
-# Chapter 91
-
 1. My Refuge and My Fortress He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.
 2. I will say to the Lord, My refuge and my fortress, my God, in whom I trust.
 3. For he will deliver you from the snare of the fowler and from the deadly pestilence.

@@ -1,7 +1,5 @@
 ← [[II Chronicles 14]] | [[II Chronicles 16]] →
 
-# Chapter 15
-
 1. The Spirit of God came upon Azariah the son of Oded,
 2. and he went out to meet Asa and said to him, Hear me, Asa, and all Judah and Benjamin : The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.
 3. For a long time Israel was without the true God, and without a teaching priest and without law,

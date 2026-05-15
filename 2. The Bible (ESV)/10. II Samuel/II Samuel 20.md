@@ -1,7 +1,5 @@
 ← [[II Samuel 19]] | [[II Samuel 21]] →
 
-# Chapter 20
-
 1. Now there happened to be there a worthless man, whose name was Sheba, the son of Bichri, a Benjaminite. And he blew the trumpet and said, We have no portion in David, and we have no inheritance in the son of Jesse; every man to his tents, O Israel!
 2. So all the men of Israel withdrew from David and followed Sheba the son of Bichri. But the men of Judah followed their king steadfastly from the Jordan to Jerusalem.
 3. And David came to his house at Jerusalem. And the king took the ten concubines whom he had left to care for the house and put them in a house under guard and provided for them, but did not go in to them. So they were shut up until the day of their death, living as if in widowhood.

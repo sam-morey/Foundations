@@ -1,7 +1,5 @@
 ← [[Revelation of John 19]] | [[Revelation of John 21]] →
 
-# Chapter 20
-
 1. Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain.
 2. And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years,
 3. and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.

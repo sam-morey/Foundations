@@ -1,7 +1,5 @@
 ← [[II Samuel 9]] | [[II Samuel 11]] →
 
-# Chapter 10
-
 1. After this the king of the Ammonites died, and Hanun his son reigned in his place.
 2. And David said, I will deal loyally with Hanun the son of Nahash, as his father dealt loyally with me. So David sent by his servants to console him concerning his father. And David’s servants came into the land of the Ammonites.
 3. But the princes of the Ammonites said to Hanun their lord, Do you think, because David has sent comforters to you, that he is honoring your father? Has not David sent his servants to you to search the city and to spy it out and to overthrow it?

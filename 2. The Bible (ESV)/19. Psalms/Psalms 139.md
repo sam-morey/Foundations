@@ -1,7 +1,5 @@
 ← [[Psalms 138]] | [[Psalms 140]] →
 
-# Chapter 139
-
 1. Search Me, O God, and Know My Heart To the choirmaster. A Psalm of David. O Lord, you have searched me and known me!
 2. You know when I sit down and when I rise up; you discern my thoughts from afar.
 3. You search out my path and my lying down and are acquainted with all my ways.

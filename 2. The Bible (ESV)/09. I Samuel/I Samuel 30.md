@@ -1,7 +1,5 @@
 ← [[I Samuel 29]] | [[I Samuel 31]] →
 
-# Chapter 30
-
 1. Now when David and his men came to Ziklag on the third day, the Amalekites had made a raid against the Negeb and against Ziklag. They had overcome Ziklag and burned it with fire
 2. and taken captive the women and all who were in it, both small and great. They killed no one, but carried them off and went their way.
 3. And when David and his men came to the city, they found it burned with fire, and their wives and sons and daughters taken captive.

@@ -1,7 +1,5 @@
 ← [[Psalms 121]] | [[Psalms 123]] →
 
-# Chapter 122
-
 1. Let Us Go to the House of the Lord A Song of Ascents. Of David. I was glad when they said to me, Let us go to the house of the Lord!
 2. Our feet have been standing within your gates, O Jerusalem!
 3. Jerusalem — built as a city that is bound firmly together,

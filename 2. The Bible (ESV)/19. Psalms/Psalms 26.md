@@ -1,7 +1,5 @@
 ← [[Psalms 25]] | [[Psalms 27]] →
 
-# Chapter 26
-
 1. I Will Bless the Lord Of David. Vindicate me, O Lord, for I have walked in my integrity, and I have trusted in the Lord without wavering.
 2. Prove me, O Lord, and try me; test my heart and my mind.
 3. For your steadfast love is before my eyes, and I walk in your faithfulness.

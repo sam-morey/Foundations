@@ -1,7 +1,5 @@
 ← [[Leviticus 17]] | [[Leviticus 19]] →
 
-# Chapter 18
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to the people of Israel and say to them, I am the Lord your God.
 3. You shall not do as they do in the land of Egypt, where you lived, and you shall not do as they do in the land of Canaan, to which I am bringing you. You shall not walk in their statutes.

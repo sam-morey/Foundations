@@ -1,5 +1,3 @@
-# Creation & New Creation
-
 God creates, sustains, and ultimately renews all things. Scripture opens with God as the sovereign Creator and closes with the promise of a new heaven and new earth — bookending the entire biblical story.
 
 ## Key Passages

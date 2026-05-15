@@ -1,5 +1,3 @@
-# Prayer & Worship
-
 Prayer is communication with God — honest, persistent, and confident. Worship is the response of the whole person to who God is. Together they describe the heart of a life lived toward God.
 
 ## Key Passages
