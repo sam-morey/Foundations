@@ -1,29 +1,29 @@
-Welcome to this site. Here you'll find the full text of the Bible (ESV), organized by book and chapter, with linked theme notes, book overviews (MOCs), and cross-references between related passages.
+Welcome to this site. Here you'll find the complete Bible (ESV) with linked overviews, theme notes, people profiles, historical timelines, and supplemental reading — all organized for exploration and study.
 
 ---
 
 ## How to Navigate
 
-| Starting Point         | Where to Go                          |
-| ---------------------- | ------------------------------------ |
-| Browse all books       | [[1. The Bible (ESV)]]                  |
-| Explore themes         | [[4. Themes]]                           |
-| Notable people         | [[3. People]]                           |
-| Study resources        | [[2. Supplemental Content]]               |
-| History & archaeology  | [[5. History & Archaeology]]            |
-| Specific book overview | (see list below)                     |
-| Individual chapter     | `2. The Bible (ESV) / [##. Book] / Book N` |
+| Section | Description | Index |
+|---------|-------------|-------|
+| The Bible (ESV) | All 66 books, chapter by chapter | [[2. The Bible (ESV)]] |
+| Book Overviews | Book-by-book summaries with key themes and cross-references | [[3. Overviews]] |
+| People | 55 biblical character profiles across both Testaments | [[4. People]] |
+| History & Archaeology | Timelines, places, and archaeological discoveries | [[5. History & Archaeology]] |
+| Themes | 24 threads woven across both Testaments | [[6. Themes]] |
+| Supplemental Reading | 32 companion books for deeper study | [[7. Supplemental Content]] |
 
 ---
 
 ## This Site's Structure
 
 ```
-0. Start Here/      — This home note
-1. Site Map/        — Navigation indexes (books, themes, resources)
-2. The Bible/       — All 66 books, each with individual chapter files
-3. Themes/          — 18 thematic notes tracing ideas across the whole Bible
-4. MOCs/            — Book overviews: summary, key chapters, cross-references
+2. The Bible (ESV)/       — All 66 books with individual chapter files
+3. Overviews/             — Book-by-book summaries, key chapters, cross-references
+4. People/                — 55 biblical character profiles
+5. History & Archaeology/ — Timelines, biblical places, archaeological discoveries
+6. Themes/                — 24 thematic threads tracing ideas across the whole Bible
+7. Supplemental Content/  — Companion reading notes
 ```
 
 ---
@@ -41,16 +41,20 @@ The Bible is not a random collection of texts. It tells one unified story:
 
 ---
 
-## Old Testament
+## The Bible (ESV) & Book Overviews
 
-### Torah (The Law)
+→ [[2. The Bible (ESV)]] · [[3. Overviews]]
+
+### Old Testament
+
+#### Torah (The Law)
 - [[01. Genesis Overview]] — Creation, Fall, Abraham, Joseph
 - [[02. Exodus Overview]] — The Passover, the Exodus, Sinai, the Law, the Tabernacle
 - [[03. Leviticus Overview]] — Sacrificial system, Day of Atonement, Holiness Code
 - [[04. Numbers Overview]] — The wilderness journey; faith and failure
 - [[05. Deuteronomy Overview]] — Moses' farewell; covenant renewal; the *Shema*
 
-### Historical Books
+#### Historical Books
 - [[06. Joshua Overview]] — Entering the Promised Land
 - [[07. Judges Overview]] — The cycle of sin and deliverance
 - [[08. Ruth Overview]] — Loyal love; the Gentile ancestress of David
@@ -64,21 +68,21 @@ The Bible is not a random collection of texts. It tells one unified story:
 - [[16. Nehemiah Overview]] — The walls rebuilt; the Law renewed
 - [[17. Esther Overview]] — God's hidden providence; the Jewish people preserved
 
-### Wisdom & Poetry
+#### Wisdom & Poetry
 - [[18. Job Overview]] — Suffering, lament, and the encounter with God
 - [[19. Psalms Overview]] — Israel's prayer book: 150 poems covering every human emotion
 - [[20. Proverbs Overview]] — Practical wisdom for everyday life
 - [[21. Ecclesiastes Overview]] — Life's vanity and the fear of God
 - [[22. Song of Solomon Overview]] — The beauty of love
 
-### Major Prophets
+#### Major Prophets
 - [[23. Isaiah Overview]] — Judgment and comfort; the Servant; new creation
 - [[24. Jeremiah Overview]] — The weeping prophet; the New Covenant
 - [[25. Lamentations Overview]] — Grief over Jerusalem's fall; "Great is your faithfulness"
 - [[26. Ezekiel Overview]] — God's glory departs and returns; the Spirit poured out
 - [[27. Daniel Overview]] — Faithfulness under empire; the Son of Man
 
-### Minor Prophets
+#### Minor Prophets
 - [[28. Hosea Overview]] — Marriage parable; God's relentless love pursuing an unfaithful people
 - [[29. Joel Overview]] — The Day of the Lord; "I will pour out my Spirit on all flesh"
 - [[30. Amos Overview]] — "Let justice roll down like waters"; judgment on social injustice
@@ -92,18 +96,16 @@ The Bible is not a random collection of texts. It tells one unified story:
 - [[38. Zechariah Overview]] — The coming King; the most messianic of the minor prophets
 - [[39. Malachi Overview]] — The last OT prophet; a messenger to prepare the way
 
----
+### New Testament
 
-## New Testament
-
-### The Gospels & Acts
+#### The Gospels & Acts
 - [[40. Matthew Overview]] — Jesus as the fulfillment of Israel's story; the Kingdom announced
 - [[41. Mark Overview]] — The powerful, urgent Servant-Son
 - [[42. Luke Overview]] — The Savior of all: the poor, the outsider, the Gentile
 - [[43. John Overview]] — The eternal Word made flesh; "I AM" sayings and seven signs
 - [[44. Acts Overview]] — The Spirit-powered spread of the gospel to the ends of the earth
 
-### Paul's Letters
+#### Paul's Letters
 - [[45. Romans Overview]] — The fullest statement of the gospel; justification by faith
 - [[46. 1 Corinthians Overview]] — Divisions, gifts, the love chapter, and the resurrection
 - [[47. 2 Corinthians Overview]] — Treasure in jars of clay; strength made perfect in weakness
@@ -118,7 +120,7 @@ The Bible is not a random collection of texts. It tells one unified story:
 - [[56. Titus Overview]] — Sound doctrine; grace that trains us to live godly lives
 - [[57. Philemon Overview]] — A miniature picture of the gospel; intercession for Onesimus
 
-### General Letters
+#### General Letters
 - [[58. Hebrews Overview]] — Christ superior to all; the New Covenant; the hall of faith
 - [[59. James Overview]] — "Faith without works is dead"; NT wisdom for daily life
 - [[60. 1 Peter Overview]] — A living hope; sojourners and aliens grounded in Christ's suffering
@@ -128,14 +130,60 @@ The Bible is not a random collection of texts. It tells one unified story:
 - [[64. 3 John Overview]] — Hospitality commended; Diotrephes warned
 - [[65. Jude Overview]] — "Contend for the faith once for all delivered to the saints"
 
-### Apocalyptic
+#### Apocalyptic
 - [[66. Revelation Overview]] — The Lamb victorious; the new creation
 
 ---
 
-## Themes Index
+## People
 
-*Themes trace threads across the whole Bible.*
+→ [[4. People]]
+
+*55 profiles spanning both Testaments — from the first humans to the apostles.*
+
+**Old Testament** — Adam · Eve · Noah · Abraham · Sarah · Isaac · Rebekah · Jacob · Joseph · Moses · Aaron · Joshua · Deborah · Ruth · Samuel · Saul · David · Solomon · Elijah · Elisha · Isaiah · Jeremiah · Ezekiel · Daniel · Esther · Nehemiah · and more
+
+**New Testament** — Mary · Joseph · John the Baptist · Peter · Andrew · James · John · Mary Magdalene · Martha · Lazarus · Paul · Barnabas · Silas · Timothy · Luke · Priscilla & Aquila · Pilate · Herod · Caiaphas · and more
+
+---
+
+## History & Archaeology
+
+→ [[5. History & Archaeology]]
+
+*The Bible's world from the outside — empires, excavations, and evidence that grounds the story.*
+
+### Historical Timelines
+
+- [[01. Ancient Near East & Patriarchal Era]] — ~2200–1550 BC: Sumer, Akkad, Hammurabi, the Patriarchs
+- [[02. Egypt & the Exodus Era]] — ~1550–1200 BC: New Kingdom Egypt, the Exodus, the Hittite Empire
+- [[03. The Conquest & Judges Period]] — ~1200–1000 BC: Bronze Age Collapse, the Sea Peoples, Iron Age begins
+- [[04. The United & Divided Kingdoms]] — ~1000–722 BC: David and Solomon, Phoenicia, Assyria rising
+- [[05. The Assyrian Empire]] — ~900–612 BC: Sargon II, Sennacherib, fall of Israel, Hezekiah
+- [[06. The Babylonian Empire & the Exile]] — ~626–539 BC: Nebuchadnezzar, the exile, Daniel
+- [[07. The Persian Empire]] — ~539–330 BC: Cyrus, the return, Greek golden age, Socrates
+- [[08. The Hellenistic Period]] — ~330–63 BC: Alexander the Great, Maccabean revolt
+- [[09. The Roman Empire & the New Testament Era]] — ~63 BC–100 AD: Augustus, Jesus, Paul, destruction of Jerusalem
+
+### Biblical Places
+
+→ [[Places — Map of Content|All Places]]
+
+[[Ur of the Chaldees]] · [[Hebron]] · [[Mount Sinai (Horeb)]] · [[Jericho]] · [[Jerusalem]] · [[Megiddo]] · [[Hazor]] · [[Bethlehem]] · [[Nazareth]] · [[Jordan River]] · [[Sea of Galilee]] · [[Capernaum]] · [[Bethany]] · [[Garden of Gethsemane]] · [[Mount of Olives]] · [[Golgotha & Calvary]] · [[Babylon]] · [[Nineveh]] · [[Caesarea Maritima]] · [[Corinth]] · [[Ephesus]] · [[Rome]]
+
+### Archaeological Discoveries
+
+→ [[Archaeology — Map of Content|All Archaeology]]
+
+[[Merneptah Stele]] · [[Mesha Stele (Moabite Stone)]] · [[Tel Dan Stele]] · [[Siloam Tunnel & Hezekiah's Inscription]] · [[Sennacherib's Prism (Taylor Prism)]] · [[Dead Sea Scrolls & Qumran]] · [[Pilate Stone]] · [[Ossuary of Caiaphas]] · [[Gallio Inscription]]
+
+---
+
+## Themes
+
+→ [[6. Themes]]
+
+*24 threads woven through the whole Bible — tracing ideas, images, and patterns from Genesis to Revelation.*
 
 ### Story Arc
 [[Creation & New Creation]] · [[Sin & The Fall]] · [[Redemption & Salvation]] · [[Covenant]] · [[Prophecy & Fulfillment]] · [[Resurrection & Eternal Life]]
@@ -154,40 +202,22 @@ The Bible is not a random collection of texts. It tells one unified story:
 
 ---
 
-## History & Archaeology
+## Supplemental Reading
 
-*How the Bible's world looked from the outside — empires, excavations, and the evidence that grounds the story.*
+→ [[7. Supplemental Content]]
 
-### Historical Timelines
-- [[01. Ancient Near East & Patriarchal Era]] — ~2200–1550 BC: Sumer, Akkad, Hammurabi, the Patriarchs
-- [[02. Egypt & the Exodus Era]] — ~1550–1200 BC: New Kingdom Egypt, the Exodus, the Hittite Empire
-- [[03. The Conquest & Judges Period]] — ~1200–1000 BC: Bronze Age Collapse, the Sea Peoples, Iron Age begins
-- [[04. The United & Divided Kingdoms]] — ~1000–722 BC: David and Solomon, Phoenicia, Assyria rising
-- [[05. The Assyrian Empire]] — ~900–612 BC: Sargon II, Sennacherib, fall of Israel, Hezekiah
-- [[06. The Babylonian Empire & the Exile]] — ~626–539 BC: Nebuchadnezzar, the exile, Daniel, Confucius, Buddha
-- [[07. The Persian Empire]] — ~539–330 BC: Cyrus, the return, Greek golden age, Socrates
-- [[08. The Hellenistic Period]] — ~330–63 BC: Alexander the Great, Maccabean revolt, Dead Sea Scrolls community
-- [[09. The Roman Empire & the New Testament Era]] — ~63 BC–100 AD: Augustus, Jesus, Paul, the destruction of Jerusalem
+*32 companion books organized by topic — theology, biblical scholarship, devotional classics, history, and literature. Each note covers the book's argument, key chapters, and connections to Scripture.*
 
-#### Biblical Places
-- [[Places — Map of Content|All Places →]]
-- [[Ur of the Chaldees]] · [[Hebron]] · [[Mount Sinai (Horeb)]] · [[Jericho]] · [[Jerusalem]] · [[Megiddo]] · [[Hazor]]
-- [[Bethlehem]] · [[Nazareth]] · [[Jordan River]] · [[Sea of Galilee]] · [[Capernaum]] · [[Bethany]] · [[Garden of Gethsemane]] · [[Mount of Olives]] · [[Golgotha & Calvary]]
-- [[Babylon]] · [[Nineveh]] · [[Caesarea Maritima]] · [[Corinth]] · [[Ephesus]] · [[Rome]]
-
-#### Archaeological Discoveries
-- [[Archaeology — Map of Content|All Archaeology →]]
-- [[Merneptah Stele]] · [[Mesha Stele (Moabite Stone)]] · [[Tel Dan Stele]] · [[Siloam Tunnel & Hezekiah's Inscription]] · [[Sennacherib's Prism (Taylor Prism)]]
-- [[Dead Sea Scrolls & Qumran]] · [[Pilate Stone]] · [[Ossuary of Caiaphas]] · [[Gallio Inscription]]
+**Theology & Knowledge of God** · **Biblical Theology & Narrative** · **Devotional Classics** · **Church History & Biography** · **Ethics & Cultural Engagement** · **Literature & Imagination**
 
 ---
 
 ## Key Cross-Referenced Chapters
 
-These are the most-linked chapters in this site — passages that serve as hubs connecting many other texts:
+*The most-linked chapters on this site — passages that serve as hubs connecting many other texts.*
 
-**Old Testament hubs**
+**Old Testament**
 [[Genesis 1|Gen 1]] · [[Genesis 3|Gen 3]] · [[Genesis 12|Gen 12]] · [[Genesis 15|Gen 15]] · [[Genesis 22|Gen 22]] · [[Exodus 12|Ex 12]] · [[Exodus 20|Ex 20]] · [[Leviticus 16|Lev 16]] · [[Deuteronomy 6|Deut 6]] · [[II Samuel 7|2 Sam 7]] · [[Psalms 22|Ps 22]] · [[Psalms 23|Ps 23]] · [[Psalms 51|Ps 51]] · [[Psalms 110|Ps 110]] · [[Isaiah 53|Isa 53]] · [[Jeremiah 31|Jer 31]] · [[Ezekiel 37|Ezek 37]] · [[Daniel 7|Dan 7]]
 
-**New Testament hubs**
+**New Testament**
 [[Matthew 5|Matt 5]] · [[Matthew 26|Matt 26]] · [[John 1]] · [[John 3]] · [[John 10]] · [[John 17]] · [[Acts 2]] · [[Romans 3|Rom 3]] · [[Romans 8|Rom 8]] · [[I Corinthians 13|1 Cor 13]] · [[I Corinthians 15|1 Cor 15]] · [[Hebrews 11|Heb 11]] · [[Revelation of John 21|Rev 21]] · [[Revelation of John 22|Rev 22]]
