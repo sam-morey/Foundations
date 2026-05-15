@@ -9,7 +9,8 @@ A personal knowledge base of book notes, ideas, and synthesis — organized for 
 ## Site Map
 
 - [[1. The Bible (ESV)]] — All books by category
-- [[3. Themes]] — Themes and concepts across books
+- [[4. Themes]] — Themes and concepts across books
+- [[3. People]] — Notable biblical figures
 
 ## Books by Category
 

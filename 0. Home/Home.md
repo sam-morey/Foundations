@@ -9,7 +9,8 @@ Welcome to this vault. Here you'll find the full text of the Bible (ESV), organi
 | Starting Point         | Where to Go                          |
 | ---------------------- | ------------------------------------ |
 | Browse all books       | [[1. The Bible (ESV)]]                  |
-| Explore themes         | [[3. Themes]]                           |
+| Explore themes         | [[4. Themes]]                           |
+| Notable people         | [[3. People]]                           |
 | Study resources        | [[2. Supplemental Content]]               |
 | Specific book overview | (see list below)                     |
 | Individual chapter     | `2. The Bible (ESV) / [##. Book] / Book N` |
