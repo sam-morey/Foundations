@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🗒",
+      "📕",
+      "📚",
+      "📔",
+      "📁"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "50 - Consulting": "💼",
+  "90 - Templates": "🧩",
+  "98 - Attachments": "📎",
+  "99 - Archive": "♻",
+  "1. Site Map": "🌎",
+  "89 - To Be Processed": "📥",
+  "5. Themes": "🗒",
+  "6. Insights": "💡",
+  "2. The Bible (ESV)": "📕",
+  "3. Book Overviews": "📔",
+  "0. Home": "⭐",
+  "4. Supplemental Content": "📚"
+}

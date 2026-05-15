@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "e02d1c36a3835afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "249beabea0dbfd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e01318461e166a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. The Bible (ESV)/01. Genesis/Genesis 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96c6576b51dc872d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3abb15e56a45a284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae3aa6e21a3dc59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f1107ed198f6154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#copilot-conversation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e9631815b1f4f676",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "7df32854284cd02b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c67b46713a35abf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "913ff71af3a44fa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20 - Books/Consulting/The Trusted Advisor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Trusted Advisor"
+            }
+          },
+          {
+            "id": "fa79d6020438f360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20 - Books/Consulting/The Trusted Advisor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Trusted Advisor"
+            }
+          },
+          {
+            "id": "9ff71bde07017f51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20 - Books/Consulting/The Trusted Advisor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Trusted Advisor"
+            }
+          },
+          {
+            "id": "c617540c43fd2441",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6665ff08afc01567",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "f13ef2877cdfd96a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0fd7e4d5138d0a0e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "copilot:Open Copilot Chat": false,
+      "quartz-syncer:Quartz Syncer publication center": false
+    }
+  },
+  "active": "3ae3aa6e21a3dc59",
+  "lastOpenFiles": [
+    "fix_external_links.py",
+    "2. The Bible (ESV)/01. Genesis/Genesis 1.md",
+    "2. The Bible (ESV)/01. Genesis/Genesis 2.md",
+    "1. Site Map/1. The Bible (ESV).md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 9.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 8.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 7.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 6.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 5.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 4.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 3.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 22.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 21.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 20.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 10.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 2.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 19.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 18.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 17.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 16.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 15.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 14.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 13.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 11.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 12.md",
+    "2. The Bible (ESV)/66. Revelation of John/Revelation of John 1.md",
+    "2. The Bible (ESV)/66. Revelation of John",
+    "2. The Bible (ESV)/65. Jude",
+    "2. The Bible (ESV)/64. III John",
+    "2. The Bible (ESV)/63. II John",
+    "2. The Bible (ESV)/62. I John",
+    "2. The Bible (ESV)/61. II Peter",
+    "2. The Bible (ESV)/60. I Peter",
+    "2. The Bible (ESV)/59. James",
+    "2. The Bible (ESV)/58. Hebrews",
+    "2. The Bible (ESV)/57. Philemon",
+    "98 - Attachments/Screenshot 2026-04-29 at 12.41.46 PM.png",
+    "Screenshot 2026-04-17 at 11.58.24 AM.png",
+    "Scripts/node_modules/xlsx/legend.png",
+    "Scripts/node_modules/xlsx/formats.png",
+    "Untitled.canvas",
+    "assets/logo.svg"
+  ]
+}

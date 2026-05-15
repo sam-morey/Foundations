@@ -1,0 +1,40 @@
+# Redemption & Salvation
+
+Redemption means to buy back what was lost or enslaved. Salvation is the broader concept of rescue from danger, condemnation, and death. Together they describe God's great project of reclaiming his people and his world.
+
+## Key Passages
+
+### Old Testament Foundations
+- [[2. The Bible (ESV)/01. Genesis/Genesis 3\|Genesis 3:15]] — First promise of redemption (*protevangelium*)
+- [[2. The Bible (ESV)/02. Exodus/Exodus 6\|Exodus 6]] — "I will redeem you with an outstretched arm"
+- [[2. The Bible (ESV)/02. Exodus/Exodus 12\|Exodus 12]] — The Passover: the paradigm redemption event
+- [[2. The Bible (ESV)/03. Leviticus/Leviticus 16\|Leviticus 16]] — Day of Atonement
+- [[2. The Bible (ESV)/23. Isaiah/Isaiah 43\|Isaiah 43]] — "I am the Lord your Redeemer"
+- [[2. The Bible (ESV)/23. Isaiah/Isaiah 53\|Isaiah 53]] — The Servant crushed for our iniquities
+- [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31\|Jeremiah 31]] — New Covenant promises of forgiveness
+
+### New Testament Fulfillment
+- [[2. The Bible (ESV)/42. Luke/Luke 4\|Luke 4]] — Jesus announces the year of the Lord's favor (Jubilee language)
+- [[2. The Bible (ESV)/43. John/John 3\|John 3]] — God so loved the world that he gave his Son
+- [[2. The Bible (ESV)/45. Romans/Romans 3\|Romans 3]] — Justified freely by his grace through the redemption in Christ
+- [[2. The Bible (ESV)/45. Romans/Romans 5\|Romans 5]] — While we were still sinners, Christ died for us
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 1\|Ephesians 1]] — Redemption through his blood, forgiveness of trespasses
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 2\|Ephesians 2]] — Saved by grace through faith
+- [[2. The Bible (ESV)/56. Titus/Titus 2\|Titus 2]] — Christ gave himself to redeem us
+- [[2. The Bible (ESV)/58. Hebrews/Hebrews 9\|Hebrews 9]] — The blood of Christ secures an eternal redemption
+- [[2. The Bible (ESV)/60. I Peter/I Peter 1\|1 Peter 1]] — Ransomed not with silver or gold but with the precious blood of Christ
+
+## The Shape of Salvation
+
+**Justification** — declared righteous before God: [[2. The Bible (ESV)/45. Romans/Romans 3\|Romans 3–4]], [[2. The Bible (ESV)/48. Galatians/Galatians 2\|Galatians 2]]
+**Sanctification** — being made holy: [[2. The Bible (ESV)/45. Romans/Romans 6\|Romans 6]], [[2. The Bible (ESV)/43. John/John 17\|John 17]]
+**Glorification** — final transformation: [[2. The Bible (ESV)/45. Romans/Romans 8\|Romans 8]], [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21]]
+
+## Related Themes
+- [[Covenant]] — salvation comes through covenant relationship
+- [[Sacrifice & Atonement]] — the cost of redemption
+- [[Faith & Trust]] — the instrument of receiving salvation
+- [[Grace & Mercy]] — salvation is unearned
+- [[Messiah & Christ]] — the Redeemer
+- [[Sin & The Fall]] — what we are saved from
+- [[Resurrection & Eternal Life]] — where salvation leads

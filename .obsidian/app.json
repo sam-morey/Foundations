@@ -1,0 +1,14 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "newFileFolderPath": "40 - Sources",
+  "attachmentFolderPath": "98 - Attachments",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
