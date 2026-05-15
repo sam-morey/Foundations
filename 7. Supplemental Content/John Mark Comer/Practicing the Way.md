@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Practicing the Way* presents Christian discipleship as apprenticeship to Jesus: being with him, becoming like him, and doing as he did.
 - John Mark Comer argues that spiritual formation is inevitable, but the question is whether we are being formed by Jesus or by the surrounding culture.
 - The book’s practical center is the development of a Rule of Life: intentional rhythms and practices that make space for transformation.

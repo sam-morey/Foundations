@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Knowledge of the Holy* argues that the most important thing about a person is what comes into their mind when they think about God.
 - A. W. Tozer’s central concern is that weak Christian living and shallow worship often begin with a diminished or distorted view of God.
 - The book is a devotional theology of the divine attributes, calling readers to recover awe, reverence, and right worship through a truer knowledge of God.

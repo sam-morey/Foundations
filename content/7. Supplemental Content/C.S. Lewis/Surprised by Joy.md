@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Surprised by Joy* is C.S. Lewis's spiritual autobiography, tracing his journey from early childhood atheism through a prolonged encounter with a distinctive experience he calls "Joy"—a stabbing, bittersweet longing—that finally pointed him toward Christianity.
 - Lewis argues that Joy is an objective desire that the world cannot satisfy, and that its very unsatisfiability is evidence pointing beyond the world—ultimately, toward God, the only object adequate to the desire.
 - The book is as much a record of Lewis's intellectual life—his wide reading, formative friendships, and encounter with idealist philosophy—as it is an account of spiritual conversion, and it culminates in his adult acceptance of theism and then Christianity.

@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Nouwen meditates on Rembrandt's painting of the prodigal son to argue that every person moves through three postures — the lost younger son, the resentful elder son, and the compassionate father.
 - The deepest calling of the Christian life is not merely to return home as a repentant child but to grow into the father's posture of unconditional, grieving, forgiving love.
 - The parable of Luke 15 is not finally about guilt or reward but about the limitless welcome of the Father, which becomes the ground of our own identity and the pattern for our ministry.

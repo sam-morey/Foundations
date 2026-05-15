@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Confessions* is Augustine's autobiographical account of his spiritual journey from a morally restless, intellectually ambitious young man through years of Manichaeism, Neoplatonism, and worldly ambition to his conversion to Christianity and the death of his mother Monica.
 - Augustine addresses the entire work to God as an extended act of praise and honest confession, weaving together autobiography, philosophy, and theology into a sustained exploration of the nature of God, the soul, memory, time, and sin.
 - The book's most famous insight—that the human heart is restless until it rests in God—is not merely doctrinal but is substantiated through Augustine's own agonizing experience of seeking rest in everything else first.

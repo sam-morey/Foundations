@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Graeme Goldsworthy traces the entire Bible through the lens of the kingdom of God, defined as "God's people in God's place under God's rule."
 - Every stage of biblical history — from Eden to the new creation — is a progressive, typological revelation of this kingdom pattern, reaching its climax in Jesus Christ.
 - Biblical theology is the discipline that reads Scripture as a unified, Christ-centered story, and Goldsworthy provides the clearest accessible introduction to this method.

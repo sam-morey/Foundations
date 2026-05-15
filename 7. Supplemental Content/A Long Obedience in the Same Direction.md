@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *A Long Obedience in the Same Direction* is Eugene Peterson's exposition of the fifteen Psalms of Ascent (Psalms 120–134), read as a guide for the pilgrim life of discipleship against the grain of a consumer culture that prizes instant results.
 - Peterson argues that discipleship is not an experience but a direction—a patient, long-term orientation of the whole self toward God that accumulates over a lifetime of small faithfulness.
 - The book is both an antidote to spiritual consumerism and a practical guide to the virtues of the pilgrim: repentance, community, perseverance, and joy.

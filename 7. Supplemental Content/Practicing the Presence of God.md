@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Brother Lawrence discovered that constant, attentive communion with God is possible in every moment of ordinary life — not only in formal prayer — and that this practice produces a deep, unwavering peace.
 - The sacrament of ordinary work is the book's great contribution: washing dishes, carrying loads, and performing menial tasks can become as holy as kneeling in the chapel if done with a conscious turning of the heart to God.
 - Simplicity is the method: not complex techniques or elevated spiritual experiences, but a gentle, repeated returning of attention to the God who is always already present.

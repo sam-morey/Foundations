@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Divine Comedy* is Dante Alighieri's medieval epic in three canticles—*Inferno*, *Purgatorio*, and *Paradiso*—narrating a soul's guided journey through the realms of the afterlife as a comprehensive vision of sin, judgment, purgation, and beatitude.
 - The poem is simultaneously a theological summary of medieval Christian cosmology, a moral and political satire of 14th-century Florence and Rome, and a personal spiritual autobiography of a soul lost in the dark wood who finds his way home.
 - Its central claim is that love—properly ordered or disordered—is the root of all human action, and that the ultimate end of the human soul is the direct vision of God himself.

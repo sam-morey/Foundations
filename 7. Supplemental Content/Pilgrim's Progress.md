@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Pilgrim’s Progress* is John Bunyan’s Christian allegory of the soul’s journey from sin and destruction toward salvation and the Celestial City.
 - Because the work has no original chapter divisions, the summary below follows its actual structure: **Part I** (Christian’s pilgrimage) and **Part II** (Christiana’s pilgrimage), with the major narrative stages treated in sequence.
 - The book’s central concerns are conversion, perseverance, temptation, grace, fellowship, suffering, and final redemption.

@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Ragamuffin Gospel* argues that the Christian message of grace has been buried under layers of moralism, performance, and religious respectability, and that the gospel was always intended for the broken, the failing, and the self-aware sinner.
 - Manning draws on his own experience of addiction, failure, and recovery to insist that God's love is not conditioned on human achievement or improvement but is given freely to "ragamuffins"—those who have nothing to offer but their need.
 - The book calls readers away from a religious life built on fear and performance toward one rooted in the reckless, unconditional love that Jesus proclaimed to the poor, the outcasts, and the self-confessed sinners.

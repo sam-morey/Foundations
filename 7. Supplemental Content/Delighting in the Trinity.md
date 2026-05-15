@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Delighting in the Trinity* argues that the Trinity is not a difficult extra on the edge of Christianity, but the heart of the Christian faith.
 - Michael Reeves presents God as eternally Father, Son, and Spirit, showing that love, creation, salvation, and the Christian life all flow from God’s triune being.
 - The book’s central claim is that Christians do not merely believe in a doctrine called the Trinity; they are invited into delight, communion, and life with the triune God.

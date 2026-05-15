@@ -12,6 +12,7 @@ Welcome to this vault. Here you'll find the full text of the Bible (ESV), organi
 | Explore themes         | [[4. Themes]]                           |
 | Notable people         | [[3. People]]                           |
 | Study resources        | [[2. Supplemental Content]]               |
+| History & archaeology  | [[5. History & Archaeology]]            |
 | Specific book overview | (see list below)                     |
 | Individual chapter     | `2. The Bible (ESV) / [##. Book] / Book N` |
 
@@ -152,6 +153,29 @@ The Bible is not a random collection of texts. It tells one unified story:
 
 ### Scope & Mission
 [[Israel & The Gentiles]] · [[The Promised Land & Rest]] · [[Law & Torah]] · [[The Holy Spirit]] · [[The Word of God]]
+
+---
+
+## History & Archaeology
+
+*How the Bible's world looked from the outside — empires, excavations, and the evidence that grounds the story.*
+
+### Historical Timelines
+- [[01. Ancient Near East & Patriarchal Era]] — ~2200–1550 BC: Sumer, Akkad, Hammurabi, the Patriarchs
+- [[02. Egypt & the Exodus Era]] — ~1550–1200 BC: New Kingdom Egypt, the Exodus, the Hittite Empire
+- [[03. The Conquest & Judges Period]] — ~1200–1000 BC: Bronze Age Collapse, the Sea Peoples, Iron Age begins
+- [[04. The United & Divided Kingdoms]] — ~1000–722 BC: David and Solomon, Phoenicia, Assyria rising
+- [[05. The Assyrian Empire]] — ~900–612 BC: Sargon II, Sennacherib, fall of Israel, Hezekiah
+- [[06. The Babylonian Empire & the Exile]] — ~626–539 BC: Nebuchadnezzar, the exile, Daniel, Confucius, Buddha
+- [[07. The Persian Empire]] — ~539–330 BC: Cyrus, the return, Greek golden age, Socrates
+- [[08. The Hellenistic Period]] — ~330–63 BC: Alexander the Great, Maccabean revolt, Dead Sea Scrolls community
+- [[09. The Roman Empire & the New Testament Era]] — ~63 BC–100 AD: Augustus, Jesus, Paul, the destruction of Jerusalem
+
+### Key Sites & Archaeology
+- [[Jerusalem]] · [[Jericho]] · [[Bethlehem]] · [[Nazareth]] · [[Capernaum]] · [[Caesarea Maritima]]
+- [[Megiddo]] · [[Hazor]] · [[Qumran & the Dead Sea Scrolls]]
+- [[Babylon]] · [[Nineveh]] · [[Ur of the Chaldees]]
+- [[Corinth]] · [[Ephesus]] · [[Rome]]
 
 ---
 

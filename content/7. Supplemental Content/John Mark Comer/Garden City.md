@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Garden City* argues that human beings are made for meaningful work and meaningful rest, and that both are central to what it means to be fully human.
 - John Mark Comer reads Genesis as a vocational text: humanity is called to cultivate, create, order, and bless the world as God’s image-bearers.
 - The book resists both overwork and escapist spirituality, proposing instead a life of vocation, Sabbath, embodied discipleship, and hope for the renewal of creation.

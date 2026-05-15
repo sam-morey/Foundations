@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Mere Christianity* is C. S. Lewis’s accessible defense of core Christian belief, beginning with moral experience, moving through doctrine, and ending with spiritual transformation.
 - Lewis argues that human beings recognize a real moral law, that this law points beyond materialism, that Christianity best explains both the human condition and redemption, and that Christian life aims not merely at “being nice” but at becoming a new kind of person.
 - The book is less a denominational manual than a case for what Lewis calls “mere” Christianity: the shared center of historic Christian faith.

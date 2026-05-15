@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Renovation of the Heart* argues that spiritual transformation must reach the whole person: thoughts, feelings, will, body, social relationships, and soul.
 - Dallas Willard presents Christian formation not as behavior management, but as the gradual restoration of the human self into Christlikeness.
 - The book’s central claim is that lasting change happens through grace, intention, and wise practice as the entire human person is reordered under God.

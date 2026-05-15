@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Problem of Pain* is C. S. Lewis’s philosophical and theological attempt to explain how belief in an omnipotent and good God can be reconciled with suffering.
 - Lewis argues that pain does not by itself disprove God; rather, it must be understood within a larger Christian account of freedom, fallenness, moral formation, judgment, and ultimate joy.
 - The book moves from abstract questions about divine power and goodness to concrete questions about human pain, animal suffering, hell, and heaven.

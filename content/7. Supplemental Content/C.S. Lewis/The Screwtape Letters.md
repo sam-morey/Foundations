@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Screwtape Letters* is a satirical Christian novel in which the demon Screwtape writes letters to his nephew Wormwood, advising him on how to lead a human soul—the “Patient”—away from God.
 - By presenting morality from a demonic point of view, C. S. Lewis exposes the subtle nature of temptation, especially as it appears in everyday habits, relationships, anxieties, and forms of self-deception.
 - The book’s central argument is that spiritual ruin usually comes gradually through distraction, pride, resentment, and moral compromise rather than through dramatic acts of evil.

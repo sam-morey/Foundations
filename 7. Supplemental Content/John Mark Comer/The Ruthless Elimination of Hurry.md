@@ -1,202 +1,98 @@
-## TL;DR
-- *The Ruthless Elimination of Hurry* argues that hurry is not just an inconvenience of modern life but a spiritual, emotional, and relational danger.
-- John Mark Comer contends that a hurried life weakens love, joy, peace, attention, and discipleship.
-- The book’s answer is not merely better time management, but apprenticeship to Jesus through a slower, more ordered way of life built around spiritual practices.
+## Synopsississis
+- Bonhoeffer argues that Christian community is a divine gift to be received with gratitude, not an ideal to be achieved by human effort.
+- The daily rhythm of common life — Scripture, prayer, shared work, and the Lord's Supper — is the concrete structure through which the community is shaped and sustained.
+- Confession and forgiveness are the hinges of authentic fellowship, preventing the community from becoming a place of pretense rather than grace.
 
 ## Source Info
-- Title: *The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World*
-- Author: John Mark Comer
-- Publication Date: 2019
-- Themes: hurry, spiritual formation, Sabbath, silence and solitude, simplicity, attention, discipleship, rule of life, emotional health
+- Title: Life Together: The Classic Exploration of Christian Community
+- Author: Dietrich Bonhoeffer
+- Publication Date: 1939
+- Themes: Prayer & Worship, Love, The Holy Spirit, Faith & Trust
 
 ## Key Ideas
-- Hurry is a root-level problem that damages spiritual life and human relationships.
-- The solution to hurry is not efficiency alone, but a different way of being.
-- Slowness, presence, and spiritual practices help form a life that is more peaceful, attentive, and God-centered.
+- Physical, bodily Christian community is a gift and not a right; those who have been separated from it (as Bonhoeffer was) know its value in a way the comfortable do not.
+- Community based on a human dream or ideal will shatter when it meets reality; community based on Christ is freed from illusion and can bear the weight of real people.
+- The day together must be structured around the Word — not as religious decoration but as the foundation that holds everything else in place.
+- Solitude and community are not opposites; only the person who can be alone with God can live authentically in community, and vice versa.
 
 ## Chapter Summaries
-- **Prologue: Autobiography of an Epidemic**
-  - **Main Idea:** Comer opens with personal and cultural diagnosis, presenting hurry as a defining pathology of contemporary life.
+- **Chapter 1 — Community**
+  - **Main Idea:** Christian community is grounded in Jesus Christ alone, not in common experience, shared enthusiasm, or spiritual experience — and this distinction determines everything about the community's health.
   - **Key Points:**
-    - Modern life is saturated with speed, overload, and fragmentation.
-    - Hurry is often normalized, even rewarded, though it quietly damages the soul.
-    - Comer frames his own exhaustion as part of a larger cultural epidemic rather than a merely private struggle.
-    - The book begins with confession: the author writes as someone implicated in the problem.
+    - "It is not simply to be taken for granted that the Christian has the privilege of living among other Christians" — Bonhoeffer writes from Finkenwalde, aware that physical community is not guaranteed.
+    - The community exists not because its members are naturally compatible or spiritually impressive but because Christ stands between them as mediator.
+    - "Christian brotherhood is not an ideal which we must realize; it is rather a reality created by God in Christ in which we may participate."
+    - The person who carries into community a dream of what it should be will destroy the community — real community only begins when illusions are surrendered.
   - **Defined Terms:**
-    - **Hurry:** A state of excessive speed, overload, and inner pressure that fractures attention and presence.
-    - **Epidemic:** A widespread condition affecting a culture at scale rather than isolated individuals.
-  - **Takeaway:** The problem of hurry is not marginal; it is one of the central crises of modern life.
+    - **Pneumatic vs. Psychic Community:** Bonhoeffer's distinction between a community based on the Holy Spirit (pneumatic) versus one based on human desire or emotion (psychic/psychological); only the former is truly Christian.
+    - **Christian Brotherhood:** Not primarily a feeling of warmth toward fellow believers but a structural reality — we are brothers and sisters because we share the same Father, mediated by the same Christ.
+  - **Takeaway:** Christian community is not something we build but something we enter — it exists before us and does not depend on our feelings about it.
 
-- **Chapter 1: Hurry: The Great Enemy of Spiritual Life**
-  - **Main Idea:** Hurry is identified as one of the greatest obstacles to spiritual depth and mature discipleship.
+- **Chapter 2 — The Day with Others**
+  - **Main Idea:** The structure of the common day — morning Scripture, song, prayer, work, and evening prayer — is not a religious program but the concrete shape of a life together under the Word.
   - **Key Points:**
-    - Comer draws on Dallas Willard’s warning that hurry undermines spiritual life.
-    - Love, joy, and peace are difficult to sustain in a hurried state.
-    - Spiritual growth requires attention, patience, and receptivity, all of which hurry corrodes.
-    - The chapter reframes busyness as a theological problem, not just a practical one.
+    - The day should begin with Scripture and prayer before any other word is spoken — the Word of God speaks first, setting the frame for all human words.
+    - Singing together in unison (not harmony, for Bonhoeffer) is the voice of the church — it is not a performance but a spoken-sung Word in community.
+    - The morning Scripture reading should be read in long portions so that the community is immersed in the biblical narrative, not nibbled at proof texts.
+    - Work is sanctified by the morning prayer that precedes it and the evening prayer that follows it — the entire day becomes worship.
   - **Defined Terms:**
-    - **Spiritual life:** The inward and outward life of communion with God, shaped by trust, love, and obedience.
-    - **Discipleship:** The ongoing process of apprenticing oneself to the life and teachings of Jesus.
-  - **Takeaway:** Hurry is not spiritually neutral; it directly opposes the kind of life discipleship requires.
+    - **Lectio Continua:** The practice of reading through Scripture continuously rather than jumping between selected passages; Bonhoeffer advocates this as the discipline of the common life.
+    - **Table Fellowship:** Eating together as a practice of community; the common meal is a foretaste of the eschatological banquet and should be received with gratitude, not rushed.
+  - **Takeaway:** The shape of the common day is not incidental to community life — it is its skeleton, and without it the community dissolves into formlessness.
 
-- **Chapter 2: A Brief History of Speed**
-  - **Main Idea:** The modern condition of hurry has historical roots in technological acceleration, industrialization, and cultural change.
+- **Chapter 3 — The Day Alone**
+  - **Main Idea:** Solitude is not the opposite of community but its necessary counterpart — without the capacity to be alone with God, a person brings an unhealthy neediness into community that will damage it.
   - **Key Points:**
-    - The pressure of speed did not emerge all at once; it developed through social and economic shifts.
-    - New technologies promise convenience but often intensify distraction and expectation.
-    - The pace of life has become increasingly detached from human limits.
-    - Comer situates personal anxiety within a broader cultural history of acceleration.
+    - "Let him who cannot be alone beware of community... Let him who is not in community beware of being alone" — the two belong together.
+    - The person who seeks community to escape loneliness is using other people as a drug, which will eventually make the community toxic.
+    - Silent meditation on Scripture — not as academic study but as slow, attentive rumination — is the core discipline of the day alone.
+    - Intercession is also a practice of solitude: praying for each member of the community by name, holding them before God individually.
   - **Defined Terms:**
-    - **Acceleration:** The increasing speed of social, technological, and personal life.
-    - **Technological mediation:** The shaping of human experience through tools, devices, and digital systems.
-  - **Takeaway:** To understand hurry, one must see it not merely as poor scheduling, but as a condition produced by modern culture.
+    - **Meditation:** For Bonhoeffer, not a mystical emptying of the mind but an attentive, prayerful dwelling on a short passage of Scripture until it speaks personally.
+    - **Intercession:** Praying specifically and individually for others; Bonhoeffer sees this as a duty of community that must be done in solitude, not as a group performance.
+  - **Takeaway:** A person who cannot stand to be alone with God has nothing to offer the community; the day alone feeds the day together.
 
-- **Chapter 3: Something Is Deeply Wrong**
-  - **Main Idea:** The symptoms of modern life reveal that the issue is deeper than busyness; a disordered way of life is harming people at the level of soul and society.
+- **Chapter 4 — Ministry**
+  - **Main Idea:** The life together is constituted by a set of concrete ministries that Christians owe one another — listening, active helpfulness, bearing burdens, proclaiming, and forgiving — and these require daily practice, not just good intentions.
   - **Key Points:**
-    - Emotional depletion, distraction, and relational shallowness are presented as signs of deep imbalance.
-    - Many people feel overconnected digitally and undernourished spiritually.
-    - The body and mind absorb the costs of constant stimulation.
-    - The chapter argues that people do not need minor adjustments so much as a reordering of life.
+    - The ministry of listening is listed first and treated as foundational: "He who can no longer listen to his brother will soon be no longer listening to God either."
+    - Active helpfulness means doing small, practical things for others without drawing attention to oneself or making the other person feel indebted.
+    - "Bearing the burden of the brother" (Galatians 6:2) means accepting the brother's sin, fault, and awkwardness as a burden that love carries rather than a problem to be solved.
+    - The ministry of the Word — speaking God's truth to a brother in need — is not reserved for pastors; every member of the community is called to speak and hear the Word from others.
   - **Defined Terms:**
-    - **Disorder:** A way of living in which one’s time, desires, and habits are misaligned with what is good.
-    - **Fragmentation:** The breaking apart of attention, identity, and relational presence into scattered pieces.
-  - **Takeaway:** The pervasive strain of modern life signals a deeper disorder that cannot be solved by superficial fixes.
+    - **Ministry (Dienst):** Service; Bonhoeffer analyzes several specific forms: holding one's tongue, meekness, listening, helpfulness, bearing, proclaiming, and the ministry of authority.
+    - **Holding One's Tongue:** Bonhoeffer's phrase for the discipline of not speaking every thought or criticism that arises — a form of self-denial that protects community.
+  - **Takeaway:** Christian ministry is not primarily the dramatic or the spiritually impressive; it is the patient, quiet practice of concrete service to a specific, flawed neighbor.
 
-- **Chapter 4: Hint: The Solution Isn’t More Time**
-  - **Main Idea:** The answer to hurry is not simply acquiring more time, but learning a different relationship to time itself.
+- **Chapter 5 — Confession and Communion**
+  - **Main Idea:** Confession of sin to a brother and the Lord's Supper together form the culmination of life together — they are where the grace of God becomes fully concrete and where community reaches its deepest reality.
   - **Key Points:**
-    - Most people feel they never have enough time, yet the deeper problem is how life is inhabited.
-    - Efficiency can help, but it does not necessarily produce peace.
-    - The fantasy that peace lies just beyond better scheduling is exposed as inadequate.
-    - Comer begins to turn from diagnosis toward formation.
+    - The breakthrough to community comes in confession: "In confession the breakthrough to community takes place. Sin demands to have a man by himself."
+    - Confessing to a brother breaks the power of sin precisely because it ends the isolation that sin produces; the secret sin has power because it is secret.
+    - The brother who hears confession does not forgive in his own name but in Christ's — he is the instrument of the grace that Christ alone provides.
+    - The Lord's Supper is the culmination of the common life because it is the place where Christ himself is present, forgiving, and uniting the community around himself.
   - **Defined Terms:**
-    - **Time scarcity:** The subjective experience of never having enough time.
-    - **Formation:** The shaping of character through repeated habits, choices, and patterns of life.
-  - **Takeaway:** The cure for hurry is not more hours in the day, but a transformed way of living within the hours one already has.
-
-- **Chapter 5: The Secret of the Easy Yoke**
-  - **Main Idea:** Jesus offers a way of life that is lighter, gentler, and more sustainable than the burdens imposed by hurry and self-striving.
-  - **Key Points:**
-    - Comer centers Jesus’ invitation to take on his “yoke.”
-    - A yoke suggests not mere belief, but a whole way of life and apprenticeship.
-    - The “easy” yoke does not eliminate difficulty; it reorders life under grace and wisdom.
-    - Peace comes from walking with Jesus, not merely admiring him.
-  - **Defined Terms:**
-    - **Yoke:** A metaphor for a way of life, teaching, or discipline under which one lives.
-    - **Apprenticeship to Jesus:** Learning to live as Jesus lived by following his example and teaching.
-  - **Takeaway:** The alternative to hurry is not passivity, but a different form of life shaped by the presence and pattern of Jesus.
-
-- **Chapter 6: What We’re Really Talking About Is a Rule of Life**
-  - **Main Idea:** Slowing down requires intentional structure; peace rarely appears without a chosen pattern of life.
-  - **Key Points:**
-    - A rule of life gives shape to values and protects against drift.
-    - Spiritual desire alone is not enough; habits and rhythms must support it.
-    - Daily routines either reinforce hurry or resist it.
-    - Comer presents structure not as legalism, but as a framework for freedom.
-  - **Defined Terms:**
-    - **Rule of life:** A deliberate pattern of practices and rhythms designed to form a life with God.
-    - **Rhythm:** A recurring pattern of activity and rest that gives life coherence.
-    - **Drift:** The tendency to slide into unhealthy patterns without conscious intention.
-  - **Takeaway:** The unhurried life must be built, not merely wished for.
-
-- **Interlude: Some Practical Tips from My Life**
-  - **Main Idea:** Comer briefly shifts into practical counsel, showing that the book’s ideas are meant for lived experiment rather than abstract admiration.
-  - **Key Points:**
-    - Spiritual formation includes ordinary practical decisions.
-    - Readers are encouraged to make concrete changes rather than waiting for perfect readiness.
-    - Small habits can begin to interrupt larger systems of hurry.
-    - The interlude functions as a bridge from theory to practice.
-  - **Defined Terms:**
-    - **Practice:** A repeatable action undertaken to shape character and desire.
-  - **Takeaway:** An unhurried life begins with embodied decisions, not just agreement with a concept.
-
-- **Chapter 7: Silence and Solitude**
-  - **Main Idea:** Silence and solitude are foundational practices for recovering attention, inner stillness, and openness to God.
-  - **Key Points:**
-    - Noise and distraction keep people estranged from themselves and from God.
-    - Solitude exposes what hurry helps conceal.
-    - Silence is difficult precisely because it reveals internal unrest.
-    - This practice creates space for prayer, self-awareness, and re-centering.
-  - **Defined Terms:**
-    - **Silence:** The intentional reduction of noise and verbal activity in order to become present.
-    - **Solitude:** Deliberate time apart from people, stimuli, and demands for the sake of communion with God and clarity of soul.
-  - **Takeaway:** Without silence and solitude, people remain captive to noise, reaction, and inner fragmentation.
-
-- **Chapter 8: Sabbath**
-  - **Main Idea:** Sabbath is a weekly practice of stopping that teaches trust, delight, and freedom from endless productivity.
-  - **Key Points:**
-    - Sabbath resists the belief that one’s worth depends on output.
-    - It is presented as both command and gift.
-    - Rest is more than recovery from work; it is participation in God’s intended rhythm for human life.
-    - Sabbath trains people to stop striving and receive life with gratitude.
-  - **Defined Terms:**
-    - **Sabbath:** A recurring day of stopping, resting, delighting, and worshiping.
-    - **Delight:** Joyful enjoyment of God, creation, and life as gift.
-  - **Takeaway:** Sabbath is one of the clearest ways to reject hurry and relearn trust.
-
-- **Chapter 9: Simplicity**
-  - **Main Idea:** Simplicity frees people from the clutter, consumption, and overcommitment that feed a hurried life.
-  - **Key Points:**
-    - Complexity multiplies stress, distraction, and maintenance.
-    - Simplicity is not deprivation but the removal of excess.
-    - Consumer culture often intensifies internal restlessness.
-    - A simpler life creates more room for attention, generosity, and peace.
-  - **Defined Terms:**
-    - **Simplicity:** The intentional reduction of excess possessions, commitments, and distractions to make room for what matters most.
-    - **Consumerism:** A pattern of desire in which identity and satisfaction are sought through acquisition.
-  - **Takeaway:** Many forms of hurry are sustained by lives made too full of things, options, and obligations.
-
-- **Chapter 10: Slowing**
-  - **Main Idea:** Slowing is a daily posture of resisting speed as a default mode of life.
-  - **Key Points:**
-    - One can be externally still while internally rushed; slowing addresses both.
-    - Comer advocates deliberate acts of deceleration in ordinary activities.
-    - Slowness makes room for love, listening, and attention.
-    - This practice targets impatience, irritability, and compulsive efficiency.
-  - **Defined Terms:**
-    - **Slowing:** The intentional reduction of pace in order to become more present, patient, and attentive.
-    - **Presence:** Full attentiveness to God, others, and one’s immediate reality.
-  - **Takeaway:** Slowing is not laziness; it is a discipline of becoming present enough to love well.
-
-- **Chapter 11: Secret Life**
-  - **Main Idea:** The hidden life with God is the soil from which an unhurried public life can grow.
-  - **Key Points:**
-    - Public behavior is shaped by private habits of prayer, thought, and desire.
-    - A hidden life with God stabilizes the soul against performance and distraction.
-    - Spiritual integrity requires cultivation in unseen places.
-    - Hurry often reveals a neglected interior life.
-  - **Defined Terms:**
-    - **Secret life:** The private inner life of prayer, desire, thought, and communion with God that is invisible to others.
-    - **Integrity:** Congruence between one’s public self and private life.
-  - **Takeaway:** A peaceful outer life cannot be sustained without a deep and ordered inner life.
-
-- **Epilogue**
-  - **Main Idea:** Comer closes by urging readers to adopt an unhurried way of life not as a trend, but as a long-term path of discipleship.
-  - **Key Points:**
-    - The aim is not perfection, but a different trajectory.
-    - The practices in the book are invitations into a slower, freer, more loving life.
-    - Change is gradual and requires perseverance.
-    - The final emphasis is hopeful: a different way of living is possible.
-  - **Defined Terms:**
-    - **Unhurried life:** A life ordered around presence, peace, and spiritual attentiveness rather than speed and pressure.
-  - **Takeaway:** The book ends with a summons to sustained practice: the elimination of hurry is a lifelong act of discipleship.
+    - **Auricular Confession:** The practice of confessing sins aloud to another person (not necessarily a priest); Bonhoeffer recovers this for Protestant community life as a specific, concrete form of grace.
+    - **Breaking of Bread:** Bonhoeffer's preferred term for the Lord's Supper, emphasizing its physical, communal, and eschatological character.
+  - **Takeaway:** The community that confesses together and communes together has moved beyond religious performance into the reality of shared grace — this is where life together becomes most real.
 
 ## Key Scriptures:
-- [[2. The Bible (ESV)/40. Matthew/Matthew 11|Matthew 11:28–30]] — "Come to me…and I will give you rest" — the unhurried Jesus's invitation
-- [[2. The Bible (ESV)/41. Mark/Mark 1|Mark 1:35]] — Jesus withdraws early to a desolate place to pray; the rhythm of solitude
-- [[2. The Bible (ESV)/19. Psalms/Psalms 46|Psalm 46]] — "Be still and know that I am God"
-- [[2. The Bible (ESV)/02. Exodus/Exodus 20|Exodus 20:8–11]] — The Sabbath commandment; rest written into the law of God
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — the Spirit bearing witness that we are children of God, the foundation of the community's shared identity
+- [[2. The Bible (ESV)/40. Matthew/Matthew 11|Matthew 11]] — "Come to me, all who labor and are heavy laden" — the invitation that grounds the community's welcome of the weary
+- [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51]] — the model for the confession that Bonhoeffer says must be practiced concretely in community
+- [[2. The Bible (ESV)/42. Luke/Luke 15|Luke 15]] — the receiving of the returning son as the pattern for how the community receives the confessing sinner
+- [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12]] — "Therefore, since we are surrounded by so great a cloud of witnesses" — the eschatological community that frames the earthly one
 
 ## Related Concepts
-- [[Spiritual Formation]]
-- [[Rule of Life]]
-- [[Sabbath]]
-- [[Silence and Solitude]]
-- [[Attention]]
+- [[6. Themes/Prayer & Worship]]
+- [[6. Themes/Love]]
+- [[6. Themes/The Holy Spirit]]
+- [[6. Themes/Faith & Trust]]
+- [[The Church]]
+- [[Confession & Repentance]]
+- [[The Lord's Supper]]
 
 ## Related Books
-- [[7. Supplemental Content/John Mark Comer/Garden City]]
-- [[The Common Rule]]
-- [[7. Supplemental Content/Celebration of Discipline]]
-- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[7. Supplemental Content/Gentle and Lowly]]
+- [[7. Supplemental Content/The Religious Affections]]
+- [[7. Supplemental Content/The Prodigal God]]

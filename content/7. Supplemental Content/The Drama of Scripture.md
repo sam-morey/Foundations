@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Bartholomew and Goheen read the entire Bible as a single, unified drama in six acts: Creation, Fall, Israel, Jesus, Church, and New Creation.
 - The biblical story is not a collection of disconnected religious teachings but a coherent narrative with a beginning, middle, and end — a drama with God as author and humanity as characters.
 - Christians are called to live in Act Five (the church age), improvising faithfully within the drama by knowing the earlier acts and anticipating the final act.

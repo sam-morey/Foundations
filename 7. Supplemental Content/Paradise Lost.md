@@ -1,4 +1,4 @@
- ## TL;DR
+ ## Synopsis
 - *Paradise Lost* is John Milton’s epic account of cosmic rebellion, human temptation, and the Fall of Adam and Eve.
 - The poem seeks to “justify the ways of God to men” by exploring free will, obedience, pride, justice, and redemption.
 - Though Satan dominates much of the early action rhetorically, the poem ultimately centers not on heroic revolt but on the tragic cost of disobedience and the promise of restoration.

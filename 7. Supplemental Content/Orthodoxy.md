@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsissis
 - Chesterton narrates his own intellectual journey to Christianity, arguing that the very objections raised against it — its paradoxes, its constraints, its demands — turned out to be marks of its truth.
 - He defends Christian orthodoxy not primarily from Scripture or tradition but from the logic of imagination, fairy tales, and the strange coherence of the world as Christianity describes it.
 - Chesterton finds that the modern alternatives to Christianity are not more reasonable but less — they produce either tyranny or despair, whereas Christianity produces a wild, grateful joy.

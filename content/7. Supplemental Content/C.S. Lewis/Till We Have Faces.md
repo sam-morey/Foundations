@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Till We Have Faces* is C. S. Lewis's retelling of the Cupid and Psyche myth from the perspective of Orual, the ugly queen of Glome, whose obsessive love for her beautiful sister Psyche drives the whole tragedy.
 - The novel is structured as Orual's complaint against the gods—a furious accusation that they deal unjustly—but as she writes, the complaint gradually undoes itself, revealing that what she called love was really possession, jealousy, and self-will.
 - The title names the book's deepest question: we cannot meet the gods, or be honestly known by them or by ourselves, until we have a real face to show—until we have become honest about who we are.

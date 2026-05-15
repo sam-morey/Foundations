@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Reason for God* is Tim Keller's two-part engagement with contemporary skepticism: the first half dismantles the seven major objections to Christianity, and the second half constructs a positive case for the Christian faith grounded in the clues of God, the reality of sin, the logic of the cross, and the resurrection.
 - Keller writes for the educated, secular person who finds Christianity intellectually untenable, drawing on philosophy, science, literature, and theology to show that the objections fail on their own terms and that the Christian account of reality is more coherent than the alternatives.
 - The book's central argument is that doubt is not the opposite of faith but its companion—and that the intellectual obstacles to Christianity dissolve when examined carefully, while the case for Christianity strengthens under scrutiny.

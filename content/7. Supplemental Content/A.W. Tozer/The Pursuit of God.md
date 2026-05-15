@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Pursuit of God* argues that genuine Christian faith is not merely doctrinal agreement or outward religious activity, but an active, ongoing desire for intimate knowledge of God.
 - A. W. Tozer insists that the soul must be freed from possessiveness, self-interest, and spiritual dullness in order to live in conscious fellowship with the divine presence.
 - The book presents the Christian life as inward pursuit: listening for God’s voice, fixing the heart on Him, recovering humility, and treating ordinary life itself as an arena of worship.

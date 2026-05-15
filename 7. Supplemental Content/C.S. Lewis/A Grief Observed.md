@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *A Grief Observed* is C. S. Lewis's raw, unguarded journal of grief written after the death of his wife Joy Davidman from cancer—not a theology of suffering, but the lived experience of it.
 - The four short sections trace the disorienting crash of faith, the anger and doubt, the slow and uneven reorientation, and finally the fragile but genuine restoration of trust in God.
 - Where *The Problem of Pain* argues about suffering from the outside, *A Grief Observed* records what happens when the argument meets the man who has to live it.

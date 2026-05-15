@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Great Divorce* is C. S. Lewis’s dream-vision of a bus ride from the “Grey Town” to the outskirts of Heaven, where the souls of the dead are invited to surrender their ruling sins and become truly solid, joyful, and alive.
 - The book’s central claim is that damnation is self-chosen in the sense that souls cling to pride, resentment, self-pity, lust, possessiveness, or intellectual vanity rather than accept joy on God’s terms.
 - Lewis contrasts the shrinking unreality of Hell with the overwhelming solidity of Heaven, arguing that salvation requires repentance, relinquishment, and a reordering of desire.

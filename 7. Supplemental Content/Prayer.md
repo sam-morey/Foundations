@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Prayer* is Tim Keller's comprehensive treatment of Christian prayer, drawing on Augustine, Luther, Calvin, and the Psalms to argue that prayer is the primary means by which the soul is transformed and sustained in relationship with God.
 - Keller addresses both the mechanics and the heart of prayer: the Lord's Prayer as the irreplaceable model, the twin dangers of formalism and informalism, and the problem of unanswered prayer as a training ground for faith.
 - The book argues that prayer is neither a duty we perform to earn God's favor nor a technique to achieve spiritual states, but a conversation with the living God that gradually reshapes the one who prays.

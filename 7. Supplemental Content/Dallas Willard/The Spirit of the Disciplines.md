@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Spirit of the Disciplines* argues that Christian transformation happens as people adopt the kind of life Jesus himself lived, not merely the beliefs he taught.
 - Dallas Willard presents spiritual disciplines as practical means by which grace reshapes the whole person into Christlikeness.
 - The book insists that salvation is not only a future destination or legal status, but a lived participation in the life of God here and now.

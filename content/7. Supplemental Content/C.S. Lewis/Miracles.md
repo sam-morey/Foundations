@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Miracles* is C. S. Lewis's philosophical argument that miracles are not only possible but that the two central miracles of Christianity—the Incarnation and the Resurrection—are the most historically and philosophically credible events of the Christian claim.
 - Lewis begins by dismantling Naturalism on its own terms, arguing that if Nature is all there is, then rational thought itself becomes untrustworthy and the scientific enterprise collapses—which means Naturalism is self-refuting.
 - Having established that something beyond Nature must exist, Lewis argues that the Incarnation and Resurrection fit intelligibly into the created order as events where the supernatural enters and transforms, not violates, the natural.

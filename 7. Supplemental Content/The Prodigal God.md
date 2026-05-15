@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Tim Keller argues that the parable of the prodigal son is really the parable of the two lost sons — the younger irreligious one and the elder religious one — and both need the father's grace.
 - The elder brother's lostness is more dangerous than the younger's because it is invisible and self-righteous, making it harder to repent of and harder to see.
 - Jesus told the parable primarily to challenge the Pharisees (elder brothers) rather than to comfort irreligious people, which reverses the way the parable is usually read.

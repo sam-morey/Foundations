@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Live No Lies* argues that spiritual formation is a conflict over truth: human beings are shaped by the stories they believe and inhabit.
 - John Mark Comer revives the classical Christian framework of “the world, the flesh, and the devil” as the three main enemies of the soul.
 - The book’s central claim is that peace, holiness, and freedom require learning to detect lies, resist disordered desire, and live truthfully in a culture of confusion.

@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Nouwen argues that the minister's own wounds are not disqualifications for service but the very source of healing power — the minister who has faced his own suffering can be present to the suffering of others.
 - Modern loneliness is the defining spiritual wound of the age, and the minister is called not to cure it from outside but to enter it with compassionate solidarity.
 - Jesus is the model: the wounded healer who brings liberation not by escaping suffering but by making his wounds available as a source of life for others.

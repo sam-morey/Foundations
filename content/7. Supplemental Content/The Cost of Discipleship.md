@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Cost of Discipleship* is Bonhoeffer's sustained argument that authentic Christian faith demands costly obedience to Christ—not merely intellectual assent, moral improvement, or the maintenance of religious respectability.
 - Bonhoeffer's most famous distinction is between cheap grace—the forgiveness of sin without repentance, grace treated as a doctrine rather than a living encounter—and costly grace, which calls believers to follow Christ fully and bear whatever cross that entails.
 - Written in Nazi Germany and published in 1937, the book draws primarily on the Sermon on the Mount to argue that the visible community of the church must embody radical, distinctive discipleship rather than accommodating itself to the surrounding culture.

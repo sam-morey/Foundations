@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Anchor Man* argues that a father’s spiritual seriousness, moral steadiness, and daily presence can shape not only his children, but generations after him.
 - Steve Farrar presents fatherhood as covenantal leadership: fathers are meant to anchor the family in God, teach truth deliberately, discipline wisely, and model courage, tenderness, and endurance.
 - The book blends biblical exhortation, masculine discipleship, and practical parenting advice, with a strong emphasis on legacy, intentionality, and intergenerational faithfulness.

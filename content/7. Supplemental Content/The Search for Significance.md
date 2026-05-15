@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Search for Significance* argues that many people build their worth on performance, approval, blame, or shame, but genuine significance is found in one’s identity in Christ.
 - McGee’s central claim is that false beliefs produce fear and bondage, while biblical truths about justification, reconciliation, propitiation, and regeneration provide freedom.
 - The book combines pastoral counseling, Christian theology, and practical exercises to help readers replace destructive self-beliefs with a grace-centered understanding of the self.

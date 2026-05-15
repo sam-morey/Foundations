@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - N. T. Wright argues that the Christian hope is not escape to a disembodied heaven but the bodily resurrection of the dead and the renewal of all creation.
 - The resurrection of Jesus is the historical ground and the template for the future hope: God will remake the physical world, not abandon it.
 - This hope is not merely future; it shapes present ethics, mission, and justice as believers act as agents of new creation now.

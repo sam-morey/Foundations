@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Dane Ortlund argues that the deepest truth about Jesus is not his power or his teachings but his heart — gentle and lowly toward sinners and sufferers.
 - Drawing on 23 biblical passages, he shows that Christ's affections for his people are not reluctant or measured but superabundant and freely given.
 - Understanding the heart of Christ is the foundation of a durable, joy-filled Christian life rather than a life of anxious striving.

@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Celebration of Discipline* argues that spiritual growth is not accidental; it is nurtured through concrete practices that open a person to the transforming grace of God.
 - Richard Foster presents the spiritual disciplines not as techniques for earning holiness, but as means of placing oneself before God so that inward transformation can occur.
 - The book moves from private disciplines to social and communal ones, showing that genuine spiritual life reshapes desire, conduct, relationships, and worship.

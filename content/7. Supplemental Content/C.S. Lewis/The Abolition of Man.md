@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Abolition of Man* is C. S. Lewis’s compact but forceful argument that education and culture become destructive when they train people to debunk value rather than rightly feel and judge it.
 - Lewis argues that there is an objective moral order—what he calls the Tao—and that attempts to step outside it do not produce liberation, but manipulation, dehumanization, and ultimately the loss of humanity itself.
 - The book moves from educational criticism to moral philosophy and finally to a warning: if human beings reject objective value, then “man’s conquest of nature” becomes the power of some people to condition and control others.

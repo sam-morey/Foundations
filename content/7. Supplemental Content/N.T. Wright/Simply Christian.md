@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - N. T. Wright argues that four universal human longings — for justice, spirituality, relationships, and beauty — are "echoes of a voice" pointing to the God revealed in Jesus.
 - The book is an accessible introduction to Christianity: what it is, what it claims, and why it makes sense of the world.
 - Rather than starting with the problem of sin and the need for rescue, Wright starts with creation's design and the deep human intuitions that Christianity alone fully answers.

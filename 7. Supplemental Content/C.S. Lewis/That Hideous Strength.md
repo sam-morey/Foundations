@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *That Hideous Strength* is C. S. Lewis’s dystopian, Arthurian, and theological novel about the struggle between a technocratic conspiracy and a small community ordered by humility, charity, and divine authority.
 - The book follows two intertwined arcs: Mark Studdock’s seduction by power at the N.I.C.E. and Jane Studdock’s reluctant movement toward spiritual vision, obedience, and real community.
 - Lewis presents the novel as a critique of scientism, bureaucratic dehumanization, propaganda, the lust for the “inner ring,” and the fantasy of remaking humanity by severing intellect from moral law and embodied life.

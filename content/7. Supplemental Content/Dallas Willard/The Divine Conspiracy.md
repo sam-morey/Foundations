@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Divine Conspiracy* argues that Jesus's original message was not primarily about how to go to heaven after death but about how to live now under the immediate presence and active governance of God—what Willard calls "the kingdom of the heavens."
 - Willard's central challenge is to the "sin management" model of Christianity, which reduces the gospel to securing forgiveness; he argues instead that Jesus came to reorganize all of human existence around God's active rule in the present.
 - The book is an extended reading of the Sermon on the Mount as a comprehensive vision of life transformed from the inside out—character producing action, under the reign of a God who is present and active here and now.

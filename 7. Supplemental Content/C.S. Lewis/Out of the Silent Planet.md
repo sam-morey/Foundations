@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - C. S. Lewis’s *Out of the Silent Planet* follows Dr. Elwin Ransom, a Cambridge philologist who is kidnapped and taken to Mars (“Malacandra”), where he discovers a morally ordered, intelligent world that sharply exposes the greed, violence, and spiritual confusion of modern humanity.
 - The novel is both an adventure story and a philosophical-religious critique of imperialism, scientism, and the assumption that “civilization” is morally superior to the unknown.
 - Its central movement is inward as much as outward: Ransom begins in fear and bewilderment, but through contact with Malacandra’s species and ruler, he acquires humility, moral clarity, and a renewed vision of the cosmos.

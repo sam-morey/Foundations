@@ -10,7 +10,7 @@ For the chapter summary section, include the following for every single chapter 
 
 Final output should be in a code block that can be easily copied and pasted into Obsidian. Final output should be in the Markdown outline below:
 
-## TL;DR
+## Synopsis
 - 
 
 ## Source Info

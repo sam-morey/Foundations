@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Bonhoeffer argues that Christian community is a divine gift to be received with gratitude, not an ideal to be achieved by human effort.
 - The daily rhythm of common life — Scripture, prayer, shared work, and the Lord's Supper — is the concrete structure through which the community is shaped and sustained.
 - Confession and forgiveness are the hinges of authentic fellowship, preventing the community from becoming a place of pretense rather than grace.

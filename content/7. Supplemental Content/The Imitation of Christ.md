@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Imitation of Christ* is the most-read Christian book after the Bible; Thomas à Kempis argues that the goal of all learning is to follow Christ, and that interior transformation matters infinitely more than intellectual achievement.
 - The book calls the reader to a radical contempt for the world's honors and pleasures, a deep self-knowledge rooted in humility, and a turning of the whole inner life toward God.
 - The fourth book, on the Eucharist, presents the Lord's Supper as the summit and center of the Christian life — the place where the soul meets Christ most directly and is most fully nourished.

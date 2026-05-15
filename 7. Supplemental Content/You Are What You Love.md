@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *You Are What You Love* argues that human beings are shaped less by what they think than by what they habitually desire and practice.
 - James K. A. Smith’s central claim is that discipleship is fundamentally a matter of love: we become what we worship, and our loves are trained by repeated rituals, routines, and cultural “liturgies.”
 - The book calls Christians to recover intentional worship, embodied practices, and a formative “rule” of daily life so that desire is directed toward God rather than rival visions of the good life.

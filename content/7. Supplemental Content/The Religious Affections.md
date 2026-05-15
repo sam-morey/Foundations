@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - Jonathan Edwards argues that true religion consists essentially in holy affections — not cold knowledge or mere external behavior, but the whole heart genuinely moved toward God.
 - He gives twelve signs that do NOT reliably distinguish true from false religious experience, deflating both enthusiast and formalist criteria.
 - He then gives twelve signs that DO reliably distinguish true religion, culminating in the test of holy practice — a transformed, Christlike life sustained over time.

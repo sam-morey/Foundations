@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Every Good Endeavor* argues that work is not merely a way to earn money or secure status; it is part of humanity’s original calling and a means of serving God and neighbor.
 - Timothy Keller and Katherine Leary Alsdorf present a Christian theology of work that takes creation, fall, redemption, and future restoration seriously.
 - The book’s central claim is that the gospel gives work a new story, a new purpose, a new ethical direction, and new power for endurance in a fallen world.

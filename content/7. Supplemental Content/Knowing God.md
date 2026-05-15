@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Knowing God* argues that the greatest human need and privilege is not merely knowing facts about God but entering into a personal, transforming knowledge of who God is—his character, his purposes, and his ways with humanity.
 - Packer approaches Christian theology systematically through the major attributes of God—his greatness, goodness, holiness, wrath, grace, love, and sovereignty—and argues that each attribute carries direct practical implications for how Christians live, pray, and trust.
 - The book is simultaneously doctrinal and devotional: it insists that intellectual knowledge of God and experiential knowledge of God are not alternatives but are inseparable, and that sound theology is the foundation of genuine faith.

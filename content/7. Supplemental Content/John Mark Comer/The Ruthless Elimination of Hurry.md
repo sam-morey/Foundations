@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *The Ruthless Elimination of Hurry* argues that hurry is not just an inconvenience of modern life but a spiritual, emotional, and relational danger.
 - John Mark Comer contends that a hurried life weakens love, joy, peace, attention, and discipleship.
 - The book’s answer is not merely better time management, but apprenticeship to Jesus through a slower, more ordered way of life built around spiritual practices.

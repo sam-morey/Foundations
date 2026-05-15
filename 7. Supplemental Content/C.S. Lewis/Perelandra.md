@@ -1,4 +1,4 @@
-## TL;DR
+## Synopsis
 - *Perelandra* follows Dr. Elwin Ransom’s journey to Venus, where he must help preserve an unfallen world from a new temptation.
 - The novel reimagines the Eden story in a cosmic setting, turning theological conflict into psychological, moral, and bodily struggle.
 - Lewis explores obedience, innocence, free will, evil, incarnation, and the meaning of victory through a narrative that is at once philosophical, mythic, and deeply physical.
