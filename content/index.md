@@ -45,92 +45,92 @@ The Bible is not a random collection of texts. It tells one unified story:
 ## Old Testament
 
 ### Torah (The Law)
-- [[3. Overviews/01. Genesis Overview]] — Creation, Fall, Abraham, Joseph
-- [[3. Overviews/02. Exodus Overview]] — The Passover, the Exodus, Sinai, the Law, the Tabernacle
-- [[3. Overviews/03. Leviticus Overview]] — Sacrificial system, Day of Atonement, Holiness Code
-- [[3. Overviews/04. Numbers Overview]] — The wilderness journey; faith and failure
-- [[3. Overviews/05. Deuteronomy Overview]] — Moses' farewell; covenant renewal; the *Shema*
+- [[01. Genesis Overview]] — Creation, Fall, Abraham, Joseph
+- [[02. Exodus Overview]] — The Passover, the Exodus, Sinai, the Law, the Tabernacle
+- [[03. Leviticus Overview]] — Sacrificial system, Day of Atonement, Holiness Code
+- [[04. Numbers Overview]] — The wilderness journey; faith and failure
+- [[05. Deuteronomy Overview]] — Moses' farewell; covenant renewal; the *Shema*
 
 ### Historical Books
-- [[3. Overviews/06. Joshua Overview]] — Entering the Promised Land
-- [[3. Overviews/07. Judges Overview]] — The cycle of sin and deliverance
-- [[3. Overviews/08. Ruth Overview]] — Loyal love; the Gentile ancestress of David
-- [[3. Overviews/09. 1 Samuel Overview]] — Samuel, Saul, and the rise of David
-- [[3. Overviews/10. 2 Samuel Overview]] — David's reign, the Davidic covenant, and his great sin
-- [[3. Overviews/11. 1 Kings Overview]] — Solomon, the Temple, the divided kingdom, Elijah
-- [[3. Overviews/12. 2 Kings Overview]] — The fall of Israel and Judah; exile
-- [[3. Overviews/13. 1 Chronicles Overview]] — David's story retold for the post-exilic community
-- [[3. Overviews/14. 2 Chronicles Overview]] — Solomon through exile; Cyrus's decree
-- [[3. Overviews/15. Ezra Overview]] — Return from exile; the Temple rebuilt
-- [[3. Overviews/16. Nehemiah Overview]] — The walls rebuilt; the Law renewed
-- [[3. Overviews/17. Esther Overview]] — God's hidden providence; the Jewish people preserved
+- [[06. Joshua Overview]] — Entering the Promised Land
+- [[07. Judges Overview]] — The cycle of sin and deliverance
+- [[08. Ruth Overview]] — Loyal love; the Gentile ancestress of David
+- [[09. 1 Samuel Overview]] — Samuel, Saul, and the rise of David
+- [[10. 2 Samuel Overview]] — David's reign, the Davidic covenant, and his great sin
+- [[11. 1 Kings Overview]] — Solomon, the Temple, the divided kingdom, Elijah
+- [[12. 2 Kings Overview]] — The fall of Israel and Judah; exile
+- [[13. 1 Chronicles Overview]] — David's story retold for the post-exilic community
+- [[14. 2 Chronicles Overview]] — Solomon through exile; Cyrus's decree
+- [[15. Ezra Overview]] — Return from exile; the Temple rebuilt
+- [[16. Nehemiah Overview]] — The walls rebuilt; the Law renewed
+- [[17. Esther Overview]] — God's hidden providence; the Jewish people preserved
 
 ### Wisdom & Poetry
-- [[3. Overviews/18. Job Overview]] — Suffering, lament, and the encounter with God
-- [[3. Overviews/19. Psalms Overview]] — Israel's prayer book: 150 poems covering every human emotion
-- [[3. Overviews/20. Proverbs Overview]] — Practical wisdom for everyday life
-- [[3. Overviews/21. Ecclesiastes Overview]] — Life's vanity and the fear of God
-- [[3. Overviews/22. Song of Solomon Overview]] — The beauty of love
+- [[18. Job Overview]] — Suffering, lament, and the encounter with God
+- [[19. Psalms Overview]] — Israel's prayer book: 150 poems covering every human emotion
+- [[20. Proverbs Overview]] — Practical wisdom for everyday life
+- [[21. Ecclesiastes Overview]] — Life's vanity and the fear of God
+- [[22. Song of Solomon Overview]] — The beauty of love
 
 ### Major Prophets
-- [[3. Overviews/23. Isaiah Overview]] — Judgment and comfort; the Servant; new creation
-- [[3. Overviews/24. Jeremiah Overview]] — The weeping prophet; the New Covenant
-- [[3. Overviews/25. Lamentations Overview]] — Grief over Jerusalem's fall; "Great is your faithfulness"
-- [[3. Overviews/26. Ezekiel Overview]] — God's glory departs and returns; the Spirit poured out
-- [[3. Overviews/27. Daniel Overview]] — Faithfulness under empire; the Son of Man
+- [[23. Isaiah Overview]] — Judgment and comfort; the Servant; new creation
+- [[24. Jeremiah Overview]] — The weeping prophet; the New Covenant
+- [[25. Lamentations Overview]] — Grief over Jerusalem's fall; "Great is your faithfulness"
+- [[26. Ezekiel Overview]] — God's glory departs and returns; the Spirit poured out
+- [[27. Daniel Overview]] — Faithfulness under empire; the Son of Man
 
 ### Minor Prophets
-- [[3. Overviews/28. Hosea Overview]] — Marriage parable; God's relentless love pursuing an unfaithful people
-- [[3. Overviews/29. Joel Overview]] — The Day of the Lord; "I will pour out my Spirit on all flesh"
-- [[3. Overviews/30. Amos Overview]] — "Let justice roll down like waters"; judgment on social injustice
-- [[3. Overviews/31. Obadiah Overview]] — Judgment on Edom for gloating over Jerusalem's fall
-- [[3. Overviews/32. Jonah Overview]] — The reluctant prophet; God's mercy reaches even Nineveh
-- [[3. Overviews/33. Micah Overview]] — "Do justice, love kindness, walk humbly"; the Bethlehem prophecy
-- [[3. Overviews/34. Nahum Overview]] — The fall of Nineveh; God's patience has limits
-- [[3. Overviews/35. Habakkuk Overview]] — Wrestling with God; "the righteous shall live by faith"
-- [[3. Overviews/36. Zephaniah Overview]] — The Day of the Lord; God sings over his restored people
-- [[3. Overviews/37. Haggai Overview]] — Rebuild the Temple; "I am with you"
-- [[3. Overviews/38. Zechariah Overview]] — The coming King; the most messianic of the minor prophets
-- [[3. Overviews/39. Malachi Overview]] — The last OT prophet; a messenger to prepare the way
+- [[28. Hosea Overview]] — Marriage parable; God's relentless love pursuing an unfaithful people
+- [[29. Joel Overview]] — The Day of the Lord; "I will pour out my Spirit on all flesh"
+- [[30. Amos Overview]] — "Let justice roll down like waters"; judgment on social injustice
+- [[31. Obadiah Overview]] — Judgment on Edom for gloating over Jerusalem's fall
+- [[32. Jonah Overview]] — The reluctant prophet; God's mercy reaches even Nineveh
+- [[33. Micah Overview]] — "Do justice, love kindness, walk humbly"; the Bethlehem prophecy
+- [[34. Nahum Overview]] — The fall of Nineveh; God's patience has limits
+- [[35. Habakkuk Overview]] — Wrestling with God; "the righteous shall live by faith"
+- [[36. Zephaniah Overview]] — The Day of the Lord; God sings over his restored people
+- [[37. Haggai Overview]] — Rebuild the Temple; "I am with you"
+- [[38. Zechariah Overview]] — The coming King; the most messianic of the minor prophets
+- [[39. Malachi Overview]] — The last OT prophet; a messenger to prepare the way
 
 ---
 
 ## New Testament
 
 ### The Gospels & Acts
-- [[3. Overviews/40. Matthew Overview]] — Jesus as the fulfillment of Israel's story; the Kingdom announced
-- [[3. Overviews/41. Mark Overview]] — The powerful, urgent Servant-Son
-- [[3. Overviews/42. Luke Overview]] — The Savior of all: the poor, the outsider, the Gentile
-- [[3. Overviews/43. John Overview]] — The eternal Word made flesh; "I AM" sayings and seven signs
-- [[3. Overviews/44. Acts Overview]] — The Spirit-powered spread of the gospel to the ends of the earth
+- [[40. Matthew Overview]] — Jesus as the fulfillment of Israel's story; the Kingdom announced
+- [[41. Mark Overview]] — The powerful, urgent Servant-Son
+- [[42. Luke Overview]] — The Savior of all: the poor, the outsider, the Gentile
+- [[43. John Overview]] — The eternal Word made flesh; "I AM" sayings and seven signs
+- [[44. Acts Overview]] — The Spirit-powered spread of the gospel to the ends of the earth
 
 ### Paul's Letters
-- [[3. Overviews/45. Romans Overview]] — The fullest statement of the gospel; justification by faith
-- [[3. Overviews/46. 1 Corinthians Overview]] — Divisions, gifts, the love chapter, and the resurrection
-- [[3. Overviews/47. 2 Corinthians Overview]] — Treasure in jars of clay; strength made perfect in weakness
-- [[3. Overviews/48. Galatians Overview]] — "The Magna Carta of Christian liberty"; faith alone
-- [[3. Overviews/49. Ephesians Overview]] — God's cosmic purpose to unite all things in Christ; armor of God
-- [[3. Overviews/50. Philippians Overview]] — The "Joy Letter"; the Christ hymn; contentment in all things
-- [[3. Overviews/51. Colossians Overview]] — Christ supreme over all creation; fullness in him alone
-- [[3. Overviews/52. 1 Thessalonians Overview]] — The Lord's return; the dead in Christ will rise first
-- [[3. Overviews/53. 2 Thessalonians Overview]] — The Day of the Lord and the man of lawlessness
-- [[3. Overviews/54. 1 Timothy Overview]] — Church order, elder qualifications, and sound doctrine
-- [[3. Overviews/55. 2 Timothy Overview]] — Paul's final letter; "All Scripture is breathed out by God"
-- [[3. Overviews/56. Titus Overview]] — Sound doctrine; grace that trains us to live godly lives
-- [[3. Overviews/57. Philemon Overview]] — A miniature picture of the gospel; intercession for Onesimus
+- [[45. Romans Overview]] — The fullest statement of the gospel; justification by faith
+- [[46. 1 Corinthians Overview]] — Divisions, gifts, the love chapter, and the resurrection
+- [[47. 2 Corinthians Overview]] — Treasure in jars of clay; strength made perfect in weakness
+- [[48. Galatians Overview]] — "The Magna Carta of Christian liberty"; faith alone
+- [[49. Ephesians Overview]] — God's cosmic purpose to unite all things in Christ; armor of God
+- [[50. Philippians Overview]] — The "Joy Letter"; the Christ hymn; contentment in all things
+- [[51. Colossians Overview]] — Christ supreme over all creation; fullness in him alone
+- [[52. 1 Thessalonians Overview]] — The Lord's return; the dead in Christ will rise first
+- [[53. 2 Thessalonians Overview]] — The Day of the Lord and the man of lawlessness
+- [[54. 1 Timothy Overview]] — Church order, elder qualifications, and sound doctrine
+- [[55. 2 Timothy Overview]] — Paul's final letter; "All Scripture is breathed out by God"
+- [[56. Titus Overview]] — Sound doctrine; grace that trains us to live godly lives
+- [[57. Philemon Overview]] — A miniature picture of the gospel; intercession for Onesimus
 
 ### General Letters
-- [[3. Overviews/58. Hebrews Overview]] — Christ superior to all; the New Covenant; the hall of faith
-- [[3. Overviews/59. James Overview]] — "Faith without works is dead"; NT wisdom for daily life
-- [[3. Overviews/60. 1 Peter Overview]] — A living hope; sojourners and aliens grounded in Christ's suffering
-- [[3. Overviews/61. 2 Peter Overview]] — False teachers; Scripture carried by the Spirit; the Lord is patient
-- [[3. Overviews/62. 1 John Overview]] — "God is love"; three tests of genuine faith
-- [[3. Overviews/63. 2 John Overview]] — Walk in love; do not receive those who deny Christ
-- [[3. Overviews/64. 3 John Overview]] — Hospitality commended; Diotrephes warned
-- [[3. Overviews/65. Jude Overview]] — "Contend for the faith once for all delivered to the saints"
+- [[58. Hebrews Overview]] — Christ superior to all; the New Covenant; the hall of faith
+- [[59. James Overview]] — "Faith without works is dead"; NT wisdom for daily life
+- [[60. 1 Peter Overview]] — A living hope; sojourners and aliens grounded in Christ's suffering
+- [[61. 2 Peter Overview]] — False teachers; Scripture carried by the Spirit; the Lord is patient
+- [[62. 1 John Overview]] — "God is love"; three tests of genuine faith
+- [[63. 2 John Overview]] — Walk in love; do not receive those who deny Christ
+- [[64. 3 John Overview]] — Hospitality commended; Diotrephes warned
+- [[65. Jude Overview]] — "Contend for the faith once for all delivered to the saints"
 
 ### Apocalyptic
-- [[3. Overviews/66. Revelation Overview]] — The Lamb victorious; the new creation
+- [[66. Revelation Overview]] — The Lamb victorious; the new creation
 
 ---
 
@@ -139,19 +139,19 @@ The Bible is not a random collection of texts. It tells one unified story:
 *Themes trace threads across the whole Bible.*
 
 ### Story Arc
-[[6. Themes/Creation & New Creation]] · [[6. Themes/Sin & The Fall]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Resurrection & Eternal Life]]
+[[Creation & New Creation]] · [[Sin & The Fall]] · [[Redemption & Salvation]] · [[Covenant]] · [[Prophecy & Fulfillment]] · [[Resurrection & Eternal Life]]
 
 ### God's Character
-[[6. Themes/Grace & Mercy]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Love]] · [[6. Themes/Judgment]] · [[6. Themes/Light & Darkness]]
+[[Grace & Mercy]] · [[Justice & Righteousness]] · [[Love]] · [[Judgment]] · [[Light & Darkness]]
 
 ### Christ-Centered
-[[6. Themes/Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Kingdom of God]]
+[[Messiah & Christ]] · [[Sacrifice & Atonement]] · [[Shepherd & King]] · [[Kingdom of God]]
 
 ### Human Response
-[[6. Themes/Faith & Trust]] · [[6. Themes/Prayer & Worship]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Wisdom]]
+[[Faith & Trust]] · [[Prayer & Worship]] · [[Suffering & Perseverance]] · [[Wisdom]]
 
 ### Scope & Mission
-[[6. Themes/Israel & The Gentiles]] · [[6. Themes/The Promised Land & Rest]] · [[6. Themes/Law & Torah]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/The Word of God]]
+[[Israel & The Gentiles]] · [[The Promised Land & Rest]] · [[Law & Torah]] · [[The Holy Spirit]] · [[The Word of God]]
 
 ---
 
@@ -160,7 +160,7 @@ The Bible is not a random collection of texts. It tells one unified story:
 These are the most-linked chapters in the vault — passages that serve as hubs connecting many other texts:
 
 **Old Testament hubs**
-[[2. The Bible (ESV)/01. Genesis/Genesis 1|Gen 1]] · [[2. The Bible (ESV)/01. Genesis/Genesis 3|Gen 3]] · [[2. The Bible (ESV)/01. Genesis/Genesis 12|Gen 12]] · [[2. The Bible (ESV)/01. Genesis/Genesis 15|Gen 15]] · [[2. The Bible (ESV)/01. Genesis/Genesis 22|Gen 22]] · [[2. The Bible (ESV)/02. Exodus/Exodus 12|Ex 12]] · [[2. The Bible (ESV)/02. Exodus/Exodus 20|Ex 20]] · [[2. The Bible (ESV)/03. Leviticus/Leviticus 16|Lev 16]] · [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deut 6]] · [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Sam 7]] · [[2. The Bible (ESV)/19. Psalms/Psalms 22|Ps 22]] · [[2. The Bible (ESV)/19. Psalms/Psalms 23|Ps 23]] · [[2. The Bible (ESV)/19. Psalms/Psalms 51|Ps 51]] · [[Psalms 110|Ps 110]] · [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isa 53]] · [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jer 31]] · [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 37|Ezek 37]] · [[2. The Bible (ESV)/27. Daniel/Daniel 7|Dan 7]]
+[[Genesis 1|Gen 1]] · [[Genesis 3|Gen 3]] · [[Genesis 12|Gen 12]] · [[Genesis 15|Gen 15]] · [[Genesis 22|Gen 22]] · [[Exodus 12|Ex 12]] · [[Exodus 20|Ex 20]] · [[Leviticus 16|Lev 16]] · [[Deuteronomy 6|Deut 6]] · [[II Samuel 7|2 Sam 7]] · [[Psalms 22|Ps 22]] · [[Psalms 23|Ps 23]] · [[Psalms 51|Ps 51]] · [[Psalms 110|Ps 110]] · [[Isaiah 53|Isa 53]] · [[Jeremiah 31|Jer 31]] · [[Ezekiel 37|Ezek 37]] · [[Daniel 7|Dan 7]]
 
 **New Testament hubs**
-[[2. The Bible (ESV)/40. Matthew/Matthew 5|Matt 5]] · [[2. The Bible (ESV)/40. Matthew/Matthew 26|Matt 26]] · [[2. The Bible (ESV)/43. John/John 1|John 1]] · [[2. The Bible (ESV)/43. John/John 3|John 3]] · [[2. The Bible (ESV)/43. John/John 10|John 10]] · [[2. The Bible (ESV)/43. John/John 17|John 17]] · [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] · [[2. The Bible (ESV)/45. Romans/Romans 3|Rom 3]] · [[2. The Bible (ESV)/45. Romans/Romans 8|Rom 8]] · [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 13|1 Cor 13]] · [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Cor 15]] · [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Heb 11]] · [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Rev 21]] · [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 22|Rev 22]]
+[[Matthew 5|Matt 5]] · [[Matthew 26|Matt 26]] · [[John 1]] · [[John 3]] · [[John 10]] · [[John 17]] · [[Acts 2]] · [[Romans 3|Rom 3]] · [[Romans 8|Rom 8]] · [[I Corinthians 13|1 Cor 13]] · [[I Corinthians 15|1 Cor 15]] · [[Hebrews 11|Heb 11]] · [[Revelation of John 21|Rev 21]] · [[Revelation of John 22|Rev 22]]
