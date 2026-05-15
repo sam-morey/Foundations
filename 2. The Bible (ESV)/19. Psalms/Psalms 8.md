@@ -15,14 +15,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[Messiah & Christ|Messiah & Christ]] · [[Kingdom of God|Kingdom of God]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Kingdom of God|Kingdom of God]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1:26–28]] — humanity made in God's image to have dominion (v.6–8 interprets this commission poetically)
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 2|Hebrews 2:6–9]] — quotes Psalm 8:4–6 and argues "we do not yet see everything in subjection to him, but we see… Jesus" — the Son of Man who perfectly fulfills the Psalm's vision
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:27]] — Paul quotes v.6 ("put all things under his feet") to show Christ's final conquest over death
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 1|Ephesians 1:22]] — "He put all things under his feet" — again quoting v.6 of Christ as the true human who fulfills Adam's mandate
 - [[2. The Bible (ESV)/40. Matthew/Matthew 21|Matthew 21:16]] — Jesus quotes v.2 ("out of the mouth of babes") when the children praise him at the temple
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

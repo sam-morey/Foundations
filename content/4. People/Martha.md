@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]]
 
 ## Who She Is
 Martha of Bethany is the practical, hospitable sister of Mary and Lazarus who welcomed Jesus into her home and served him faithfully. She is often remembered for her distracted busyness in Luke 10 — and Jesus's gentle correction is real — but she should be equally remembered for the great confession of faith she makes in John 11:27: "Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world." Her story teaches that service and faith are not opposites, and that even when we come to Jesus with grief and questions, he meets us with himself.
@@ -26,4 +26,4 @@ Martha is a woman of action — she runs to Jesus when Lazarus dies, she speaks 
 Martha teaches that genuine devotion to Jesus includes both the contemplative and the active. The rebuke in Luke 10 is not a dismissal of service but a reminder that service untethered from sitting with Jesus becomes anxious and resentful. Rooted in the one thing necessary, all her service becomes worship.
 
 ## Related Themes
-[[Faith & Trust]] · [[Love]] · [[Prayer & Worship]] · [[Resurrection & Eternal Life]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Love]] · [[6. Themes/Prayer & Worship]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/Grace & Mercy]]

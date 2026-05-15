@@ -302,10 +302,10 @@
 - [[Scientism]]
 
 ## Related Books
-- [[Perelandra]]
-- [[That Hideous Strength]]
+- [[content/4. Supplemental Content/C.S. Lewis/Perelandra]]
+- [[content/4. Supplemental Content/C.S. Lewis/That Hideous Strength]]
 - [[The War of the Worlds]]
 - [[A Princess of Mars]]
-- [[The Great Divorce]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]
 - [[The Discarded Image]]
-- [[Paradise Lost]]
+- [[7. Supplemental Content/Paradise Lost]]

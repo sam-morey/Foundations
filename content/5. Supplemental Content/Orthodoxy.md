@@ -129,15 +129,15 @@
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12]] — the cloud of witnesses — Chesterton's "democracy of the dead" given its theological form
 
 ## Related Concepts
-- [[Faith & Trust]]
-- [[Creation & New Creation]]
-- [[Sin & The Fall]]
-- [[Messiah & Christ]]
-- [[Wisdom]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Creation & New Creation]]
+- [[6. Themes/Sin & The Fall]]
+- [[6. Themes/Messiah & Christ]]
+- [[6. Themes/Wisdom]]
 - [[The Church]]
 - [[Revelation & Scripture]]
 
 ## Related Books
-- [[Gentle and Lowly]]
-- [[The Religious Affections]]
-- [[Life Together]]
+- [[content/5. Supplemental Content/Gentle and Lowly]]
+- [[content/5. Supplemental Content/The Religious Affections]]
+- [[content/5. Supplemental Content/Life Together]]

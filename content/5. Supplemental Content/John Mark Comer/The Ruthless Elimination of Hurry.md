@@ -196,7 +196,7 @@
 - [[Attention]]
 
 ## Related Books
-- [[Garden City]]
+- [[content/5. Supplemental Content/John Mark Comer/Garden City]]
 - [[The Common Rule]]
-- [[Celebration of Discipline]]
-- [[Practicing the Way]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[content/5. Supplemental Content/John Mark Comer/Practicing the Way]]

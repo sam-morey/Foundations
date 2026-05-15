@@ -23,7 +23,7 @@ A personal knowledge base of book notes, ideas, and synthesis — organized for 
 
 ## Key Concepts
 
-- [[Spiritual Formation]] · [[Discipleship]] · [[Kingdom of God]]
+- [[Spiritual Formation]] · [[Discipleship]] · [[6. Themes/Kingdom of God]]
 - [[Deliberate Practice]] · [[Habit Formation]] · [[Decision-Making]]
 - [[Human-AI Collaboration]] · [[AI Ethics]]
 - [[Strategic Thinking]] · [[Consulting Methodology]]

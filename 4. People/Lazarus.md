@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/43. John Overview|John]]
 
 ## Who He Is
 Lazarus of Bethany is the brother of Mary and Martha, and the man Jesus raised from the dead after four days in the tomb — the last and greatest of Jesus's seven signs in John's Gospel. He is described simply as one "whom Jesus loved" (John 11:3), and his resurrection is not a quiet miracle: it happens publicly, before a large crowd, near Jerusalem, and it directly triggers the chief priests and Pharisees' decision to have Jesus killed (John 11:53). Lazarus is a living preview of what the resurrection of all the dead will look like.
@@ -27,4 +27,4 @@ Lazarus speaks no words in the Gospels, yet his presence speaks volumes. He is t
 The detail that the authorities wanted to kill Lazarus as well as Jesus (John 12:10–11) is telling: a living, breathing man who had been dead four days was the most dangerous apologetic imaginable. His existence alone was causing people to believe. He is, in the most literal sense, a witness to the resurrection life that Jesus brings.
 
 ## Related Themes
-[[Resurrection & Eternal Life]] · [[Faith & Trust]] · [[Love]] · [[Redemption & Salvation]] · [[Messiah & Christ]]
+[[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Love]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]]

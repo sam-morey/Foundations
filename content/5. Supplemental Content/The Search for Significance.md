@@ -187,10 +187,10 @@
 - [[Spiritual Formation]]
 
 ## Related Books
-- [[The Ragamuffin Gospel]]
+- [[content/5. Supplemental Content/The Ragamuffin Gospel]]
 - [[Victory Over the Darkness]]
 - [[Changes That Heal]]
-- [[The Return of the Prodigal Son]]
-- [[Confessions]]
-- [[Renovation of the Heart]]
-- [[Knowing God]]
+- [[content/5. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son]]
+- [[content/5. Supplemental Content/Confessions]]
+- [[content/5. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[content/5. Supplemental Content/Knowing God]]

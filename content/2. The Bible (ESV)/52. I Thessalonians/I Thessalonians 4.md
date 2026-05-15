@@ -24,14 +24,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Messiah & Christ|Messiah & Christ]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:51–52]] — "we shall not all sleep, but we shall all be changed… at the last trumpet" — the same resurrection event described in parallel
 - [[2. The Bible (ESV)/27. Daniel/Daniel 12|Daniel 12:2]] — "many who sleep in the dust of the earth shall awake" — the OT foundation for bodily resurrection that v.13–17 assumes
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25]] — "I am the resurrection and the life" — the basis for Paul's hope in v.14: "since we believe that Jesus died and rose again"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 20|Revelation 20:4–6]] — the first resurrection; the same event from Revelation's vantage point
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:23]] — "we wait eagerly for… the redemption of our bodies" — the same bodily hope as v.16–17
-- [[46-57. Paul's Letters Overview|Paul's Letters Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters Overview]]
 
 ---
 

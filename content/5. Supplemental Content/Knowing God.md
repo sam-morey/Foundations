@@ -198,8 +198,8 @@
 - [[Providence]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Pursuit of God]]
-- [[The Knowledge of the Holy]]
-- [[Delighting in the Trinity]]
-- [[Renovation of the Heart]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]
+- [[content/5. Supplemental Content/Delighting in the Trinity]]
+- [[content/5. Supplemental Content/Dallas Willard/Renovation of the Heart]]

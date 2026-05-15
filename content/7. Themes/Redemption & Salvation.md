@@ -31,19 +31,19 @@ Redemption means to buy back what was lost or enslaved. Salvation is the broader
 **Glorification** — final transformation: [[2. The Bible (ESV)/45. Romans/Romans 8\|Romans 8]], [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21]]
 
 ## Related Themes
-- [[Covenant]] — salvation comes through covenant relationship
-- [[Sacrifice & Atonement]] — the cost of redemption
-- [[Faith & Trust]] — the instrument of receiving salvation
-- [[Grace & Mercy]] — salvation is unearned
-- [[Messiah & Christ]] — the Redeemer
-- [[Sin & The Fall]] — what we are saved from
-- [[Resurrection & Eternal Life]] — where salvation leads
+- [[content/7. Themes/Covenant]] — salvation comes through covenant relationship
+- [[content/7. Themes/Sacrifice & Atonement]] — the cost of redemption
+- [[content/7. Themes/Faith & Trust]] — the instrument of receiving salvation
+- [[content/7. Themes/Grace & Mercy]] — salvation is unearned
+- [[content/7. Themes/Messiah & Christ]] — the Redeemer
+- [[content/7. Themes/Sin & The Fall]] — what we are saved from
+- [[content/7. Themes/Resurrection & Eternal Life]] — where salvation leads
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — a lucid account of what Christianity says about how we are saved and why
-- [[5. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — radical grace for the undeserving; the emotional and spiritual reality of being redeemed
-- [[5. Supplemental Content/Confessions|Confessions]] (Augustine) — one of history's greatest first-person accounts of being found by God
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — the "gospel" chapters on adoption and justification are among the best in Christian literature
-- [[5. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — salvation narrated as a journey; the burden falling at the foot of the cross
-- [[5. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — redemption as the spine of the entire biblical narrative from Fall to new creation
-- [[5. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — both elder-brother moralism and younger-brother rebellion as forms of lostness that grace alone can heal
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — a lucid account of what Christianity says about how we are saved and why
+- [[7. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — radical grace for the undeserving; the emotional and spiritual reality of being redeemed
+- [[7. Supplemental Content/Confessions|Confessions]] (Augustine) — one of history's greatest first-person accounts of being found by God
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — the "gospel" chapters on adoption and justification are among the best in Christian literature
+- [[7. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — salvation narrated as a journey; the burden falling at the foot of the cross
+- [[7. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — redemption as the spine of the entire biblical narrative from Fall to new creation
+- [[7. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — both elder-brother moralism and younger-brother rebellion as forms of lostness that grace alone can heal

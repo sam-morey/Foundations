@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Primeval History
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Noah is a righteous man in a generation of pervasive wickedness, chosen by God to build an ark and preserve a remnant of humanity and creation through the judgment of the Flood. He stands as a new Adam figure — a fresh start for humanity after catastrophic judgment — and the recipient of the covenant of the rainbow. His obedience is remarkable; his later failure is a reminder that even the saved still need a greater rescuer.
@@ -36,4 +36,4 @@ Yet the Flood is not the end of the story. Almost immediately after leaving the 
 - [[2. The Bible (ESV)/42. Luke/Luke 17|Luke 17:26–27]] — Jesus compares the days of Noah to the days of the Son of Man's coming
 
 ## Related Themes
-[[Covenant]] · [[Grace & Mercy]] · [[Judgment & Justice]] · [[Redemption & Salvation]] · [[Faith & Trust]]
+[[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[Judgment & Justice]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Faith & Trust]]

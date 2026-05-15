@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/07. Judges Overview|Judges]]
+**Appears In:** [[3. Overviews/07. Judges Overview|Judges]]
 
 ## Who They Are
 Gideon is a judge in Israel who delivers the nation from the oppression of the Midianites through a miraculous victory with a force of only 300 men, armed with trumpets and torches rather than conventional weapons. He is called while hiding from the enemy, introduces himself as the least in his clan, and repeatedly asks God for confirming signs. His story is a powerful illustration of God's strength displayed through human weakness — and a sobering portrait of how a man who begins with radical dependence on God can end in tragic spiritual failure.
@@ -35,4 +35,4 @@ But success undoes what adversity built. After the victory, Gideon takes the gol
 - [[2. The Bible (ESV)/43. John/John 6|John 6:15]] — Jesus refused kingship as Gideon did, but for entirely different and deeper reasons
 
 ## Related Themes
-[[Faith & Trust]] · [[Grace & Mercy]] · [[Justice & Righteousness]] · [[Redemption & Salvation]] · [[Shepherd & King]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Shepherd & King]]

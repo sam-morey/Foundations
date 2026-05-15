@@ -139,9 +139,9 @@
 - [[Sacrifice and Redemption]]
 
 ## Related Books
-- [[The Problem of Pain]]
-- [[The Great Divorce]]
-- [[Surprised by Joy]]
-- [[Mere Christianity]]
-- [[A Grief Observed]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[content/4. Supplemental Content/C.S. Lewis/Surprised by Joy]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/A Grief Observed]]
 - [[Four Loves]]

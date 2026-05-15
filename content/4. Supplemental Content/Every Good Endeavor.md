@@ -191,7 +191,7 @@
 
 ## Related Concepts
 - [[Vocation and Work]]
-- [[Kingdom of God]]
+- [[6. Themes/Kingdom of God]]
 - [[Vocation]]
 - [[Theology of Work]]
 - [[Common Grace]]
@@ -199,9 +199,9 @@
 - [[Faith and Work Integration]]
 
 ## Related Books
-- [[Garden City]]
+- [[content/4. Supplemental Content/John Mark Comer/Garden City]]
 - [[The Call]]
 - [[Work Matters]]
 - [[Kingdom Calling]]
-- [[The Divine Conspiracy]]
-- [[Confessions]]
+- [[content/4. Supplemental Content/Dallas Willard/The Divine Conspiracy]]
+- [[content/4. Supplemental Content/Confessions]]

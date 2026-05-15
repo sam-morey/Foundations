@@ -49,11 +49,11 @@ The Psalms are Israel's prayer book — 150 prayers covering the full range of h
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 19\|Revelation 19]] — "Hallelujah! Salvation and glory and power belong to our God"
 
 ## Related Themes
-- [[The Holy Spirit]] — the Spirit enables prayer
-- [[Love]] — worship is the response of a heart that loves God
-- [[Suffering & Perseverance]] — lament is honest prayer in suffering
-- [[Justice & Righteousness]] — true worship produces justice
-- [[The Word of God]] — Scripture shapes prayer
+- [[content/5. Themes/The Holy Spirit]] — the Spirit enables prayer
+- [[content/5. Themes/Love]] — worship is the response of a heart that loves God
+- [[content/5. Themes/Suffering & Perseverance]] — lament is honest prayer in suffering
+- [[content/5. Themes/Justice & Righteousness]] — true worship produces justice
+- [[content/5. Themes/The Word of God]] — Scripture shapes prayer
 
 ## Supplemental Reading
 - [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — prayer as the soul's conscious pursuit of the God who is already present

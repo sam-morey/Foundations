@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/08. Ruth Overview|Ruth]], [[3. Book Overviews/40. Matthew Overview|Matthew]]
+**Appears In:** [[3. Overviews/08. Ruth Overview|Ruth]], [[3. Overviews/40. Matthew Overview|Matthew]]
 
 ## Who They Are
 Ruth is a Moabite widow who, after the death of her husband, chooses to remain with her mother-in-law Naomi and follow the God of Israel. She is the great-grandmother of David and an ancestor of Jesus Christ. Her story is the defining Old Testament portrait of hesed — covenant loyalty and loving-kindness — and stands as a remarkable example of a Gentile embraced by the God of Israel.
@@ -34,4 +34,4 @@ In Bethlehem, Ruth displays industry, humility, and courage. She works hard in t
 - [[2. The Bible (ESV)/42. Luke/Luke 1|Luke 1:38]] — Ruth's surrender to God's plan ("your God will be my God") prefigures Mary's "let it be to me according to your word"
 
 ## Related Themes
-[[Covenant]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[Redemption & Salvation]] · [[Messiah & Christ]]
+[[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]]

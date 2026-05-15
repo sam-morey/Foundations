@@ -246,16 +246,16 @@
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21]] — The consummated kingdom: God's people in the new creation under his perfect rule
 
 ## Related Concepts
-- [[Kingdom of God]]
-- [[Covenant]]
+- [[6. Themes/Kingdom of God]]
+- [[6. Themes/Covenant]]
 - [[Biblical Theology]]
 - [[Typology]]
-- [[Prophecy & Fulfillment]]
-- [[Messiah & Christ]]
+- [[6. Themes/Prophecy & Fulfillment]]
+- [[6. Themes/Messiah & Christ]]
 
 ## Related Books
-- [[The Drama of Scripture]]
-- [[Surprised by Hope]]
-- [[Simply Christian]]
+- [[content/5. Supplemental Content/The Drama of Scripture]]
+- [[content/5. Supplemental Content/N.T. Wright/Surprised by Hope]]
+- [[content/5. Supplemental Content/N.T. Wright/Simply Christian]]
 - [[God's Big Picture]]
-- [[The Knowledge of the Holy]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]

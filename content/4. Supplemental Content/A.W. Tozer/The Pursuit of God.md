@@ -181,8 +181,8 @@
 - [[Sanctification]]
 
 ## Related Books
-- [[The Knowledge of the Holy]]
-- [[Celebration of Discipline]]
-- [[The Imitation of Christ]]
-- [[Practicing the Presence of God]]
-- [[Practicing the Way]]
+- [[content/4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[7. Supplemental Content/The Imitation of Christ]]
+- [[7. Supplemental Content/Practicing the Presence of God]]
+- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]

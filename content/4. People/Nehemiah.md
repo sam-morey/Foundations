@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Return
-**Appears In:** [[3. Book Overviews/16. Nehemiah Overview|Nehemiah]]
+**Appears In:** [[3. Overviews/16. Nehemiah Overview|Nehemiah]]
 
 ## Who They Are
 Nehemiah is the cupbearer to the Persian king Artaxerxes who receives news of Jerusalem's broken walls and responds with prayer, planning, and courageous action. He leads the rebuilding of the city walls in fifty-two days against fierce external opposition and internal discouragement. His memoir is one of the most personally transparent leadership accounts in Scripture, and his combination of prayer and practical action has made him the model of prayerful, persevering leadership.
@@ -34,4 +34,4 @@ His response to threats is equally disciplined: prayer and posting a guard. Not 
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12:1–3]] — Nehemiah's perseverance against opposition embodies the "fixing our eyes on Jesus" while running with endurance
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Suffering & Perseverance]] · [[Justice & Righteousness]] · [[Redemption & Salvation]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Redemption & Salvation]]

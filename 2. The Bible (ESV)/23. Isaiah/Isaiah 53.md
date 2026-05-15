@@ -18,7 +18,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 52|Isaiah 52:13]] — "Behold, my servant shall act wisely; he shall be high and lifted up" (the beginning of the Fourth Servant Song)
 - [[2. The Bible (ESV)/44. Acts/Acts 8|Acts 8:32–35]] — Philip explains this passage to the Ethiopian official as being about Jesus
@@ -26,7 +26,7 @@
 - [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 5|2 Corinthians 5:21]] — "God made him who knew no sin to be sin for us"
 - [[2. The Bible (ESV)/60. I Peter/I Peter 2|1 Peter 2:24]] — "He himself bore our sins in his body on the tree"
 - [[2. The Bible (ESV)/40. Matthew/Matthew 27|Matthew 27]] — the crucifixion as fulfillment of this chapter
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

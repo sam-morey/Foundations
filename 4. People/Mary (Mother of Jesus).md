@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]], [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who She Is
 Mary of Nazareth is the young Jewish woman chosen by God to be the mother of the Messiah — a calling she accepted with faith and obedience at extraordinary personal cost. Her "yes" to the angel Gabriel came before she could see how things would unfold, when saying yes could have meant disgrace, abandonment, or worse. She is not worshiped in Scripture but is rightly called "blessed among women" — a woman whose trust in God became the vessel through which the Word became flesh.
@@ -28,4 +28,4 @@ Mary is a woman of few recorded words but immense faithfulness. Her Magnificat i
 Scripture nowhere elevates Mary to a mediator or object of prayer, but it does give her a unique and honored place. She is the one human being who knew Jesus most intimately from the very beginning — who "treasured up all these things, pondering them in her heart" — and her example of humble, trusting obedience remains one of the most striking in the Bible.
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Redemption & Salvation]] · [[Prayer & Worship]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Prayer & Worship]] · [[6. Themes/Grace & Mercy]]

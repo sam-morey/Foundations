@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The United Monarchy
-**Appears In:** [[3. Book Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Book Overviews/10. 2 Samuel Overview|2 Samuel]]
+**Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Overviews/10. 2 Samuel Overview|2 Samuel]]
 
 ## Who They Are
 Saul is the first king of Israel, chosen by God in response to the people's demand for a king like other nations. Tall, impressive, and initially humble, he begins his reign with promise but unravels through a pattern of impatience, partial obedience, and pride. His tragic decline — rejected by God, tormented by an evil spirit, ultimately dying in disgrace — stands as a sober warning about the kind of kingship that looks good outwardly but lacks a heart surrendered to God.
@@ -35,4 +35,4 @@ The trajectory is painful to watch: the Spirit of God departs, an evil spirit co
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12:17]] — Saul's inability to recover what he lost echoes the warning about the hardened heart that cannot find repentance
 
 ## Related Themes
-[[Sin & The Fall]] · [[Judgment]] · [[Shepherd & King]] · [[Covenant]] · [[Justice & Righteousness]]
+[[6. Themes/Sin & The Fall]] · [[6. Themes/Judgment]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Covenant]] · [[6. Themes/Justice & Righteousness]]

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/08. Ruth Overview|Ruth]]
+**Appears In:** [[3. Overviews/08. Ruth Overview|Ruth]]
 
 ## Who They Are
 Naomi is an Israelite woman from Bethlehem who loses her husband and both sons while living as a foreigner in Moab. She returns home bereft and bitter, renaming herself "Mara" (bitter), only to find that God has not abandoned her. Her story traces the arc from desolation to restoration and serves as a picture of Israel in exile — emptied, grieving, yet carried home by a God who redeems.
@@ -34,4 +34,4 @@ The final scene of the book belongs to Naomi as much as to anyone: she holds the
 - [[2. The Bible (ESV)/40. Matthew/Matthew 1|Matthew 1:5]] — The line she thought was extinguished in Moab runs directly to Jesus
 
 ## Related Themes
-[[Suffering & Perseverance]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Covenant]] · [[Faith & Trust]]
+[[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Faith & Trust]]

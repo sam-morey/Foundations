@@ -128,8 +128,8 @@
 - [[Compassion]]
 
 ## Related Books
-- [[The Wounded Healer]]
-- [[The Ragamuffin Gospel]]
-- [[Confessions]]
+- [[content/5. Supplemental Content/Henri Nouwen/The Wounded Healer]]
+- [[7. Supplemental Content/The Ragamuffin Gospel]]
+- [[7. Supplemental Content/Confessions]]
 - [[The Return of the Prodigal Son (Rembrandt)]]
 - [[Life of the Beloved]]

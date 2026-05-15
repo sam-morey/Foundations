@@ -25,13 +25,13 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sin & The Fall|Sin & The Fall]] · [[Grace & Mercy|Grace & Mercy]] · [[Prayer & Worship|Prayer & Worship]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Sin & The Fall|Sin & The Fall]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 11|2 Samuel 11–12]] — the context of David's sin with Bathsheba and Nathan's confrontation
 - [[2. The Bible (ESV)/19. Psalms/Psalms 22|Psalm 22]] — another psalm of deep anguish
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3]] — "all have sinned and fall short of the glory of God"
 - [[2. The Bible (ESV)/62. I John/I John 1|1 John 1:9]] — "If we confess our sins, he is faithful and just to forgive us"
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

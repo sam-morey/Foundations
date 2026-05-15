@@ -46,12 +46,12 @@ The Bible normalizes honest lament before God. Approximately one-third of the Ps
 Key lament psalms: [[2. The Bible (ESV)/19. Psalms/Psalms 13\|Ps 13]], [[2. The Bible (ESV)/19. Psalms/Psalms 22\|Ps 22]], [[2. The Bible (ESV)/19. Psalms/Psalms 42\|Ps 42]], [[Psalms 73\|Ps 73]], [[Psalms 88\|Ps 88]]
 
 ## Related Themes
-- [[Faith & Trust]] — perseverance is faith under pressure
-- [[Prayer & Worship]] — lament is prayer; honesty before God
-- [[Grace & Mercy]] — God's mercy sustains through suffering
-- [[Resurrection & Eternal Life]] — the hope that sustains in suffering
-- [[Judgment]] — God will ultimately make all wrongs right
-- [[Messiah & Christ]] — Jesus suffers with and for us
+- [[content/5. Themes/Faith & Trust]] — perseverance is faith under pressure
+- [[content/5. Themes/Prayer & Worship]] — lament is prayer; honesty before God
+- [[content/5. Themes/Grace & Mercy]] — God's mercy sustains through suffering
+- [[content/5. Themes/Resurrection & Eternal Life]] — the hope that sustains in suffering
+- [[content/5. Themes/Judgment]] — God will ultimately make all wrongs right
+- [[content/5. Themes/Messiah & Christ]] — Jesus suffers with and for us
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] (Lewis) — the most rigorous Christian engagement with why a good God permits suffering

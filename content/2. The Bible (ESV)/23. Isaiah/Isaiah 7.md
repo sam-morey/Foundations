@@ -31,14 +31,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Faith & Trust|Faith & Trust]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Faith & Trust|Faith & Trust]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 1|Matthew 1:23]] — "Behold, the virgin shall conceive… they shall call his name Immanuel" (direct quotation of v.14)
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 9|Isaiah 9]] — the royal child promise continues: "Wonderful Counselor, Mighty God"
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53]] — the fuller portrait of the promised deliverer as Suffering Servant
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7]] — the Davidic covenant that grounds the expectation of a royal son
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 11|Isaiah 11]] — "a shoot from the stump of Jesse" — the Davidic Messiah developed further
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

@@ -42,12 +42,12 @@ See: [[2. The Bible (ESV)/40. Matthew/Matthew 1\|Matt 1:22]], [[2. The Bible (ES
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 1\|Revelation 1–22]] — The culmination of all prophetic hope
 
 ## Related Themes
-- [[Messiah & Christ]] — the central subject of OT prophecy
-- [[Covenant]] — prophets call Israel back to covenant faithfulness
-- [[Kingdom of God]] — prophets announce the coming Kingdom
-- [[Judgment]] — prophets warn of covenant consequences
-- [[Redemption & Salvation]] — prophets declare God's saving purpose
-- [[Israel & The Gentiles]] — prophets anticipate blessing for all nations
+- [[content/5. Themes/Messiah & Christ]] — the central subject of OT prophecy
+- [[content/5. Themes/Covenant]] — prophets call Israel back to covenant faithfulness
+- [[content/5. Themes/Kingdom of God]] — prophets announce the coming Kingdom
+- [[content/5. Themes/Judgment]] — prophets warn of covenant consequences
+- [[content/5. Themes/Redemption & Salvation]] — prophets declare God's saving purpose
+- [[content/5. Themes/Israel & The Gentiles]] — prophets anticipate blessing for all nations
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God's faithfulness in keeping his promises; prophecy as grounded in God's character

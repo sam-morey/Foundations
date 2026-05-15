@@ -13,14 +13,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Kingdom of God|Kingdom of God]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 14|Genesis 14]] — Melchizedek, priest of God Most High, blesses Abraham (the origin of the Melchizedek type)
 - [[2. The Bible (ESV)/40. Matthew/Matthew 22|Matthew 22:44]] — Jesus quotes Psalm 110:1 to silence his opponents
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2:34–35]] — Peter cites Psalm 110:1 at Pentecost as proof of Jesus' resurrection/exaltation
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 7|Hebrews 7]] — the most sustained NT treatment of Jesus as priest after the order of Melchizedek
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:13]] — Psalm 110:1 as the culmination of the Son's superiority to angels
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

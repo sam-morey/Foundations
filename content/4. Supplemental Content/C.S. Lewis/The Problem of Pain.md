@@ -168,10 +168,10 @@
 - [[Soul-Making]]
 
 ## Related Books
-- [[A Grief Observed]]
-- [[Mere Christianity]]
-- [[The Great Divorce]]
-- [[The Abolition of Man]]
-- [[Confessions]]
-- [[The Brothers Karamazov]]
-- [[The Ragamuffin Gospel]]
+- [[content/4. Supplemental Content/C.S. Lewis/A Grief Observed]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Abolition of Man]]
+- [[7. Supplemental Content/Confessions]]
+- [[7. Supplemental Content/The Brothers Karamazov]]
+- [[7. Supplemental Content/The Ragamuffin Gospel]]

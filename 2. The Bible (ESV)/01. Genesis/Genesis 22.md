@@ -30,7 +30,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Faith & Trust|Faith & Trust]] · [[Messiah & Christ|Messiah & Christ]] · [[Covenant|Covenant]]
+**Themes:** [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Covenant|Covenant]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12]] — the original call and covenant
 - [[2. The Bible (ESV)/01. Genesis/Genesis 15|Genesis 15]] — covenant ratified; Abraham believed
@@ -38,7 +38,7 @@
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:17–19]] — "Abraham reasoned that God could even raise the dead"
 - [[2. The Bible (ESV)/59. James/James 2|James 2:21]] — "Was not Abraham our father justified by works when he offered up his son?"
 - Genesis 22:8 ("God will provide the lamb") → [[2. The Bible (ESV)/43. John/John 1|John 1:29]] (Behold, the Lamb of God)
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

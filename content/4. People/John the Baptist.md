@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]]
 
 ## Who He Is
 John the Baptist is the last and greatest prophet of the old covenant — the Elijah-like forerunner sent to prepare Israel for the arrival of the Messiah. His entire life and ministry are defined by Isaiah 40:3: "A voice crying in the wilderness, 'Prepare the way of the Lord.'" Jesus himself declared, "Among those born of women there has arisen no one greater than John the Baptist" (Matthew 11:11) — yet John understood his own role perfectly: "He must increase, but I must decrease" (John 3:30).
@@ -28,4 +28,4 @@ John was a man of the wilderness — clothed in camel's hair, eating locusts and
 His death marks the end of the old covenant prophetic era. Jesus's subsequent declaration of the Kingdom signals the dawn of the new. John is a transitional figure of the highest importance — the one who completed the race of OT prophecy and handed the baton directly to the Son of God.
 
 ## Related Themes
-[[Messiah & Christ]] · [[Redemption & Salvation]] · [[Covenant]] · [[Kingdom of God]] · [[Suffering & Perseverance]]
+[[6. Themes/Messiah & Christ]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Kingdom of God]] · [[6. Themes/Suffering & Perseverance]]

@@ -30,14 +30,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sin & The Fall|Sin & The Fall]] · [[Creation & New Creation|Creation & New Creation]] · [[Messiah & Christ|Messiah & Christ]] · [[Judgment|Judgment]]
+**Themes:** [[6. Themes/Sin & The Fall|Sin & The Fall]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Judgment|Judgment]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — the good creation before the Fall
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — "sin came into the world through one man, and death through sin"
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:22]] — "In Adam all die; in Christ all will be made alive"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 22|Revelation 22]] — the Tree of Life restored; the curse reversed
 - Genesis 3:15 (the *protevangelium*, the first promise of a Redeemer) → [[2. The Bible (ESV)/48. Galatians/Galatians 3|Galatians 3:16]], [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 12|Revelation 12:17]]
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

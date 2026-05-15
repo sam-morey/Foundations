@@ -27,14 +27,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Grace & Mercy|Grace & Mercy]] · [[Sin & The Fall|Sin & The Fall]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Sin & The Fall|Sin & The Fall]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 3|Genesis 3]] — the fall through Adam that v.12–19 contrasts with Christ's obedience
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3]] — the prior argument: all are under sin; justification is by faith in Christ's blood (grounds v.1's "peace with God")
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — continues: no condemnation, the Spirit, future glory, nothing separates us from love
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:21–22,45–49]] — Paul develops the Adam/Christ typology in the resurrection context
 - [[2. The Bible (ESV)/43. John/John 3|John 3:16–17]] — God's love sending the Son parallels v.8: "God shows his love for us"
-- [[45. Romans Overview|Romans Overview]]
+- [[3. Overviews/45. Romans Overview|Romans Overview]]
 
 ---
 

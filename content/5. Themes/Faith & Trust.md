@@ -37,11 +37,11 @@ A key tension in Scripture:
 These are not contradictory — both describe the same reality from different angles. Paul argues against *earning* salvation; James argues against a mere *intellectual* assent that changes nothing.
 
 ## Related Themes
-- [[Grace & Mercy]] — faith receives what grace offers
-- [[Redemption & Salvation]] — faith is the instrument of salvation
-- [[Covenant]] — covenant relationship requires trust
-- [[Suffering & Perseverance]] — faith is tested and proven
-- [[The Word of God]] — faith comes by hearing the Word
+- [[content/5. Themes/Grace & Mercy]] — faith receives what grace offers
+- [[content/5. Themes/Redemption & Salvation]] — faith is the instrument of salvation
+- [[content/5. Themes/Covenant]] — covenant relationship requires trust
+- [[content/5. Themes/Suffering & Perseverance]] — faith is tested and proven
+- [[content/5. Themes/The Word of God]] — faith comes by hearing the Word
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — knowing God deeply is the ground of genuine trust

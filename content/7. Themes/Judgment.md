@@ -46,16 +46,16 @@ God is the righteous judge of all the earth. Judgment is not contradictory to hi
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 20\|Revelation 20]] — The great white throne judgment; the books opened; death and Hades thrown into the lake of fire
 
 ## Related Themes
-- [[Justice & Righteousness]] — judgment upholds righteousness
-- [[Grace & Mercy]] — mercy triumphs over judgment for those who believe
-- [[Sin & The Fall]] — sin is the cause of judgment
-- [[Sacrifice & Atonement]] — the cross absorbs judgment
-- [[Resurrection & Eternal Life]] — resurrection precedes judgment
-- [[Kingdom of God]] — the King returns to judge
+- [[content/7. Themes/Justice & Righteousness]] — judgment upholds righteousness
+- [[content/7. Themes/Grace & Mercy]] — mercy triumphs over judgment for those who believe
+- [[content/7. Themes/Sin & The Fall]] — sin is the cause of judgment
+- [[content/7. Themes/Sacrifice & Atonement]] — the cross absorbs judgment
+- [[content/7. Themes/Resurrection & Eternal Life]] — resurrection precedes judgment
+- [[content/7. Themes/Kingdom of God]] — the King returns to judge
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — judgment as the ultimate confirmation of choices already made; heaven and hell as moral trajectories
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the ground of God's judgment; justice as an attribute of love
-- [[5. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — spiritual stakes rendered vivid; every human life is being contested
-- [[5. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — Satan judged and humanity subject to judgment; the cosmic weight of moral choice
-- [[5. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most architecturally precise vision of judgment in Western literature; sin has its own fitting consequence
+- [[7. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — judgment as the ultimate confirmation of choices already made; heaven and hell as moral trajectories
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the ground of God's judgment; justice as an attribute of love
+- [[7. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — spiritual stakes rendered vivid; every human life is being contested
+- [[7. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — Satan judged and humanity subject to judgment; the cosmic weight of moral choice
+- [[7. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most architecturally precise vision of judgment in Western literature; sin has its own fitting consequence

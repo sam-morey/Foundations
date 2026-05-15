@@ -47,18 +47,18 @@
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 5\|Revelation 5]] — The Lion of Judah and Lamb who is worthy
 
 ## Related Themes
-- [[Covenant]] — the Davidic covenant and its fulfillment
-- [[Prophecy & Fulfillment]] — OT promises and NT realization
-- [[Sacrifice & Atonement]] — Christ as the ultimate sacrifice
-- [[Kingdom of God]] — Christ the King
-- [[Resurrection & Eternal Life]] — Christ's resurrection as the firstfruits
-- [[Redemption & Salvation]] — Christ the Redeemer
+- [[content/7. Themes/Covenant]] — the Davidic covenant and its fulfillment
+- [[content/7. Themes/Prophecy & Fulfillment]] — OT promises and NT realization
+- [[content/7. Themes/Sacrifice & Atonement]] — Christ as the ultimate sacrifice
+- [[content/7. Themes/Kingdom of God]] — Christ the King
+- [[content/7. Themes/Resurrection & Eternal Life]] — Christ's resurrection as the firstfruits
+- [[content/7. Themes/Redemption & Salvation]] — Christ the Redeemer
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — "Who is Jesus?" answered with the famous liar-lunatic-Lord argument; unavoidable for this theme
-- [[5. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — Christ as the eternal Son who reveals the Father
-- [[5. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — Jesus as the Lord of the cosmos who invites apprenticeship
-- [[5. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]] (Comer) — apprenticeship to Jesus as the shape of the Christian life
-- [[5. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — following the Messiah is costly; "when Christ calls a man, he bids him come and die"
-- [[5. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — Jesus as the fulfillment of Israel's story and the answer to humanity's deepest longings
-- [[5. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — every strand of OT theology converging on Christ as the fulfillment of the whole plan
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — "Who is Jesus?" answered with the famous liar-lunatic-Lord argument; unavoidable for this theme
+- [[7. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — Christ as the eternal Son who reveals the Father
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — Jesus as the Lord of the cosmos who invites apprenticeship
+- [[7. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]] (Comer) — apprenticeship to Jesus as the shape of the Christian life
+- [[7. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — following the Messiah is costly; "when Christ calls a man, he bids him come and die"
+- [[7. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — Jesus as the fulfillment of Israel's story and the answer to humanity's deepest longings
+- [[7. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — every strand of OT theology converging on Christ as the fulfillment of the whole plan

@@ -42,14 +42,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Faith & Trust|Faith & Trust]] · [[The Holy Spirit|The Holy Spirit]] · [[Love|Love]] · [[Judgment|Judgment]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Love|Love]] · [[6. Themes/Judgment|Judgment]]
 **See Also:**
 - [[2. The Bible (ESV)/04. Numbers/Numbers 21|Numbers 21:9]] — the bronze serpent lifted up (v.14–15 explicitly quotes this)
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36|Ezekiel 36:25–27]] — born of water and Spirit; the new heart (background to v.5)
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25–26]] — "I am the resurrection and the life; whoever believes in me shall never die"
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5:8]] — "God demonstrates his love for us in that while we were still sinners, Christ died for us"
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2:8–9]] — "By grace you have been saved through faith"
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

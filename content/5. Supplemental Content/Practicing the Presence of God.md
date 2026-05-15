@@ -128,8 +128,8 @@
 - [[Spiritual Disciplines]]
 
 ## Related Books
-- [[The Imitation of Christ]]
-- [[The Pursuit of God]]
-- [[Celebration of Discipline]]
-- [[The Ruthless Elimination of Hurry]]
-- [[Confessions]]
+- [[content/5. Supplemental Content/The Imitation of Christ]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[content/5. Supplemental Content/Celebration of Discipline]]
+- [[content/5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
+- [[content/5. Supplemental Content/Confessions]]

@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Early Church
-**Appears In:** [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who He Is
 Stephen is the first Christian martyr — one of the seven men chosen by the Jerusalem church to oversee the distribution of food to widows, who quickly became a powerful preacher and worker of signs. When dragged before the Sanhedrin on false charges, he delivered the longest sermon in the book of Acts: a sweeping retelling of Israel's history from Abraham to Solomon, culminating in the charge that his accusers were repeating the pattern of every generation that rejected God's messengers. He died stoned, praying for his murderers — with a young man named Saul watching and approving.
@@ -26,4 +26,4 @@ Stephen was a man whose inner life matched his outer courage. To stand before th
 Saul of Tarsus watched Stephen die, holding the cloaks of the men who threw the stones (Acts 7:58). Luke mentions this detail twice (Acts 7:58; 8:1), and it is hard not to read the later conversion of Paul against the backdrop of Stephen's prayer: "Lord, do not hold this sin against them." The first martyr's intercession may have been part of the answer God used to call the church's greatest apostle.
 
 ## Related Themes
-[[Suffering & Perseverance]] · [[Faith & Trust]] · [[The Holy Spirit]] · [[Redemption & Salvation]] · [[Covenant]] · [[Messiah & Christ]]
+[[6. Themes/Suffering & Perseverance]] · [[6. Themes/Faith & Trust]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Messiah & Christ]]

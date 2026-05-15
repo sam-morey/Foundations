@@ -44,14 +44,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Faith & Trust|Faith & Trust]] · [[Kingdom of God|Kingdom of God]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Kingdom of God|Kingdom of God]]
 **See Also:**
 - [[2. The Bible (ESV)/27. Daniel/Daniel 7|Daniel 7:13–14]] — "the Son of Man coming in glory with the holy angels" (v.38) — Jesus uses Daniel's vision for himself
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:3]] — "rejected by men" (v.31) — the suffering Son of Man fulfills the rejected Servant
 - [[2. The Bible (ESV)/40. Matthew/Matthew 16|Matthew 16:13–28]] — Matthew's parallel account: Peter's confession, the church built on Peter, keys of the kingdom
 - [[2. The Bible (ESV)/42. Luke/Luke 9|Luke 9:18–27]] — Luke's parallel; the same pivot point in all three Synoptics
 - [[2. The Bible (ESV)/40. Matthew/Matthew 26|Matthew 26:64]] — at his trial Jesus again invokes Daniel 7:13 before the high priest
-- [[41. Mark Overview|Mark Overview]]
+- [[3. Overviews/41. Mark Overview|Mark Overview]]
 
 ---
 

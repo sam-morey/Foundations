@@ -37,14 +37,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[Light & Darkness|Light & Darkness]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Light & Darkness|Light & Darkness]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 2|Genesis 2]] — the second creation account; the Garden and humanity's formation
 - [[2. The Bible (ESV)/43. John/John 1|John 1:1–3]] — "In the beginning was the Word… all things were made through him"
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1:15–17]] — Christ as agent and goal of creation
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:2]] — "through whom also he created the world"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — the new creation that mirrors and surpasses the first
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

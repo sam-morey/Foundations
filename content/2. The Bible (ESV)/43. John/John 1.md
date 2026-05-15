@@ -57,7 +57,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Creation & New Creation|Creation & New Creation]] · [[Light & Darkness|Light & Darkness]] · [[The Word of God|The Word of God]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Light & Darkness|Light & Darkness]] · [[6. Themes/The Word of God|The Word of God]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — "In the beginning God created" echoed in "In the beginning was the Word"
 - [[2. The Bible (ESV)/20. Proverbs/Proverbs 8|Proverbs 8]] — Wisdom personified at creation, foreshadowing the Logos
@@ -65,7 +65,7 @@
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 49|Isaiah 49:6]] — "A light for the nations" (v.9 echoes this)
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1:15–17]] — parallel to John 1:3 on Christ as agent of creation
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:1–3]] — "the exact imprint of his nature, upholding the universe by the word of his power"
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

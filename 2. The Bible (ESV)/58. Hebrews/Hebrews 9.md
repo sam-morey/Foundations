@@ -34,14 +34,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Covenant|Covenant]] · [[Messiah & Christ|Messiah & Christ]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 16|Leviticus 16]] — the Day of Atonement that this chapter interprets: the high priest, the blood, the Most Holy Place
 - [[2. The Bible (ESV)/02. Exodus/Exodus 24|Exodus 24:8]] — "the blood of the covenant" quoted in v.20; now surpassed by Christ's blood
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31:31–34]] — the new covenant v.15 mediates, now established through Christ's death
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:12]] — "he bore the sin of many" (directly echoed in v.28)
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11]] — the faith chapter follows: those who looked forward to what ch. 9 describes
-- [[58. Hebrews Overview|Hebrews Overview]]
+- [[3. Overviews/58. Hebrews Overview|Hebrews Overview]]
 
 ---
 

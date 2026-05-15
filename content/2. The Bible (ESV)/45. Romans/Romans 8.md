@@ -45,7 +45,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[The Holy Spirit|The Holy Spirit]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Love|Love]]
+**Themes:** [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Love|Love]]
 **See Also:**
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — the foundation: justified, at peace, hope in God's love
 - [[2. The Bible (ESV)/45. Romans/Romans 6|Romans 6]] — dying and rising with Christ; dead to sin
@@ -53,7 +53,7 @@
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — the Spirit who helps us pray, leads us as children of God, and guarantees glory
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21:3–4]] — the ultimate fulfillment: God dwelling with his people, no more death
 - [[2. The Bible (ESV)/25. Lamentations/Lamentations 3|Lamentations 3:22–23]] — "The steadfast love of the Lord never ceases"; the OT root of Paul's assurance
-- [[45. Romans Overview|Romans Overview]]
+- [[3. Overviews/45. Romans Overview|Romans Overview]]
 
 ---
 

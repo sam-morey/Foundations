@@ -18,14 +18,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Creation & New Creation|Creation & New Creation]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21:4]] — "he will wipe away every tear from their eyes, and death shall be no more" — a direct echo of v.8, applied to the new creation
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:54]] — Paul quotes Isaiah 25:8 ("Death is swallowed up in victory") at the resurrection: "when the perishable puts on the imperishable"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 19|Revelation 19:9]] — "blessed are those invited to the marriage supper of the Lamb" — the eschatological banquet of v.6 ("a feast of rich food, a feast of well-aged wine")
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25]] — "I am the resurrection and the life" — Jesus claims to be what Isaiah 25:8 promises
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 26|Isaiah 26:19]] — "your dead shall live… they shall rise" — Isaiah's resurrection hope continues in the very next chapter
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

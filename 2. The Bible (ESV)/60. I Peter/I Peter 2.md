@@ -31,14 +31,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Shepherd & King|Shepherd & King]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Shepherd & King|Shepherd & King]]
 **See Also:**
 - [[2. The Bible (ESV)/02. Exodus/Exodus 19|Exodus 19:5–6]] — "a kingdom of priests and a holy nation" — the Sinai identity v.9 reapplies to the church in Christ
 - [[2. The Bible (ESV)/28. Hosea/Hosea 2|Hosea 2:23]] — "not my people… my people" (v.10 quotes this directly; Gentiles now included in Israel's identity)
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:5,6]] — "by his wounds you have been healed… we have all gone astray like sheep" (v.24–25 directly quotes Isaiah 53)
 - [[2. The Bible (ESV)/43. John/John 10|John 10:11]] — "the good shepherd lays down his life for the sheep" — the Shepherd and Overseer of v.25
 - [[Psalms 118|Psalm 118:22]] — "the stone the builders rejected has become the cornerstone" (v.7 quotes this; also quoted by Jesus in Matthew 21:42)
-- [[59-65. General Epistles Overview|General Epistles Overview]]
+- [[3. Overviews/59-65. General Epistles Overview|General Epistles Overview]]
 
 ---
 

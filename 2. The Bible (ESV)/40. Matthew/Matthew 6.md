@@ -40,14 +40,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Prayer & Worship|Prayer & Worship]] · [[Kingdom of God|Kingdom of God]] · [[Faith & Trust|Faith & Trust]] · [[Grace & Mercy|Grace & Mercy]]
+**Themes:** [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Grace & Mercy|Grace & Mercy]]
 **See Also:**
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23]] — "the Lord is my shepherd, I shall not want" — the trust that underlies "do not be anxious" (v.25–34)
 - [[2. The Bible (ESV)/50. Philippians/Philippians 4|Philippians 4:6–7]] — "do not be anxious about anything, but in everything by prayer… let your requests be made known to God" — the NT epistle parallel
 - [[2. The Bible (ESV)/42. Luke/Luke 11|Luke 11:2–4]] — Luke's version of the Lord's Prayer (v.9–13); slightly different form, same heart
 - [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5]] — the Lord's Prayer and kingdom ethics belong to the broader Sermon on the Mount
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6:13]] — "you shall fear only the Lord your God" — the exclusive loyalty of v.24 ("you cannot serve God and money") echoes the *Shema* context
-- [[40. Matthew Overview|Matthew Overview]]
+- [[3. Overviews/40. Matthew Overview|Matthew Overview]]
 
 ---
 

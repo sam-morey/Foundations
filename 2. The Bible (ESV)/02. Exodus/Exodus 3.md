@@ -28,14 +28,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Covenant|Covenant]] · [[Messiah & Christ|Messiah & Christ]] · [[The Word of God|The Word of God]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Word of God|The Word of God]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 8|John 8:58]] — "Before Abraham was, I am" — Jesus uses the divine name of v.14 ("I AM") as his own, claiming identity with the God of the burning bush
 - [[2. The Bible (ESV)/43. John/John 6|John 6:35]] — "I am the bread of life" — one of seven "I AM" statements echoing Exodus 3:14
 - [[2. The Bible (ESV)/44. Acts/Acts 7|Acts 7:30–34]] — Stephen recounts this scene; the bush is quoted as God hearing the cry of his people
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:24–27]] — Moses' choice (v.10–12) cited in the hall of faith: "he endured as seeing him who is invisible"
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12]] — the God of Abraham, Isaac, and Jacob (v.6) is the God who made the Abrahamic covenant; here he comes to fulfill it
-- [[02. Exodus Overview|Exodus Overview]]
+- [[3. Overviews/02. Exodus Overview|Exodus Overview]]
 
 ---
 

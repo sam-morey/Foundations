@@ -152,8 +152,8 @@
 - [[Contemplative Prayer]]
 
 ## Related Books
-- [[Confessions]]
-- [[Practicing the Presence of God]]
-- [[The Pursuit of God]]
-- [[Celebration of Discipline]]
-- [[The Cost of Discipleship]]
+- [[content/4. Supplemental Content/Confessions]]
+- [[content/4. Supplemental Content/Practicing the Presence of God]]
+- [[content/4. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[content/4. Supplemental Content/Celebration of Discipline]]
+- [[content/4. Supplemental Content/The Cost of Discipleship]]

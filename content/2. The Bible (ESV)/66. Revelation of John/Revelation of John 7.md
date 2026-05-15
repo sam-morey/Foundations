@@ -23,14 +23,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Shepherd & King|Shepherd & King]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]]
+**Themes:** [[6. Themes/Shepherd & King|Shepherd & King]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 25|Isaiah 25:8]] — "he will swallow up death forever… wipe away tears from all faces" — v.17 echoes this directly
 - [[2. The Bible (ESV)/43. John/John 10|John 10:11,16]] — "the good shepherd lays down his life for the sheep… one flock" — the Lamb-Shepherd of v.17 is the same figure
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23:1–2]] — "The Lord is my shepherd… he leads me beside still waters" — the ultimate fulfillment of the Shepherd Psalm is this vision
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12:3]] — "all nations shall be blessed" — the great multitude from every nation (v.9) is the fulfillment of the Abrahamic promise
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 49|Isaiah 49:10]] — "they shall not hunger or thirst… he who has pity on them will lead them… to springs of water" — v.16–17 quotes this Servant Song directly
-- [[66. Revelation Overview|Revelation Overview]]
+- [[3. Overviews/66. Revelation Overview|Revelation Overview]]
 
 ---
 

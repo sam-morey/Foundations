@@ -105,15 +105,15 @@
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1]] — Transferred into the kingdom of his beloved Son
 
 ## Related Concepts
-- [[Kingdom of God]]
+- [[6. Themes/Kingdom of God]]
 - [[Spiritual Formation]]
 - [[Discipleship]]
 - [[Sermon on the Mount]]
 - [[Character Formation]]
 
 ## Related Books
-- [[Renovation of the Heart]]
-- [[The Spirit of the Disciplines]]
-- [[Practicing the Way]]
-- [[The Ruthless Elimination of Hurry]]
-- [[Mere Christianity]]
+- [[content/5. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[content/5. Supplemental Content/Dallas Willard/The Spirit of the Disciplines]]
+- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[7. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity]]

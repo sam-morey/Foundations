@@ -37,18 +37,18 @@ A key tension in Scripture:
 These are not contradictory — both describe the same reality from different angles. Paul argues against *earning* salvation; James argues against a mere *intellectual* assent that changes nothing.
 
 ## Related Themes
-- [[Grace & Mercy]] — faith receives what grace offers
-- [[Redemption & Salvation]] — faith is the instrument of salvation
-- [[Covenant]] — covenant relationship requires trust
-- [[Suffering & Perseverance]] — faith is tested and proven
-- [[The Word of God]] — faith comes by hearing the Word
+- [[content/7. Themes/Grace & Mercy]] — faith receives what grace offers
+- [[content/7. Themes/Redemption & Salvation]] — faith is the instrument of salvation
+- [[content/7. Themes/Covenant]] — covenant relationship requires trust
+- [[content/7. Themes/Suffering & Perseverance]] — faith is tested and proven
+- [[content/7. Themes/The Word of God]] — faith comes by hearing the Word
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — knowing God deeply is the ground of genuine trust
-- [[5. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — faith as a lived journey through doubt, danger, and perseverance
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — faith as reasonable commitment, not blind leap
-- [[5. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] (Lewis) — the gradual movement from resistance to trust in a reluctant convert
-- [[5. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — faith that costs nothing is not the faith of the New Testament
-- [[5. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — trust expressed through surrender, self-denial, and quiet receptivity to God
-- [[5. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — Edwards's analysis of what genuine saving faith looks like versus its counterfeits
-- [[5. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — faithfulness as daily, undramatic obedience across a lifetime
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — knowing God deeply is the ground of genuine trust
+- [[7. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — faith as a lived journey through doubt, danger, and perseverance
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — faith as reasonable commitment, not blind leap
+- [[7. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] (Lewis) — the gradual movement from resistance to trust in a reluctant convert
+- [[7. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — faith that costs nothing is not the faith of the New Testament
+- [[7. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — trust expressed through surrender, self-denial, and quiet receptivity to God
+- [[7. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — Edwards's analysis of what genuine saving faith looks like versus its counterfeits
+- [[7. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — faithfulness as daily, undramatic obedience across a lifetime

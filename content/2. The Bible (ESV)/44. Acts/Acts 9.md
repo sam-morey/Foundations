@@ -49,14 +49,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Grace & Mercy|Grace & Mercy]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:6]] — "we all like sheep have gone astray" — Saul was the chief persecutor; v.4–5's "why are you persecuting me?" shows Christ identifies with his suffering people
 - [[2. The Bible (ESV)/48. Galatians/Galatians 1|Galatians 1:13–16]] — Paul's own account: "former life in Judaism… persecuting… God was pleased to reveal his Son to me"
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:8–10]] — Paul calls himself "one untimely born… least of the apostles" — shaped by this conversion
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25]] — "I am the resurrection and the life" — Peter raising Dorcas (v.36–41) enacts the resurrection power of Jesus
 - [[2. The Bible (ESV)/40. Matthew/Matthew 28|Matthew 28:19–20]] — Saul becomes the instrument by whom the Great Commission reaches the Gentiles and kings (v.15)
-- [[44. Acts Overview|Acts Overview]]
+- [[3. Overviews/44. Acts Overview|Acts Overview]]
 
 ---
 

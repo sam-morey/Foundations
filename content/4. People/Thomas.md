@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]]
 
 ## Who He Is
 Thomas, called Didymus ("the Twin"), is the apostle forever labeled "Doubting Thomas" — a nickname that flattens a far more complex man. He was courageous enough to say, "Let us also go, that we may die with him" (John 11:16) when the other disciples were afraid to return to Judea. He was honest enough to admit he didn't understand where Jesus was going (John 14:5). And when he finally encountered the risen Jesus and spoke — "My Lord and my God!" (John 20:28) — he uttered the most direct, unqualified confession of Jesus's full divinity in the entire Gospel of John.
@@ -25,4 +25,4 @@ Thomas has been misread for centuries as the patron saint of weak faith, but a m
 The early church tradition that Thomas eventually carried the gospel as far as India (where the ancient Mar Thoma Church traces its origin to him) paints a picture consistent with John 11:16: a man willing to go wherever Jesus sent him, even at the cost of his life. Doubt, honestly brought to Jesus, does not disqualify a person — it can become the very ground on which the deepest faith is built.
 
 ## Related Themes
-[[Faith & Trust]] · [[Resurrection & Eternal Life]] · [[Messiah & Christ]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Grace & Mercy]]

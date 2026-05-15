@@ -31,12 +31,12 @@ Sin is humanity's rebellion against God — a fundamental rupture in the relatio
 - [[2. The Bible (ESV)/62. I John/I John 1\|1 John 1]] — Confession and cleansing from sin
 
 ## Related Themes
-- [[Creation & New Creation]] — sin corrupted the good creation
-- [[Sacrifice & Atonement]] — the mechanism for dealing with sin
-- [[Redemption & Salvation]] — God's rescue from sin
-- [[Judgment]] — sin has ultimate consequences
-- [[Grace & Mercy]] — God's undeserved response to sinners
-- [[Messiah & Christ]] — the one who defeats sin
+- [[content/5. Themes/Creation & New Creation]] — sin corrupted the good creation
+- [[content/5. Themes/Sacrifice & Atonement]] — the mechanism for dealing with sin
+- [[content/5. Themes/Redemption & Salvation]] — God's rescue from sin
+- [[content/5. Themes/Judgment]] — sin has ultimate consequences
+- [[content/5. Themes/Grace & Mercy]] — God's undeserved response to sinners
+- [[content/5. Themes/Messiah & Christ]] — the one who defeats sin
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — sin as moral failure, not mere social dysfunction; clear and compelling

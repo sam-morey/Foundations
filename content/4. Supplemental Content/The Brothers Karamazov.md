@@ -176,18 +176,18 @@
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — "All things work together for good"—the promise that Ivan's chapter explicitly rejects
 
 ## Related Concepts
-- [[Faith & Trust]]
-- [[Suffering & Perseverance]]
-- [[Love]]
-- [[Sin & The Fall]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Suffering & Perseverance]]
+- [[6. Themes/Love]]
+- [[6. Themes/Sin & The Fall]]
 - [[Theodicy]]
-- [[Judgment]]
-- [[Redemption & Salvation]]
+- [[6. Themes/Judgment]]
+- [[6. Themes/Redemption & Salvation]]
 - [[Free Will]]
 
 ## Related Books
-- [[The Divine Comedy]]
+- [[content/4. Supplemental Content/The Divine Comedy]]
 - [[Crime and Punishment]]
 - [[The Idiot]]
-- [[Confessions]]
-- [[The Reason for God]]
+- [[content/4. Supplemental Content/Confessions]]
+- [[content/4. Supplemental Content/The Reason for God]]

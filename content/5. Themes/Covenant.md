@@ -30,11 +30,11 @@ A covenant is a solemn, binding agreement — often including promises, obligati
 - Hebrews contrasts old and new covenants at length: [[2. The Bible (ESV)/58. Hebrews/Hebrews 8\|Hebrews 8–10]]
 
 ## Related Themes
-- [[Sacrifice & Atonement]] — covenant ratified by blood
-- [[Law & Torah]] — the Mosaic covenant's stipulations
-- [[Messiah & Christ]] — the Davidic covenant's ultimate heir
-- [[Redemption & Salvation]] — the New Covenant's promise
-- [[Prophecy & Fulfillment]] — prophetic promises of the New Covenant
+- [[content/5. Themes/Sacrifice & Atonement]] — covenant ratified by blood
+- [[content/5. Themes/Law & Torah]] — the Mosaic covenant's stipulations
+- [[content/5. Themes/Messiah & Christ]] — the Davidic covenant's ultimate heir
+- [[content/5. Themes/Redemption & Salvation]] — the New Covenant's promise
+- [[content/5. Themes/Prophecy & Fulfillment]] — prophetic promises of the New Covenant
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God as covenant-maker and covenant-keeper; his faithfulness as the spine of biblical history

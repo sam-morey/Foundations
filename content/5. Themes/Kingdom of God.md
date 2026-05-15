@@ -46,12 +46,12 @@ The Kingdom of God is God's sovereign rule — his reign over creation, over Isr
 The Kingdom has already arrived in Jesus (his healings, exorcisms, and resurrection), but is not yet fully consummated. Believers live in the overlap of the ages, called to embody Kingdom values now.
 
 ## Related Themes
-- [[Messiah & Christ]] — the King at the center of the Kingdom
-- [[Covenant]] — the Davidic covenant as the Kingdom's foundation
-- [[Judgment]] — the King comes to judge
-- [[Resurrection & Eternal Life]] — the Kingdom's final state
-- [[Justice & Righteousness]] — the character of Kingdom life
-- [[The Holy Spirit]] — the presence of the Kingdom's power
+- [[content/5. Themes/Messiah & Christ]] — the King at the center of the Kingdom
+- [[content/5. Themes/Covenant]] — the Davidic covenant as the Kingdom's foundation
+- [[content/5. Themes/Judgment]] — the King comes to judge
+- [[content/5. Themes/Resurrection & Eternal Life]] — the Kingdom's final state
+- [[content/5. Themes/Justice & Righteousness]] — the character of Kingdom life
+- [[content/5. Themes/The Holy Spirit]] — the presence of the Kingdom's power
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the most thoroughgoing treatment of the Sermon on the Mount as kingdom manifesto

@@ -133,16 +133,16 @@
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21]] — Act Six: the new heavens and new earth; God dwelling with his people forever
 
 ## Related Concepts
-- [[Kingdom of God]]
-- [[Covenant]]
+- [[6. Themes/Kingdom of God]]
+- [[6. Themes/Covenant]]
 - [[New Creation]]
 - [[Biblical Theology]]
-- [[Redemption & Salvation]]
-- [[Prophecy & Fulfillment]]
+- [[6. Themes/Redemption & Salvation]]
+- [[6. Themes/Prophecy & Fulfillment]]
 
 ## Related Books
-- [[According to Plan]]
-- [[Surprised by Hope]]
-- [[Simply Christian]]
+- [[content/4. Supplemental Content/According to Plan]]
+- [[content/4. Supplemental Content/N.T. Wright/Surprised by Hope]]
+- [[content/4. Supplemental Content/N.T. Wright/Simply Christian]]
 - [[The Mission of God]]
 - [[God's Big Picture]]

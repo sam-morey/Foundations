@@ -40,11 +40,11 @@ The fear of the Lord (*yir'at YHWH*) is not terror but reverent awe — recogniz
 Key texts: [[2. The Bible (ESV)/20. Proverbs/Proverbs 1\|Proverbs 1:7]], [[2. The Bible (ESV)/18. Job/Job 28\|Job 28]], [[2. The Bible (ESV)/21. Ecclesiastes/Ecclesiastes 12\|Ecclesiastes 12]], [[Psalms 111\|Psalm 111]]
 
 ## Related Themes
-- [[The Word of God]] — wisdom is shaped by Scripture
-- [[Prayer & Worship]] — prayer is how we seek wisdom
-- [[Suffering & Perseverance]] — wisdom is forged in suffering
-- [[Justice & Righteousness]] — wisdom produces just living
-- [[Love]] — "all wisdom" is expressed in love
+- [[content/5. Themes/The Word of God]] — wisdom is shaped by Scripture
+- [[content/5. Themes/Prayer & Worship]] — prayer is how we seek wisdom
+- [[content/5. Themes/Suffering & Perseverance]] — wisdom is forged in suffering
+- [[content/5. Themes/Justice & Righteousness]] — wisdom produces just living
+- [[content/5. Themes/Love]] — "all wisdom" is expressed in love
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — wisdom about God is the foundation of all other wisdom

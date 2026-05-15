@@ -163,17 +163,17 @@
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 3|Ephesians 3]] — Paul's great intercessory prayer; a model of petitioning for spiritual goods
 
 ## Related Concepts
-- [[Prayer & Worship]]
+- [[6. Themes/Prayer & Worship]]
 - [[Spiritual Formation]]
 - [[Grace]]
-- [[The Holy Spirit]]
-- [[Faith & Trust]]
+- [[6. Themes/The Holy Spirit]]
+- [[6. Themes/Faith & Trust]]
 - [[Lament]]
 - [[The Lord's Prayer]]
 
 ## Related Books
-- [[Confessions]]
-- [[Celebration of Discipline]]
-- [[A Long Obedience in the Same Direction]]
-- [[Knowing God]]
-- [[The Cost of Discipleship]]
+- [[content/4. Supplemental Content/Confessions]]
+- [[content/4. Supplemental Content/Celebration of Discipline]]
+- [[content/4. Supplemental Content/A Long Obedience in the Same Direction]]
+- [[content/4. Supplemental Content/Knowing God]]
+- [[content/4. Supplemental Content/The Cost of Discipleship]]

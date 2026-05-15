@@ -57,7 +57,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Covenant|Covenant]] · [[Judgment|Judgment]]
+**Themes:** [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Judgment|Judgment]]
 **See Also:**
 - [[2. The Bible (ESV)/02. Exodus/Exodus 14|Exodus 14]] — the crossing of the sea; salvation completed
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 16|Leviticus 16]] — Day of Atonement: the further development of sacrifice
@@ -65,7 +65,7 @@
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 5|1 Corinthians 5:7]] — "Christ, our Passover lamb, has been sacrificed"
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 9|Hebrews 9]] — Christ's blood as the fulfillment of the sacrificial system
 - [[2. The Bible (ESV)/40. Matthew/Matthew 26|Matthew 26]] — the Last Supper as the new Passover meal
-- [[02. Exodus Overview|Exodus Overview]]
+- [[3. Overviews/02. Exodus Overview|Exodus Overview]]
 
 ---
 

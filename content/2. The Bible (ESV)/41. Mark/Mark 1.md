@@ -51,14 +51,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Kingdom of God|Kingdom of God]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[The Holy Spirit|The Holy Spirit]] · [[Messiah & Christ|Messiah & Christ]]
+**Themes:** [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Messiah & Christ|Messiah & Christ]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 40|Isaiah 40:3]] — "the voice of one crying in the wilderness" — v.2–3 opens Mark by quoting this of John the Baptist
 - [[2. The Bible (ESV)/39. Malachi/Malachi 3|Malachi 3:1]] — "I send my messenger before your face" — also quoted in v.2 (combined with Isaiah 40)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 2|Psalm 2:7]] — "You are my beloved Son" (v.11) — the divine voice at baptism echoes the royal Psalm's "You are my Son"
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 42|Isaiah 42:1]] — "my servant… in whom my soul delights" — the other echo of v.11 (my beloved, in whom I am well pleased)
 - [[2. The Bible (ESV)/44. Acts/Acts 10|Acts 10:36–38]] — Peter's summary of Jesus' ministry begins the same way: baptized by John, anointed by the Spirit
-- [[41. Mark Overview|Mark Overview]]
+- [[3. Overviews/41. Mark Overview|Mark Overview]]
 
 ---
 

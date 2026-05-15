@@ -37,7 +37,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[The Word of God|The Word of God]] · [[Shepherd & King|Shepherd & King]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/The Word of God|The Word of God]] · [[6. Themes/Shepherd & King|Shepherd & King]]
 **See Also:**
 - [[2. The Bible (ESV)/41. Mark/Mark 1|Mark 1:3]] — opens the Gospel quoting Isaiah 40:3: "the voice of one crying in the wilderness, prepare the way of the Lord"
 - [[2. The Bible (ESV)/43. John/John 1|John 1:23]] — John the Baptist identifies himself with the voice of Isaiah 40:3
@@ -45,7 +45,7 @@
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53]] — the Servant songs begun here reach their climax in the suffering Servant
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 55|Isaiah 55]] — "My word shall not return empty" (continues the theme of v.8)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23]] — the Shepherd imagery of v.11 parallels "he will tend his flock like a shepherd"
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

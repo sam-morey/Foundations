@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Rachel is the beloved wife of Jacob, the younger daughter of Laban, and the mother of Joseph and Benjamin. She is the woman Jacob loves immediately and works fourteen years to marry. Her life is marked by longing — for her husband, for children, for a place of belonging — and her death in childbirth while bearing Benjamin is one of the most poignant moments in Genesis. Her weeping is later taken up by prophets and evangelists as an image of grief for Israel's exiled children.
@@ -34,4 +34,4 @@ Her theft of Laban's idols is morally puzzling — perhaps insurance, perhaps sp
 - [[2. The Bible (ESV)/66. Revelation/Revelation 21|Revelation 21:4]] — The ultimate answer to Rachel's weeping: God will wipe away every tear
 
 ## Related Themes
-[[Covenant]] · [[Suffering & Perseverance]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Covenant]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment]]

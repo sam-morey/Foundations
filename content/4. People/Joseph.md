@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Joseph is the eleventh son of Jacob and the beloved son of Rachel, whose story spans the final fourteen chapters of Genesis. Sold into slavery by his jealous brothers, falsely imprisoned, and then raised to the second-highest seat in Egypt, Joseph becomes the instrument of salvation for his family and for the nations. He is the richest type of Christ in Genesis — the suffering servant who is rejected by his brothers, exalted by God, and becomes the source of life for those who wronged him.
@@ -36,4 +36,4 @@ His forgiveness of his brothers is not naïve sentimentality — it comes after 
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:28]] — "All things work together for good" is the New Testament distillation of Genesis 50:20
 
 ## Related Themes
-[[Suffering & Perseverance]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Suffering & Perseverance]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Prophecy & Fulfillment]]

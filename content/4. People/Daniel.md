@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Exile
-**Appears In:** [[3. Book Overviews/27. Daniel Overview|Daniel]]
+**Appears In:** [[3. Overviews/27. Daniel Overview|Daniel]]
 
 ## Who They Are
 Daniel is a young Jewish nobleman taken to Babylon in the first deportation, who rises to serve in Nebuchadnezzar's court while maintaining faithful witness to the God of Israel. He interprets dreams, survives the lion's den, and receives the most sweeping apocalyptic visions in the Old Testament — including the vision of the Son of Man coming with the clouds of heaven (Daniel 7), which Jesus uses as his primary self-description. He is the model of a believer living faithfully as an exile in a pagan empire.
@@ -35,4 +35,4 @@ His apocalyptic visions disturb him deeply — he grows pale, loses strength, li
 - [[2. The Bible (ESV)/40. Matthew/Matthew 24|Matthew 24:15]] — Jesus cites "the abomination of desolation spoken of by the prophet Daniel" as a sign of the end
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Faith & Trust]] · [[Judgment]] · [[Messiah & Christ]] · [[Suffering & Perseverance]] · [[Covenant]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Judgment]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Covenant]]

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Sarah (originally Sarai) is the wife of Abraham, the mother of Isaac, and the ancestral mother of the Jewish people. She is a co-recipient of the covenant promise, and her ability to conceive in extreme old age is presented as a miracle rooted in the faithfulness of God. Her name is changed by God just as Abraham's is, signifying that she is a full participant in the covenant purpose, not merely a supporting figure.
@@ -36,4 +36,4 @@ Yet Sarah is also commended in 1 Peter 3 as a model of a woman who trusted God a
 - [[2. The Bible (ESV)/45. Romans/Romans 4|Romans 4:19]] — Sarah's womb "as good as dead," yet Abraham believed God's promise
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment]]

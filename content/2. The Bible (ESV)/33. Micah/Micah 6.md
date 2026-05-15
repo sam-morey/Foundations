@@ -22,14 +22,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Justice & Righteousness|Justice & Righteousness]] · [[Love|Love]] · [[Covenant|Covenant]] · [[Prayer & Worship|Prayer & Worship]]
+**Themes:** [[6. Themes/Justice & Righteousness|Justice & Righteousness]] · [[6. Themes/Love|Love]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Prayer & Worship|Prayer & Worship]]
 **See Also:**
 - [[2. The Bible (ESV)/30. Amos/Amos 5|Amos 5:24]] — "let justice roll down like waters" — the direct parallel to v.8's demand for justice
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 10|Deuteronomy 10:12]] — "What does the Lord require of you but to fear the Lord… walk in all his ways, love him, serve him" — the Mosaic background to v.8
 - [[2. The Bible (ESV)/40. Matthew/Matthew 22|Matthew 22:37–40]] — Jesus summarizes the law as love of God and neighbor, the same kernel as v.8
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 1|Isaiah 1:11–17]] — parallel indictment: God rejects hollow sacrifice without justice
 - [[2. The Bible (ESV)/33. Micah/Micah 5|Micah 5:2]] — the messianic Bethlehem promise in the prior chapter; same book's two great texts
-- [[31-39. Minor Prophets Overview|Minor Prophets Overview]]
+- [[3. Overviews/31-39. Minor Prophets Overview|Minor Prophets Overview]]
 
 ---
 

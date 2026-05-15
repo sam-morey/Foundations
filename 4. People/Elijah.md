@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Divided Kingdom
-**Appears In:** [[3. Book Overviews/11. 1 Kings Overview|1 Kings]], [[3. Book Overviews/12. 2 Kings Overview|2 Kings]]
+**Appears In:** [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/12. 2 Kings Overview|2 Kings]]
 
 ## Who They Are
 Elijah is the great prophet of the Northern Kingdom who confronts Baal worship during the reign of Ahab and Jezebel, calling Israel back to the exclusive worship of the LORD. He is fed by ravens in the wilderness, raises a widow's son, defeats the prophets of Baal on Mount Carmel, and hears God not in wind or earthquake or fire but in a still, small voice. He is taken to heaven in a whirlwind without dying and is expected to return before the Day of the Lord — a prophecy fulfilled in John the Baptist.
@@ -35,4 +35,4 @@ The still, small voice on Horeb is one of the most important moments in all of S
 - [[2. The Bible (ESV)/59. James/James 5|James 5:17–18]] — Elijah cited as a model of fervent prayer: "a man with a nature like ours" who prayed and changed the weather
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Faith & Trust]] · [[Judgment]] · [[Messiah & Christ]] · [[Suffering & Perseverance]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Judgment]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Suffering & Perseverance]]

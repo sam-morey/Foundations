@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Jacob is the third patriarch of Israel, the son of Isaac and Rebekah, and the father of the twelve sons who become the twelve tribes of Israel. His name means "supplanter" or "heel-grabber," and his life is a long story of striving, deception, and eventually transformation. His wrestling with God at Peniel — where he is renamed Israel, "one who strives with God" — is the defining moment of his life and gives the nation its name. He is a portrait of grace applied to the most unlikely recipient.
@@ -36,4 +36,4 @@ The wrestling match at Peniel is the turning point. Jacob refuses to let go unti
 - [[2. The Bible (ESV)/43. John/John 1|John 1:51]] — Jesus's promise of angels ascending and descending on the Son of Man echoes Jacob's ladder
 
 ## Related Themes
-[[Covenant]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[Redemption & Salvation]] · [[Prophecy & Fulfillment]] · [[Shepherd & King]]
+[[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Shepherd & King]]

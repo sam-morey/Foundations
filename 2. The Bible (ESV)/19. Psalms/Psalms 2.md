@@ -18,14 +18,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Kingdom of God|Kingdom of God]] · [[Judgment|Judgment]] · [[Covenant|Covenant]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Judgment|Judgment]] · [[6. Themes/Covenant|Covenant]]
 **See Also:**
 - [[2. The Bible (ESV)/44. Acts/Acts 4|Acts 4:25–26]] — the early church quotes Psalm 2:1–2 as fulfilled in Herod, Pilate, Gentiles, and Israel opposing Jesus
 - [[2. The Bible (ESV)/44. Acts/Acts 13|Acts 13:33]] — Paul quotes v.7 ("You are my Son; today I have begotten you") at the resurrection: Jesus is the Messianic Son
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:5]] — God says to the Son "You are my Son; today I have begotten you" (v.7) — Jesus' sonship surpasses angels
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7:14]] — God's promise to David: "I will be to him a father, and he shall be to me a son" — the covenant behind Psalm 2
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 12|Revelation 12:5]] — "she gave birth to a male child, one who is to rule all nations with a rod of iron" — quotes v.9 for the risen Christ
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

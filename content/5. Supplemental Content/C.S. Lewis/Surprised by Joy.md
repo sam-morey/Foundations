@@ -118,9 +118,9 @@
 - [[Atheism and Conversion]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Problem of Pain]]
-- [[The Screwtape Letters]]
-- [[The Great Divorce]]
-- [[Confessions]]
-- [[Knowing God]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Screwtape Letters]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[7. Supplemental Content/Confessions]]
+- [[7. Supplemental Content/Knowing God]]

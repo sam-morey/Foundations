@@ -192,9 +192,9 @@
 - [[The Self-Refutation of Naturalism]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Problem of Pain]]
-- [[Surprised by Joy]]
-- [[The Abolition of Man]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/5. Supplemental Content/C.S. Lewis/Surprised by Joy]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Abolition of Man]]
 - [[God and Philosophy]]
 - [[The Resurrection of the Son of God]]

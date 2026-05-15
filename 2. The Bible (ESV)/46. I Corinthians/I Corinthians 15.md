@@ -64,7 +64,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Messiah & Christ|Messiah & Christ]] · [[Creation & New Creation|Creation & New Creation]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Creation & New Creation|Creation & New Creation]]
 **See Also:**
 - [[2. The Bible (ESV)/18. Job/Job 19|Job 19:25–26]] — "I know that my Redeemer lives… in my flesh I shall see God"
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 25|Isaiah 25:8]] — "He will swallow up death forever" (quoted in v.54)
@@ -73,7 +73,7 @@
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5:12–21]] — Adam brought death; Christ brings life (the same Adam/Christ typology)
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — creation groaning; the Spirit of resurrection
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 20|Revelation 20–21]] — the final resurrection and the new creation
-- [[46-57. Paul's Letters Overview|1 Corinthians Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|1 Corinthians Overview]]
 
 ---
 

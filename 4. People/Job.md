@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Prophets
-**Appears In:** [[3. Book Overviews/18. Job Overview|Job]]
+**Appears In:** [[3. Overviews/18. Job Overview|Job]]
 
 ## Who They Are
 Job is a man from the land of Uz, described as blameless, upright, and the greatest of all the people of the east. When God permits Satan to strip away his wealth, children, and health, Job becomes the Bible's most sustained exploration of innocent suffering and the limits of human theodicy. His three friends offer confident theological explanations for his suffering — all of which God ultimately rejects. Job's own anguished questioning is vindicated, and the book ends not with an explanation of suffering but with an encounter with the living God.
@@ -35,4 +35,4 @@ What Job does not do is abandon God. Even in his darkest moments, his quarrel is
 - [[2. The Bible (ESV)/40. Matthew/Matthew 27|Matthew 27:46]] — Jesus's cry of dereliction on the cross ("My God, my God, why have you forsaken me?") is the fullest expression of innocent suffering that Job's story anticipated
 
 ## Related Themes
-[[Suffering & Perseverance]] · [[Faith & Trust]] · [[Justice & Righteousness]] · [[Wisdom]] · [[Redemption & Salvation]] · [[Messiah & Christ]]
+[[6. Themes/Suffering & Perseverance]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Wisdom]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]]

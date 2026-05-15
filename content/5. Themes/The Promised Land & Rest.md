@@ -35,11 +35,11 @@ God promised Abraham a land — a place of security, abundance, and his presence
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21]] — The new creation as the final land/home
 
 ## Related Themes
-- [[Covenant]] — the land promise is part of the Abrahamic covenant
-- [[Faith & Trust]] — entering the land requires faith (Israel's failure shows this)
-- [[Creation & New Creation]] — the land anticipates the renewed creation
-- [[Redemption & Salvation]] — the Exodus (land journey) is the paradigm of salvation
-- [[Judgment]] — exile is covenant judgment
+- [[content/5. Themes/Covenant]] — the land promise is part of the Abrahamic covenant
+- [[content/5. Themes/Faith & Trust]] — entering the land requires faith (Israel's failure shows this)
+- [[content/5. Themes/Creation & New Creation]] — the land anticipates the renewed creation
+- [[content/5. Themes/Redemption & Salvation]] — the Exodus (land journey) is the paradigm of salvation
+- [[content/5. Themes/Judgment]] — exile is covenant judgment
 
 ## Supplemental Reading
 - [[4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — Sabbath rest as a spiritual practice; hurry as the enemy of the soul

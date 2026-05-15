@@ -37,12 +37,12 @@ The Hebrew words *mishpat* (justice) and *tzedakah* (righteousness) appear toget
 - [[2. The Bible (ESV)/59. James/James 2\|James 2]] — Don't show partiality to the rich over the poor
 
 ## Related Themes
-- [[Covenant]] — covenant life requires righteousness
-- [[Law & Torah]] — the Law defines just living
-- [[Grace & Mercy]] — God is both just and merciful
-- [[Kingdom of God]] — the Kingdom is characterized by justice
-- [[Judgment]] — God's justice leads to judgment
-- [[Love]] — love and justice are inseparable
+- [[content/5. Themes/Covenant]] — covenant life requires righteousness
+- [[content/5. Themes/Law & Torah]] — the Law defines just living
+- [[content/5. Themes/Grace & Mercy]] — God is both just and merciful
+- [[content/5. Themes/Kingdom of God]] — the Kingdom is characterized by justice
+- [[content/5. Themes/Judgment]] — God's justice leads to judgment
+- [[content/5. Themes/Love]] — love and justice are inseparable
 
 ## Supplemental Reading
 - [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — justice as the concrete expression of costly discipleship; written by someone who acted on it

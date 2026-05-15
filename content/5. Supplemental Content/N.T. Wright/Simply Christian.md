@@ -185,16 +185,16 @@
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — Creation as the original context for the human longings and God's design
 
 ## Related Concepts
-- [[Kingdom of God]]
+- [[6. Themes/Kingdom of God]]
 - [[New Creation]]
 - [[Incarnation]]
-- [[The Holy Spirit]]
+- [[6. Themes/The Holy Spirit]]
 - [[Resurrection]]
 - [[Church & Community]]
 
 ## Related Books
-- [[Surprised by Hope]]
-- [[The Drama of Scripture]]
-- [[According to Plan]]
-- [[Mere Christianity]]
-- [[The Reason for God]]
+- [[content/5. Supplemental Content/N.T. Wright/Surprised by Hope]]
+- [[7. Supplemental Content/The Drama of Scripture]]
+- [[7. Supplemental Content/According to Plan]]
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[7. Supplemental Content/The Reason for God]]

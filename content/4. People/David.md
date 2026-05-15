@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The United Monarchy
-**Appears In:** [[3. Book Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Book Overviews/10. 2 Samuel Overview|2 Samuel]], [[3. Book Overviews/11. 1 Kings Overview|1 Kings]], [[3. Book Overviews/19. Psalms Overview|Psalms]]
+**Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Overviews/10. 2 Samuel Overview|2 Samuel]], [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/19. Psalms Overview|Psalms]]
 
 ## Who They Are
 David is Israel's greatest king, the shepherd-boy from Bethlehem who slays Goliath, writes psalms, and receives the covenant promise that his throne will endure forever. Called "a man after God's own heart," he is the standard against which all subsequent kings are measured. His failures — adultery with Bathsheba, the murder of Uriah — are as well-known as his triumphs, yet his genuine repentance demonstrates what it means to return to God after catastrophic sin. Jesus is the Son of David, the fulfillment of the Davidic covenant.
@@ -36,4 +36,4 @@ The psalms are his lasting gift. In them, David has given the whole human family
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:32]] — David named among the great cloud of faithful witnesses
 
 ## Related Themes
-[[Covenant]] · [[Messiah & Christ]] · [[Shepherd & King]] · [[Sin & The Fall]] · [[Grace & Mercy]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Covenant]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Sin & The Fall]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Prophecy & Fulfillment]]

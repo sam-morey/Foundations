@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels · The Early Church
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]], [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who He Is
 Simon Peter is the fisherman from Galilee who became the foremost of Jesus's twelve apostles — the first among equals. His confession "You are the Christ, the Son of the living God" (Matthew 16:16) is the bedrock declaration on which Jesus says he will build his church. Bold, impulsive, and deeply human, Peter is the disciple who walked on water and sank, who swore he would die for Jesus and then denied him three times before dawn. His restoration by the risen Jesus in John 21 is one of the most powerful grace narratives in all of Scripture.
@@ -28,4 +28,4 @@ Peter is perhaps the most relatable of all the apostles precisely because his st
 Tradition holds that Peter was ultimately crucified upside down in Rome under Nero, reportedly requesting to be crucified that way because he did not consider himself worthy to die in the same manner as his Lord. His two letters in the NT — written to suffering, scattered believers — breathe the air of a man who knows both the weight of failure and the inexhaustible grace of resurrection life.
 
 ## Related Themes
-[[Faith & Trust]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Suffering & Perseverance]] · [[The Holy Spirit]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/The Holy Spirit]]

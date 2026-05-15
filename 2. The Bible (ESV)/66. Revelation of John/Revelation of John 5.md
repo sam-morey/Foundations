@@ -20,7 +20,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Messiah & Christ|Messiah & Christ]] · [[Prayer & Worship|Prayer & Worship]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 49|Genesis 49:9–10]] — "the Lion of the tribe of Judah" (v.5) — Jacob's prophecy over Judah fulfilled in the conquering Lamb
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:7]] — "like a lamb that is led to the slaughter" — the slain Lamb of v.6 is Isaiah's Servant
@@ -28,7 +28,7 @@
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 11|Isaiah 11:10]] — "the root of Jesse" (v.5: "Root of David") — Isaiah's promised ruler becomes the Lamb who has conquered
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1:16–20]] — the cosmic supremacy and peace-making by blood (v.9–12) paralleled in the hymn to the Lamb
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21]] — the throne of God and the Lamb (here established) is what fills the new Jerusalem
-- [[66. Revelation Overview|Revelation Overview]]
+- [[3. Overviews/66. Revelation Overview|Revelation Overview]]
 
 ---
 

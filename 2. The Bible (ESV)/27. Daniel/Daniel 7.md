@@ -34,14 +34,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Kingdom of God|Kingdom of God]] · [[Messiah & Christ|Messiah & Christ]] · [[Judgment|Judgment]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]]
+**Themes:** [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Judgment|Judgment]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]]
 **See Also:**
 - [[2. The Bible (ESV)/27. Daniel/Daniel 2|Daniel 2]] — the statue and the stone that fills the earth (the earlier vision)
 - [[2. The Bible (ESV)/40. Matthew/Matthew 24|Matthew 24:30]] — Jesus quotes Daniel 7 about the Son of Man coming on clouds
 - [[2. The Bible (ESV)/40. Matthew/Matthew 26|Matthew 26:64]] — Jesus at his trial: "You will see the Son of Man seated at the right hand of Power"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 1|Revelation 1:7,13]] — the returning Christ in Daniel 7 imagery
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 20|Revelation 20]] — the thrones, the judgment, the books opened
-- [[27. Daniel Overview|Daniel Overview]]
+- [[3. Overviews/27. Daniel Overview|Daniel Overview]]
 
 ---
 

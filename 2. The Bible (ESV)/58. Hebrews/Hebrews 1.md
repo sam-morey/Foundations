@@ -20,14 +20,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[The Word of God|The Word of God]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Word of God|The Word of God]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 1|John 1:1–3]] — "In the beginning was the Word… all things were made through him" — the closest NT parallel to v.2–3
 - [[Psalms 110|Psalm 110:1]] — "Sit at my right hand until I make your enemies your footstool" — quoted in v.13; the most-cited OT text in the NT
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1:15–20]] — the parallel supremacy hymn: Christ as "image of the invisible God," agent of creation, firstborn from the dead
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 9|Isaiah 9:6]] — "Wonderful Counselor, Mighty God" — the divine titles that Hebrews 1 unpacks as applying to the Son
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 9|Hebrews 9]] — "after making purification for sins" (v.3) is the act elaborated in full in chapter 9
-- [[58. Hebrews Overview|Hebrews Overview]]
+- [[3. Overviews/58. Hebrews Overview|Hebrews Overview]]
 
 ---
 

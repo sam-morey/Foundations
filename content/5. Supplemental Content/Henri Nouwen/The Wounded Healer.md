@@ -128,8 +128,8 @@
 - [[Spiritual Formation]]
 
 ## Related Books
-- [[The Return of the Prodigal Son]]
-- [[The Cost of Discipleship]]
-- [[Celebration of Discipline]]
-- [[The Problem of Pain]]
+- [[content/5. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son]]
+- [[7. Supplemental Content/The Cost of Discipleship]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[7. Supplemental Content/C.S. Lewis/The Problem of Pain]]
 - [[Life of the Beloved]]

@@ -21,14 +21,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Shepherd & King|Shepherd & King]] · [[Covenant|Covenant]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Shepherd & King|Shepherd & King]] · [[6. Themes/Covenant|Covenant]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 2|Matthew 2:6]] — the chief priests quote Micah 5:2 to Herod when identifying where the Messiah would be born
 - [[2. The Bible (ESV)/42. Luke/Luke 2|Luke 2:1–7]] — the Bethlehem birth, fulfilling v.2 precisely: the ruler born in the "too little" town
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7:12–16]] — the Davidic covenant grounds the expectation of a ruler from Bethlehem (David's birthplace)
 - [[2. The Bible (ESV)/43. John/John 10|John 10:11]] — "I am the good shepherd" fulfills v.4: "he shall stand and shepherd his flock"
 - [[2. The Bible (ESV)/33. Micah/Micah 6|Micah 6:8]] — the famous ethical summary in the very next chapter; same book's two great texts
-- [[31-39. Minor Prophets Overview|Minor Prophets Overview]]
+- [[3. Overviews/31-39. Minor Prophets Overview|Minor Prophets Overview]]
 
 ---
 

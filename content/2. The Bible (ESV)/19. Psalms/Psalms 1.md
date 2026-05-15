@@ -12,14 +12,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Wisdom|Wisdom]] · [[Law & Torah|Law & Torah]] · [[Faith & Trust|Faith & Trust]] · [[Judgment|Judgment]]
+**Themes:** [[6. Themes/Wisdom|Wisdom]] · [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Judgment|Judgment]]
 **See Also:**
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 30|Deuteronomy 30:15–20]] — "I have set before you life and death, blessing and curse" — the two-ways framework Psalm 1 elaborates
 - [[2. The Bible (ESV)/40. Matthew/Matthew 7|Matthew 7:13–14,24–27]] — Jesus closes the Sermon on the Mount with the same two-ways structure (narrow/wide road; wise/foolish builder)
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:1]] — "no condemnation for those in Christ Jesus" is the gospel answer to the judgment of v.5–6
 - [[2. The Bible (ESV)/43. John/John 15|John 15:5]] — "abide in me… bear much fruit" echoes the tree planted by water bearing fruit (v.3)
 - [[Psalms 119|Psalm 119]] — the full meditation on Torah delight that Psalm 1 introduces in miniature
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

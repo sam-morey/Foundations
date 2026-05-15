@@ -2,7 +2,7 @@
 
 **Testament:** Both — the fulfillment of the entire Old Testament and the center of the New
 **Era:** The Gospels · The Early Church
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]], and throughout all Scripture
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], and throughout all Scripture
 
 ## Who He Is
 Jesus of Nazareth is the divine Son of God — fully God and fully human — who entered history as the fulfillment of every promise God made to Israel. He is the promised Messiah, the anointed King of David's line, who came not to establish an earthly kingdom by force but to lay down his life as a ransom for many. In him the entire story of Scripture reaches its climax: the covenant with Abraham, the law given through Moses, the kingdom promised to David, and the new covenant announced by the prophets all find their "yes" in Jesus (2 Corinthians 1:20). He is, as Paul declares, the one in whom "all things hold together" — the center of all creation, all history, and all redemption.
@@ -44,4 +44,4 @@ The cross is not a tragedy that God rescued from, but the very means by which Go
 - **The High Priest** — Jesus is the great High Priest who offers himself as the once-for-all sacrifice, entering the true heavenly sanctuary (Hebrews 4:14–10:18)
 
 ## Related Themes
-[[Messiah & Christ]] · [[Redemption & Salvation]] · [[Sacrifice & Atonement]] · [[Resurrection & Eternal Life]] · [[Kingdom of God]] · [[Covenant]] · [[Grace & Mercy]] · [[The Holy Spirit]]
+[[6. Themes/Messiah & Christ]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/Kingdom of God]] · [[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/The Holy Spirit]]

@@ -17,14 +17,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Faith & Trust|Faith & Trust]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Prayer & Worship|Prayer & Worship]]
+**Themes:** [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Prayer & Worship|Prayer & Worship]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 43|Isaiah 43:2]] — "when you pass through the waters, I will be with you" — the same "do not fear" assurance from the same God
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:31–39]] — "If God is for us, who can be against us?" — Paul's theological expansion of "God is our refuge" (v.1)
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 22|Revelation 22:1]] — "the river of the water of life" flows from the throne in the new Jerusalem — the "river whose streams make glad the city of God" (v.4) fully realized
 - [[2. The Bible (ESV)/43. John/John 14|John 14:27]] — "Peace I leave with you… let not your hearts be troubled" — the NT echo of "be still, and know that I am God" (v.10)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23:4]] — "even though I walk through the valley of the shadow of death, I will fear no evil" — same fearless trust in the same God
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

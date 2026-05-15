@@ -308,17 +308,17 @@
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 6|Isaiah 6]] — Isaiah's encounter with divine holiness and his response ("Woe is me! For I am lost") — the model of genuine humility before God's excellence
 
 ## Related Concepts
-- [[Faith & Trust]]
-- [[Prayer & Worship]]
-- [[The Holy Spirit]]
-- [[Sin & The Fall]]
-- [[Wisdom]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Prayer & Worship]]
+- [[6. Themes/The Holy Spirit]]
+- [[6. Themes/Sin & The Fall]]
+- [[6. Themes/Wisdom]]
 - [[Sanctification]]
 - [[Assurance of Salvation]]
 - [[Confession & Repentance]]
 
 ## Related Books
-- [[Gentle and Lowly]]
-- [[Life Together]]
-- [[Orthodoxy]]
-- [[The Prodigal God]]
+- [[content/4. Supplemental Content/Gentle and Lowly]]
+- [[content/4. Supplemental Content/Life Together]]
+- [[content/4. Supplemental Content/Orthodoxy]]
+- [[content/4. Supplemental Content/The Prodigal God]]

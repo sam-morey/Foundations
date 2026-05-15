@@ -42,12 +42,12 @@ The resurrection is not just one doctrine among many — it is the pivot of the 
 Resurrection is **bodily** (not just spiritual), **future** (not just present), **cosmic** (not just individual), and **grounded in Christ's resurrection** as the firstfruits ([[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15\|1 Cor 15:20]]).
 
 ## Related Themes
-- [[Creation & New Creation]] — resurrection is the renewal of embodied life
-- [[Messiah & Christ]] — Jesus' resurrection is the foundation
-- [[Redemption & Salvation]] — resurrection is salvation's final goal
-- [[The Holy Spirit]] — the Spirit is the agent of resurrection
-- [[Kingdom of God]] — the Kingdom is fully realized in the new creation
-- [[Judgment]] — resurrection precedes the final judgment
+- [[content/5. Themes/Creation & New Creation]] — resurrection is the renewal of embodied life
+- [[content/5. Themes/Messiah & Christ]] — Jesus' resurrection is the foundation
+- [[content/5. Themes/Redemption & Salvation]] — resurrection is salvation's final goal
+- [[content/5. Themes/The Holy Spirit]] — the Spirit is the agent of resurrection
+- [[content/5. Themes/Kingdom of God]] — the Kingdom is fully realized in the new creation
+- [[content/5. Themes/Judgment]] — resurrection precedes the final judgment
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — resurrection as physical transformation, not mere spiritual survival; Lewis is clear where others are vague

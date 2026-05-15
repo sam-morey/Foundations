@@ -37,7 +37,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Suffering & Perseverance|Suffering & Perseverance]] · [[Messiah & Christ|Messiah & Christ]] · [[Prayer & Worship|Prayer & Worship]]
+**Themes:** [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prayer & Worship|Prayer & Worship]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 27|Matthew 27:46]] — Jesus cries from the cross: "My God, my God, why have you forsaken me?" (quoting v.1)
 - [[2. The Bible (ESV)/43. John/John 19|John 19:24]] — soldiers divided his garments (v.18 fulfilled)
@@ -45,7 +45,7 @@
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 2|Hebrews 2:12]] — "I will proclaim your name to my brothers" (v.22 quoted)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23]] — the same Shepherd, now as comfort after the valley of shadow
 - [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51]] — another David psalm of intense anguish before God
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Exodus
-**Appears In:** [[3. Book Overviews/02. Exodus Overview|Exodus]], [[3. Book Overviews/03. Leviticus Overview|Leviticus]], [[3. Book Overviews/04. Numbers Overview|Numbers]]
+**Appears In:** [[3. Overviews/02. Exodus Overview|Exodus]], [[3. Overviews/03. Leviticus Overview|Leviticus]], [[3. Overviews/04. Numbers Overview|Numbers]]
 
 ## Who They Are
 Aaron is the older brother of Moses and Miriam, chosen by God to serve as Moses's spokesman before Pharaoh and then consecrated as the first High Priest of Israel. He stands at the center of Israel's worship life — the one who offers sacrifice, burns incense, and enters the Most Holy Place on the Day of Atonement. Yet his priesthood is marked by human weakness and moral failure, establishing by contrast the need for a perfect, permanent High Priest.
@@ -36,4 +36,4 @@ This capacity for moral cowardice under congregational pressure is precisely the
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3:25]] — Christ as the propitiation fulfills what the Aaronic atonement could only foreshadow
 
 ## Related Themes
-[[Sacrifice & Atonement]] · [[Messiah & Christ]] · [[Covenant]] · [[Redemption & Salvation]] · [[Justice & Righteousness]]
+[[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Justice & Righteousness]]

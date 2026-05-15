@@ -19,14 +19,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Love|Love]] · [[Faith & Trust|Faith & Trust]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]]
+**Themes:** [[6. Themes/Love|Love]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
 **See Also:**
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6:5]] — "Love the Lord your God with all your heart" (the love command underlying this chapter)
 - [[2. The Bible (ESV)/43. John/John 13|John 13:34–35]] — "A new commandment… love one another as I have loved you"
 - [[2. The Bible (ESV)/43. John/John 15|John 15:13]] — "Greater love has no one than this: to lay down his life for his friends"
 - [[2. The Bible (ESV)/62. I John/I John 4|1 John 4:8]] — "God is love"
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:38–39]] — nothing can separate us from the love of God
-- [[46-57. Paul's Letters Overview|1 Corinthians Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|1 Corinthians Overview]]
 
 ---
 

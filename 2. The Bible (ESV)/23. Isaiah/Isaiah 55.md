@@ -19,14 +19,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[The Word of God|The Word of God]] · [[Grace & Mercy|Grace & Mercy]] · [[Covenant|Covenant]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/The Word of God|The Word of God]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Covenant|Covenant]]
 **See Also:**
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 22|Revelation 22:17]] — "let the one who is thirsty come; let the one who desires take the water of life without price" — a direct echo of v.1
 - [[2. The Bible (ESV)/43. John/John 7|John 7:37–38]] — Jesus at the feast: "If anyone thirsts, let him come to me and drink" — cites Isaiah 55:1 as fulfilled in himself
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31:31]] — the everlasting covenant of steadfast love for David (v.3) parallels the new covenant promise
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 40|Isaiah 40:8]] — "the word of our God will stand forever" — the same unbreakable word as v.11: "it shall not return to me empty"
 - [[2. The Bible (ESV)/43. John/John 6|John 6:35]] — "I am the bread of life" — Jesus claims to be what Isaiah 55 offers: the food that truly satisfies
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

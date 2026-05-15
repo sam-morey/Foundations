@@ -41,14 +41,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Grace & Mercy|Grace & Mercy]] · [[Covenant|Covenant]] · [[Prayer & Worship|Prayer & Worship]] · [[Messiah & Christ|Messiah & Christ]]
+**Themes:** [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Messiah & Christ|Messiah & Christ]]
 **See Also:**
 - [[2. The Bible (ESV)/32. Jonah/Jonah 4|Jonah 4:2]] — Jonah quotes v.6 verbatim ("gracious and merciful, slow to anger, abounding in steadfast love") as the very reason he fled
 - [[Psalms 103|Psalm 103:8]] — "The Lord is merciful and gracious, slow to anger and abounding in steadfast love" — Psalm 103 is an extended meditation on this divine self-disclosure
 - [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 3|2 Corinthians 3:12–18]] — Paul contrasts Moses’ veil (v.33–35) with the unveiled face of Christ; we behold his glory with unveiled faces
 - [[2. The Bible (ESV)/43. John/John 1|John 1:14,17]] — "grace and truth" (the Greek rendering of v.6’s "steadfast love and faithfulness") is what the Word made flesh brings
 - [[2. The Bible (ESV)/40. Matthew/Matthew 17|Matthew 17:2]] — the Transfiguration echoes Moses’ shining face: Jesus radiates divine glory as Moses did
-- [[02. Exodus Overview|Exodus Overview]]
+- [[3. Overviews/02. Exodus Overview|Exodus Overview]]
 
 ---
 

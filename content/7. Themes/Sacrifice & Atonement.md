@@ -36,14 +36,14 @@ The OT system was typological — the animals could not truly remove sin (Hebrew
 - The **High Priest and the Sacrifice** simultaneously ([[2. The Bible (ESV)/58. Hebrews/Hebrews 7\|Hebrews 7]])
 
 ## Related Themes
-- [[Covenant]] — sacrifice ratifies and renews covenants
-- [[Sin & The Fall]] — atonement addresses sin's guilt
-- [[Messiah & Christ]] — Christ is the fulfillment of all sacrifice
-- [[Redemption & Salvation]] — atonement enables redemption
-- [[Law & Torah]] — the sacrificial laws of Leviticus
-- [[Grace & Mercy]] — God provides the sacrifice in mercy
+- [[content/7. Themes/Covenant]] — sacrifice ratifies and renews covenants
+- [[content/7. Themes/Sin & The Fall]] — atonement addresses sin's guilt
+- [[content/7. Themes/Messiah & Christ]] — Christ is the fulfillment of all sacrifice
+- [[content/7. Themes/Redemption & Salvation]] — atonement enables redemption
+- [[content/7. Themes/Law & Torah]] — the sacrificial laws of Leviticus
+- [[content/7. Themes/Grace & Mercy]] — God provides the sacrifice in mercy
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's accessible treatment of atonement theories and why the cross works
-- [[5. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — the Son's voluntary sacrifice as the climax of the cosmic drama
-- [[5. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] (Lewis) — temptation defeated through costly obedience; the logic of sacrifice imaginatively rendered
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's accessible treatment of atonement theories and why the cross works
+- [[7. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — the Son's voluntary sacrifice as the climax of the cosmic drama
+- [[7. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] (Lewis) — temptation defeated through costly obedience; the logic of sacrifice imaginatively rendered

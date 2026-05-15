@@ -40,14 +40,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Covenant|Covenant]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 17|Leviticus 17:11]] — "The life is in the blood… it is the blood that makes atonement"
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 9|Hebrews 9]] — Christ enters the true heavenly sanctuary "once for all" with his own blood
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 10|Hebrews 10:1–4]] — "It is impossible for the blood of bulls and goats to take away sins"
 - [[2. The Bible (ESV)/43. John/John 1|John 1:29]] — Jesus as the Lamb of God; the ultimate Yom Kippur fulfillment
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3:25]] — God put Christ forward as a propitiation (*hilastērion* = mercy seat)
-- [[03. Leviticus Overview|Leviticus Overview]]
+- [[3. Overviews/03. Leviticus Overview|Leviticus Overview]]
 
 ---
 

@@ -59,14 +59,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Messiah & Christ|Messiah & Christ]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53]] — "the Christ should suffer" (v.46) — this is the passage Jesus would have opened the Scriptures to on the Emmaus road
 - [[2. The Bible (ESV)/19. Psalms/Psalms 22|Psalm 22]] — another text Jesus likely expounded; the suffering and vindication of the righteous one
 - [[2. The Bible (ESV)/44. Acts/Acts 1|Acts 1:4–8]] — the sending of the Spirit (v.49) and the Great Commission continue directly into Acts
 - [[2. The Bible (ESV)/40. Matthew/Matthew 28|Matthew 28:18–20]] — the parallel Great Commission; "make disciples of all nations" matches "proclaimed in his name to all nations" (v.47)
 - [[2. The Bible (ESV)/43. John/John 20|John 20:19–23]] — John's parallel appearance account: Jesus shows his hands, breathes the Spirit, sends the disciples
-- [[42. Luke Overview|Luke Overview]]
+- [[3. Overviews/42. Luke Overview|Luke Overview]]
 
 ---
 

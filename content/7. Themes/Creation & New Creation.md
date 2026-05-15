@@ -36,17 +36,17 @@ The Bible moves from **creation → corruption → new creation**:
 6. The consummation brings full renewal ([[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Rev 21–22]])
 
 ## Related Themes
-- [[Sin & The Fall]] — how creation was corrupted
-- [[Redemption & Salvation]] — God's plan to restore
-- [[The Holy Spirit]] — agent of new creation in believers
-- [[Resurrection & Eternal Life]] — the bodily dimension of new creation
-- [[Messiah & Christ]] — the new Adam who inaugurates new creation
+- [[content/7. Themes/Sin & The Fall]] — how creation was corrupted
+- [[content/7. Themes/Redemption & Salvation]] — God's plan to restore
+- [[content/7. Themes/The Holy Spirit]] — agent of new creation in believers
+- [[content/7. Themes/Resurrection & Eternal Life]] — the bodily dimension of new creation
+- [[content/7. Themes/Messiah & Christ]] — the new Adam who inaugurates new creation
 
 ## Supplemental Reading
-- [[5. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — creation as vocation; new creation as the restoration and perfection of the original garden
-- [[5. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — creation and its undoing narrated with epic grandeur
-- [[5. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Trinity as the loving source of all creation
-- [[5. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how new creation transforms the meaning of ordinary work now
-- [[5. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — creation's goodness and the tragedy of a world bent by sin
-- [[5. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — new creation as the destination of history; resurrection as the first fruits
-- [[5. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — the biblical narrative as a six-act drama from creation through new creation
+- [[7. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — creation as vocation; new creation as the restoration and perfection of the original garden
+- [[7. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — creation and its undoing narrated with epic grandeur
+- [[7. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Trinity as the loving source of all creation
+- [[7. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how new creation transforms the meaning of ordinary work now
+- [[7. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — creation's goodness and the tragedy of a world bent by sin
+- [[7. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — new creation as the destination of history; resurrection as the first fruits
+- [[7. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — the biblical narrative as a six-act drama from creation through new creation

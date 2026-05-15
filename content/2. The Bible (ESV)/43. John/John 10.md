@@ -48,14 +48,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Shepherd & King|Shepherd & King]] · [[Messiah & Christ|Messiah & Christ]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Shepherd & King|Shepherd & King]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23]] — "The Lord is my shepherd" — fulfilled in Jesus
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 34|Ezekiel 34]] — God's condemnation of false shepherds and his promise to shepherd the flock himself
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 23|Jeremiah 23]] — God will raise up a righteous shepherd-king from David
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25]] — "I am the resurrection and the life" (the next "I AM" saying)
 - [[2. The Bible (ESV)/60. I Peter/I Peter 2|1 Peter 2:25]] — "You were straying like sheep, but have now returned to the Shepherd"
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

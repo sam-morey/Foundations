@@ -38,14 +38,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Grace & Mercy|Grace & Mercy]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Love|Love]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Love|Love]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 34|Ezekiel 34:11–16]] — God himself as the shepherd who seeks the lost sheep (background to the first parable)
 - [[2. The Bible (ESV)/28. Hosea/Hosea 11|Hosea 11:8]] — "How can I give you up, O Ephraim?" — the same divine grief and pursuing love behind the father running to meet the son
 - [[2. The Bible (ESV)/42. Luke/Luke 19|Luke 19:10]] — Jesus states the theme of this chapter: "The Son of Man came to seek and to save the lost"
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5:8]] — "while we were still sinners, Christ died for us" — the theological statement of the prodigal's story
 - [[2. The Bible (ESV)/40. Matthew/Matthew 18|Matthew 18:12–14]] — the lost sheep parable in Matthew's context (the 99 left to find the one)
-- [[42. Luke Overview|Luke Overview]]
+- [[3. Overviews/42. Luke Overview|Luke Overview]]
 
 ---
 

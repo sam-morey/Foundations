@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Return
-**Appears In:** [[3. Book Overviews/15. Ezra Overview|Ezra]], [[3. Book Overviews/16. Nehemiah Overview|Nehemiah]]
+**Appears In:** [[3. Overviews/15. Ezra Overview|Ezra]], [[3. Overviews/16. Nehemiah Overview|Nehemiah]]
 
 ## Who They Are
 Ezra is a scribe and priest who leads a second wave of returning exiles from Babylon to Jerusalem around 458 BC, nearly eighty years after the first return under Zerubbabel. He is described as skilled in the Law of Moses, devoted to studying it, doing it, and teaching it. His public reading of the Law in Nehemiah 8 — which brings the entire community to tears and then to celebration — stands as one of the most dramatic scenes of Scripture-centered renewal in the Bible.
@@ -34,4 +34,4 @@ His prayer of confession in Ezra 9 is striking in its identification. He has not
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 4|Hebrews 4:12]] — The living and active word that penetrates and judges is the same word Ezra devoted his life to reading, doing, and teaching
 
 ## Related Themes
-[[Covenant]] · [[Prophecy & Fulfillment]] · [[Justice & Righteousness]] · [[Faith & Trust]] · [[Redemption & Salvation]]
+[[6. Themes/Covenant]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Redemption & Salvation]]

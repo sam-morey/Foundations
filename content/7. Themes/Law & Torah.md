@@ -36,14 +36,14 @@
 4. **Points to Christ** — every sacrifice and ritual anticipates Jesus
 
 ## Related Themes
-- [[Covenant]] — the Law is embedded within covenant relationship
-- [[Sacrifice & Atonement]] — the cultic laws
-- [[Grace & Mercy]] — salvation was never by law-keeping
-- [[Messiah & Christ]] — the fulfillment of the Law
-- [[Redemption & Salvation]] — what the Law cannot accomplish
-- [[The Word of God]] — Torah as divine instruction
+- [[content/7. Themes/Covenant]] — the Law is embedded within covenant relationship
+- [[content/7. Themes/Sacrifice & Atonement]] — the cultic laws
+- [[content/7. Themes/Grace & Mercy]] — salvation was never by law-keeping
+- [[content/7. Themes/Messiah & Christ]] — the fulfillment of the Law
+- [[content/7. Themes/Redemption & Salvation]] — what the Law cannot accomplish
+- [[content/7. Themes/The Word of God]] — Torah as divine instruction
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the starting point of Lewis's case for Christianity; law as evidence for the Lawgiver
-- [[5. Supplemental Content/C.S. Lewis/The Abolition of Man|The Abolition of Man]] (Lewis) — natural law and the Tao as universal moral reality that cannot be abolished without abolishing man
-- [[5. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Sermon on the Mount as Jesus's interpretation of Torah from the inside out
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the starting point of Lewis's case for Christianity; law as evidence for the Lawgiver
+- [[7. Supplemental Content/C.S. Lewis/The Abolition of Man|The Abolition of Man]] (Lewis) — natural law and the Tao as universal moral reality that cannot be abolished without abolishing man
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Sermon on the Mount as Jesus's interpretation of Torah from the inside out

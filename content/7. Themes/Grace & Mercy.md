@@ -30,19 +30,19 @@ The Hebrew word *hesed* — often translated "steadfast love," "loving-kindness,
 Key *hesed* texts: [[2. The Bible (ESV)/02. Exodus/Exodus 34\|Exodus 34]], [[2. The Bible (ESV)/08. Ruth/Ruth 1\|Ruth 1]], [[Psalms 103\|Psalm 103]], [[2. The Bible (ESV)/33. Micah/Micah 6\|Micah 6:8]], [[2. The Bible (ESV)/25. Lamentations/Lamentations 3\|Lamentations 3]]
 
 ## Related Themes
-- [[Faith & Trust]] — grace is received through faith
-- [[Redemption & Salvation]] — salvation flows from grace
-- [[Sin & The Fall]] — grace is the answer to sin
-- [[Covenant]] — grace is expressed within covenant relationship
-- [[Love]] — grace is an expression of God's love
-- [[Judgment]] — mercy triumphs over judgment (James 2:13)
+- [[content/7. Themes/Faith & Trust]] — grace is received through faith
+- [[content/7. Themes/Redemption & Salvation]] — salvation flows from grace
+- [[content/7. Themes/Sin & The Fall]] — grace is the answer to sin
+- [[content/7. Themes/Covenant]] — grace is expressed within covenant relationship
+- [[content/7. Themes/Love]] — grace is an expression of God's love
+- [[content/7. Themes/Judgment]] — mercy triumphs over judgment (James 2:13)
 
 ## Supplemental Reading
-- [[5. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — a sustained meditation on grace for the broken and imperfect
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — Packer's chapters on God's grace, love, and adoption are foundational
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis traces grace and redemption with clarity accessible to any reader
-- [[5. Supplemental Content/Confessions|Confessions]] (Augustine) — grace pursued Augustine before he pursued it; a firsthand account
-- [[5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — chapters on mercy, grace, and goodness as divine attributes
-- [[5. Supplemental Content/Gentle and Lowly|Gentle and Lowly]] (Ortlund) — a sustained meditation on the heart of Christ toward sinners and sufferers
-- [[5. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son|The Return of the Prodigal Son]] (Nouwen) — the father's extravagant welcome as the center of the Christian life
-- [[5. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — the reckless generosity of the father reframes both elder-brother religion and younger-brother rebellion
+- [[7. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — a sustained meditation on grace for the broken and imperfect
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — Packer's chapters on God's grace, love, and adoption are foundational
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis traces grace and redemption with clarity accessible to any reader
+- [[7. Supplemental Content/Confessions|Confessions]] (Augustine) — grace pursued Augustine before he pursued it; a firsthand account
+- [[7. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — chapters on mercy, grace, and goodness as divine attributes
+- [[7. Supplemental Content/Gentle and Lowly|Gentle and Lowly]] (Ortlund) — a sustained meditation on the heart of Christ toward sinners and sufferers
+- [[7. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son|The Return of the Prodigal Son]] (Nouwen) — the father's extravagant welcome as the center of the Christian life
+- [[7. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — the reckless generosity of the father reframes both elder-brother religion and younger-brother rebellion

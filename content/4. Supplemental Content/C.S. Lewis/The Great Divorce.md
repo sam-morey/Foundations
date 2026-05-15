@@ -161,10 +161,10 @@
 - [[Spiritual Reality]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Screwtape Letters]]
-- [[The Problem of Pain]]
-- [[The Abolition of Man]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Screwtape Letters]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Abolition of Man]]
 - [[Inferno]]
 - [[Pilgrim's Regress]]
-- [[Pilgrim's Progress]]
+- [[7. Supplemental Content/Pilgrim's Progress]]

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Primeval History
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Adam is the first human being, created by God from the dust of the ground and given the breath of life. He is the federal head and representative of all humanity, placed in the Garden of Eden to work it and keep it. His act of disobedience against God's command plunged all of creation into sin and death, making him the pivotal figure at the origin of the human story.
@@ -36,4 +36,4 @@ Yet Adam is also the recipient of God's first act of grace after the Fall: God m
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 5|Ephesians 5:31–32]] — Adam and Eve's union foreshadows Christ and the Church
 
 ## Related Themes
-[[Sin & The Fall]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Covenant]] · [[Grace & Mercy]]
+[[6. Themes/Sin & The Fall]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]]

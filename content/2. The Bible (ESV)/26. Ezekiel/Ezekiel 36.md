@@ -44,14 +44,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[The Holy Spirit|The Holy Spirit]] · [[Covenant|Covenant]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]]
+**Themes:** [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]]
 **See Also:**
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31:31–34]] — the new covenant promise running parallel: "I will put my law within them… I will forgive their iniquity"
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 37|Ezekiel 37]] — the valley of dry bones immediately follows, showing the Spirit's life-giving work concretely
 - [[2. The Bible (ESV)/43. John/John 3|John 3:5]] — Jesus on being "born of water and the Spirit" echoes the cleansing water and new spirit of v.25–27
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:9–11]] — the indwelling Spirit enabling obedience fulfills what v.27 promises
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] — Pentecost as the outpouring of the Spirit promised here (and in Joel 2)
-- [[26. Ezekiel Overview|Ezekiel Overview]]
+- [[3. Overviews/26. Ezekiel Overview|Ezekiel Overview]]
 
 ---
 

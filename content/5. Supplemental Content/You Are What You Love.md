@@ -132,8 +132,8 @@
 
 ## Related Books
 - [[Desiring the Kingdom]]
-- [[The Spirit of the Disciplines]]
-- [[Practicing the Way]]
-- [[The Ruthless Elimination of Hurry]]
-- [[Celebration of Discipline]]
-- [[Renovation of the Heart]]
+- [[content/5. Supplemental Content/Dallas Willard/The Spirit of the Disciplines]]
+- [[content/5. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[content/5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
+- [[content/5. Supplemental Content/Celebration of Discipline]]
+- [[content/5. Supplemental Content/Dallas Willard/Renovation of the Heart]]

@@ -143,9 +143,9 @@
 - [[Christlikeness]]
 
 ## Related Books
-- [[The Ruthless Elimination of Hurry]]
-- [[Garden City]]
-- [[Celebration of Discipline]]
-- [[The Spirit of the Disciplines]]
-- [[Renovation of the Heart]]
-- [[The Divine Conspiracy]]
+- [[content/5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
+- [[content/5. Supplemental Content/John Mark Comer/Garden City]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[7. Supplemental Content/Dallas Willard/The Spirit of the Disciplines]]
+- [[7. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy]]

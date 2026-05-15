@@ -47,12 +47,12 @@
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 5\|Revelation 5]] — The Lion of Judah and Lamb who is worthy
 
 ## Related Themes
-- [[Covenant]] — the Davidic covenant and its fulfillment
-- [[Prophecy & Fulfillment]] — OT promises and NT realization
-- [[Sacrifice & Atonement]] — Christ as the ultimate sacrifice
-- [[Kingdom of God]] — Christ the King
-- [[Resurrection & Eternal Life]] — Christ's resurrection as the firstfruits
-- [[Redemption & Salvation]] — Christ the Redeemer
+- [[content/5. Themes/Covenant]] — the Davidic covenant and its fulfillment
+- [[content/5. Themes/Prophecy & Fulfillment]] — OT promises and NT realization
+- [[content/5. Themes/Sacrifice & Atonement]] — Christ as the ultimate sacrifice
+- [[content/5. Themes/Kingdom of God]] — Christ the King
+- [[content/5. Themes/Resurrection & Eternal Life]] — Christ's resurrection as the firstfruits
+- [[content/5. Themes/Redemption & Salvation]] — Christ the Redeemer
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — "Who is Jesus?" answered with the famous liar-lunatic-Lord argument; unavoidable for this theme

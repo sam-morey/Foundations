@@ -35,7 +35,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Faith & Trust|Faith & Trust]] · [[Covenant|Covenant]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Law & Torah|Law & Torah]]
+**Themes:** [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Law & Torah|Law & Torah]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12:3]] — "in you all nations shall be blessed" (v.8 quotes this directly as the proto-gospel preached to Abraham)
 - [[2. The Bible (ESV)/01. Genesis/Genesis 15|Genesis 15:6]] — "Abraham believed God, and it was counted to him as righteousness" (v.6 quotes this)

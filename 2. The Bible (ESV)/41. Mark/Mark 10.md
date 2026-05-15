@@ -58,14 +58,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Kingdom of God|Kingdom of God]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:10–12]] — "to give his life as a ransom for many" (v.45) quotes the Servant: "he poured out his soul to death… bore the sin of many"
 - [[2. The Bible (ESV)/01. Genesis/Genesis 22|Genesis 22:13]] — Abraham provided a ram "instead of" his son — the same substitutionary logic as the ransom (v.45: "a ransom for many")
 - [[2. The Bible (ESV)/50. Philippians/Philippians 2|Philippians 2:7]] — "taking the form of a servant" — Paul's commentary on v.43–45: greatness as service
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 61|Isaiah 61:1]] — "to proclaim liberty to the captives" — Jesus is the one who came to serve and free, like the Jubilee herald
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 25|Leviticus 25]] — the Jubilee: the concept of "ransom" redemption (go'el) from bondage into freedom
-- [[41. Mark Overview|Mark Overview]]
+- [[3. Overviews/41. Mark Overview|Mark Overview]]
 
 ---
 

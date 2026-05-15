@@ -32,7 +32,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Law & Torah|Law & Torah]] · [[Covenant|Covenant]] · [[The Promised Land & Rest|The Promised Land & Rest]]
+**Themes:** [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/The Promised Land & Rest|The Promised Land & Rest]]
 **See Also:**
 - [[2. The Bible (ESV)/02. Exodus/Exodus 19|Exodus 19]] — the covenant context in which the Law is given
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 5|Deuteronomy 5]] — the Ten Commandments repeated for the next generation
@@ -40,7 +40,7 @@
 - [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5]] — Jesus fulfills and radicalizes the commandments in the Sermon on the Mount
 - [[2. The Bible (ESV)/40. Matthew/Matthew 22|Matthew 22:37–40]] — the Two Great Commandments summarize the Law
 - [[2. The Bible (ESV)/45. Romans/Romans 7|Romans 7]] — Paul on the Law's role in revealing sin
-- [[02. Exodus Overview|Exodus Overview]]
+- [[3. Overviews/02. Exodus Overview|Exodus Overview]]
 
 ---
 

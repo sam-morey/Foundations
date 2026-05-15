@@ -43,11 +43,11 @@ Light and darkness are among Scripture's most pervasive images. God is light; da
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21–22]] — The new Jerusalem has no need of sun or moon; the glory of God is its light; the Lamb is its lamp
 
 ## Related Themes
-- [[Creation & New Creation]] — light is the first creative act and the final state
-- [[Sin & The Fall]] — sin is associated with darkness
-- [[Messiah & Christ]] — Christ is the light of the world
-- [[Judgment]] — the Day of the Lord involves darkness for the unrepentant
-- [[Redemption & Salvation]] — salvation is being brought from darkness to light
+- [[content/5. Themes/Creation & New Creation]] — light is the first creative act and the final state
+- [[content/5. Themes/Sin & The Fall]] — sin is associated with darkness
+- [[content/5. Themes/Messiah & Christ]] — Christ is the light of the world
+- [[content/5. Themes/Judgment]] — the Day of the Lord involves darkness for the unrepentant
+- [[content/5. Themes/Redemption & Salvation]] — salvation is being brought from darkness to light
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — light and darkness as both physical and moral realities in the epic of the Fall

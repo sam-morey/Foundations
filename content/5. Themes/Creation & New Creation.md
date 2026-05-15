@@ -36,11 +36,11 @@ The Bible moves from **creation → corruption → new creation**:
 6. The consummation brings full renewal ([[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Rev 21–22]])
 
 ## Related Themes
-- [[Sin & The Fall]] — how creation was corrupted
-- [[Redemption & Salvation]] — God's plan to restore
-- [[The Holy Spirit]] — agent of new creation in believers
-- [[Resurrection & Eternal Life]] — the bodily dimension of new creation
-- [[Messiah & Christ]] — the new Adam who inaugurates new creation
+- [[content/5. Themes/Sin & The Fall]] — how creation was corrupted
+- [[content/5. Themes/Redemption & Salvation]] — God's plan to restore
+- [[content/5. Themes/The Holy Spirit]] — agent of new creation in believers
+- [[content/5. Themes/Resurrection & Eternal Life]] — the bodily dimension of new creation
+- [[content/5. Themes/Messiah & Christ]] — the new Adam who inaugurates new creation
 
 ## Supplemental Reading
 - [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — creation as vocation; new creation as the restoration and perfection of the original garden

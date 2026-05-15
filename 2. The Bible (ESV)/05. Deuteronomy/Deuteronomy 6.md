@@ -31,14 +31,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Love|Love]] · [[Law & Torah|Law & Torah]] · [[Covenant|Covenant]] · [[Faith & Trust|Faith & Trust]]
+**Themes:** [[6. Themes/Love|Love]] · [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Faith & Trust|Faith & Trust]]
 **See Also:**
 - [[2. The Bible (ESV)/02. Exodus/Exodus 20|Exodus 20]] — the Ten Commandments which the Shema summarizes
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 19|Leviticus 19:18]] — "Love your neighbor as yourself" (the second great command)
 - [[2. The Bible (ESV)/40. Matthew/Matthew 22|Matthew 22:37–40]] — Jesus quotes Deuteronomy 6:5 as the first and greatest commandment
 - [[2. The Bible (ESV)/40. Matthew/Matthew 4|Matthew 4:10]] — Jesus quotes Deuteronomy 6:13 against Satan ("Worship the Lord your God")
 - [[2. The Bible (ESV)/40. Matthew/Matthew 4|Matthew 4:7]] — Jesus quotes Deuteronomy 6:16 ("Do not put the Lord to the test")
-- [[05. Deuteronomy Overview|Deuteronomy Overview]]
+- [[3. Overviews/05. Deuteronomy Overview|Deuteronomy Overview]]
 
 ---
 

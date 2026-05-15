@@ -33,7 +33,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[Kingdom of God|Kingdom of God]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Light & Darkness|Light & Darkness]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Light & Darkness|Light & Darkness]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–2]] — the creation that is here renewed and surpassed
 - [[2. The Bible (ESV)/01. Genesis/Genesis 3|Genesis 3]] — the Fall whose effects are fully reversed here
@@ -41,7 +41,7 @@
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 47|Ezekiel 47]] — the river flowing from the Temple; the new city
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 22|Revelation 22]] — continues: the river of life, the Tree of Life, "Come, Lord Jesus"
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:18–25]] — creation groaning; waiting for the new creation
-- [[66. Revelation Overview|Revelation Overview]]
+- [[3. Overviews/66. Revelation Overview|Revelation Overview]]
 
 ---
 

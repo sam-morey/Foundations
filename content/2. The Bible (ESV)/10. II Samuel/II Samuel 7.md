@@ -35,7 +35,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Messiah & Christ|Messiah & Christ]] · [[Kingdom of God|Kingdom of God]] · [[Shepherd & King|Shepherd & King]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Shepherd & King|Shepherd & King]]
 **See Also:**
 - [[2. The Bible (ESV)/19. Psalms/Psalms 2|Psalm 2]] — "You are my Son; today I have begotten you"
 - [[Psalms 110|Psalm 110]] — the royal-priestly Messiah
@@ -44,7 +44,7 @@
 - [[2. The Bible (ESV)/42. Luke/Luke 1|Luke 1:32–33]] — Gabriel to Mary: "The Lord God will give him the throne of his father David"
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2:30]] — Peter: David was a prophet who knew God would put one of his descendants on his throne
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:5]] — 2 Samuel 7:14 applied to Jesus
-- [[10. 2 Samuel Overview|2 Samuel Overview]]
+- [[3. Overviews/10. 2 Samuel Overview|2 Samuel Overview]]
 
 ---
 

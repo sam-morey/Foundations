@@ -20,14 +20,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Grace & Mercy|Grace & Mercy]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Grace & Mercy|Grace & Mercy]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 19|John 19:37]] — the soldier pierces Jesus' side at the cross; John quotes v.10: "They will look on him whom they have pierced"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 1|Revelation 1:7]] — "every eye will see him, even those who pierced him" — the universal fulfillment of the mourning in v.10
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:5]] — "he was pierced for our transgressions" — the Servant Song that Zechariah 12:10 parallels
 - [[2. The Bible (ESV)/38. Zechariah/Zechariah 9|Zechariah 9:9]] — the same king who enters on a donkey is the one now "pierced"; the two Zechariah hub chapters belong together
 - [[2. The Bible (ESV)/19. Psalms/Psalms 22|Psalm 22:16]] — "they have pierced my hands and feet" — the same imagery from the crucifixion Psalm
-- [[31-39. Minor Prophets Overview|Minor Prophets Overview]]
+- [[3. Overviews/31-39. Minor Prophets Overview|Minor Prophets Overview]]
 
 ---
 

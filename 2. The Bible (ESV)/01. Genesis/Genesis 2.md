@@ -31,7 +31,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[The Promised Land & Rest|The Promised Land & Rest]] · [[Love|Love]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[6. Themes/Love|Love]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — the first account of creation; ch. 2 zooms in on the garden and the human pair
 - [[2. The Bible (ESV)/01. Genesis/Genesis 3|Genesis 3]] — the fall that reverses the shalom of this chapter; nakedness becomes shame
@@ -39,7 +39,7 @@
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 5|Ephesians 5:31–32]] — Paul quotes v.24 ("one flesh") as a mystery pointing to Christ and the church
 - [[2. The Bible (ESV)/40. Matthew/Matthew 19|Matthew 19:4–5]] — Jesus quotes v.24 to ground the permanence of marriage
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 4|Hebrews 4:4–10]] — God's rest on the seventh day (v.2–3) becomes a pattern for the Sabbath rest that remains for God's people
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

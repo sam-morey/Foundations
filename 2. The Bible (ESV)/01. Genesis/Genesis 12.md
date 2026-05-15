@@ -26,7 +26,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Faith & Trust|Faith & Trust]] · [[The Promised Land & Rest|The Promised Land & Rest]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/The Promised Land & Rest|The Promised Land & Rest]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 15|Genesis 15]] — the covenant ratified with blood; "he believed God and it was counted as righteousness"
 - [[2. The Bible (ESV)/01. Genesis/Genesis 17|Genesis 17]] — the covenant sign of circumcision
@@ -34,7 +34,7 @@
 - [[2. The Bible (ESV)/45. Romans/Romans 4|Romans 4]] — Paul's full treatment of Abraham's faith
 - [[2. The Bible (ESV)/48. Galatians/Galatians 3|Galatians 3:8]] — "Scripture foresaw that God would justify the Gentiles by faith… In you shall all nations be blessed"
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:8–10]] — "By faith Abraham obeyed when he was called to go"
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

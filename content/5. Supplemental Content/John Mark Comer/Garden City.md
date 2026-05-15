@@ -200,8 +200,8 @@
 - [[New creation]]
 
 ## Related Books
-- [[Every Good Endeavor]]
-- [[The Ruthless Elimination of Hurry]]
+- [[7. Supplemental Content/Every Good Endeavor]]
+- [[content/5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
 - [[The Common Rule]]
 - [[Liturgy of the Ordinary]]
-- [[The Divine Conspiracy]]
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy]]

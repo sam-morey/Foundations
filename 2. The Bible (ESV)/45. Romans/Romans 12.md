@@ -27,14 +27,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Love|Love]] · [[Prayer & Worship|Prayer & Worship]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Love|Love]] · [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:31–39]] — the "mercies of God" (v.1) that motivate the living sacrifice are the mercies Paul catalogued in ch. 8
 - [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5:38–48]] — Jesus' teaching on loving enemies, blessing persecutors, overcoming evil with good — the gospel source of v.14,21
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 19|Leviticus 19:18]] — "love your neighbor as yourself" — the OT root of v.9–13's community ethics
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 32|Deuteronomy 32:35]] — "vengeance is mine" (v.19) — Paul quotes this to ground the command not to retaliate
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 13|1 Corinthians 13]] — the love chapter elaborates the "let love be genuine" (v.9) ethic with rich detail
-- [[45. Romans Overview|Romans Overview]]
+- [[3. Overviews/45. Romans Overview|Romans Overview]]
 
 ---
 

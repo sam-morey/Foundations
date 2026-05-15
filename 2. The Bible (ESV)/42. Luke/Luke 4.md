@@ -50,7 +50,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Kingdom of God|Kingdom of God]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 61|Isaiah 61:1–2]] — the scroll Jesus reads: "The Spirit of the Lord God is upon me… to proclaim the year of the Lord's favor"
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 58|Isaiah 58:6]] — "to set at liberty those who are oppressed" (also woven into v.18)
@@ -58,7 +58,7 @@
 - [[2. The Bible (ESV)/44. Acts/Acts 10|Acts 10:38]] — Peter summarizes Jesus' ministry: "God anointed him with the Holy Spirit and with power"
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6:13,16]] — Jesus quotes Deuteronomy three times against the devil in the temptation (v.4–12)
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 8|Deuteronomy 8:3]] — "Man shall not live by bread alone" (Jesus' first answer, v.4)
-- [[42. Luke Overview|Luke Overview]]
+- [[3. Overviews/42. Luke Overview|Luke Overview]]
 
 ---
 

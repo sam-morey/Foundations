@@ -30,12 +30,12 @@ The Hebrew word *hesed* — often translated "steadfast love," "loving-kindness,
 Key *hesed* texts: [[2. The Bible (ESV)/02. Exodus/Exodus 34\|Exodus 34]], [[2. The Bible (ESV)/08. Ruth/Ruth 1\|Ruth 1]], [[Psalms 103\|Psalm 103]], [[2. The Bible (ESV)/33. Micah/Micah 6\|Micah 6:8]], [[2. The Bible (ESV)/25. Lamentations/Lamentations 3\|Lamentations 3]]
 
 ## Related Themes
-- [[Faith & Trust]] — grace is received through faith
-- [[Redemption & Salvation]] — salvation flows from grace
-- [[Sin & The Fall]] — grace is the answer to sin
-- [[Covenant]] — grace is expressed within covenant relationship
-- [[Love]] — grace is an expression of God's love
-- [[Judgment]] — mercy triumphs over judgment (James 2:13)
+- [[content/5. Themes/Faith & Trust]] — grace is received through faith
+- [[content/5. Themes/Redemption & Salvation]] — salvation flows from grace
+- [[content/5. Themes/Sin & The Fall]] — grace is the answer to sin
+- [[content/5. Themes/Covenant]] — grace is expressed within covenant relationship
+- [[content/5. Themes/Love]] — grace is an expression of God's love
+- [[content/5. Themes/Judgment]] — mercy triumphs over judgment (James 2:13)
 
 ## Supplemental Reading
 - [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — a sustained meditation on grace for the broken and imperfect

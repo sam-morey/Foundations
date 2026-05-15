@@ -81,7 +81,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/02. Exodus/Exodus 12|Exodus 12]] — the Passover that the Last Supper now transforms
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31:31]] — the New Covenant Jesus inaugurates: "This is my blood of the new covenant"
@@ -89,7 +89,7 @@
 - [[2. The Bible (ESV)/40. Matthew/Matthew 27|Matthew 27]] — the crucifixion: the covenant ratified by Jesus' death
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 11|1 Corinthians 11:23–26]] — Paul's account of the Last Supper institution
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 9|Hebrews 9]] — the New Covenant ratified with Christ's own blood
-- [[40. Matthew Overview|Matthew Overview]]
+- [[3. Overviews/40. Matthew Overview|Matthew Overview]]
 
 ---
 

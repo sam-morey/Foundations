@@ -28,14 +28,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Grace & Mercy|Grace & Mercy]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Faith & Trust|Faith & Trust]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3:27–28]] — "justification by faith apart from works of the law" — the same doctrine as v.8–9 developed at length
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12:3]] — "in you all the families of the earth shall be blessed" — the promise the Gentile inclusion of v.11–22 fulfills
 - [[2. The Bible (ESV)/43. John/John 10|John 10:16]] — "one flock, one shepherd" anticipates the one new humanity of v.14–16
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5:1]] — "peace with God through our Lord Jesus Christ" echoes "he himself is our peace" (v.14)
 - [[2. The Bible (ESV)/44. Acts/Acts 15|Acts 15]] — the Jerusalem Council wrestles with Gentile inclusion that v.11–22 theologically grounds
-- [[46-57. Paul's Letters Overview|Paul's Letters Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters Overview]]
 
 ---
 

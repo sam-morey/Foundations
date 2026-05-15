@@ -37,14 +37,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Faith & Trust|Faith & Trust]] · [[Grace & Mercy|Grace & Mercy]] · [[Sin & The Fall|Sin & The Fall]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Sin & The Fall|Sin & The Fall]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/19. Psalms/Psalms 14|Psalm 14:1–3]] — "There is none who does good, not even one" (quoted in v.10–12)
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 59|Isaiah 59:7–8]] — "Their feet are swift to shed blood" (quoted in v.15–17)
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 16|Leviticus 16]] — the mercy seat (*hilastērion*) that Paul cites in v.25
 - [[2. The Bible (ESV)/45. Romans/Romans 4|Romans 4]] — the OT evidence for justification by faith (Abraham and David)
 - [[2. The Bible (ESV)/48. Galatians/Galatians 2|Galatians 2:16]] — "A person is not justified by works of the law but through faith in Christ"
-- [[45. Romans Overview|Romans Overview]]
+- [[3. Overviews/45. Romans Overview|Romans Overview]]
 
 ---
 

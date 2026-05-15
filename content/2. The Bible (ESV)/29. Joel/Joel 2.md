@@ -38,14 +38,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[The Holy Spirit|The Holy Spirit]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Judgment|Judgment]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Judgment|Judgment]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2:17–21]] — Peter quotes Joel 2:28–32 at Pentecost: "This is what was spoken by the prophet Joel" (v.28–32 directly fulfilled)
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36|Ezekiel 36:26–27]] — the parallel new spirit / Spirit within promise ("I will put my Spirit within you")
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 37|Ezekiel 37]] — the breath/Spirit poured on dry bones; same life-giving act from a different image
 - [[2. The Bible (ESV)/45. Romans/Romans 10|Romans 10:13]] — "Everyone who calls on the name of the Lord will be saved" (quotes v.32)
 - [[2. The Bible (ESV)/02. Exodus/Exodus 34|Exodus 34:6]] — v.13's description of God ("gracious, merciful, slow to anger, abounding in steadfast love") quotes this foundational passage
-- [[29. Joel Overview|Joel Overview]]
+- [[3. Overviews/29. Joel Overview|Joel Overview]]
 
 ---
 

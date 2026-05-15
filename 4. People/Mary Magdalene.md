@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]]
 
 ## Who She Is
 Mary Magdalene is the woman from Magdala who was freed by Jesus from seven demons and became one of his most devoted followers. She was present at the cross when most of the male disciples had fled, she witnessed the burial, and she was the first person to see the risen Jesus — making her, as the early church sometimes called her, the "apostle to the apostles." Her loyalty in the darkest hours and her privilege as the first resurrection witness mark her as one of the most significant figures in the Gospel narratives.
@@ -27,4 +27,4 @@ Popular tradition has long confused Mary Magdalene with the unnamed sinful woman
 John's account of that meeting (John 20:11–18) is among the most intimate in the Gospels: Mary weeping, mistaking Jesus for the gardener, and then hearing her name spoken by the one she thought was dead. It is the personal, knowing love of the Good Shepherd who calls his own sheep by name (John 10:3) — and Mary Magdalene is the first to experience it on the other side of the resurrection.
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Grace & Mercy]] · [[Resurrection & Eternal Life]] · [[Faith & Trust]] · [[Love]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Love]]

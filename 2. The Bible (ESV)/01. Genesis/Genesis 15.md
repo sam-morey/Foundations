@@ -27,14 +27,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Faith & Trust|Faith & Trust]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12]] — the original covenant promise to Abram
 - [[2. The Bible (ESV)/01. Genesis/Genesis 17|Genesis 17]] — circumcision as the covenant sign
 - [[2. The Bible (ESV)/45. Romans/Romans 4|Romans 4:3]] — "Abraham believed God, and it was counted to him as righteousness"
 - [[2. The Bible (ESV)/48. Galatians/Galatians 3|Galatians 3:6–9]] — the faith of Abraham as the model for all who believe
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:8–12]] — the faith hall of fame
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

@@ -34,11 +34,11 @@ God chose Israel not as an end in itself but as the means of blessing all nation
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 7\|Revelation 7]] — A great multitude from every nation, tribe, people, and language
 
 ## Related Themes
-- [[Covenant]] — the Abrahamic covenant was always for all nations
-- [[Messiah & Christ]] — Christ is the seed of Abraham who fulfills the blessing
-- [[Prophecy & Fulfillment]] — the OT prophecies of Gentile inclusion
-- [[Redemption & Salvation]] — salvation is for all peoples
-- [[Kingdom of God]] — the Kingdom gathers all nations
+- [[content/5. Themes/Covenant]] — the Abrahamic covenant was always for all nations
+- [[content/5. Themes/Messiah & Christ]] — Christ is the seed of Abraham who fulfills the blessing
+- [[content/5. Themes/Prophecy & Fulfillment]] — the OT prophecies of Gentile inclusion
+- [[content/5. Themes/Redemption & Salvation]] — salvation is for all peoples
+- [[content/5. Themes/Kingdom of God]] — the Kingdom gathers all nations
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God's election and covenant faithfulness as the backdrop for understanding Israel's story

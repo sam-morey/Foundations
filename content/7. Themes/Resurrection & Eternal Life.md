@@ -42,17 +42,17 @@ The resurrection is not just one doctrine among many — it is the pivot of the 
 Resurrection is **bodily** (not just spiritual), **future** (not just present), **cosmic** (not just individual), and **grounded in Christ's resurrection** as the firstfruits ([[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15\|1 Cor 15:20]]).
 
 ## Related Themes
-- [[Creation & New Creation]] — resurrection is the renewal of embodied life
-- [[Messiah & Christ]] — Jesus' resurrection is the foundation
-- [[Redemption & Salvation]] — resurrection is salvation's final goal
-- [[The Holy Spirit]] — the Spirit is the agent of resurrection
-- [[Kingdom of God]] — the Kingdom is fully realized in the new creation
-- [[Judgment]] — resurrection precedes the final judgment
+- [[content/7. Themes/Creation & New Creation]] — resurrection is the renewal of embodied life
+- [[content/7. Themes/Messiah & Christ]] — Jesus' resurrection is the foundation
+- [[content/7. Themes/Redemption & Salvation]] — resurrection is salvation's final goal
+- [[content/7. Themes/The Holy Spirit]] — the Spirit is the agent of resurrection
+- [[content/7. Themes/Kingdom of God]] — the Kingdom is fully realized in the new creation
+- [[content/7. Themes/Judgment]] — resurrection precedes the final judgment
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — resurrection as physical transformation, not mere spiritual survival; Lewis is clear where others are vague
-- [[5. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — heaven as more real, not less; hell as chosen self-diminishment
-- [[5. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the Celestial City as the destination that makes the whole journey make sense
-- [[5. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — the definitive contemporary case for bodily resurrection and new creation hope
-- [[5. Supplemental Content/C.S. Lewis/Miracles|Miracles]] (Lewis) — the resurrection as the Grand Miracle; the philosophical case for its possibility
-- [[5. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most sustained literary vision of the afterlife in Western literature
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — resurrection as physical transformation, not mere spiritual survival; Lewis is clear where others are vague
+- [[7. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — heaven as more real, not less; hell as chosen self-diminishment
+- [[7. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the Celestial City as the destination that makes the whole journey make sense
+- [[7. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — the definitive contemporary case for bodily resurrection and new creation hope
+- [[7. Supplemental Content/C.S. Lewis/Miracles|Miracles]] (Lewis) — the resurrection as the Grand Miracle; the philosophical case for its possibility
+- [[7. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most sustained literary vision of the afterlife in Western literature

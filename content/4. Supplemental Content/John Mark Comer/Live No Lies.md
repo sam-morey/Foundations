@@ -201,8 +201,8 @@
 - [[Asceticism]]
 
 ## Related Books
-- [[The Ruthless Elimination of Hurry]]
-- [[Practicing the Way]]
-- [[Renovation of the Heart]]
-- [[The Screwtape Letters]]
-- [[Celebration of Discipline]]
+- [[content/4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry]]
+- [[content/4. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[7. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[7. Supplemental Content/C.S. Lewis/The Screwtape Letters]]
+- [[7. Supplemental Content/Celebration of Discipline]]

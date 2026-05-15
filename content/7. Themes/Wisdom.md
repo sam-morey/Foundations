@@ -40,14 +40,14 @@ The fear of the Lord (*yir'at YHWH*) is not terror but reverent awe — recogniz
 Key texts: [[2. The Bible (ESV)/20. Proverbs/Proverbs 1\|Proverbs 1:7]], [[2. The Bible (ESV)/18. Job/Job 28\|Job 28]], [[2. The Bible (ESV)/21. Ecclesiastes/Ecclesiastes 12\|Ecclesiastes 12]], [[Psalms 111\|Psalm 111]]
 
 ## Related Themes
-- [[The Word of God]] — wisdom is shaped by Scripture
-- [[Prayer & Worship]] — prayer is how we seek wisdom
-- [[Suffering & Perseverance]] — wisdom is forged in suffering
-- [[Justice & Righteousness]] — wisdom produces just living
-- [[Love]] — "all wisdom" is expressed in love
+- [[content/7. Themes/The Word of God]] — wisdom is shaped by Scripture
+- [[content/7. Themes/Prayer & Worship]] — prayer is how we seek wisdom
+- [[content/7. Themes/Suffering & Perseverance]] — wisdom is forged in suffering
+- [[content/7. Themes/Justice & Righteousness]] — wisdom produces just living
+- [[content/7. Themes/Love]] — "all wisdom" is expressed in love
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — wisdom about God is the foundation of all other wisdom
-- [[5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — the fear of the LORD as the beginning of wisdom, applied to the divine attributes
-- [[5. Supplemental Content/You Are What You Love|You Are What You Love]] (Smith) — wisdom as a matter of rightly ordered loves and formative practices
-- [[5. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — the wisdom tradition applied to vocation and everyday work
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — wisdom about God is the foundation of all other wisdom
+- [[7. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — the fear of the LORD as the beginning of wisdom, applied to the divine attributes
+- [[7. Supplemental Content/You Are What You Love|You Are What You Love]] (Smith) — wisdom as a matter of rightly ordered loves and formative practices
+- [[7. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — the wisdom tradition applied to vocation and everyday work

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/09. 1 Samuel Overview|1 Samuel]]
+**Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]]
 
 ## Who They Are
 Hannah is the mother of Samuel, the last judge and first great prophet of Israel. A barren woman in a culture that measured worth by childbearing, she brings her anguish to God in raw, honest prayer at the tabernacle in Shiloh. God answers her prayer, she dedicates the child back to God, and her song of praise becomes one of the great theological poems of the Old Testament — the direct model for Mary's Magnificat.
@@ -33,4 +33,4 @@ When Samuel is born and then given back, Hannah demonstrates extraordinary faith
 - [[2. The Bible (ESV)/59. James/James 5|James 5:16]] — Hannah is a premier example of the fervent, earnest prayer of a righteous person that "avails much"
 
 ## Related Themes
-[[Faith & Trust]] · [[Suffering & Perseverance]] · [[Grace & Mercy]] · [[Prophecy & Fulfillment]] · [[Messiah & Christ]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Messiah & Christ]]

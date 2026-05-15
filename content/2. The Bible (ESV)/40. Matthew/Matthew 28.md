@@ -26,7 +26,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Kingdom of God|Kingdom of God]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[The Holy Spirit|The Holy Spirit]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/The Holy Spirit|The Holy Spirit]]
 **See Also:**
 - [[2. The Bible (ESV)/27. Daniel/Daniel 7|Daniel 7:13–14]] — "all authority… was given to him" in v.18 echoes the Son of Man receiving dominion over all nations
 - [[2. The Bible (ESV)/01. Genesis/Genesis 12|Genesis 12:3]] — "all nations" commissioned in v.19 fulfills the Abrahamic promise to bless all families of the earth
@@ -34,7 +34,7 @@
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] — Pentecost empowers the disciples to begin what v.19–20 commands
 - [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5]] — "teaching them to observe all that I have commanded you" includes the Sermon on the Mount
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:20]] — "Christ has been raised from the dead, the firstfruits of those who have fallen asleep"
-- [[40. Matthew Overview|Matthew Overview]]
+- [[3. Overviews/40. Matthew Overview|Matthew Overview]]
 
 ---
 

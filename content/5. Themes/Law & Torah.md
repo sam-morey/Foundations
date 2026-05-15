@@ -36,12 +36,12 @@
 4. **Points to Christ** — every sacrifice and ritual anticipates Jesus
 
 ## Related Themes
-- [[Covenant]] — the Law is embedded within covenant relationship
-- [[Sacrifice & Atonement]] — the cultic laws
-- [[Grace & Mercy]] — salvation was never by law-keeping
-- [[Messiah & Christ]] — the fulfillment of the Law
-- [[Redemption & Salvation]] — what the Law cannot accomplish
-- [[The Word of God]] — Torah as divine instruction
+- [[content/5. Themes/Covenant]] — the Law is embedded within covenant relationship
+- [[content/5. Themes/Sacrifice & Atonement]] — the cultic laws
+- [[content/5. Themes/Grace & Mercy]] — salvation was never by law-keeping
+- [[content/5. Themes/Messiah & Christ]] — the fulfillment of the Law
+- [[content/5. Themes/Redemption & Salvation]] — what the Law cannot accomplish
+- [[content/5. Themes/The Word of God]] — Torah as divine instruction
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the starting point of Lewis's case for Christianity; law as evidence for the Lawgiver

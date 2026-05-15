@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Prophets
-**Appears In:** [[3. Book Overviews/24. Jeremiah Overview|Jeremiah]]
+**Appears In:** [[3. Overviews/24. Jeremiah Overview|Jeremiah]]
 
 ## Who They Are
 Jeremiah is the weeping prophet, called before his birth to speak God's word to Judah in the final decades before Babylon destroys Jerusalem. His ministry spans forty years of rejection, mockery, imprisonment, and isolation. He is not allowed to marry, not allowed to mourn or feast — his very life is a sign of coming desolation. Yet he contains the most personal prophetic lament in Scripture, and in the darkest hour of exile he announces the new covenant that will define the entire New Testament.
@@ -35,4 +35,4 @@ He purchases a field during the siege of Jerusalem — the city is about to be d
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2:38]] — Peter's call to receive the Spirit is the fulfillment of Jeremiah's promise of the law written on the heart
 
 ## Related Themes
-[[Covenant]] · [[Prophecy & Fulfillment]] · [[Suffering & Perseverance]] · [[Judgment]] · [[Grace & Mercy]] · [[Redemption & Salvation]]
+[[6. Themes/Covenant]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Judgment]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]]

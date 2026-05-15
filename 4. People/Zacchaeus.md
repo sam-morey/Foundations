@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/42. Luke Overview|Luke]]
+**Appears In:** [[3. Overviews/42. Luke Overview|Luke]]
 
 ## Who He Is
 Zacchaeus is a chief tax collector in Jericho — a man who had grown wealthy by collaborating with Rome and overcharging his own people — who climbed a sycamore tree to see Jesus pass by. Jesus spotted him, called him down, and invited himself to Zacchaeus's home. The encounter produced immediate, radical repentance: Zacchaeus pledged to give half his goods to the poor and repay fourfold anyone he had defrauded. Jesus declared, "Today salvation has come to this house." His story is the clearest single-scene portrait of Luke's defining theme: Jesus came to seek and save the lost.
@@ -23,4 +23,4 @@ Zacchaeus is a man of the margins — not economically (he is rich) but socially
 And Jesus meets him there — not with condemnation but with a personal invitation: "I must stay at your house today." The crowd's grumbling ("he has gone in to be the guest of a man who is a sinner") is precisely the religious gatekeeping that Luke's Gospel continually challenges. Jesus goes to those others avoid, and what happens in that home is a living demonstration of the Kingdom: a lost man is found, the dead are made alive, and the economics of grace overflow into the economics of restitution.
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Grace & Mercy]] · [[Kingdom of God]] · [[Faith & Trust]] · [[Love]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Kingdom of God]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Love]]

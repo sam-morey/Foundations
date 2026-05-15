@@ -36,12 +36,12 @@ The OT system was typological — the animals could not truly remove sin (Hebrew
 - The **High Priest and the Sacrifice** simultaneously ([[2. The Bible (ESV)/58. Hebrews/Hebrews 7\|Hebrews 7]])
 
 ## Related Themes
-- [[Covenant]] — sacrifice ratifies and renews covenants
-- [[Sin & The Fall]] — atonement addresses sin's guilt
-- [[Messiah & Christ]] — Christ is the fulfillment of all sacrifice
-- [[Redemption & Salvation]] — atonement enables redemption
-- [[Law & Torah]] — the sacrificial laws of Leviticus
-- [[Grace & Mercy]] — God provides the sacrifice in mercy
+- [[content/5. Themes/Covenant]] — sacrifice ratifies and renews covenants
+- [[content/5. Themes/Sin & The Fall]] — atonement addresses sin's guilt
+- [[content/5. Themes/Messiah & Christ]] — Christ is the fulfillment of all sacrifice
+- [[content/5. Themes/Redemption & Salvation]] — atonement enables redemption
+- [[content/5. Themes/Law & Torah]] — the sacrificial laws of Leviticus
+- [[content/5. Themes/Grace & Mercy]] — God provides the sacrifice in mercy
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's accessible treatment of atonement theories and why the cross works

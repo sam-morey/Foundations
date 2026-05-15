@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Return
-**Appears In:** [[3. Book Overviews/17. Esther Overview|Esther]]
+**Appears In:** [[3. Overviews/17. Esther Overview|Esther]]
 
 ## Who They Are
 Esther is a Jewish woman living in Persia who is taken into the court of King Ahasuerus and becomes queen. When Haman, a court official, plots to exterminate all the Jews in the empire, Esther's cousin Mordecai urges her to use her position to intervene — and she does, at risk of her own life. God is never named in the book, yet his hidden providence is visible in every turn of the story. Esther's courage becomes the instrument of her people's salvation.
@@ -34,4 +34,4 @@ She does not charge in recklessly. She fasts three days, calls the community to 
 - [[2. The Bible (ESV)/42. Luke/Luke 1|Luke 1:38]] — Esther's surrender to her role despite the cost parallels Mary's "let it be to me according to your word"
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Grace & Mercy]] · [[Suffering & Perseverance]] · [[Redemption & Salvation]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Redemption & Salvation]]

@@ -63,14 +63,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Messiah & Christ|Messiah & Christ]] · [[Faith & Trust|Faith & Trust]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 37|Ezekiel 37]] — God commands Ezekiel to prophesy life into dry bones; Jesus commands Lazarus to "come out" — same life-giving word
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:20]] — Lazarus' resurrection anticipates Christ as "the firstfruits of those who have fallen asleep"
 - [[2. The Bible (ESV)/43. John/John 10|John 10:17–18]] — Jesus lays down his life willingly; Caiaphas's prophecy (v.49–52) unwittingly describes exactly this
 - [[2. The Bible (ESV)/43. John/John 17|John 17:2]] — "to give eternal life to all whom you have given him" — the life Jesus claims to be (v.25) is what he prays to grant
 - [[2. The Bible (ESV)/19. Psalms/Psalms 23|Psalm 23:4]] — "even though I walk through the valley of the shadow of death" — the confidence Martha and Mary lacked but the chapter leads toward
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

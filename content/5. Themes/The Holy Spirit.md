@@ -37,13 +37,13 @@ The Holy Spirit is the third person of the Trinity — fully God, personally act
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 5\|Ephesians 5]] — "Be filled with the Spirit"
 
 ## Related Themes
-- [[Creation & New Creation]] — the Spirit as agent of creation and new creation
-- [[Redemption & Salvation]] — the Spirit applies redemption
-- [[Covenant]] — the Spirit fulfills new covenant promises
-- [[Prayer & Worship]] — the Spirit empowers and intercedes
-- [[Resurrection & Eternal Life]] — the Spirit as guarantee and agent
-- [[Kingdom of God]] — the Spirit is the presence of the Kingdom
-- [[Prophecy & Fulfillment]] — Joel 2 and Pentecost
+- [[content/5. Themes/Creation & New Creation]] — the Spirit as agent of creation and new creation
+- [[content/5. Themes/Redemption & Salvation]] — the Spirit applies redemption
+- [[content/5. Themes/Covenant]] — the Spirit fulfills new covenant promises
+- [[content/5. Themes/Prayer & Worship]] — the Spirit empowers and intercedes
+- [[content/5. Themes/Resurrection & Eternal Life]] — the Spirit as guarantee and agent
+- [[content/5. Themes/Kingdom of God]] — the Spirit is the presence of the Kingdom
+- [[content/5. Themes/Prophecy & Fulfillment]] — Joel 2 and Pentecost
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the disciplines as means by which the Spirit shapes us

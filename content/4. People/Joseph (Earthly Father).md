@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/42. Luke Overview|Luke]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/42. Luke Overview|Luke]]
 
 ## Who He Is
 Joseph of Nazareth is the carpenter of David's line who became the earthly father and protector of Jesus — a man the Gospels describe as "righteous" who never speaks a single recorded word. He appears in moments of crisis and obeys without complaint: when told Mary's child is from the Holy Spirit, when warned to flee to Egypt, when called back to Israel. His silence in the narrative is not absence but a picture of quiet, steadfast faithfulness.
@@ -27,4 +27,4 @@ Joseph is the silent guardian of the incarnation. He is never quoted, yet every 
 He disappears from the Gospel narrative before Jesus's public ministry begins, likely having died sometime in Jesus's early adulthood. But his legacy is woven into Jesus's own formation: a carpenter's son raised in a home of quiet faith, Davidic heritage, and obedient trust in God.
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Redemption & Salvation]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]]

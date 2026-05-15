@@ -312,7 +312,7 @@
 
 ## Related Books
 - [[The Attributes of God]]
-- [[The Pursuit of God]]
-- [[Knowing God]]
+- [[content/4. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[7. Supplemental Content/Knowing God]]
 - [[None Greater]]
 

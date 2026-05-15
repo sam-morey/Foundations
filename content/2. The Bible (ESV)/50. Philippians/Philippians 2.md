@@ -36,14 +36,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 1|John 1:14]] — "the Word became flesh" — John's parallel to the kenosis of v.6–8 ("emptied himself… born in the likeness of men")
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 45|Isaiah 45:23]] — "to me every knee shall bow, every tongue shall swear" — v.10–11 quotes this and applies it to Jesus as Lord
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:12]] — the Servant "poured out his soul to death… obedient unto death" — the background to v.7–8
 - [[2. The Bible (ESV)/43. John/John 13|John 13:1–17]] — Jesus washes feet as the enacted parable of v.7: taking "the form of a servant"
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 1|Hebrews 1:3–4]] — after making purification, he "sat down at the right hand" — the exaltation of v.9 in parallel
-- [[46-57. Paul's Letters Overview|Paul's Letters Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters Overview]]
 
 ---
 

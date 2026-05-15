@@ -42,11 +42,11 @@ The Bible declares that "God is love" (1 John 4:8). Love is not merely an attrib
 "On these two commandments depend all the Law and the Prophets."
 
 ## Related Themes
-- [[Grace & Mercy]] — love is expressed in grace and mercy
-- [[Covenant]] — covenant is a love relationship
-- [[Justice & Righteousness]] — love and justice are inseparable
-- [[Sacrifice & Atonement]] — the cross is love's ultimate demonstration
-- [[Prayer & Worship]] — love is the motive for worship
+- [[content/5. Themes/Grace & Mercy]] — love is expressed in grace and mercy
+- [[content/5. Themes/Covenant]] — covenant is a love relationship
+- [[content/5. Themes/Justice & Righteousness]] — love and justice are inseparable
+- [[content/5. Themes/Sacrifice & Atonement]] — the cross is love's ultimate demonstration
+- [[content/5. Themes/Prayer & Worship]] — love is the motive for worship
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's treatment of charity as the crown of Christian virtue; love as willed action, not just feeling

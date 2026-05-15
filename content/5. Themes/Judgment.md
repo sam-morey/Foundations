@@ -46,12 +46,12 @@ God is the righteous judge of all the earth. Judgment is not contradictory to hi
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 20\|Revelation 20]] — The great white throne judgment; the books opened; death and Hades thrown into the lake of fire
 
 ## Related Themes
-- [[Justice & Righteousness]] — judgment upholds righteousness
-- [[Grace & Mercy]] — mercy triumphs over judgment for those who believe
-- [[Sin & The Fall]] — sin is the cause of judgment
-- [[Sacrifice & Atonement]] — the cross absorbs judgment
-- [[Resurrection & Eternal Life]] — resurrection precedes judgment
-- [[Kingdom of God]] — the King returns to judge
+- [[content/5. Themes/Justice & Righteousness]] — judgment upholds righteousness
+- [[content/5. Themes/Grace & Mercy]] — mercy triumphs over judgment for those who believe
+- [[content/5. Themes/Sin & The Fall]] — sin is the cause of judgment
+- [[content/5. Themes/Sacrifice & Atonement]] — the cross absorbs judgment
+- [[content/5. Themes/Resurrection & Eternal Life]] — resurrection precedes judgment
+- [[content/5. Themes/Kingdom of God]] — the King returns to judge
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — judgment as the ultimate confirmation of choices already made; heaven and hell as moral trajectories

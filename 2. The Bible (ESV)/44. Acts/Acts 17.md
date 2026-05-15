@@ -40,14 +40,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Israel & The Gentiles|Israel & The Gentiles]] · [[Creation & New Creation|Creation & New Creation]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Judgment|Judgment]]
+**Themes:** [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Judgment|Judgment]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1:1]] — Paul's Areopagus sermon begins with creation (v.24–26), rooting the gospel in the God who "made the world and everything in it"
 - [[2. The Bible (ESV)/45. Romans/Romans 1|Romans 1:18–25]] — Paul's later theological summary of Gentile idolatry; the Athens speech is the pastoral enactment
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] — Peter's Pentecost sermon to Jews; ch. 17 is its Gentile counterpart — same gospel, radically different cultural starting point
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:12–20]] — the resurrection (v.31–32) mocked by philosophers here is what Paul defends at length in Corinth
 - [[2. The Bible (ESV)/43. John/John 1|John 1:3–4]] — "In him we live and move and have our being" (v.28) parallels "all things were made through him… in him was life"
-- [[44. Acts Overview|Acts Overview]]
+- [[3. Overviews/44. Acts Overview|Acts Overview]]
 
 ---
 

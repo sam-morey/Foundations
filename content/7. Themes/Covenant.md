@@ -30,15 +30,15 @@ A covenant is a solemn, binding agreement — often including promises, obligati
 - Hebrews contrasts old and new covenants at length: [[2. The Bible (ESV)/58. Hebrews/Hebrews 8\|Hebrews 8–10]]
 
 ## Related Themes
-- [[Sacrifice & Atonement]] — covenant ratified by blood
-- [[Law & Torah]] — the Mosaic covenant's stipulations
-- [[Messiah & Christ]] — the Davidic covenant's ultimate heir
-- [[Redemption & Salvation]] — the New Covenant's promise
-- [[Prophecy & Fulfillment]] — prophetic promises of the New Covenant
+- [[content/7. Themes/Sacrifice & Atonement]] — covenant ratified by blood
+- [[content/7. Themes/Law & Torah]] — the Mosaic covenant's stipulations
+- [[content/7. Themes/Messiah & Christ]] — the Davidic covenant's ultimate heir
+- [[content/7. Themes/Redemption & Salvation]] — the New Covenant's promise
+- [[content/7. Themes/Prophecy & Fulfillment]] — prophetic promises of the New Covenant
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — God as covenant-maker and covenant-keeper; his faithfulness as the spine of biblical history
-- [[5. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the eternal love between Father, Son, and Spirit as the ground of all covenant relationship
-- [[5. Supplemental Content/Anchorman|Anchorman]] (Farrar) — covenantal faithfulness across generations; fatherhood as a covenant keeping office
-- [[5. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — each biblical covenant as a scene in the one unfolding story of God and his people
-- [[5. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — a comprehensive overview of how every covenant phase points toward Christ
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — God as covenant-maker and covenant-keeper; his faithfulness as the spine of biblical history
+- [[7. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the eternal love between Father, Son, and Spirit as the ground of all covenant relationship
+- [[7. Supplemental Content/Anchorman|Anchorman]] (Farrar) — covenantal faithfulness across generations; fatherhood as a covenant keeping office
+- [[7. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — each biblical covenant as a scene in the one unfolding story of God and his people
+- [[7. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — a comprehensive overview of how every covenant phase points toward Christ

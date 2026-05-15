@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Return
-**Appears In:** [[3. Book Overviews/17. Esther Overview|Esther]]
+**Appears In:** [[3. Overviews/17. Esther Overview|Esther]]
 
 ## Who They Are
 Mordecai is a Jewish exile living in Susa who raises his cousin Esther after her parents die and serves at the king's gate. When Haman is elevated to power and demands that all bow to him, Mordecai refuses — setting in motion a conflict that will threaten the lives of every Jew in the empire. His refusal to bow, his discovery of the assassination plot that he reports loyally, and his challenge to Esther in her moment of hesitation make him the moral backbone of the story.
@@ -34,4 +34,4 @@ His relationship with Esther is one of the most tender in the Old Testament. He 
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:28]] — The forgotten record of Mordecai's loyal service becomes the turning point of the story — God works all things together for good
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Justice & Righteousness]] · [[Suffering & Perseverance]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]]

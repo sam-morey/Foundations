@@ -37,14 +37,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[The Holy Spirit|The Holy Spirit]] · [[Faith & Trust|Faith & Trust]] · [[Prayer & Worship|Prayer & Worship]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Prayer & Worship|Prayer & Worship]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 17|John 17]] — Jesus prays for the union between himself, the Father, and believers described in v.20–23
 - [[2. The Bible (ESV)/43. John/John 10|John 10:30]] — "I and the Father are one" — the claim v.9 makes explicit ("whoever has seen me has seen the Father")
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2:33]] — Jesus sends the promised Spirit (v.16–17, 26) from the Father; Pentecost is the fulfillment
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:15–16]] — the Spirit as helper/advocate (v.16) is the Spirit by whom we cry "Abba, Father"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21:3]] — "God's dwelling is with man" fulfills v.23: "we will come to him and make our home with him"
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

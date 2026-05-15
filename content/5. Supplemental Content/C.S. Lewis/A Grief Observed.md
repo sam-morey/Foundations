@@ -94,9 +94,9 @@
 - [[Love and Loss]]
 
 ## Related Books
-- [[The Problem of Pain]]
-- [[Till We Have Faces]]
-- [[Surprised by Joy]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/5. Supplemental Content/C.S. Lewis/Till We Have Faces]]
+- [[content/5. Supplemental Content/C.S. Lewis/Surprised by Joy]]
 - [[The Psalms as Lament]]
 - [[When God Weeps]]
 - [[Walking with God through Pain and Suffering]]

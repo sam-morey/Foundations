@@ -242,9 +242,9 @@
 - [[The Great Dance]]
 
 ## Related Books
-- [[Out of the Silent Planet]]
-- [[That Hideous Strength]]
-- [[Paradise Lost]]
-- [[The Great Divorce]]
-- [[The Problem of Pain]]
-- [[Till We Have Faces]]
+- [[content/5. Supplemental Content/C.S. Lewis/Out of the Silent Planet]]
+- [[content/5. Supplemental Content/C.S. Lewis/That Hideous Strength]]
+- [[7. Supplemental Content/Paradise Lost]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[content/5. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[content/5. Supplemental Content/C.S. Lewis/Till We Have Faces]]

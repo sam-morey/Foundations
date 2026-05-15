@@ -35,14 +35,14 @@ Scripture is the written word of God — breathed out by God through human autho
 - [[2. The Bible (ESV)/61. II Peter/II Peter 1\|2 Peter 1]] — Prophecy "carried along by the Holy Spirit"; the prophetic word made more sure
 
 ## Related Themes
-- [[Messiah & Christ]] — Christ is the incarnate Word
-- [[The Holy Spirit]] — the Spirit inspired and illumines Scripture
-- [[Faith & Trust]] — faith comes by hearing the Word
-- [[Prophecy & Fulfillment]] — Scripture is the record of prophetic word
-- [[Wisdom]] — Scripture is the foundation of wisdom
-- [[Prayer & Worship]] — Scripture shapes and informs prayer
+- [[content/7. Themes/Messiah & Christ]] — Christ is the incarnate Word
+- [[content/7. Themes/The Holy Spirit]] — the Spirit inspired and illumines Scripture
+- [[content/7. Themes/Faith & Trust]] — faith comes by hearing the Word
+- [[content/7. Themes/Prophecy & Fulfillment]] — Scripture is the record of prophetic word
+- [[content/7. Themes/Wisdom]] — Scripture is the foundation of wisdom
+- [[content/7. Themes/Prayer & Worship]] — Scripture shapes and informs prayer
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Knowing God|Knowing God]] (Packer) — Scripture as God's self-disclosure; knowing God requires receiving his Word
-- [[5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — theology grounded in Scripture as the path to true knowledge of God
-- [[5. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — the Word as a claim that demands obedience, not mere intellectual assent
+- [[7. Supplemental Content/Knowing God|Knowing God]] (Packer) — Scripture as God's self-disclosure; knowing God requires receiving his Word
+- [[7. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — theology grounded in Scripture as the path to true knowledge of God
+- [[7. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — the Word as a claim that demands obedience, not mere intellectual assent

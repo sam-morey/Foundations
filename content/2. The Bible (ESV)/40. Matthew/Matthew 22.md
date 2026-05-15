@@ -52,14 +52,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Love|Love]] · [[Messiah & Christ|Messiah & Christ]] · [[Law & Torah|Law & Torah]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]]
+**Themes:** [[6. Themes/Love|Love]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
 **See Also:**
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6:5]] — "love the Lord your God with all your heart" — the *Shema* that v.37 cites as the first commandment
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 19|Leviticus 19:18]] — "love your neighbor as yourself" — the second commandment Jesus cites in v.39
 - [[Psalms 110|Psalm 110:1]] — "The Lord said to my Lord, Sit at my right hand" — Jesus uses this Psalm (v.44) to show the Messiah is greater than a mere son of David
 - [[2. The Bible (ESV)/45. Romans/Romans 13|Romans 13:8–10]] — "love is the fulfilling of the law" — Paul draws out the implication of v.40 ("on these two commandments depend all the Law")
 - [[2. The Bible (ESV)/02. Exodus/Exodus 3|Exodus 3:6]] — Jesus cites "I am the God of Abraham" to prove resurrection (v.32): the God of the living, not the dead
-- [[40. Matthew Overview|Matthew Overview]]
+- [[3. Overviews/40. Matthew Overview|Matthew Overview]]
 
 ---
 

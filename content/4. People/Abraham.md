@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Abraham (originally Abram) is the father of the Jewish people and the foundational figure of biblical faith. Called out of Ur of the Chaldeans, he follows God's voice to an unknown land, receiving a covenant promise that through his offspring all the nations of the earth would be blessed. He is the paradigmatic man of faith — justified not by works but by belief in God's promise — and his willingness to offer Isaac prefigures the Father's sacrifice of his own Son.
@@ -36,4 +36,4 @@ What distinguishes Abraham is that he keeps believing despite impossibility. Rom
 - [[2. The Bible (ESV)/43. John/John 8|John 8:56]] — Jesus declares that Abraham rejoiced to see his day and was glad
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Sacrifice & Atonement]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Prophecy & Fulfillment]]

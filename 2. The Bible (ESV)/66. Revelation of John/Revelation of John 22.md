@@ -27,7 +27,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[The Holy Spirit|The Holy Spirit]] · [[Messiah & Christ|Messiah & Christ]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Messiah & Christ|Messiah & Christ]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 2|Genesis 2]] — the original Garden and Tree of Life; now fully restored
 - [[2. The Bible (ESV)/01. Genesis/Genesis 3|Genesis 3]] — the curse now reversed: "no longer will there be any curse" (v.3)
@@ -35,7 +35,7 @@
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 55|Isaiah 55:1]] — "Come, everyone who thirsts… take the water of life without price" (echoed in v.17)
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21]] — the new Jerusalem; everything leading to this final vision
 - [[2. The Bible (ESV)/39. Malachi/Malachi 4|Malachi 4:2]] — "The sun of righteousness shall rise" — the bright morning star of v.16
-- [[66. Revelation Overview|Revelation Overview]]
+- [[3. Overviews/66. Revelation Overview|Revelation Overview]]
 
 ---
 

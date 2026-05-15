@@ -46,7 +46,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Faith & Trust|Faith & Trust]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Covenant|Covenant]]
+**Themes:** [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Covenant|Covenant]]
 **See Also:**
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12:1–2]] — "Therefore, since we are surrounded by so great a cloud of witnesses… let us run with endurance"
 - The individuals cited in this chapter:
@@ -56,7 +56,7 @@
   - Moses → [[2. The Bible (ESV)/02. Exodus/Exodus 3|Exodus 3]]
   - Rahab → [[2. The Bible (ESV)/06. Joshua/Joshua 2|Joshua 2]]
   - Gideon, Samson, David → [[2. The Bible (ESV)/07. Judges/Judges 6|Judges 6]], [[2. The Bible (ESV)/07. Judges/Judges 13|Judges 13]], [[2. The Bible (ESV)/09. I Samuel/I Samuel 16|1 Samuel 16]]
-- [[58. Hebrews Overview|Hebrews Overview]]
+- [[3. Overviews/58. Hebrews Overview|Hebrews Overview]]
 
 ---
 

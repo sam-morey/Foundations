@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Rebekah is the wife of Isaac and the mother of Esau and Jacob, sought out by Abraham's servant through an act of faithful providence and chosen by God before her twins were born. She is one of the most active and purposeful women in Genesis, playing a decisive role in ensuring the covenant blessing passes to Jacob. Her story is marked by faith, initiative, and a troubling willingness to deceive in order to accomplish what she believed was God's will.
@@ -34,4 +34,4 @@ Her later manipulation of Isaac is harder to admire. She overheard Isaac's plan 
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:20]] — Isaac's blessing of Jacob (which Rebekah secured) is listed as an act of faith
 
 ## Related Themes
-[[Covenant]] · [[Faith & Trust]] · [[Grace & Mercy]] · [[Prophecy & Fulfillment]] · [[Justice & Righteousness]]
+[[6. Themes/Covenant]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Justice & Righteousness]]

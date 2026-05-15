@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Divided Kingdom
-**Appears In:** [[3. Book Overviews/12. 2 Kings Overview|2 Kings]], [[3. Book Overviews/23. Isaiah Overview|Isaiah]]
+**Appears In:** [[3. Overviews/12. 2 Kings Overview|2 Kings]], [[3. Overviews/23. Isaiah Overview|Isaiah]]
 
 ## Who They Are
 Hezekiah is the fourteenth king of Judah and the best of the post-Solomonic kings. When Assyria surrounds Jerusalem under Sennacherib, he spreads the threatening letter before the LORD in the Temple and prays — and God answers by destroying the Assyrian army overnight. He is granted fifteen more years of life in response to his prayer. His reign is marked by temple reform, the removal of high places, and the smashing of the bronze serpent that Israel had begun to worship. Isaiah is his prophet and counselor.
@@ -34,4 +34,4 @@ His vulnerability appears in his terminal illness and his tears. He does not fac
 - [[2. The Bible (ESV)/59. James/James 5|James 5:16]] — Hezekiah's healing in response to prayer is among the clearest examples of fervent prayer making a difference
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Prophecy & Fulfillment]] · [[Judgment]] · [[Grace & Mercy]] · [[Shepherd & King]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Judgment]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Shepherd & King]]

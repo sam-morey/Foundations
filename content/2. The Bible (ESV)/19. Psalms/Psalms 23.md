@@ -12,13 +12,13 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Shepherd & King|Shepherd & King]] · [[Faith & Trust|Faith & Trust]] · [[Grace & Mercy|Grace & Mercy]]
+**Themes:** [[6. Themes/Shepherd & King|Shepherd & King]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Grace & Mercy|Grace & Mercy]]
 **See Also:**
 - [[2. The Bible (ESV)/19. Psalms/Psalms 22|Psalm 22]] — the dark night before this morning; suffering and trust
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 34|Ezekiel 34]] — God condemns false shepherds and promises to shepherd his people himself
 - [[2. The Bible (ESV)/43. John/John 10|John 10:11]] — "I am the good shepherd. The good shepherd lays down his life for the sheep"
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 7|Revelation 7:17]] — "The Lamb in the midst of the throne will be their shepherd"
-- [[19. Psalms Overview|Psalms Overview]]
+- [[3. Overviews/19. Psalms Overview|Psalms Overview]]
 
 ---
 

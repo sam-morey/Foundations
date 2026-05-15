@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/07. Judges Overview|Judges]]
+**Appears In:** [[3. Overviews/07. Judges Overview|Judges]]
 
 ## Who They Are
 Samson is a Nazirite judge of Israel, set apart from birth to begin Israel's deliverance from Philistine oppression. His supernatural physical strength comes from God and is connected to the terms of his Nazirite vow — including the prohibition against cutting his hair. He is the most individualistic of all the judges, and his story is a long, tragic account of personal gifting squandered through self-indulgence and a fatal weakness for foreign women. His greatest act of deliverance comes in his death — pulling down the temple of Dagon, killing more Philistines in one moment than in all his life — making him a flawed but genuine pointer to the One who defeats the enemy through his own death.
@@ -37,4 +37,4 @@ And yet his last prayer — "Lord God, remember me and please strengthen me only
 - [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5:8]] — Christ died for the ungodly; Samson's saving death for a people who did not deserve it is a shadow of this greater reality
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Suffering & Perseverance]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[Messiah & Christ]] · [[Justice & Righteousness]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Justice & Righteousness]]

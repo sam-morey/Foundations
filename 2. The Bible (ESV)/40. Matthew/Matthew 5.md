@@ -54,7 +54,7 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Kingdom of God|Kingdom of God]] · [[Law & Torah|Law & Torah]] · [[Justice & Righteousness|Justice & Righteousness]] · [[Love|Love]]
+**Themes:** [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Justice & Righteousness|Justice & Righteousness]] · [[6. Themes/Love|Love]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6]] — the Lord's Prayer; fasting and giving; "Seek first the Kingdom"
 - [[2. The Bible (ESV)/40. Matthew/Matthew 7|Matthew 7]] — the conclusion of the Sermon on the Mount: do not judge; ask seek knock; build on the rock
@@ -62,7 +62,7 @@
 - [[2. The Bible (ESV)/03. Leviticus/Leviticus 19|Leviticus 19:18]] — "Love your neighbor as yourself" (the OT source of v.43)
 - [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12]] — Paul's NT parallel to the Sermon's ethics
 - [[2. The Bible (ESV)/59. James/James 2|James 2]] — James develops the same themes on partiality and love
-- [[40. Matthew Overview|Matthew Overview]]
+- [[3. Overviews/40. Matthew Overview|Matthew Overview]]
 
 ---
 

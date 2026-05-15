@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Divided Kingdom
-**Appears In:** [[3. Book Overviews/11. 1 Kings Overview|1 Kings]], [[3. Book Overviews/12. 2 Kings Overview|2 Kings]]
+**Appears In:** [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/12. 2 Kings Overview|2 Kings]]
 
 ## Who They Are
 Elisha is the successor of Elijah and one of the most prolific miracle-workers in the Old Testament. He asks for a double portion of Elijah's spirit, and the biblical narrative delivers exactly that — his miracles outnumber Elijah's. He raises the dead, heals leprosy, feeds a crowd with little, makes an iron ax head float, and the breath of his dead body raises another corpse. His ministry prefigures the works of Jesus with striking specificity.
@@ -34,4 +34,4 @@ His willingness to help the foreign Naaman — and his rebuke of Gehazi's greed 
 - [[2. The Bible (ESV)/40. Matthew/Matthew 8|Matthew 8:1–4]] — Jesus healing lepers fulfills and surpasses the pattern of healing Elisha inaugurated with Naaman
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Faith & Trust]] · [[Grace & Mercy]] · [[Messiah & Christ]] · [[Redemption & Salvation]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Redemption & Salvation]]

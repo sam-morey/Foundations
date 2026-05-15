@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Exodus
-**Appears In:** [[3. Book Overviews/02. Exodus Overview|Exodus]], [[3. Book Overviews/03. Leviticus Overview|Leviticus]], [[3. Book Overviews/04. Numbers Overview|Numbers]], [[3. Book Overviews/05. Deuteronomy Overview|Deuteronomy]]
+**Appears In:** [[3. Overviews/02. Exodus Overview|Exodus]], [[3. Overviews/03. Leviticus Overview|Leviticus]], [[3. Overviews/04. Numbers Overview|Numbers]], [[3. Overviews/05. Deuteronomy Overview|Deuteronomy]]
 
 ## Who They Are
 Moses is the paradigmatic prophet, deliverer, and lawgiver of the Old Testament — the man through whom God redeemed Israel out of Egypt, gave the Torah at Sinai, and mediated the covenant that defined Israel as a nation. No figure in the Hebrew Bible looms larger. He speaks face to face with God, leads an entire nation through the wilderness for forty years, and at his death God himself buries him. Yet Deuteronomy 18 and John 5 both insist that Moses points beyond himself to a greater prophet still to come.
@@ -36,4 +36,4 @@ His exclusion from the Promised Land for striking the rock in anger is one of th
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:24–28]] — Moses's faith-driven choices commended: he esteemed the reproach of Christ greater than Egypt's wealth
 
 ## Related Themes
-[[Covenant]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Faith & Trust]] · [[Sacrifice & Atonement]] · [[Prophecy & Fulfillment]] · [[The Promised Land & Rest]]
+[[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/The Promised Land & Rest]]

@@ -141,9 +141,9 @@
 - [[Christian Community]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[Renovation of the Heart]]
-- [[Practicing the Way]]
-- [[The Pursuit of God]]
-- [[The Knowledge of the Holy]]
-- [[The Divine Conspiracy]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[content/5. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]
+- [[content/5. Supplemental Content/Dallas Willard/The Divine Conspiracy]]

@@ -41,13 +41,13 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Messiah & Christ|Messiah & Christ]] · [[Faith & Trust|Faith & Trust]] · [[Sin & The Fall|Sin & The Fall]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Faith & Trust|Faith & Trust]] · [[6. Themes/Sin & The Fall|Sin & The Fall]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 3|John 3:14–15]] — Jesus explicitly cites the bronze serpent: "as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up" — the cross as the fulfillment of v.8–9
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 10|1 Corinthians 10:9]] — Paul cites Israel's serpent-testing as a warning to the Corinthians; same wilderness failures
 - [[2. The Bible (ESV)/04. Numbers/Numbers 11|Numbers 11]] — the same pattern: Israel complains, judgment falls, Moses intercedes
 - [[2. The Bible (ESV)/02. Exodus/Exodus 17|Exodus 17:1–7]] — the water from the rock; wilderness murmuring leading to miraculous provision
-- [[04. Numbers Overview|Numbers Overview]]
+- [[3. Overviews/04. Numbers Overview|Numbers Overview]]
 
 ---
 

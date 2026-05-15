@@ -43,14 +43,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Justice & Righteousness|Justice & Righteousness]] · [[Love|Love]] · [[Law & Torah|Law & Torah]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Justice & Righteousness|Justice & Righteousness]] · [[6. Themes/Love|Love]] · [[6. Themes/Law & Torah|Law & Torah]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 22|Matthew 22:39]] — Jesus cites v.18 ("love your neighbor as yourself") as the second great commandment
 - [[2. The Bible (ESV)/48. Galatians/Galatians 5|Galatians 5:14]] — "the whole law is fulfilled in one word: 'Love your neighbor as yourself'" — quoting v.18
 - [[2. The Bible (ESV)/45. Romans/Romans 13|Romans 13:9]] — v.18 ("love your neighbor as yourself") as the summary of the second table of the law
 - [[2. The Bible (ESV)/30. Amos/Amos 5|Amos 5:24]] — the prophetic demand for justice is rooted in the Leviticus 19 call: "do no wrong in judgment" (v.35)
 - [[2. The Bible (ESV)/33. Micah/Micah 6|Micah 6:8]] — "do justice, love kindness, walk humbly" — Micah 6 distills the ethics of Leviticus 19
-- [[03. Leviticus Overview|Leviticus Overview]]
+- [[3. Overviews/03. Leviticus Overview|Leviticus Overview]]
 
 ---
 

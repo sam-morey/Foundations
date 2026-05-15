@@ -224,8 +224,8 @@
 - [[Rule of Life]]
 
 ## Related Books
-- [[Celebration of Discipline]]
-- [[The Spirit of the Disciplines]]
-- [[Practicing the Way]]
-- [[Every Good Endeavor]]
-- [[The Divine Conspiracy]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[content/4. Supplemental Content/Dallas Willard/The Spirit of the Disciplines]]
+- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[7. Supplemental Content/Every Good Endeavor]]
+- [[content/4. Supplemental Content/Dallas Willard/The Divine Conspiracy]]

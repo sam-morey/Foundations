@@ -16,14 +16,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Light & Darkness|Light & Darkness]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Sin & The Fall|Sin & The Fall]] · [[Grace & Mercy|Grace & Mercy]]
+**Themes:** [[6. Themes/Light & Darkness|Light & Darkness]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Sin & The Fall|Sin & The Fall]] · [[6. Themes/Grace & Mercy|Grace & Mercy]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 1|John 1:1–5]] — "In the beginning was the Word… the light shines in the darkness" — 1 John 1 opens in the same register; John wrote both, with the same themes
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:6]] — "we all like sheep have gone astray" — the sin that v.8–10 addresses; confession is the path to the forgiveness the Servant secured
 - [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51:1–2]] — "have mercy on me… blot out my transgressions" — the OT model for the confession of v.9; God's faithfulness to forgive
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:1]] — "no condemnation" — the gospel implication of v.9: when we confess, he forgives and cleanses completely
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 4|Hebrews 4:16]] — "come boldly to the throne of grace" — the access that walking in the light (v.7) opens up
-- [[59-65. General Epistles Overview|General Epistles Overview]]
+- [[3. Overviews/59-65. General Epistles Overview|General Epistles Overview]]
 
 ---
 

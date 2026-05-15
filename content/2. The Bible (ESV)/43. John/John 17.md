@@ -32,13 +32,13 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Prayer & Worship|Prayer & Worship]] · [[Love|Love]] · [[The Holy Spirit|The Holy Spirit]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Love|Love]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6:9–13]] — the Lord's Prayer (a simpler model prayer compared to this longer intercession)
 - [[2. The Bible (ESV)/43. John/John 14|John 14]] — Jesus promises the Spirit who will dwell in believers
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:26–27,34]] — the Spirit and Christ intercede for us (continuation of the intercessory ministry here)
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 7|Hebrews 7:25]] — "He always lives to make intercession for them"
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 
 ---
 

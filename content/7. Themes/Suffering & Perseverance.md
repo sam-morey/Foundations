@@ -46,19 +46,19 @@ The Bible normalizes honest lament before God. Approximately one-third of the Ps
 Key lament psalms: [[2. The Bible (ESV)/19. Psalms/Psalms 13\|Ps 13]], [[2. The Bible (ESV)/19. Psalms/Psalms 22\|Ps 22]], [[2. The Bible (ESV)/19. Psalms/Psalms 42\|Ps 42]], [[Psalms 73\|Ps 73]], [[Psalms 88\|Ps 88]]
 
 ## Related Themes
-- [[Faith & Trust]] — perseverance is faith under pressure
-- [[Prayer & Worship]] — lament is prayer; honesty before God
-- [[Grace & Mercy]] — God's mercy sustains through suffering
-- [[Resurrection & Eternal Life]] — the hope that sustains in suffering
-- [[Judgment]] — God will ultimately make all wrongs right
-- [[Messiah & Christ]] — Jesus suffers with and for us
+- [[content/7. Themes/Faith & Trust]] — perseverance is faith under pressure
+- [[content/7. Themes/Prayer & Worship]] — lament is prayer; honesty before God
+- [[content/7. Themes/Grace & Mercy]] — God's mercy sustains through suffering
+- [[content/7. Themes/Resurrection & Eternal Life]] — the hope that sustains in suffering
+- [[content/7. Themes/Judgment]] — God will ultimately make all wrongs right
+- [[content/7. Themes/Messiah & Christ]] — Jesus suffers with and for us
 
 ## Supplemental Reading
-- [[5. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] (Lewis) — the most rigorous Christian engagement with why a good God permits suffering
-- [[5. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the entire journey is a theology of perseverance through trial
-- [[5. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — grace that holds through failure and weakness
-- [[5. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — written by someone who paid the ultimate cost; not theoretical
-- [[5. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — suffering as part of God's shaping of character
-- [[5. Supplemental Content/C.S. Lewis/A Grief Observed|A Grief Observed]] (Lewis) — a raw journal of grief that refuses cheap comfort; doubt and faith coexisting
-- [[5. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — the Psalms of Ascent as a road map for perseverance through difficulty
-- [[5. Supplemental Content/The Brothers Karamazov|The Brothers Karamazov]] (Dostoevsky) — Ivan's rebellion against God and Alyosha's faith tested by suffering; the deepest literary engagement with theodicy
+- [[7. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] (Lewis) — the most rigorous Christian engagement with why a good God permits suffering
+- [[7. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the entire journey is a theology of perseverance through trial
+- [[7. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — grace that holds through failure and weakness
+- [[7. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — written by someone who paid the ultimate cost; not theoretical
+- [[7. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — suffering as part of God's shaping of character
+- [[7. Supplemental Content/C.S. Lewis/A Grief Observed|A Grief Observed]] (Lewis) — a raw journal of grief that refuses cheap comfort; doubt and faith coexisting
+- [[7. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — the Psalms of Ascent as a road map for perseverance through difficulty
+- [[7. Supplemental Content/The Brothers Karamazov|The Brothers Karamazov]] (Dostoevsky) — Ivan's rebellion against God and Alyosha's faith tested by suffering; the deepest literary engagement with theodicy

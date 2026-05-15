@@ -148,17 +148,17 @@
 - [[2. The Bible (ESV)/27. Daniel/Daniel 7|Daniel 7]] — The Ancient of Days; apocalyptic vision of God's throne room behind Paradiso's imagery
 
 ## Related Concepts
-- [[Judgment]]
-- [[Sin & The Fall]]
-- [[Redemption & Salvation]]
-- [[Resurrection & Eternal Life]]
-- [[Light & Darkness]]
+- [[6. Themes/Judgment]]
+- [[6. Themes/Sin & The Fall]]
+- [[6. Themes/Redemption & Salvation]]
+- [[6. Themes/Resurrection & Eternal Life]]
+- [[6. Themes/Light & Darkness]]
 - [[The Beatific Vision]]
 - [[Purgation & Sanctification]]
 
 ## Related Books
-- [[Paradise Lost]]
-- [[Confessions]]
-- [[The Great Divorce]]
-- [[Pilgrim's Progress]]
-- [[The Brothers Karamazov]]
+- [[content/4. Supplemental Content/Paradise Lost]]
+- [[content/4. Supplemental Content/Confessions]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[content/4. Supplemental Content/Pilgrim's Progress]]
+- [[content/4. Supplemental Content/The Brothers Karamazov]]

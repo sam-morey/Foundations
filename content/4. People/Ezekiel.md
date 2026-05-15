@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Exile
-**Appears In:** [[3. Book Overviews/26. Ezekiel Overview|Ezekiel]]
+**Appears In:** [[3. Overviews/26. Ezekiel Overview|Ezekiel]]
 
 ## Who They Are
 Ezekiel is a priest-turned-prophet who ministers among the Jewish exiles in Babylon during the same period as Jeremiah's ministry in Jerusalem. He is given the most visually elaborate visions in all of the Old Testament — the living creatures and the chariot-throne, the valley of dry bones, and the vision of a restored Temple with a river flowing from its threshold. His central message is about the glory of God: it departed from the Temple because of Israel's sin, but it will return.
@@ -35,4 +35,4 @@ His visions are simultaneously terrifying and beautiful. The chariot-throne (the
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 9|Hebrews 9:11–14]] — The new temple Ezekiel envisioned is fulfilled in Christ himself as the new meeting place between God and humanity
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Judgment]] · [[Covenant]] · [[Redemption & Salvation]] · [[Shepherd & King]] · [[Grace & Mercy]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Judgment]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Grace & Mercy]]

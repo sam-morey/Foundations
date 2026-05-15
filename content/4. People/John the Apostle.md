@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels · The Early Church
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]], [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who He Is
 John son of Zebedee — "the beloved disciple" — is the apostle of love, the author of the Fourth Gospel, three letters, and the book of Revelation. One of Jesus's inner circle (along with Peter and James), he reclined next to Jesus at the Last Supper and was entrusted at the cross with the care of Jesus's mother. His theology of light, love, and the eternal Word (Logos) stands among the most profound in the New Testament, and his writings open with some of the most majestic sentences in human literature: "In the beginning was the Word."
@@ -28,4 +28,4 @@ John and his brother James were nicknamed "Boanerges" — Sons of Thunder — by
 By the time John wrote his letters, the single word he returns to again and again is love — love as the substance of eternal life, love as the test of genuine faith, love as the nature of God himself. Tradition holds that in his old age in Ephesus, when too frail to preach, he would simply be carried into the assembly and say, "Little children, love one another." When asked why he always said the same thing, he replied, "Because it is the commandment of the Lord, and if it alone is kept, it is enough."
 
 ## Related Themes
-[[Love]] · [[Faith & Trust]] · [[Resurrection & Eternal Life]] · [[The Holy Spirit]] · [[Messiah & Christ]]
+[[6. Themes/Love]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/Messiah & Christ]]

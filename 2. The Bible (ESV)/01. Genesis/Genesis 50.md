@@ -32,14 +32,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Grace & Mercy|Grace & Mercy]] · [[Covenant|Covenant]] · [[Suffering & Perseverance|Suffering & Perseverance]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 37|Genesis 37]] — the original betrayal: brothers sell Joseph into slavery; v.20 ("you meant evil against me") is the resolution of that act
 - [[2. The Bible (ESV)/01. Genesis/Genesis 45|Genesis 45:5–8]] — Joseph's first revelation: "God sent me before you to preserve life"  — the same divine providence as v.20
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:28]] — "all things work together for good for those who love God" — the theological principle that Joseph's life demonstrates
 - [[2. The Bible (ESV)/44. Acts/Acts 7|Acts 7:9–16]] — Stephen's speech: Joseph's story as an OT type of Christ — rejected by his own, exalted by God to save the many
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11:22]] — "By faith Joseph… gave directions concerning his bones" (v.25) — Joseph cited in the faith hall of fame
-- [[01. Genesis Overview|Genesis Overview]]
+- [[3. Overviews/01. Genesis Overview|Genesis Overview]]
 
 ---
 

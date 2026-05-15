@@ -128,15 +128,15 @@
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — "by grace you have been saved through faith... not a result of works" — the doctrinal foundation for the rejection of the elder brother's transactional posture
 
 ## Related Concepts
-- [[Grace & Mercy]]
-- [[Sin & The Fall]]
-- [[Redemption & Salvation]]
-- [[Love]]
+- [[6. Themes/Grace & Mercy]]
+- [[6. Themes/Sin & The Fall]]
+- [[6. Themes/Redemption & Salvation]]
+- [[6. Themes/Love]]
 - [[Justification]]
 - [[Confession & Repentance]]
 - [[The Pharisees]]
 
 ## Related Books
-- [[Gentle and Lowly]]
-- [[Life Together]]
-- [[Orthodoxy]]
+- [[content/5. Supplemental Content/Gentle and Lowly]]
+- [[content/5. Supplemental Content/Life Together]]
+- [[content/5. Supplemental Content/Orthodoxy]]

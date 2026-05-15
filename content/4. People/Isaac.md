@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Patriarchal Age
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Isaac is the son of promise, the child born to Abraham and Sarah in their extreme old age through the miraculous power of God. He is the second patriarch of Israel, carrying the Abrahamic covenant forward to Jacob. His near-sacrifice on Mount Moriah is the defining episode of his story — and one of the most theologically dense moments in all of Scripture. He is in many ways the quietest of the patriarchs, but the covenant thread runs through him just as surely.
@@ -36,4 +36,4 @@ The deception of Genesis 27 reveals his limitations as a father: he favors Esau 
 - [[2. The Bible (ESV)/43. John/John 8|John 8:56]] — The promise carried through Isaac is what Abraham rejoiced to see fulfilled in Christ
 
 ## Related Themes
-[[Faith & Trust]] · [[Covenant]] · [[Sacrifice & Atonement]] · [[Messiah & Christ]] · [[Grace & Mercy]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Grace & Mercy]]

@@ -124,10 +124,10 @@
 - [[Christian Philosophy]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Pursuit of God]]
-- [[Knowing God]]
-- [[The Cost of Discipleship]]
-- [[Pilgrim's Progress]]
-- [[Surprised by Joy]]
-- [[The Ragamuffin Gospel]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/A.W. Tozer/The Pursuit of God]]
+- [[content/5. Supplemental Content/Knowing God]]
+- [[content/5. Supplemental Content/The Cost of Discipleship]]
+- [[content/5. Supplemental Content/Pilgrim's Progress]]
+- [[content/5. Supplemental Content/C.S. Lewis/Surprised by Joy]]
+- [[content/5. Supplemental Content/The Ragamuffin Gospel]]

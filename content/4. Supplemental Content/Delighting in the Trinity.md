@@ -119,8 +119,8 @@
 - [[Adoption]]
 
 ## Related Books
-- [[The Knowledge of the Holy]]
-- [[Knowing God]]
-- [[Delighting in the Trinity]]
+- [[content/4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]
+- [[content/4. Supplemental Content/Knowing God]]
+- [[content/4. Supplemental Content/Delighting in the Trinity]]
 - [[The Deep Things of God]]
-- [[Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]

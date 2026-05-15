@@ -59,14 +59,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Redemption & Salvation|Redemption & Salvation]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Prayer & Worship|Prayer & Worship]] · [[Messiah & Christ|Messiah & Christ]]
+**Themes:** [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Prayer & Worship|Prayer & Worship]] · [[6. Themes/Messiah & Christ|Messiah & Christ]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 55|Isaiah 55:1]] — "Come, everyone who thirsts, come to the waters" — Jesus' offer of living water (v.10–14) is Isaiah 55 made personal and present
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 47|Ezekiel 47:1–12]] — the river flowing from the temple brings life; Jesus offers the same water "welling up to eternal life" (v.14)
 - [[2. The Bible (ESV)/01. Genesis/Genesis 29|Genesis 29:1–12]] — Jacob met Rachel at a well; betrothal-at-a-well scenes in Genesis become a pattern this chapter inverts (Jesus, a bridegroom figure, meets a wayward woman)
 - [[2. The Bible (ESV)/44. Acts/Acts 8|Acts 8:1–25]] — Philip in Samaria; Jesus' words "the fields are white for harvest" (v.35) are literally fulfilled as Samaritans receive the gospel
 - [[2. The Bible (ESV)/43. John/John 7|John 7:37–38]] — Jesus at the Feast: "rivers of living water" — the promise of living water (v.14) expanded to the Spirit's outpouring
-- [[43. John Overview|John Overview]]
+- [[3. Overviews/43. John Overview|John Overview]]
 54. This was now the second sign that Jesus did when he had come from Judea to Galilee.
 
 ---

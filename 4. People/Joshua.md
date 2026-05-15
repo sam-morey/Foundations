@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Conquest
-**Appears In:** [[3. Book Overviews/05. Deuteronomy Overview|Deuteronomy]], [[3. Book Overviews/06. Joshua Overview|Joshua]]
+**Appears In:** [[3. Overviews/05. Deuteronomy Overview|Deuteronomy]], [[3. Overviews/06. Joshua Overview|Joshua]]
 
 ## Who They Are
 Joshua is the military commander and covenant leader who succeeds Moses and leads the generation of Israelites born in the wilderness into the Promised Land. His name — Yeshua in Hebrew — is the same name as Jesus, and the New Testament letter to the Hebrews draws explicit attention to the significance of this: the rest that Joshua gave was real, but incomplete. The true rest that God's people seek is only found in Jesus. Joshua is the paradigmatic faithful warrior who trusts God's word even when it demands impossible courage.
@@ -36,4 +36,4 @@ His greatest failure is not military but diplomatic: he is deceived by the Gibeo
 - [[2. The Bible (ESV)/43. John/John 14|John 14:27]] — "My peace I give to you" — the rest Jesus gives surpasses the land-rest Joshua gave
 
 ## Related Themes
-[[The Promised Land & Rest]] · [[Faith & Trust]] · [[Covenant]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Justice & Righteousness]]
+[[6. Themes/The Promised Land & Rest]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Covenant]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Justice & Righteousness]]

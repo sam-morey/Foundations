@@ -84,15 +84,15 @@
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12]] — "Therefore, since we are surrounded by so great a cloud of witnesses" — the eschatological community that frames the earthly one
 
 ## Related Concepts
-- [[Prayer & Worship]]
-- [[Love]]
-- [[The Holy Spirit]]
-- [[Faith & Trust]]
+- [[6. Themes/Prayer & Worship]]
+- [[6. Themes/Love]]
+- [[6. Themes/The Holy Spirit]]
+- [[6. Themes/Faith & Trust]]
 - [[The Church]]
 - [[Confession & Repentance]]
 - [[The Lord's Supper]]
 
 ## Related Books
-- [[Gentle and Lowly]]
-- [[The Religious Affections]]
-- [[The Prodigal God]]
+- [[content/5. Supplemental Content/Gentle and Lowly]]
+- [[content/5. Supplemental Content/The Religious Affections]]
+- [[content/5. Supplemental Content/The Prodigal God]]

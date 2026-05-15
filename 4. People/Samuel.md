@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Book Overviews/10. 2 Samuel Overview|2 Samuel]]
+**Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Overviews/10. 2 Samuel Overview|2 Samuel]]
 
 ## Who They Are
 Samuel is the last judge of Israel and the first of the great prophets, the man who stands at the transition from tribal confederation to monarchy. Dedicated to God before his birth by his mother Hannah, he hears God's voice as a child in the tabernacle, judges Israel faithfully his whole life, and anoints both of Israel's first two kings — Saul and David. He is the pivotal human figure between the age of judges and the age of kings.
@@ -35,4 +35,4 @@ His grief at Israel's rejection of God's kingship (1 Samuel 8) is palpable, yet 
 - [[2. The Bible (ESV)/44. Acts/Acts 13|Acts 13:20–22]] — Paul recounts Samuel as the prophet who gave Israel their judges and ultimately anointed David
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Covenant]] · [[Faith & Trust]] · [[Shepherd & King]] · [[Justice & Righteousness]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Covenant]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Justice & Righteousness]]

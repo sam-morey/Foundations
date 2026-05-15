@@ -201,17 +201,17 @@
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — Saved by grace through faith, not by works; the logic of the gospel
 
 ## Related Concepts
-- [[Faith & Trust]]
-- [[Sin & The Fall]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Sin & The Fall]]
 - [[Theodicy]]
-- [[Redemption & Salvation]]
-- [[Messiah & Christ]]
+- [[6. Themes/Redemption & Salvation]]
+- [[6. Themes/Messiah & Christ]]
 - [[Justification]]
 - [[The Resurrection]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Brothers Karamazov]]
-- [[Knowing God]]
-- [[Every Good Endeavor]]
-- [[Confessions]]
+- [[content/5. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/5. Supplemental Content/The Brothers Karamazov]]
+- [[content/5. Supplemental Content/Knowing God]]
+- [[content/5. Supplemental Content/Every Good Endeavor]]
+- [[content/5. Supplemental Content/Confessions]]

@@ -173,7 +173,7 @@
 - [[Disciplines of Engagement]]
 
 ## Related Books
-- [[Celebration of Discipline]]
-- [[Renovation of the Heart]]
-- [[Practicing the Way]]
-- [[The Divine Conspiracy]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[content/4. Supplemental Content/Dallas Willard/Renovation of the Heart]]
+- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[content/4. Supplemental Content/Dallas Willard/The Divine Conspiracy]]

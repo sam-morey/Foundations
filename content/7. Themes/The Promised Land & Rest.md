@@ -35,13 +35,13 @@ God promised Abraham a land — a place of security, abundance, and his presence
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21]] — The new creation as the final land/home
 
 ## Related Themes
-- [[Covenant]] — the land promise is part of the Abrahamic covenant
-- [[Faith & Trust]] — entering the land requires faith (Israel's failure shows this)
-- [[Creation & New Creation]] — the land anticipates the renewed creation
-- [[Redemption & Salvation]] — the Exodus (land journey) is the paradigm of salvation
-- [[Judgment]] — exile is covenant judgment
+- [[content/7. Themes/Covenant]] — the land promise is part of the Abrahamic covenant
+- [[content/7. Themes/Faith & Trust]] — entering the land requires faith (Israel's failure shows this)
+- [[content/7. Themes/Creation & New Creation]] — the land anticipates the renewed creation
+- [[content/7. Themes/Redemption & Salvation]] — the Exodus (land journey) is the paradigm of salvation
+- [[content/7. Themes/Judgment]] — exile is covenant judgment
 
 ## Supplemental Reading
-- [[5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — Sabbath rest as a spiritual practice; hurry as the enemy of the soul
-- [[5. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — work and Sabbath as the twin rhythms of human life in God's design
-- [[5. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — Sabbath as one of the inward disciplines; rest as trust in God's sufficiency
+- [[7. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — Sabbath rest as a spiritual practice; hurry as the enemy of the soul
+- [[7. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — work and Sabbath as the twin rhythms of human life in God's design
+- [[7. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — Sabbath as one of the inward disciplines; rest as trust in God's sufficiency

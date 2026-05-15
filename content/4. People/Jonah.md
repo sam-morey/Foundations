@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Prophets
-**Appears In:** [[3. Book Overviews/32. Jonah Overview|Jonah]]
+**Appears In:** [[3. Overviews/32. Jonah Overview|Jonah]]
 
 ## Who They Are
 Jonah son of Amittai is a prophet from Gath-hepher in the Northern Kingdom who is called by God to preach repentance to Nineveh, the brutal capital of Assyria — Israel's feared enemy. He flees in the opposite direction, is swallowed by a great fish for three days, prays, and is delivered. He goes to Nineveh, preaches, and the entire city repents. Then Jonah is angry at God's mercy. His story is the sharpest confrontation with self-righteous religion in the Old Testament, and Jesus cites it as the only sign he will give his generation.
@@ -34,4 +34,4 @@ His prayer from inside the fish is theologically beautiful and personally unreli
 - [[2. The Bible (ESV)/45. Romans/Romans 10|Romans 10:12–13]] — Nineveh's response illustrates Paul's thesis: "there is no distinction… the same Lord is Lord of all, bestowing riches on all who call on him"
 
 ## Related Themes
-[[Grace & Mercy]] · [[Prophecy & Fulfillment]] · [[Messiah & Christ]] · [[Judgment]] · [[Faith & Trust]] · [[Redemption & Salvation]]
+[[6. Themes/Grace & Mercy]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Judgment]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Redemption & Salvation]]

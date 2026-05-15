@@ -31,13 +31,13 @@ Redemption means to buy back what was lost or enslaved. Salvation is the broader
 **Glorification** — final transformation: [[2. The Bible (ESV)/45. Romans/Romans 8\|Romans 8]], [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21]]
 
 ## Related Themes
-- [[Covenant]] — salvation comes through covenant relationship
-- [[Sacrifice & Atonement]] — the cost of redemption
-- [[Faith & Trust]] — the instrument of receiving salvation
-- [[Grace & Mercy]] — salvation is unearned
-- [[Messiah & Christ]] — the Redeemer
-- [[Sin & The Fall]] — what we are saved from
-- [[Resurrection & Eternal Life]] — where salvation leads
+- [[content/5. Themes/Covenant]] — salvation comes through covenant relationship
+- [[content/5. Themes/Sacrifice & Atonement]] — the cost of redemption
+- [[content/5. Themes/Faith & Trust]] — the instrument of receiving salvation
+- [[content/5. Themes/Grace & Mercy]] — salvation is unearned
+- [[content/5. Themes/Messiah & Christ]] — the Redeemer
+- [[content/5. Themes/Sin & The Fall]] — what we are saved from
+- [[content/5. Themes/Resurrection & Eternal Life]] — where salvation leads
 
 ## Supplemental Reading
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — a lucid account of what Christianity says about how we are saved and why

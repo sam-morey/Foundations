@@ -26,14 +26,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Redemption & Salvation|Redemption & Salvation]] · [[The Holy Spirit|The Holy Spirit]] · [[Law & Torah|Law & Torah]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Law & Torah|Law & Torah]]
 **See Also:**
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31:33]] — "I will put my law within them… I will write it on their hearts" — the new covenant that fulfills the circumcised heart of v.6
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36|Ezekiel 36:26–27]] — "I will remove the heart of stone… I will put my Spirit within you" — the Spirit as the agent of the heart circumcision v.6 promises
 - [[2. The Bible (ESV)/45. Romans/Romans 10|Romans 10:6–8]] — Paul quotes Deuteronomy 30:12–14 ("the word is near you, in your mouth and in your heart") as describing the word of faith in Christ
 - [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6:5]] — "love the Lord your God with all your heart" — the *Shema* that v.6 says will finally be possible through heart circumcision
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] — Pentecost is the fulfillment: the Spirit poured out, enabling the obedience Deuteronomy 30 anticipates
-- [[05. Deuteronomy Overview|Deuteronomy Overview]]
+- [[3. Overviews/05. Deuteronomy Overview|Deuteronomy Overview]]
 
 ---
 

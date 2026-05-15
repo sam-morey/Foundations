@@ -91,10 +91,10 @@
 - [[Human Nature]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[That Hideous Strength]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/That Hideous Strength]]
 - [[The Discarded Image]]
 - [[After Virtue]]
 - [[Brave New World]]
 - [[Nineteen Eighty-Four]]
-- [[Every Good Endeavor]]
+- [[7. Supplemental Content/Every Good Endeavor]]

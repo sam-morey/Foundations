@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Exodus
-**Appears In:** [[3. Book Overviews/02. Exodus Overview|Exodus]], [[3. Book Overviews/04. Numbers Overview|Numbers]]
+**Appears In:** [[3. Overviews/02. Exodus Overview|Exodus]], [[3. Overviews/04. Numbers Overview|Numbers]]
 
 ## Who They Are
 Miriam is the older sister of Moses and Aaron, a prophetess and worship leader in Israel who plays a crucial role in the deliverance narrative from the very beginning. She watches over the infant Moses in the Nile, leads the women of Israel in song and dance after the crossing of the Red Sea, and is explicitly named a prophetess — one of a very small number of women to receive that title in the Old Testament. Her later judgment for pride before God becomes one of the Torah's most sobering warnings about the cost of speaking against God's appointed leaders.
@@ -33,4 +33,4 @@ Her failure in Numbers 12 is all the more striking for the stature she had earne
 - [[2. The Bible (ESV)/43. John/John 4|John 4:14]] — The living water Jesus offers surpasses the water of Marah, where Miriam's journey through the wilderness began
 
 ## Related Themes
-[[Faith & Trust]] · [[Justice & Righteousness]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Prophecy & Fulfillment]]

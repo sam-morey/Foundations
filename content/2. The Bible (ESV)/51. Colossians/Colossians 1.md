@@ -35,14 +35,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Creation & New Creation|Creation & New Creation]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Sacrifice & Atonement|Sacrifice & Atonement]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 1|John 1:1–14]] — the closest parallel: Christ as the agent of creation, through whom all things were made (v.16)
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — "by him all things were created" (v.16) points back to the creation account; Christ was its agent
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:5]] — "the blood of his cross" (v.20) and reconciliation language echoes the Servant's peace-making through suffering
 - [[2. The Bible (ESV)/43. John/John 17|John 17:21–23]] — Christ as the gathering center of all things (v.17) parallels his prayer that all be one in him
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 5|Revelation 5:9–13]] — the cosmic hymn to the Lamb echoes the cosmic supremacy hymn of v.15–20
-- [[46-57. Paul's Letters Overview|Paul's Letters Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters Overview]]
 
 ---
 

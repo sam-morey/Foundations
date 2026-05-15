@@ -27,14 +27,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Creation & New Creation|Creation & New Creation]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Sacrifice & Atonement|Sacrifice & Atonement]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]]
+**Themes:** [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
 **See Also:**
 - [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — "new creation" in v.17 recasts the original creation language; the believer is God's new creative act
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:6,10]] — "he made him to be sin" (v.21) fulfills the Servant bearing the iniquity of the many
 - [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3:21–26]] — the same righteousness of God becomes ours through Christ's atoning work
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21:5]] — "Behold, I am making all things new" — the cosmic fulfillment of the personal new creation in v.17
 - [[2. The Bible (ESV)/43. John/John 20|John 20:21]] — "As the Father has sent me, even so I am sending you" — the ministry of reconciliation of v.18–20 commissioned
-- [[46-57. Paul's Letters Overview|Paul's Letters Overview]]
+- [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters Overview]]
 
 ---
 

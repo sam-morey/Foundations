@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/08. Ruth Overview|Ruth]], [[3. Book Overviews/40. Matthew Overview|Matthew]]
+**Appears In:** [[3. Overviews/08. Ruth Overview|Ruth]], [[3. Overviews/40. Matthew Overview|Matthew]]
 
 ## Who They Are
 Boaz is a wealthy and respected landowner in Bethlehem, a relative of Naomi's deceased husband. When Ruth comes to glean in his fields, Boaz extends extraordinary generosity that goes well beyond legal obligation. He fulfills the role of kinsman-redeemer, marrying Ruth and securing the family's inheritance. He is one of the most compelling Old Testament portraits of grace and foreshadows Christ the true Redeemer.
@@ -34,4 +34,4 @@ When the closer kinsman declines to redeem, Boaz steps forward without hesitatio
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:3]] — God sent his Son to do what no closer relative could do for us, redeeming fully what we could not redeem ourselves
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Grace & Mercy]] · [[Covenant]] · [[Messiah & Christ]] · [[Justice & Righteousness]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Covenant]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Justice & Righteousness]]

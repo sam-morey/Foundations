@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Early Church
-**Appears In:** [[3. Book Overviews/44. Acts Overview|Acts]], [[3. Book Overviews/45. Romans Overview|Romans]], [[3. Book Overviews/46-57. Paul's Letters Overview|Paul's Letters]]
+**Appears In:** [[3. Overviews/44. Acts Overview|Acts]], [[3. Overviews/45. Romans Overview|Romans]], [[3. Overviews/46-57. Paul's Letters Overview|Paul's Letters]]
 
 ## Who He Is
 Saul of Tarsus — known after his conversion as Paul — is the former Pharisee and fierce persecutor of the church who became its greatest missionary and theologian. His encounter with the risen Jesus on the road to Damascus was the most dramatic conversion in Christian history, and it reoriented his entire life: the man who dragged Christians to prison became the man who sang hymns in prison. Commissioned as the apostle to the Gentiles (Galatians 1:16), his three missionary journeys carried the gospel across the Roman world, and his thirteen letters form the theological backbone of the New Testament.
@@ -28,4 +28,4 @@ Paul was many things at once: a trained Pharisee with command of the Hebrew Scri
 Yet the man who wrote "I have learned, in whatever situation I am, to be content" (Philippians 4:11) from a prison cell, and who declared "to live is Christ, and to die is gain" (Philippians 1:21), was a man in whom the gospel had done its deep work. Tradition holds that he was ultimately beheaded in Rome under Nero — dying, like his Lord, at the hands of the empire he had once served.
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[Resurrection & Eternal Life]] · [[The Holy Spirit]] · [[Suffering & Perseverance]] · [[Covenant]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/Resurrection & Eternal Life]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Covenant]]

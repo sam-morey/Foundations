@@ -23,14 +23,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Kingdom of God|Kingdom of God]] · [[Shepherd & King|Shepherd & King]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Shepherd & King|Shepherd & King]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 21|Matthew 21:5]] — Jesus' triumphal entry into Jerusalem directly cites v.9: "Behold, your king is coming… mounted on a donkey"
 - [[2. The Bible (ESV)/43. John/John 12|John 12:15]] — the Palm Sunday entry quotes v.9 again; the crowd's palm branches and "Hosanna"
 - [[2. The Bible (ESV)/38. Zechariah/Zechariah 12|Zechariah 12:10]] — the "one they have pierced" follows this king's arrival; together they form the crucifixion arc
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7]] — the Davidic covenant backdrop; this king rules on David's throne "from sea to sea" (v.10)
 - [[Psalms 72|Psalm 72:8]] — "May he have dominion from sea to sea" — the royal prayer v.10 promises fulfilled
-- [[31-39. Minor Prophets Overview|Minor Prophets Overview]]
+- [[3. Overviews/31-39. Minor Prophets Overview|Minor Prophets Overview]]
 
 ---
 

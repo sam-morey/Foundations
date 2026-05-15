@@ -170,5 +170,5 @@
 - [[King Me]]
 - [[Raising a Modern-Day Knight]]
 - [[Shepherding a Child's Heart]]
-- [[Every Good Endeavor]]
-- [[Renovation of the Heart]]
+- [[content/4. Supplemental Content/Every Good Endeavor]]
+- [[content/4. Supplemental Content/Dallas Willard/Renovation of the Heart]]

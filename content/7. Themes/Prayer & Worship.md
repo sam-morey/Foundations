@@ -49,20 +49,20 @@ The Psalms are Israel's prayer book — 150 prayers covering the full range of h
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 19\|Revelation 19]] — "Hallelujah! Salvation and glory and power belong to our God"
 
 ## Related Themes
-- [[The Holy Spirit]] — the Spirit enables prayer
-- [[Love]] — worship is the response of a heart that loves God
-- [[Suffering & Perseverance]] — lament is honest prayer in suffering
-- [[Justice & Righteousness]] — true worship produces justice
-- [[The Word of God]] — Scripture shapes prayer
+- [[content/7. Themes/The Holy Spirit]] — the Spirit enables prayer
+- [[content/7. Themes/Love]] — worship is the response of a heart that loves God
+- [[content/7. Themes/Suffering & Perseverance]] — lament is honest prayer in suffering
+- [[content/7. Themes/Justice & Righteousness]] — true worship produces justice
+- [[content/7. Themes/The Word of God]] — Scripture shapes prayer
 
 ## Supplemental Reading
-- [[5. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — prayer as the soul's conscious pursuit of the God who is already present
-- [[5. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the most comprehensive treatment of prayer, fasting, solitude, and worship as disciplines
-- [[5. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Lord's Prayer as a portal into kingdom living
-- [[5. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — silence and solitude as the preconditions for genuine prayer
-- [[5. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — right theology as the foundation of reverent worship
-- [[5. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — unceasing prayer as a posture of life, not a scheduled event
-- [[5. Supplemental Content/Prayer|Prayer]] (Keller) — a comprehensive theology and practice of prayer, anchored in the Lord's Prayer
-- [[5. Supplemental Content/Life Together|Life Together]] (Bonhoeffer) — corporate worship, prayer, and devotion as the daily rhythm of Christian community
-- [[5. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — meditation, humility, and interior prayer as the heart of Christian devotion
-- [[5. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — true worship as a matter of the heart's genuine affection for God, not mere outward form
+- [[7. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — prayer as the soul's conscious pursuit of the God who is already present
+- [[7. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the most comprehensive treatment of prayer, fasting, solitude, and worship as disciplines
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Lord's Prayer as a portal into kingdom living
+- [[7. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — silence and solitude as the preconditions for genuine prayer
+- [[7. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — right theology as the foundation of reverent worship
+- [[7. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — unceasing prayer as a posture of life, not a scheduled event
+- [[7. Supplemental Content/Prayer|Prayer]] (Keller) — a comprehensive theology and practice of prayer, anchored in the Lord's Prayer
+- [[7. Supplemental Content/Life Together|Life Together]] (Bonhoeffer) — corporate worship, prayer, and devotion as the daily rhythm of Christian community
+- [[7. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — meditation, humility, and interior prayer as the heart of Christian devotion
+- [[7. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — true worship as a matter of the heart's genuine affection for God, not mere outward form

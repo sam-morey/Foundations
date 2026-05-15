@@ -37,17 +37,17 @@ The Holy Spirit is the third person of the Trinity — fully God, personally act
 - [[2. The Bible (ESV)/49. Ephesians/Ephesians 5\|Ephesians 5]] — "Be filled with the Spirit"
 
 ## Related Themes
-- [[Creation & New Creation]] — the Spirit as agent of creation and new creation
-- [[Redemption & Salvation]] — the Spirit applies redemption
-- [[Covenant]] — the Spirit fulfills new covenant promises
-- [[Prayer & Worship]] — the Spirit empowers and intercedes
-- [[Resurrection & Eternal Life]] — the Spirit as guarantee and agent
-- [[Kingdom of God]] — the Spirit is the presence of the Kingdom
-- [[Prophecy & Fulfillment]] — Joel 2 and Pentecost
+- [[content/7. Themes/Creation & New Creation]] — the Spirit as agent of creation and new creation
+- [[content/7. Themes/Redemption & Salvation]] — the Spirit applies redemption
+- [[content/7. Themes/Covenant]] — the Spirit fulfills new covenant promises
+- [[content/7. Themes/Prayer & Worship]] — the Spirit empowers and intercedes
+- [[content/7. Themes/Resurrection & Eternal Life]] — the Spirit as guarantee and agent
+- [[content/7. Themes/Kingdom of God]] — the Spirit is the presence of the Kingdom
+- [[content/7. Themes/Prophecy & Fulfillment]] — Joel 2 and Pentecost
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the disciplines as means by which the Spirit shapes us
-- [[5. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — transformation as a Spirit-led process; the Spirit's work in every dimension of the person
-- [[5. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — cultivating conscious attentiveness to the Spirit's presence
-- [[5. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Spirit as the third person of the Trinity; his personal role in salvation and creation
-- [[5. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — conscious, moment-by-moment attentiveness to God as the shape of life in the Spirit
+- [[7. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the disciplines as means by which the Spirit shapes us
+- [[7. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — transformation as a Spirit-led process; the Spirit's work in every dimension of the person
+- [[7. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — cultivating conscious attentiveness to the Spirit's presence
+- [[7. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Spirit as the third person of the Trinity; his personal role in salvation and creation
+- [[7. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — conscious, moment-by-moment attentiveness to God as the shape of life in the Spirit

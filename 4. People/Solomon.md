@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The United Monarchy
-**Appears In:** [[3. Book Overviews/11. 1 Kings Overview|1 Kings]], [[3. Book Overviews/12. 2 Kings Overview|2 Kings]]
+**Appears In:** [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/12. 2 Kings Overview|2 Kings]]
 
 ## Who They Are
 Solomon is the son of David and Bathsheba, the third king of Israel and the builder of the Jerusalem Temple. God gives him wisdom beyond any man before or after him, and in the early years of his reign he exemplifies what godly kingship can look like. Yet his seven hundred wives and three hundred concubines — many from forbidden nations — turn his heart away from God in his old age, and it is his idolatry that plants the seed of the kingdom's division. He is the author of Proverbs, Ecclesiastes, and the Song of Solomon.
@@ -34,4 +34,4 @@ But the seeds of failure were there from early on — he married Pharaoh's daugh
 - [[2. The Bible (ESV)/44. Acts/Acts 7|Acts 7:47–50]] — Stephen recalls Solomon building the Temple but reminds Israel that the Most High does not dwell in houses made by human hands
 
 ## Related Themes
-[[Wisdom]] · [[Covenant]] · [[Sin & The Fall]] · [[Judgment]] · [[Shepherd & King]] · [[Sacrifice & Atonement]]
+[[6. Themes/Wisdom]] · [[6. Themes/Covenant]] · [[6. Themes/Sin & The Fall]] · [[6. Themes/Judgment]] · [[6. Themes/Shepherd & King]] · [[6. Themes/Sacrifice & Atonement]]

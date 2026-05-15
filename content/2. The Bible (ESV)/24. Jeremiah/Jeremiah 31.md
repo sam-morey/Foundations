@@ -46,14 +46,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Covenant|Covenant]] · [[Grace & Mercy|Grace & Mercy]] · [[The Holy Spirit|The Holy Spirit]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Covenant|Covenant]] · [[6. Themes/Grace & Mercy|Grace & Mercy]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36|Ezekiel 36]] — companion promise: "I will give you a new heart and put a new spirit in you"
 - [[2. The Bible (ESV)/40. Matthew/Matthew 26|Matthew 26:28]] — Jesus at the Last Supper: "This is my blood of the new covenant"
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 8|Hebrews 8:8–12]] — Jeremiah 31 quoted at length as the scriptural basis for Christ's superior covenant
 - [[2. The Bible (ESV)/58. Hebrews/Hebrews 10|Hebrews 10:15–17]] — "The Holy Spirit also testifies to us" by quoting Jeremiah 31
 - [[2. The Bible (ESV)/45. Romans/Romans 11|Romans 11:27]] — "This will be my covenant with them when I take away their sins" (citing Jeremiah)
-- [[24. Jeremiah Overview|Jeremiah Overview]]
+- [[3. Overviews/24. Jeremiah Overview|Jeremiah Overview]]
 
 ---
 

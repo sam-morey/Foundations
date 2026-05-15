@@ -46,17 +46,17 @@ The Kingdom of God is God's sovereign rule — his reign over creation, over Isr
 The Kingdom has already arrived in Jesus (his healings, exorcisms, and resurrection), but is not yet fully consummated. Believers live in the overlap of the ages, called to embody Kingdom values now.
 
 ## Related Themes
-- [[Messiah & Christ]] — the King at the center of the Kingdom
-- [[Covenant]] — the Davidic covenant as the Kingdom's foundation
-- [[Judgment]] — the King comes to judge
-- [[Resurrection & Eternal Life]] — the Kingdom's final state
-- [[Justice & Righteousness]] — the character of Kingdom life
-- [[The Holy Spirit]] — the presence of the Kingdom's power
+- [[content/7. Themes/Messiah & Christ]] — the King at the center of the Kingdom
+- [[content/7. Themes/Covenant]] — the Davidic covenant as the Kingdom's foundation
+- [[content/7. Themes/Judgment]] — the King comes to judge
+- [[content/7. Themes/Resurrection & Eternal Life]] — the Kingdom's final state
+- [[content/7. Themes/Justice & Righteousness]] — the character of Kingdom life
+- [[content/7. Themes/The Holy Spirit]] — the presence of the Kingdom's power
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the most thoroughgoing treatment of the Sermon on the Mount as kingdom manifesto
-- [[5. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how ordinary work participates in God's kingdom purposes
-- [[5. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — vocation and Sabbath as kingdom practices
-- [[5. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the Kingdom shapes Christian character and moral life
-- [[5. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — the kingdom as the overlap of heaven and earth; Jesus as the one who brings them together
-- [[5. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — the kingdom of God as the organizing concept of all biblical theology
+- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the most thoroughgoing treatment of the Sermon on the Mount as kingdom manifesto
+- [[7. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how ordinary work participates in God's kingdom purposes
+- [[7. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — vocation and Sabbath as kingdom practices
+- [[7. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the Kingdom shapes Christian character and moral life
+- [[7. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — the kingdom as the overlap of heaven and earth; Jesus as the one who brings them together
+- [[7. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — the kingdom of God as the organizing concept of all biblical theology

@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Conquest
-**Appears In:** [[3. Book Overviews/06. Joshua Overview|Joshua]]
+**Appears In:** [[3. Overviews/06. Joshua Overview|Joshua]]
 
 ## Who They Are
 Rahab is a Canaanite prostitute living in Jericho who hides the Israelite spies sent by Joshua before the conquest of the city. In exchange for her protection of the spies, she is given a promise of salvation — her household will be spared when Jericho falls, marked by a scarlet cord hung in her window. She is one of the most surprising figures in the Old Testament: an outsider, a Gentile, a woman of questionable reputation who becomes a hero of faith, appears in Jesus's genealogy, and is named in Hebrews 11.
@@ -34,4 +34,4 @@ James cites her as an example of faith demonstrated by works, alongside Abraham.
 - [[2. The Bible (ESV)/48. Galatians/Galatians 3|Galatians 3:28]] — "Neither Jew nor Gentile" — Rahab's inclusion in the covenant community anticipates the Gentile inclusion in Christ
 
 ## Related Themes
-[[Faith & Trust]] · [[Grace & Mercy]] · [[Redemption & Salvation]] · [[Covenant]] · [[Messiah & Christ]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Messiah & Christ]]

@@ -27,14 +27,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Kingdom of God|Kingdom of God]] · [[Light & Darkness|Light & Darkness]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Light & Darkness|Light & Darkness]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]]
 **See Also:**
 - [[2. The Bible (ESV)/40. Matthew/Matthew 4|Matthew 4:15–16]] — quotes Isaiah 9:1–2 at the start of Jesus' Galilean ministry: "The people dwelling in darkness have seen a great light"
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 7|Isaiah 7]] — the prior Immanuel sign; ch. 9 is its continuation and expansion
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7]] — the Davidic throne on which the child of v.7 will reign forever
 - [[2. The Bible (ESV)/42. Luke/Luke 1|Luke 1:32–33]] — Gabriel announces Jesus will sit on David's throne and reign forever (fulfilling v.6–7)
 - [[2. The Bible (ESV)/43. John/John 1|John 1:9]] — "the true light… was coming into the world" (echoes v.2)
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

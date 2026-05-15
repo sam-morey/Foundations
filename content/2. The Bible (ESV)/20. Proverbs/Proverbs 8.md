@@ -42,14 +42,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Wisdom|Wisdom]] · [[Creation & New Creation|Creation & New Creation]] · [[Messiah & Christ|Messiah & Christ]] · [[The Word of God|The Word of God]]
+**Themes:** [[6. Themes/Wisdom|Wisdom]] · [[6. Themes/Creation & New Creation|Creation & New Creation]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Word of God|The Word of God]]
 **See Also:**
 - [[2. The Bible (ESV)/43. John/John 1|John 1:1–3]] — "In the beginning was the Word… all things were made through him" — the NT interprets Christ as the personified Wisdom of v.22–31 (the "master workman" at creation)
 - [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1:16–17]] — "by him all things were created… in him all things hold together" — Christ as Wisdom who upholds creation
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 1|1 Corinthians 1:24]] — "Christ is the power of God and the wisdom of God" — the direct NT identification of Jesus with personified Wisdom
 - [[2. The Bible (ESV)/20. Proverbs/Proverbs 1|Proverbs 1:7]] — "the fear of the Lord is the beginning of wisdom" — the governing principle of Proverbs that ch. 8 explores at its highest
 - [[2. The Bible (ESV)/18. Job/Job 28|Job 28]] — the poem on wisdom's hiddenness; Proverbs 8 is its counterpart — wisdom present and speaking
-- [[20. Proverbs Overview|Proverbs Overview]]
+- [[3. Overviews/20. Proverbs Overview|Proverbs Overview]]
 
 ---
 

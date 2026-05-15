@@ -34,14 +34,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[The Holy Spirit|The Holy Spirit]] · [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Covenant|Covenant]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]]
+**Themes:** [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Covenant|Covenant]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]]
 **See Also:**
 - [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36|Ezekiel 36]] — the companion promise: "I will put my Spirit within you"
 - [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31|Jeremiah 31]] — the New Covenant with a law written on hearts
 - [[2. The Bible (ESV)/43. John/John 3|John 3:5–8]] — born of water and Spirit; Jesus alludes to Ezekiel 36–37
 - [[2. The Bible (ESV)/44. Acts/Acts 2|Acts 2]] — Pentecost as the fulfillment of "I will pour out my Spirit"
 - [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8:11]] — "the Spirit of him who raised Jesus will also give life to your mortal bodies"
-- [[26. Ezekiel Overview|Ezekiel Overview]]
+- [[3. Overviews/26. Ezekiel Overview|Ezekiel Overview]]
 
 ---
 

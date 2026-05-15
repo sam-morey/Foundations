@@ -58,14 +58,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Israel & The Gentiles|Israel & The Gentiles]] · [[Redemption & Salvation|Redemption & Salvation]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]]
 **See Also:**
 - [[2. The Bible (ESV)/33. Micah/Micah 5|Micah 5:2]] — "from Bethlehem… shall come forth a ruler in Israel" — fulfilled precisely in v.4–7
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 9|Isaiah 9:6]] — "to us a child is born, to us a son is given" — the prophecy that Simeon's song (v.29–32) recognizes as fulfilled
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 49|Isaiah 49:6]] — "a light for the nations" — Simeon quotes this of Jesus in v.32: "a light for revelation to the Gentiles"
 - [[2. The Bible (ESV)/40. Matthew/Matthew 2|Matthew 2]] — Matthew's parallel birth narrative; Magi, Herod, Egypt — different incidents, same event
 - [[2. The Bible (ESV)/43. John/John 1|John 1:14]] — "the Word became flesh and dwelt among us" — John's theological expression of what Luke narrates historically
-- [[42. Luke Overview|Luke Overview]]
+- [[3. Overviews/42. Luke Overview|Luke Overview]]
 
 ---
 

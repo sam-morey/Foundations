@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Judges
-**Appears In:** [[3. Book Overviews/07. Judges Overview|Judges]]
+**Appears In:** [[3. Overviews/07. Judges Overview|Judges]]
 
 ## Who They Are
 Deborah is a prophetess and judge in Israel, the only woman explicitly named as holding the office of judge in the book of Judges. She holds court under the Palm of Deborah, and when Israel is oppressed by the Canaanite king Jabin and his general Sisera, she summons the commander Barak and delivers God's battle strategy. Her willingness to lead when men hesitated, and her partnership with Jael in the ultimate defeat of Sisera, make her one of the most vivid figures in the pre-monarchic period.
@@ -32,4 +32,4 @@ Her song in Judges 5 is extraordinary — one of the most ancient poems in the B
 - [[2. The Bible (ESV)/42. Luke/Luke 1|Luke 1:52]] — Mary's song that God "brought down the mighty from their thrones" echoes the theology of Deborah's song: victory through the unexpected
 
 ## Related Themes
-[[Faith & Trust]] · [[Justice & Righteousness]] · [[Prophecy & Fulfillment]] · [[Grace & Mercy]] · [[Redemption & Salvation]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Justice & Righteousness]] · [[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Redemption & Salvation]]

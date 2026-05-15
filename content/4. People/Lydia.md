@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Early Church
-**Appears In:** [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who She Is
 Lydia of Thyatira is the first recorded convert in Europe — a businesswoman from Asia Minor who had settled in Philippi, dealing in expensive purple cloth. She was already a devout worshiper of God when Paul met her at a place of prayer by the river on the Sabbath. The Lord opened her heart to respond to Paul's message; she was baptized with her household and immediately opened her home as the base of the first European church. She represents everything Luke wants his reader to see about how the gospel crosses cultural, ethnic, and geographic boundaries.
@@ -24,4 +24,4 @@ Lydia is a woman of means, independence, and decisiveness. She ran her own house
 The Philippian church that grew from her home would become one of the most beloved communities in the early church — marked by generosity (Philippians 4:15–16) and partnership with Paul in his mission. Lydia's open door was the first step in a chain of grace that eventually shaped the entire history of Western Christianity.
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Grace & Mercy]] · [[Faith & Trust]] · [[The Holy Spirit]] · [[Kingdom of God]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/Kingdom of God]]

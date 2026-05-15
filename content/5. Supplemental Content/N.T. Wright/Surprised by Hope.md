@@ -202,14 +202,14 @@
 ## Related Concepts
 - [[Resurrection]]
 - [[New Creation]]
-- [[Kingdom of God]]
+- [[6. Themes/Kingdom of God]]
 - [[Eschatology]]
 - [[Atonement]]
 - [[Mission of the Church]]
 
 ## Related Books
-- [[The Drama of Scripture]]
-- [[Simply Christian]]
-- [[According to Plan]]
+- [[7. Supplemental Content/The Drama of Scripture]]
+- [[content/5. Supplemental Content/N.T. Wright/Simply Christian]]
+- [[7. Supplemental Content/According to Plan]]
 - [[The Resurrection of the Son of God]]
 - [[Surprised by Scripture]]

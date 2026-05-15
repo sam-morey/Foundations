@@ -243,7 +243,7 @@
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 13|Revelation 13]] — The beast and the system of totalitarian control
 
 ## Related Concepts
-- [[The Abolition of Man]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Abolition of Man]]
 - [[Inner Ring]]
 - [[Scientism]]
 - [[Technocracy]]
@@ -253,9 +253,9 @@
 - [[Marriage and Mutuality]]
 
 ## Related Books
-- [[Out of the Silent Planet]]
-- [[Perelandra]]
-- [[The Abolition of Man]]
+- [[content/4. Supplemental Content/C.S. Lewis/Out of the Silent Planet]]
+- [[content/4. Supplemental Content/C.S. Lewis/Perelandra]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Abolition of Man]]
 - [[Brave New World]]
 - [[Nineteen Eighty-Four]]
-- [[The Great Divorce]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]

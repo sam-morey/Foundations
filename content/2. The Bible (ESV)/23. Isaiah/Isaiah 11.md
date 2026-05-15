@@ -22,14 +22,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Messiah & Christ|Messiah & Christ]] · [[The Holy Spirit|The Holy Spirit]] · [[Kingdom of God|Kingdom of God]] · [[Israel & The Gentiles|Israel & The Gentiles]]
+**Themes:** [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Kingdom of God|Kingdom of God]] · [[6. Themes/Israel & The Gentiles|Israel & The Gentiles]]
 **See Also:**
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 7|Isaiah 7:14]] — the Immanuel sign earlier; the shoot of Jesse (v.1) fulfills the promise of the royal son
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 9|Isaiah 9:6–7]] — "Wonderful Counselor… Prince of Peace" rules on David's throne; v.6–7 here depict his peaceful kingdom
 - [[2. The Bible (ESV)/45. Romans/Romans 15|Romans 15:12]] — Paul quotes Isaiah 11:10 ("the root of Jesse…") as fulfilled in Christ gathering the Gentiles
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 5|Revelation 5:5]] — Jesus is "the Lion of the tribe of Judah, the Root of David" — the v.1,10 titles applied to the risen Christ
 - [[2. The Bible (ESV)/43. John/John 1|John 1:32]] — the Spirit resting on Jesus at baptism fulfills v.2: "the Spirit of the Lord shall rest upon him"
-- [[23. Isaiah Overview|Isaiah Overview]]
+- [[3. Overviews/23. Isaiah Overview|Isaiah Overview]]
 
 ---
 

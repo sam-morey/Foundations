@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/40. Matthew Overview|Matthew]], [[3. Book Overviews/41. Mark Overview|Mark]], [[3. Book Overviews/42. Luke Overview|Luke]], [[3. Book Overviews/43. John Overview|John]], [[3. Book Overviews/44. Acts Overview|Acts]]
+**Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/41. Mark Overview|Mark]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], [[3. Overviews/44. Acts Overview|Acts]]
 
 ## Who He Is
 Judas Iscariot is the apostle who betrayed Jesus — one of the Twelve, trusted with the group's money bag, present at every teaching and miracle, and yet the one who handed Jesus over to the chief priests for thirty pieces of silver. His betrayal fulfills Zechariah 11:12–13 to the detail, and John's Gospel notes that Satan entered him at the Last Supper (John 13:27). His tragedy is not that he was an outsider who attacked Jesus, but that he was an insider who chose greed over the one he had followed for years.
@@ -27,4 +27,4 @@ Judas is a figure of immense theological weight and genuine tragedy. He was not 
 His end is a terrible mirror of what happens when grief over consequences is mistaken for repentance before God. He returned the money (acknowledging guilt) but went and hanged himself rather than running, like Peter, back to Jesus. The difference between Judas and Peter is not the severity of their betrayal — both denied their Lord in the hour of his suffering. The difference is where they went with their guilt. Peter went to Jesus. Judas went away.
 
 ## Related Themes
-[[Redemption & Salvation]] · [[Covenant]] · [[Suffering & Perseverance]] · [[Grace & Mercy]] · [[Faith & Trust]]
+[[6. Themes/Redemption & Salvation]] · [[6. Themes/Covenant]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Faith & Trust]]

@@ -43,14 +43,14 @@ Light and darkness are among Scripture's most pervasive images. God is light; da
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21\|Revelation 21–22]] — The new Jerusalem has no need of sun or moon; the glory of God is its light; the Lamb is its lamp
 
 ## Related Themes
-- [[Creation & New Creation]] — light is the first creative act and the final state
-- [[Sin & The Fall]] — sin is associated with darkness
-- [[Messiah & Christ]] — Christ is the light of the world
-- [[Judgment]] — the Day of the Lord involves darkness for the unrepentant
-- [[Redemption & Salvation]] — salvation is being brought from darkness to light
+- [[content/7. Themes/Creation & New Creation]] — light is the first creative act and the final state
+- [[content/7. Themes/Sin & The Fall]] — sin is associated with darkness
+- [[content/7. Themes/Messiah & Christ]] — Christ is the light of the world
+- [[content/7. Themes/Judgment]] — the Day of the Lord involves darkness for the unrepentant
+- [[content/7. Themes/Redemption & Salvation]] — salvation is being brought from darkness to light
 
 ## Supplemental Reading
-- [[5. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — light and darkness as both physical and moral realities in the epic of the Fall
-- [[5. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — the kingdom of darkness seen from inside, its tactics and goals made vivid
-- [[5. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — the "Silent Planet" as one bent from its proper light; cosmic darkness as isolation from God
-- [[5. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] (Comer) — the lies of the world, flesh, and devil as the currency of darkness
+- [[7. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — light and darkness as both physical and moral realities in the epic of the Fall
+- [[7. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — the kingdom of darkness seen from inside, its tactics and goals made vivid
+- [[7. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — the "Silent Planet" as one bent from its proper light; cosmic darkness as isolation from God
+- [[7. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] (Comer) — the lies of the world, flesh, and devil as the currency of darkness

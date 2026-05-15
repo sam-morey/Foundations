@@ -282,15 +282,15 @@
 - [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51]] — David's prayer of repentance, modeling honest return to a merciful God after catastrophic failure
 
 ## Related Concepts
-- [[Grace & Mercy]]
-- [[Love]]
-- [[Messiah & Christ]]
-- [[Faith & Trust]]
-- [[Prayer & Worship]]
+- [[6. Themes/Grace & Mercy]]
+- [[6. Themes/Love]]
+- [[6. Themes/Messiah & Christ]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Prayer & Worship]]
 - [[The Incarnation]]
 - [[Justification]]
 
 ## Related Books
-- [[The Prodigal God]]
-- [[Life Together]]
-- [[The Religious Affections]]
+- [[content/5. Supplemental Content/The Prodigal God]]
+- [[content/5. Supplemental Content/Life Together]]
+- [[content/5. Supplemental Content/The Religious Affections]]

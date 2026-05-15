@@ -35,14 +35,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[Suffering & Perseverance|Suffering & Perseverance]] · [[Messiah & Christ|Messiah & Christ]] · [[Faith & Trust|Faith & Trust]]
+**Themes:** [[6. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[6. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[6. Themes/Messiah & Christ|Messiah & Christ]] · [[6. Themes/Faith & Trust|Faith & Trust]]
 **See Also:**
 - [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15:20–22]] — Paul's "I know that my Redeemer lives" (v.25) is the faith that 1 Corinthians 15 demonstrates has a basis in Christ's resurrection
 - [[2. The Bible (ESV)/43. John/John 11|John 11:25]] — "I am the resurrection and the life" — Jesus is the Redeemer who "stands upon the earth" (v.25) and who raises the dead in flesh (v.26)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 22|Psalm 22]] — the same lament pattern: abandoned, in agony, yet trusting; both texts move from desolation to hope
 - [[2. The Bible (ESV)/23. Isaiah/Isaiah 53|Isaiah 53:3–4]] — "a man of sorrows… acquainted with grief" — the Servant bears Job's situation; Jesus took on what Job suffered
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21:4]] — "he will wipe away every tear" — the fulfillment of Job's hope to see God with his own eyes (v.27) in a restored body
-- [[18. Job Overview|Job Overview]]
+- [[3. Overviews/18. Job Overview|Job Overview]]
 
 ---
 

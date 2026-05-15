@@ -35,11 +35,11 @@ The shepherd is one of Scripture's central images for leadership — a figure wh
 - [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 7\|Revelation 7]] — "The Lamb in the midst of the throne will be their shepherd"
 
 ## Related Themes
-- [[Covenant]] — the Davidic covenant is the foundation of the shepherd-king hope
-- [[Messiah & Christ]] — Christ fulfills both shepherd and king
-- [[Kingdom of God]] — the King-Shepherd rules the Kingdom
-- [[Grace & Mercy]] — the shepherd's pursuit of the lost sheep is pure grace
-- [[Suffering & Perseverance]] — the shepherd lays down his life
+- [[content/5. Themes/Covenant]] — the Davidic covenant is the foundation of the shepherd-king hope
+- [[content/5. Themes/Messiah & Christ]] — Christ fulfills both shepherd and king
+- [[content/5. Themes/Kingdom of God]] — the King-Shepherd rules the Kingdom
+- [[content/5. Themes/Grace & Mercy]] — the shepherd's pursuit of the lost sheep is pure grace
+- [[content/5. Themes/Suffering & Perseverance]] — the shepherd lays down his life
 
 ## Supplemental Reading
 - [[4. Supplemental Content/Anchorman|Anchorman]] (Farrar) — shepherd-style leadership as the calling of fathers; the king who serves rather than dominates

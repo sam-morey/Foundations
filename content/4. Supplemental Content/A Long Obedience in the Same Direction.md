@@ -209,16 +209,16 @@
 - [[2. The Bible (ESV)/19. Psalms/Psalms 131|Psalm 131]] — The quieted soul; the humility of a weaned child
 
 ## Related Concepts
-- [[Faith & Trust]]
-- [[Suffering & Perseverance]]
-- [[Prayer & Worship]]
+- [[6. Themes/Faith & Trust]]
+- [[6. Themes/Suffering & Perseverance]]
+- [[6. Themes/Prayer & Worship]]
 - [[Spiritual Formation]]
-- [[Covenant]]
+- [[6. Themes/Covenant]]
 - [[Community]]
 
 ## Related Books
-- [[Celebration of Discipline]]
-- [[The Cost of Discipleship]]
-- [[Prayer]]
-- [[Confessions]]
-- [[Pilgrim's Progress]]
+- [[content/4. Supplemental Content/Celebration of Discipline]]
+- [[content/4. Supplemental Content/The Cost of Discipleship]]
+- [[content/4. Supplemental Content/Prayer]]
+- [[content/4. Supplemental Content/Confessions]]
+- [[content/4. Supplemental Content/Pilgrim's Progress]]

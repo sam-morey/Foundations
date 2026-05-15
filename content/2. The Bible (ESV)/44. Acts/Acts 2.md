@@ -53,14 +53,14 @@
 ---
 
 ## Themes & Cross-References
-**Themes:** [[The Holy Spirit|The Holy Spirit]] · [[Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[Redemption & Salvation|Redemption & Salvation]] · [[Prayer & Worship|Prayer & Worship]]
+**Themes:** [[6. Themes/The Holy Spirit|The Holy Spirit]] · [[6. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]] · [[6. Themes/Redemption & Salvation|Redemption & Salvation]] · [[6. Themes/Prayer & Worship|Prayer & Worship]]
 **See Also:**
 - [[2. The Bible (ESV)/29. Joel/Joel 2|Joel 2:28–32]] — "I will pour out my Spirit on all flesh" (Peter quotes this as being fulfilled here)
 - [[2. The Bible (ESV)/19. Psalms/Psalms 16|Psalm 16:8–11]] — "You will not abandon my soul to Sheol" (Peter quotes as a resurrection prophecy)
 - [[Psalms 110|Psalm 110:1]] — "Sit at my right hand" (Peter quotes as proof of Jesus' exaltation)
 - [[2. The Bible (ESV)/10. II Samuel/II Samuel 7|2 Samuel 7]] — the Davidic covenant; David was a prophet regarding the resurrection (v.30)
 - [[2. The Bible (ESV)/44. Acts/Acts 1|Acts 1:5,8]] — the promise now fulfilled
-- [[44. Acts Overview|Acts Overview]]
+- [[3. Overviews/44. Acts Overview|Acts Overview]]
 
 ---
 

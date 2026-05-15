@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** Primeval History
-**Appears In:** [[3. Book Overviews/01. Genesis Overview|Genesis]]
+**Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]
 
 ## Who They Are
 Eve is the first woman, created by God from Adam's rib as a suitable helper and companion. She is a co-image-bearer of God and the mother of all living, whose name Adam gives in faith despite the curse. She is the first to be deceived by the serpent, and her act of eating the forbidden fruit — followed by giving it to Adam — initiates the Fall of humanity.
@@ -36,4 +36,4 @@ What is often overlooked is Eve's faith after the Fall. When she bears Cain she 
 - [[2. The Bible (ESV)/66. Revelation/Revelation 12|Revelation 12:1–5]] — The woman and her offspring who defeats the dragon echoes Genesis 3:15
 
 ## Related Themes
-[[Sin & The Fall]] · [[Redemption & Salvation]] · [[Messiah & Christ]] · [[Grace & Mercy]] · [[Prophecy & Fulfillment]]
+[[6. Themes/Sin & The Fall]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Prophecy & Fulfillment]]

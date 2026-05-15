@@ -367,10 +367,10 @@
 - [[Satire]]
 
 ## Related Books
-- [[Mere Christianity]]
-- [[The Great Divorce]]
-- [[The Problem of Pain]]
-- [[Paradise Lost]]
-- [[Pilgrim's Progress]]
-- [[The Abolition of Man]]
-- [[Live No Lies]]
+- [[content/4. Supplemental Content/C.S. Lewis/Mere Christianity]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Great Divorce]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Problem of Pain]]
+- [[7. Supplemental Content/Paradise Lost]]
+- [[7. Supplemental Content/Pilgrim's Progress]]
+- [[content/4. Supplemental Content/C.S. Lewis/The Abolition of Man]]
+- [[7. Supplemental Content/John Mark Comer/Live No Lies]]

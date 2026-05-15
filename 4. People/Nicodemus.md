@@ -2,7 +2,7 @@
 
 **Testament:** New Testament
 **Era:** The Gospels
-**Appears In:** [[3. Book Overviews/43. John Overview|John]]
+**Appears In:** [[3. Overviews/43. John Overview|John]]
 
 ## Who He Is
 Nicodemus is a Pharisee and member of the Jewish ruling council (the Sanhedrin) who came to Jesus by night — drawn to him but not yet willing to be seen. His nighttime visit becomes the occasion for Jesus's most famous words about new birth: "You must be born again" (John 3:7). He appears three times in John's Gospel, each time showing a deeper, if cautious, movement toward faith — until he finally steps into the open after the crucifixion to help bury Jesus.
@@ -25,4 +25,4 @@ Nicodemus is a picture of the honest religious seeker — someone who has everyt
 By John 19, Nicodemus is no longer hiding. He brings a lavish, public quantity of burial spices and helps prepare the body of the man the authorities have just executed. This is no small step for a member of the Sanhedrin. Whatever the cost to his social standing and safety, he chooses to honor Jesus openly in death. John never tells us when exactly Nicodemus fully believed — but the trajectory is clear, and it ends at the foot of the cross.
 
 ## Related Themes
-[[Faith & Trust]] · [[Redemption & Salvation]] · [[The Holy Spirit]] · [[Grace & Mercy]] · [[Messiah & Christ]]
+[[6. Themes/Faith & Trust]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/The Holy Spirit]] · [[6. Themes/Grace & Mercy]] · [[6. Themes/Messiah & Christ]]

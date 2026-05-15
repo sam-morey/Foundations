@@ -2,7 +2,7 @@
 
 **Testament:** Old Testament
 **Era:** The Prophets
-**Appears In:** [[3. Book Overviews/23. Isaiah Overview|Isaiah]]
+**Appears In:** [[3. Overviews/23. Isaiah Overview|Isaiah]]
 
 ## Who They Are
 Isaiah son of Amoz is the greatest of the Old Testament writing prophets, whose ministry spans four Judean kings from Uzziah to Hezekiah. Called the "fifth evangelist," his book contains the most explicit anticipations of the Messiah in all of Scripture, including the Servant Songs (Isaiah 42, 49, 50, 52–53) that describe the crucifixion in detail seven centuries before it happens. His vision of God enthroned in the Temple (Isaiah 6) is the definitive OT call narrative, and his message of comfort in Isaiah 40–66 is quoted more in the New Testament than any other prophet.
@@ -36,4 +36,4 @@ His ministry is one of the most difficult imaginable. God tells him at his call 
 - [[2. The Bible (ESV)/44. Acts/Acts 8|Acts 8:32–35]] — The Ethiopian eunuch is reading Isaiah 53; Philip uses it to preach Jesus
 
 ## Related Themes
-[[Prophecy & Fulfillment]] · [[Messiah & Christ]] · [[Suffering & Perseverance]] · [[Sacrifice & Atonement]] · [[Redemption & Salvation]] · [[Judgment]]
+[[6. Themes/Prophecy & Fulfillment]] · [[6. Themes/Messiah & Christ]] · [[6. Themes/Suffering & Perseverance]] · [[6. Themes/Sacrifice & Atonement]] · [[6. Themes/Redemption & Salvation]] · [[6. Themes/Judgment]]
