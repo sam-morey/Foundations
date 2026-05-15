@@ -6,28 +6,28 @@ A covenant is a solemn, binding agreement — often including promises, obligati
 
 | Covenant | Passage | Parties | Sign |
 |----------|---------|---------|------|
-| Noahic | [[2. The Bible (ESV)/01 Genesis/Chapter_09\|Genesis 9]] | God & all creation | Rainbow |
-| Abrahamic | [[2. The Bible (ESV)/01 Genesis/Chapter_12\|Genesis 12]], [[2. The Bible (ESV)/01 Genesis/Chapter_15\|15]], [[2. The Bible (ESV)/01 Genesis/Chapter_17\|17]] | God & Abraham | Circumcision |
-| Mosaic / Sinaitic | [[2. The Bible (ESV)/02 Exodus/Chapter_19\|Exodus 19–20]], [[2. The Bible (ESV)/05 Deuteronomy/Chapter_05\|Deuteronomy 5]] | God & Israel | Sabbath |
-| Davidic | [[2. The Bible (ESV)/10 II Samuel/Chapter_07\|2 Samuel 7]] | God & David | Eternal throne |
-| New Covenant | [[2. The Bible (ESV)/24 Jeremiah/Chapter_31\|Jeremiah 31]], [[2. The Bible (ESV)/40 Matthew/Chapter_26\|Matthew 26]] | God & all who believe | Lord's Supper |
+| Noahic | [[2. The Bible (ESV)/01. Genesis/Genesis 9\|Genesis 9]] | God & all creation | Rainbow |
+| Abrahamic | [[2. The Bible (ESV)/01. Genesis/Genesis 12\|Genesis 12]], [[2. The Bible (ESV)/01. Genesis/Genesis 15\|15]], [[2. The Bible (ESV)/01. Genesis/Genesis 17\|17]] | God & Abraham | Circumcision |
+| Mosaic / Sinaitic | [[2. The Bible (ESV)/02. Exodus/Exodus 19\|Exodus 19–20]], [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 5\|Deuteronomy 5]] | God & Israel | Sabbath |
+| Davidic | [[2. The Bible (ESV)/10. II Samuel/II Samuel 7\|2 Samuel 7]] | God & David | Eternal throne |
+| New Covenant | [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31\|Jeremiah 31]], [[2. The Bible (ESV)/40. Matthew/Matthew 26\|Matthew 26]] | God & all who believe | Lord's Supper |
 
 ## Development Across Scripture
 
 **Old Testament foundations**
-- God's first covenant-like promise follows the Fall: [[2. The Bible (ESV)/01 Genesis/Chapter_03\|Genesis 3]] (the proto-gospel, *protevangelium*)
-- Abraham is called and the covenant confirmed three times: [[2. The Bible (ESV)/01 Genesis/Chapter_12\|Genesis 12]], [[2. The Bible (ESV)/01 Genesis/Chapter_15\|Genesis 15]] (covenant ceremony), [[2. The Bible (ESV)/01 Genesis/Chapter_17\|Genesis 17]] (circumcision)
-- The covenant is tested and confirmed at Moriah: [[2. The Bible (ESV)/01 Genesis/Chapter_22\|Genesis 22]]
-- Israel enters covenant at Sinai: [[2. The Bible (ESV)/02 Exodus/Chapter_19\|Exodus 19]], [[2. The Bible (ESV)/02 Exodus/Chapter_24\|Exodus 24]]
-- The Law elaborates covenant life: [[2. The Bible (ESV)/03 Leviticus/Chapter_26\|Leviticus 26]] (blessings and curses)
-- Moses renews the covenant on the plains of Moab: [[2. The Bible (ESV)/05 Deuteronomy/Chapter_29\|Deuteronomy 29–30]]
-- God promises an everlasting Davidic dynasty: [[2. The Bible (ESV)/10 II Samuel/Chapter_07\|2 Samuel 7]]
-- Prophets announce a coming New Covenant: [[2. The Bible (ESV)/24 Jeremiah/Chapter_31\|Jeremiah 31]], [[2. The Bible (ESV)/26 Ezekiel/Chapter_36\|Ezekiel 36]]
+- God's first covenant-like promise follows the Fall: [[2. The Bible (ESV)/01. Genesis/Genesis 3\|Genesis 3]] (the proto-gospel, *protevangelium*)
+- Abraham is called and the covenant confirmed three times: [[2. The Bible (ESV)/01. Genesis/Genesis 12\|Genesis 12]], [[2. The Bible (ESV)/01. Genesis/Genesis 15\|Genesis 15]] (covenant ceremony), [[2. The Bible (ESV)/01. Genesis/Genesis 17\|Genesis 17]] (circumcision)
+- The covenant is tested and confirmed at Moriah: [[2. The Bible (ESV)/01. Genesis/Genesis 22\|Genesis 22]]
+- Israel enters covenant at Sinai: [[2. The Bible (ESV)/02. Exodus/Exodus 19\|Exodus 19]], [[2. The Bible (ESV)/02. Exodus/Exodus 24\|Exodus 24]]
+- The Law elaborates covenant life: [[2. The Bible (ESV)/03. Leviticus/Leviticus 26\|Leviticus 26]] (blessings and curses)
+- Moses renews the covenant on the plains of Moab: [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 29\|Deuteronomy 29–30]]
+- God promises an everlasting Davidic dynasty: [[2. The Bible (ESV)/10. II Samuel/II Samuel 7\|2 Samuel 7]]
+- Prophets announce a coming New Covenant: [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 31\|Jeremiah 31]], [[2. The Bible (ESV)/26. Ezekiel/Ezekiel 36\|Ezekiel 36]]
 
 **New Testament fulfillment**
-- Jesus inaugurates the New Covenant at the Last Supper: [[2. The Bible (ESV)/40 Matthew/Chapter_26\|Matthew 26]]
-- Paul shows Abraham's covenant was always by faith: [[2. The Bible (ESV)/45 Romans/Chapter_04\|Romans 4]], [[2. The Bible (ESV)/48 Galatians/Chapter_03\|Galatians 3]]
-- Hebrews contrasts old and new covenants at length: [[2. The Bible (ESV)/58 Hebrews/Chapter_08\|Hebrews 8–10]]
+- Jesus inaugurates the New Covenant at the Last Supper: [[2. The Bible (ESV)/40. Matthew/Matthew 26\|Matthew 26]]
+- Paul shows Abraham's covenant was always by faith: [[2. The Bible (ESV)/45. Romans/Romans 4\|Romans 4]], [[2. The Bible (ESV)/48. Galatians/Galatians 3\|Galatians 3]]
+- Hebrews contrasts old and new covenants at length: [[2. The Bible (ESV)/58. Hebrews/Hebrews 8\|Hebrews 8–10]]
 
 ## Related Themes
 - [[Sacrifice & Atonement]] — covenant ratified by blood
