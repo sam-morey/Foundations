@@ -1,7 +1,5 @@
 ← [[Romans 4]] | [[Romans 6]] →
 
-# Chapter 5
-
 1. Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.
 2. Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God.
 3. Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance,

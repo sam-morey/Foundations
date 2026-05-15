@@ -1,7 +1,5 @@
 ← [[II Samuel 1]] | [[II Samuel 3]] →
 
-# Chapter 2
-
 1. After this David inquired of the Lord, Shall I go up into any of the cities of Judah? And the Lord said to him, Go up. David said, To which shall I go up? And he said, To Hebron.
 2. So David went up there, and his two wives also, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel.
 3. And David brought up his men who were with him, everyone with his household, and they lived in the towns of Hebron.

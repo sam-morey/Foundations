@@ -1,7 +1,5 @@
 ← [[Hebrews 12]] | [[James 1]] →
 
-# Chapter 13
-
 1. Let brotherly love continue.
 2. Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.
 3. Remember those who are in prison, as though in prison with them, and those who are mistreated, since you also are in the body.

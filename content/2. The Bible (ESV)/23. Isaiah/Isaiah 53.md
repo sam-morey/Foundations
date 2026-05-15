@@ -1,7 +1,5 @@
 ← [[Isaiah 52]] | [[Isaiah 54]] →
 
-# Chapter 53
-
 1. Who has believed what he has heard from us? And to whom has the arm of the Lord been revealed?
 2. For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him.
 3. He was despised and rejected by men; a man of sorrows, and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not.

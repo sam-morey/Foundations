@@ -1,7 +1,5 @@
 ← [[Jeremiah 41]] | [[Jeremiah 43]] →
 
-# Chapter 42
-
 1. Then all the commanders of the forces, and Johanan the son of Kareah and Jezaniah the son of Hoshaiah, and all the people from the least to the greatest, came near
 2. and said to Jeremiah the prophet, Let our plea for mercy come before you, and pray to the Lord your God for us, for all this remnant — because we are left with but a few, as your eyes see us—
 3. that the Lord your God may show us the way we should go, and the thing that we should do.

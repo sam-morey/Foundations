@@ -1,7 +1,5 @@
 ← [[Numbers 5]] | [[Numbers 7]] →
 
-# Chapter 6
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord,
 3. he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried.

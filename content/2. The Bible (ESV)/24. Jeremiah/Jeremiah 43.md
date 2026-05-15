@@ -1,7 +1,5 @@
 ← [[Jeremiah 42]] | [[Jeremiah 44]] →
 
-# Chapter 43
-
 1. When Jeremiah finished speaking to all the people all these words of the Lord their God, with which the Lord their God had sent him to them,
 2. Azariah the son of Hoshaiah and Johanan the son of Kareah and all the insolent men said to Jeremiah, You are telling a lie. The Lord our God did not send you to say, Do not go to Egypt to live there,
 3. but Baruch the son of Neriah has set you against us, to deliver us into the hand of the Chaldeans, that they may kill us or take us into exile in Babylon.

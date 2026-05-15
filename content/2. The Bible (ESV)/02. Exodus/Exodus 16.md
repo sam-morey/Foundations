@@ -1,7 +1,5 @@
 ← [[Exodus 15]] | [[Exodus 17]] →
 
-# Chapter 16
-
 1. They set out from Elim, and all the congregation of the people of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had departed from the land of Egypt.
 2. And the whole congregation of the people of Israel grumbled against Moses and Aaron in the wilderness,
 3. and the people of Israel said to them, Would that we had died by the hand of the Lord in the land of Egypt, when we sat by the meat pots and ate bread to the full, for you have brought us out into this wilderness to kill this whole assembly with hunger.

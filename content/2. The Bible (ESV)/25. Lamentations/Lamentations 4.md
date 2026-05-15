@@ -1,7 +1,5 @@
 ← [[Lamentations 3]] | [[Lamentations 5]] →
 
-# Chapter 4
-
 1. How the gold has grown dim, how the pure gold is changed! The holy stones lie scattered at the head of every street.
 2. The precious sons of Zion, worth their weight in fine gold, how they are regarded as earthen pots, the work of a potter’s hands!
 3. Even jackals offer the breast; they nurse their young, but the daughter of my people has become cruel, like the ostriches in the wilderness.

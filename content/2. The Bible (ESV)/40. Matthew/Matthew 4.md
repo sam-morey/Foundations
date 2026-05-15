@@ -1,7 +1,5 @@
 ← [[Matthew 3]] | [[Matthew 5]] →
 
-# Chapter 4
-
 1. Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.
 2. And after fasting forty days and forty nights, he was hungry.
 3. And the tempter came and said to him, If you are the Son of God, command these stones to become loaves of bread.

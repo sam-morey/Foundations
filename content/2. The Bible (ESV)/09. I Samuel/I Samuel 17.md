@@ -1,7 +1,5 @@
 ← [[I Samuel 16]] | [[I Samuel 18]] →
 
-# Chapter 17
-
 1. Now the Philistines gathered their armies for battle. And they were gathered at Socoh, which belongs to Judah, and encamped between Socoh and Azekah, in Ephes-dammim.
 2. And Saul and the men of Israel were gathered, and encamped in the Valley of Elah, and drew up in line of battle against the Philistines.
 3. And the Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side, with a valley between them.

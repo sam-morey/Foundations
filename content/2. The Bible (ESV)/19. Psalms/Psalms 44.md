@@ -1,7 +1,5 @@
 ← [[Psalms 43]] | [[Psalms 45]] →
 
-# Chapter 44
-
 1. Come to Our Help To the choirmaster. A Maskil of the Sons of Korah. O God, we have heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old :
 2. you with your own hand drove out the nations, but them you planted; you afflicted the peoples, but them you set free;
 3. for not by their own sword did they win the land, nor did their own arm save them, but your right hand and your arm, and the light of your face, for you delighted in them.

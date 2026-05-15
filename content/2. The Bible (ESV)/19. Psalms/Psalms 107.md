@@ -1,7 +1,5 @@
 ← [[Psalms 106]] | [[Psalms 108]] →
 
-# Chapter 107
-
 1. Let the Redeemed of the Lord Say So Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!
 2. Let the redeemed of the Lord say so, whom he has redeemed from trouble
 3. and gathered in from the lands, from the east and from the west, from the north and from the south.

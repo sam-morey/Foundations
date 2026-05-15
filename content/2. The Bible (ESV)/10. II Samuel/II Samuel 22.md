@@ -1,7 +1,5 @@
 ← [[II Samuel 21]] | [[II Samuel 23]] →
 
-# Chapter 22
-
 1. And David spoke to the Lord the words of this song on the day when the Lord delivered him from the hand of all his enemies, and from the hand of Saul.
 2. He said, The Lord is my rock and my fortress and my deliverer,
 3. my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold and my refuge, my savior; you save me from violence.

@@ -1,7 +1,5 @@
 ← [[Mark 13]] | [[Mark 15]] →
 
-# Chapter 14
-
 1. It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him,
 2. for they said, Not during the feast, lest there be an uproar from the people.
 3. And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head.

@@ -1,7 +1,5 @@
 ← [[Ruth 2]] | [[Ruth 4]] →
 
-# Chapter 3
-
 1. Then Naomi her mother-in-law said to her, My daughter, should I not seek rest for you, that it may be well with you?
 2. Is not Boaz our relative, with whose young women you were? See, he is winnowing barley tonight at the threshing floor.
 3. Wash therefore and anoint yourself, and put on your cloak and go down to the threshing floor, but do not make yourself known to the man until he has finished eating and drinking.

@@ -1,7 +1,5 @@
 ← [[Psalms 118]] | [[Psalms 120]] →
 
-# Chapter 119
-
 1. Your Word Is a Lamp to My Feet Aleph Blessed are those whose way is blameless, who walk in the law of the Lord!
 2. Blessed are those who keep his testimonies, who seek him with their whole heart,
 3. who also do no wrong, but walk in his ways!

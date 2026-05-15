@@ -1,7 +1,5 @@
 ← [[I Chronicles 10]] | [[I Chronicles 12]] →
 
-# Chapter 11
-
 1. Then all Israel gathered together to David at Hebron and said, Behold, we are your bone and flesh.
 2. In times past, even when Saul was king, it was you who led out and brought in Israel. And the Lord your God said to you, You shall be shepherd of my people Israel, and you shall be prince over my people Israel.
 3. So all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the Lord. And they anointed David king over Israel, according to the word of the Lord by Samuel.

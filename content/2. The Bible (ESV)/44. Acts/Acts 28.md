@@ -1,7 +1,5 @@
 ← [[Acts 27]] | [[Romans 1]] →
 
-# Chapter 28
-
 1. After we were brought safely through, we then learned that the island was called Malta.
 2. The native people showed us unusual kindness, for they kindled a fire and welcomed us all, because it had begun to rain and was cold.
 3. When Paul had gathered a bundle of sticks and put them on the fire, a viper came out because of the heat and fastened on his hand.

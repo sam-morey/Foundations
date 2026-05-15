@@ -1,7 +1,5 @@
 ← [[Psalms 131]] | [[Psalms 133]] →
 
-# Chapter 132
-
 1. The Lord Has Chosen Zion A Song of Ascents. Remember, O Lord, in David’s favor, all the hardships he endured,
 2. how he swore to the Lord and vowed to the Mighty One of Jacob,
 3. I will not enter my house or get into my bed,

@@ -1,7 +1,5 @@
 ← [[Joshua 21]] | [[Joshua 23]] →
 
-# Chapter 22
-
 1. At that time Joshua summoned the Reubenites and the Gadites and the half-tribe of Manasseh,
 2. and said to them, You have kept all that Moses the servant of the Lord commanded you and have obeyed my voice in all that I have commanded you.
 3. You have not forsaken your brothers these many days, down to this day, but have been careful to keep the charge of the Lord your God.

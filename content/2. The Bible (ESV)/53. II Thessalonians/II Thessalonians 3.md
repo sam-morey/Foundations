@@ -1,7 +1,5 @@
 ← [[II Thessalonians 2]] | [[I Timothy 1]] →
 
-# Chapter 3
-
 1. Finally, brothers, pray for us, that the word of the Lord may speed ahead and be honored, as happened among you,
 2. and that we may be delivered from wicked and evil men. For not all have faith.
 3. But the Lord is faithful. He will establish you and guard you against the evil one.

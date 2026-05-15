@@ -1,7 +1,5 @@
 ← [[Psalms 96]] | [[Psalms 98]] →
 
-# Chapter 97
-
 1. The Lord Reigns The Lord reigns, let the earth rejoice; let the many coastlands be glad!
 2. Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne.
 3. Fire goes before him and burns up his adversaries all around.

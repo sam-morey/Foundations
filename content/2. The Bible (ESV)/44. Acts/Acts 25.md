@@ -1,7 +1,5 @@
 ← [[Acts 24]] | [[Acts 26]] →
 
-# Chapter 25
-
 1. Now three days after Festus had arrived in the province, he went up to Jerusalem from Caesarea.
 2. And the chief priests and the principal men of the Jews laid out their case against Paul, and they urged him,
 3. asking as a favor against Paul that he summon him to Jerusalem —because they were planning an ambush to kill him on the way.

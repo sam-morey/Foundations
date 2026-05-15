@@ -1,7 +1,5 @@
 ← [[Acts 11]] | [[Acts 13]] →
 
-# Chapter 12
-
 1. About that time Herod the king laid violent hands on some who belonged to the church.
 2. He killed James the brother of John with the sword,
 3. and when he saw that it pleased the Jews, he proceeded to arrest Peter also. This was during the days of Unleavened Bread.

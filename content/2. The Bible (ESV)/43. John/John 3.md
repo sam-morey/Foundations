@@ -1,7 +1,5 @@
 ← [[John 2]] | [[John 4]] →
 
-# Chapter 3
-
 1. Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
 2. This man came to Jesus by night and said to him, Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.
 3. Jesus answered him, Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.

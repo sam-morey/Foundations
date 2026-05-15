@@ -1,7 +1,5 @@
 ← [[Zechariah 4]] | [[Zechariah 6]] →
 
-# Chapter 5
-
 1. Again I lifted my eyes and saw, and behold, a flying scroll!
 2. And he said to me, What do you see? I answered, I see a flying scroll. Its length is twenty cubits, and its width ten cubits.
 3. Then he said to me, This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side.

@@ -1,7 +1,5 @@
 ← [[Ezekiel 36]] | [[Ezekiel 38]] →
 
-# Chapter 37
-
 1. The hand of the Lord was upon me, and he brought me out in the Spirit of the Lord and set me down in the middle of the valley; it was full of bones.
 2. And he led me around among them, and behold, there were very many on the surface of the valley, and behold, they were very dry.
 3. And he said to me, Son of man, can these bones live? And I answered, O Lord God, you know.

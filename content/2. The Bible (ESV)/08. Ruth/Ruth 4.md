@@ -1,7 +1,5 @@
 ← [[Ruth 3]] | [[I Samuel 1]] →
 
-# Chapter 4
-
 1. Now Boaz had gone up to the gate and sat down there. And behold, the redeemer, of whom Boaz had spoken, came by. So Boaz said, Turn aside, friend; sit down here. And he turned aside and sat down.
 2. And he took ten men of the elders of the city and said, Sit down here. So they sat down.
 3. Then he said to the redeemer, Naomi, who has come back from the country of Moab, is selling the parcel of land that belonged to our relative Elimelech.

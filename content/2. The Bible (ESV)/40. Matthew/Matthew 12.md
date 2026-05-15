@@ -1,7 +1,5 @@
 ← [[Matthew 11]] | [[Matthew 13]] →
 
-# Chapter 12
-
 1. At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat.
 2. But when the Pharisees saw it, they said to him, Look, your disciples are doing what is not lawful to do on the Sabbath.
 3. He said to them, Have you not read what David did when he was hungry, and those who were with him :

@@ -1,7 +1,5 @@
 ← [[II Samuel 15]] | [[II Samuel 17]] →
 
-# Chapter 16
-
 1. When David had passed a little beyond the summit, Ziba the servant of Mephibosheth met him, with a couple of donkeys saddled, bearing two hundred loaves of bread, a hundred bunches of raisins, a hundred of summer fruits, and a skin of wine.
 2. And the king said to Ziba, Why have you brought these? Ziba answered, The donkeys are for the king’s household to ride on, the bread and summer fruit for the young men to eat, and the wine for those who faint in the wilderness to drink.
 3. And the king said, And where is your master’s son? Ziba said to the king, Behold, he remains in Jerusalem, for he said, Today the house of Israel will give me back the kingdom of my father.

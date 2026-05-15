@@ -1,7 +1,5 @@
 ← [[II Chronicles 25]] | [[II Chronicles 27]] →
 
-# Chapter 26
-
 1. And all the people of Judah took Uzziah, who was sixteen years old, and made him king instead of his father Amaziah.
 2. He built Eloth and restored it to Judah, after the king slept with his fathers.
 3. Uzziah was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem.

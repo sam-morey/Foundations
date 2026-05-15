@@ -1,7 +1,5 @@
 ← [[Zechariah 1]] | [[Zechariah 3]] →
 
-# Chapter 2
-
 1. And I lifted my eyes and saw, and behold, a man with a measuring line in his hand!
 2. Then I said, Where are you going? And he said to me, To measure Jerusalem, to see what is its width and what is its length.
 3. And behold, the angel who talked with me came forward, and another angel came forward to meet him

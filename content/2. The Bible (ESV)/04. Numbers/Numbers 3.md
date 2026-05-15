@@ -1,7 +1,5 @@
 ← [[Numbers 2]] | [[Numbers 4]] →
 
-# Chapter 3
-
 1. These are the generations of Aaron and Moses at the time when the Lord spoke with Moses on Mount Sinai.
 2. These are the names of the sons of Aaron : Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 3. These are the names of the sons of Aaron, the anointed priests, whom he ordained to serve as priests.

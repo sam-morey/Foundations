@@ -1,7 +1,5 @@
 ← [[Philippians 2]] | [[Philippians 4]] →
 
-# Chapter 3
-
 1. Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you.
 2. Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh.
 3. For we are the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh —

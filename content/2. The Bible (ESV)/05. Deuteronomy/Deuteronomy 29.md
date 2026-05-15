@@ -1,7 +1,5 @@
 ← [[Deuteronomy 28]] | [[Deuteronomy 30]] →
 
-# Chapter 29
-
 1. These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, besides the covenant that he had made with them at Horeb.
 2. And Moses summoned all Israel and said to them: You have seen all that the Lord did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land,
 3. the great trials that your eyes saw, the signs, and those great wonders.

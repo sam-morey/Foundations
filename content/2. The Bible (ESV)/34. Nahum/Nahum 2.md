@@ -1,7 +1,5 @@
 ← [[Nahum 1]] | [[Nahum 3]] →
 
-# Chapter 2
-
 1. The scatterer has come up against you. Man the ramparts; watch the road; dress for battle; collect all your strength.
 2. For the Lord is restoring the majesty of Jacob as the majesty of Israel, for plunderers have plundered them and ruined their branches.
 3. The shield of his mighty men is red; his soldiers are clothed in scarlet. The chariots come with flashing metal on the day he musters them; the cypress spears are brandished.

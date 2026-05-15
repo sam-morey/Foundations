@@ -1,7 +1,5 @@
 ← [[Exodus 37]] | [[Exodus 39]] →
 
-# Chapter 38
-
 1. He made the altar of burnt offering of acacia wood. Five cubits was its length, and five cubits its breadth. It was square, and three cubits was its height.
 2. He made horns for it on its four corners. Its horns were of one piece with it, and he overlaid it with bronze.
 3. And he made all the utensils of the altar, the pots, the shovels, the basins, the forks, and the fire pans. He made all its utensils of bronze.

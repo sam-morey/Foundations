@@ -1,7 +1,5 @@
 ← [[I Chronicles 13]] | [[I Chronicles 15]] →
 
-# Chapter 14
-
 1. And Hiram king of Tyre sent messengers to David, and cedar trees, also masons and carpenters to build a house for him.
 2. And David knew that the Lord had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel.
 3. And David took more wives in Jerusalem, and David fathered more sons and daughters.

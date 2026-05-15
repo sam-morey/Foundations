@@ -1,7 +1,5 @@
 ← [[II Chronicles 2]] | [[II Chronicles 4]] →
 
-# Chapter 3
-
 1. Then Solomon began to build the house of the Lord in Jerusalem on Mount Moriah, where the Lord had appeared to David his father, at the place that David had appointed, on the threshing floor of Ornan the Jebusite.
 2. He began to build in the second month of the fourth year of his reign.
 3. These are Solomon’s measurements for building the house of God : the length, in cubits of the old standard, was sixty cubits, and the breadth twenty cubits.

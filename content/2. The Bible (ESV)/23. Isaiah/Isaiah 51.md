@@ -1,7 +1,5 @@
 ← [[Isaiah 50]] | [[Isaiah 52]] →
 
-# Chapter 51
-
 1. Listen to me, you who pursue righteousness, you who seek the Lord : look to the rock from which you were hewn, and to the quarry from which you were dug.
 2. Look to Abraham your father and to Sarah who bore you; for he was but one when I called him, that I might bless him and multiply him.
 3. For the Lord comforts Zion; he comforts all her waste places and makes her wilderness like Eden, her desert like the garden of the Lord; joy and gladness will be found in her, thanksgiving and the voice of song.

@@ -1,7 +1,5 @@
 ← [[Isaiah 22]] | [[Isaiah 24]] →
 
-# Chapter 23
-
 1. The oracle concerning Tyre. Wail, O ships of Tarshish, for Tyre is laid waste, without house or harbor! From the land of Cyprus it is revealed to them.
 2. Be still, O inhabitants of the coast; the merchants of Sidon, who cross the sea, have filled you.
 3. And on many waters your revenue was the grain of Shihor, the harvest of the Nile; you were the merchant of the nations.

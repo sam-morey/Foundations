@@ -1,7 +1,5 @@
 ← [[Song of Solomon 4]] | [[Song of Solomon 6]] →
 
-# Chapter 5
-
 1. I came to my garden, my sister, my bride, I gathered my myrrh with my spice, I ate my honeycomb with my honey, I drank my wine with my milk. Eat, friends, drink, and be drunk with love!
 2. I slept, but my heart was awake. A sound! My beloved is knocking. Open to me, my sister, my love, my dove, my perfect one, for my head is wet with dew, my locks with the drops of the night.
 3. I had put off my garment; how could I put it on? I had bathed my feet; how could I soil them?

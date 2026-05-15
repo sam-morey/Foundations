@@ -1,7 +1,5 @@
 ← [[Psalms 77]] | [[Psalms 79]] →
 
-# Chapter 78
-
 1. Tell the Coming Generation A Maskil of Asaph. Give ear, O my people, to my teaching; incline your ears to the words of my mouth!
 2. I will open my mouth in a parable; I will utter dark sayings from of old,
 3. things that we have heard and known, that our fathers have told us.

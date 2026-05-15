@@ -1,7 +1,5 @@
 ← [[Psalms 16]] | [[Psalms 18]] →
 
-# Chapter 17
-
 1. In the Shadow of Your Wings A Prayer of David. Hear a just cause, O Lord; attend to my cry! Give ear to my prayer from lips free of deceit!
 2. From your presence let my vindication come! Let your eyes behold the right!
 3. You have tried my heart, you have visited me by night, you have tested me, and you will find nothing; I have purposed that my mouth will not transgress.

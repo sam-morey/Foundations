@@ -1,7 +1,5 @@
 ← [[Exodus 3]] | [[Exodus 5]] →
 
-# Chapter 4
-
 1. Then Moses answered, But behold, they will not believe me or listen to my voice, for they will say, The Lord did not appear to you.
 2. The Lord said to him, What is that in your hand? He said, A staff.
 3. And he said, Throw it on the ground. So he threw it on the ground, and it became a serpent, and Moses ran from it.

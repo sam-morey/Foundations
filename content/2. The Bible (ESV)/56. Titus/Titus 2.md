@@ -1,7 +1,5 @@
 ← [[Titus 1]] | [[Titus 3]] →
 
-# Chapter 2
-
 1. But as for you, teach what accords with sound doctrine.
 2. Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness.
 3. Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine. They are to teach what is good,

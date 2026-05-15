@@ -1,7 +1,5 @@
 ← [[I Peter 4]] | [[II Peter 1]] →
 
-# Chapter 5
-
 1. So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed :
 2. shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;
 3. not domineering over those in your charge, but being examples to the flock.

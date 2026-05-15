@@ -1,7 +1,5 @@
 ← [[Nahum 2]] | [[Habakkuk 1]] →
 
-# Chapter 3
-
 1. Woe to the bloody city, all full of lies and plunder — no end to the prey!
 2. The crack of the whip, and rumble of the wheel, galloping horse and bounding chariot!
 3. Horsemen charging, flashing sword and glittering spear, hosts of slain, heaps of corpses, dead bodies without end — they stumble over the bodies!

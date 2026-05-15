@@ -1,7 +1,5 @@
 ← [[Haggai 2]] | [[Zechariah 2]] →
 
-# Chapter 1
-
 1. In the eighth month, in the second year of Darius, the word of the Lord came to the prophet Zechariah, the son of Berechiah, son of Iddo, saying,
 2. The Lord was very angry with your fathers.
 3. Therefore say to them, Thus declares the Lord of hosts : Return to me, says the Lord of hosts, and I will return to you, says the Lord of hosts.

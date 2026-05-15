@@ -1,7 +1,5 @@
 ← [[Exodus 13]] | [[Exodus 15]] →
 
-# Chapter 14
-
 1. Then the Lord said to Moses,
 2. Tell the people of Israel to turn back and encamp in front of Pi-hahiroth, between Migdol and the sea, in front of Baal-zephon; you shall encamp facing it, by the sea.
 3. For Pharaoh will say of the people of Israel, They are wandering in the land; the wilderness has shut them in.

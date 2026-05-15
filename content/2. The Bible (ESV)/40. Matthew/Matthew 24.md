@@ -1,7 +1,5 @@
 ← [[Matthew 23]] | [[Matthew 25]] →
 
-# Chapter 24
-
 1. Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple.
 2. But he answered them, You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down.
 3. As he sat on the Mount of Olives, the disciples came to him privately, saying, Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?

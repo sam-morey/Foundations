@@ -1,7 +1,5 @@
 ← [[Matthew 19]] | [[Matthew 21]] →
 
-# Chapter 20
-
 1. For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard.
 2. After agreeing with the laborers for a denarius a day, he sent them into his vineyard.
 3. And going out about the third hour he saw others standing idle in the marketplace,

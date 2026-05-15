@@ -1,7 +1,5 @@
 ← [[Deuteronomy 7]] | [[Deuteronomy 9]] →
 
-# Chapter 8
-
 1. The whole commandment that I command you today you shall be careful to do, that you may live and multiply, and go in and possess the land that the Lord swore to give to your fathers.
 2. And you shall remember the whole way that the Lord your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments or not.
 3. And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord.

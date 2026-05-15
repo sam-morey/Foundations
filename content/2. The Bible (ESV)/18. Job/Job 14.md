@@ -1,7 +1,5 @@
 ← [[Job 13]] | [[Job 15]] →
 
-# Chapter 14
-
 1. Man who is born of a woman is few of days and full of trouble.
 2. He comes out like a flower and withers; he flees like a shadow and continues not.
 3. And do you open your eyes on such a one and bring me into judgment with you?

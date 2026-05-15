@@ -1,7 +1,5 @@
 ← [[I Samuel 8]] | [[I Samuel 10]] →
 
-# Chapter 9
-
 1. There was a man of Benjamin whose name was Kish, the son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjaminite, a man of wealth.
 2. And he had a son whose name was Saul, a handsome young man. There was not a man among the people of Israel more handsome than he. From his shoulders upward he was taller than any of the people.
 3. Now the donkeys of Kish, Saul’s father, were lost. So Kish said to Saul his son, Take one of the young men with you, and arise, go and look for the donkeys.

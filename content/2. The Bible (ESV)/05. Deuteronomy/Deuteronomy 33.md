@@ -1,7 +1,5 @@
 ← [[Deuteronomy 32]] | [[Deuteronomy 34]] →
 
-# Chapter 33
-
 1. This is the blessing with which Moses the man of God blessed the people of Israel before his death.
 2. He said, The Lord came from Sinai and dawned from Seir upon us; he shone forth from Mount Paran; he came from the ten thousands of holy ones, with flaming fire at his right hand.
 3. Yes, he loved his people, all his holy ones were in his hand; so they followed in your steps, receiving direction from you,

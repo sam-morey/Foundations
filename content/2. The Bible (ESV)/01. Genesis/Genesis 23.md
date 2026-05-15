@@ -1,7 +1,5 @@
 ← [[Genesis 22]] | [[Genesis 24]] →
 
-# Chapter 23
-
 1. Sarah lived 127 years; these were the years of the life of Sarah.
 2. And Sarah died at Kiriath-arba (that is, Hebron ) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her.
 3. And Abraham rose up from before his dead and said to the Hittites,

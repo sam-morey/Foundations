@@ -1,7 +1,5 @@
 ← [[Numbers 23]] | [[Numbers 25]] →
 
-# Chapter 24
-
 1. When Balaam saw that it pleased the Lord to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness.
 2. And Balaam lifted up his eyes and saw Israel camping tribe by tribe. And the Spirit of God came upon him,
 3. and he took up his discourse and said, The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened,

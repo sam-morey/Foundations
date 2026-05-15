@@ -1,5 +1,3 @@
-# Rachel
-
 **Testament:** Old Testament
 **Era:** Patriarchal Age
 **Appears In:** [[3. Overviews/01. Genesis Overview|Genesis]]

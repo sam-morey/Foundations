@@ -1,7 +1,5 @@
 ← [[II Corinthians 12]] | [[Galatians 1]] →
 
-# Chapter 13
-
 1. This is the third time I am coming to you. Every charge must be established by the evidence of two or three witnesses.
 2. I warned those who sinned before and all the others, and I warn them now while absent, as I did when present on my second visit, that if I come again I will not spare them—
 3. since you seek proof that Christ is speaking in me. He is not weak in dealing with you, but is powerful among you.

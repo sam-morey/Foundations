@@ -1,7 +1,5 @@
 ← [[Psalms 36]] | [[Psalms 38]] →
 
-# Chapter 37
-
 1. He Will Not Forsake His Saints Of David. Fret not yourself because of evildoers; be not envious of wrongdoers!
 2. For they will soon fade like the grass and wither like the green herb.
 3. Trust in the Lord, and do good; dwell in the land and befriend faithfulness.

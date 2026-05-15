@@ -1,7 +1,5 @@
 ← [[Isaiah 19]] | [[Isaiah 21]] →
 
-# Chapter 20
-
 1. In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and captured it—
 2. at that time the Lord spoke by Isaiah the son of Amoz, saying, Go, and loose the sackcloth from your waist and take off your sandals from your feet, and he did so, walking naked and barefoot.
 3. Then the Lord said, As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,

@@ -1,7 +1,5 @@
 ← [[Revelation of John 17]] | [[Revelation of John 19]] →
 
-# Chapter 18
-
 1. After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory.
 2. And he called out with a mighty voice, Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast.
 3. For all nations have drunk the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living.

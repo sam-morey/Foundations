@@ -1,7 +1,5 @@
 ← [[Judges 20]] | [[Ruth 1]] →
 
-# Chapter 21
-
 1. Now the men of Israel had sworn at Mizpah, No one of us shall give his daughter in marriage to Benjamin.
 2. And the people came to Bethel and sat there till evening before God, and they lifted up their voices and wept bitterly.
 3. And they said, O Lord, the God of Israel, why has this happened in Israel, that today there should be one tribe lacking in Israel?

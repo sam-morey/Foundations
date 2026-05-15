@@ -1,7 +1,5 @@
 ← [[Joshua 19]] | [[Joshua 21]] →
 
-# Chapter 20
-
 1. Then the Lord said to Joshua,
 2. Say to the people of Israel, Appoint the cities of refuge, of which I spoke to you through Moses,
 3. that the manslayer who strikes any person without intent or unknowingly may flee there. They shall be for you a refuge from the avenger of blood.

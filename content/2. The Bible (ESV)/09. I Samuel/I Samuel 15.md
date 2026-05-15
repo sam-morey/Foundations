@@ -1,7 +1,5 @@
 ← [[I Samuel 14]] | [[I Samuel 16]] →
 
-# Chapter 15
-
 1. And Samuel said to Saul, The Lord sent me to anoint you king over his people Israel; now therefore listen to the words of the Lord.
 2. Thus says the Lord of hosts, I have noted what Amalek did to Israel in opposing them on the way when they came up out of Egypt.
 3. Now go and strike Amalek and devote to destruction all that they have. Do not spare them, but kill both man and woman, child and infant, ox and sheep, camel and donkey.

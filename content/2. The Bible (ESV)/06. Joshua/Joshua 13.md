@@ -1,7 +1,5 @@
 ← [[Joshua 12]] | [[Joshua 14]] →
 
-# Chapter 13
-
 1. Now Joshua was old and advanced in years, and the Lord said to him, You are old and advanced in years, and there remains yet very much land to possess.
 2. This is the land that yet remains : all the regions of the Philistines, and all those of the Geshurites
 3. (from the Shihor, which is east of Egypt, northward to the boundary of Ekron, it is counted as Canaanite; there are five rulers of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath, and Ekron ), and those of the Avvim,

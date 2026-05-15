@@ -1,7 +1,5 @@
 ← [[I Kings 18]] | [[I Kings 20]] →
 
-# Chapter 19
-
 1. Ahab told Jezebel all that Elijah had done, and how he had killed all the prophets with the sword.
 2. Then Jezebel sent a messenger to Elijah, saying, So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow.
 3. Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there.

@@ -1,149 +1,159 @@
-## Synopsis
-- *The Cost of Discipleship* is Bonhoeffer's sustained argument that authentic Christian faith demands costly obedience to Christ—not merely intellectual assent, moral improvement, or the maintenance of religious respectability.
-- Bonhoeffer's most famous distinction is between cheap grace—the forgiveness of sin without repentance, grace treated as a doctrine rather than a living encounter—and costly grace, which calls believers to follow Christ fully and bear whatever cross that entails.
-- Written in Nazi Germany and published in 1937, the book draws primarily on the Sermon on the Mount to argue that the visible community of the church must embody radical, distinctive discipleship rather than accommodating itself to the surrounding culture.
+## Synopsississis
+- *The Imitation of Christ* is the most-read Christian book after the Bible; Thomas à Kempis argues that the goal of all learning is to follow Christ, and that interior transformation matters infinitely more than intellectual achievement.
+- The book calls the reader to a radical contempt for the world's honors and pleasures, a deep self-knowledge rooted in humility, and a turning of the whole inner life toward God.
+- The fourth book, on the Eucharist, presents the Lord's Supper as the summit and center of the Christian life — the place where the soul meets Christ most directly and is most fully nourished.
 
 ## Source Info
-- Title: *The Cost of Discipleship* (Nachfolge)
-- Author: Dietrich Bonhoeffer
-- Publication Date: 1937 (English translation 1949)
-- Themes:
-  - Cheap grace versus costly grace
-  - Radical discipleship
-  - The Sermon on the Mount
-  - Church and the state
-  - Christian community and witness
-  - Obedience and faith
+- Title: *The Imitation of Christ*
+- Author: Thomas à Kempis
+- Publication Date: c. 1418–1427; in continuous circulation since the fifteenth century
+- Themes: humility, contempt of the world, following Christ, interior transformation, self-knowledge, the Eucharist, devotion, prayer
 
 ## Key Ideas
-- Cheap grace is the arch-enemy of the church: it is grace treated as a given, requiring neither repentance nor discipleship—the forgiveness of sins proclaimed without demanding that people forsake their sins.
-- Costly grace is the gospel that must be sought again and again, because it calls people to follow Jesus not merely in belief but in life; it cost God the life of his Son, and it costs the disciple his or her own life.
-- Discipleship is inseparable from concrete obedience: for Bonhoeffer, there is no faith without obedience and no obedience without faith—the two are not sequential but simultaneous.
+- True wisdom is not head knowledge but the knowledge of God combined with self-knowledge — knowing one's own sin and God's mercy.
+- The imitation of Christ is the daily, practical shaping of one's life, thoughts, desires, and actions after the pattern of Jesus.
+- The interior life — what happens in the soul before God in secret — matters more than any outward achievement, reputation, or religious performance.
+- The Eucharist is the closest point of encounter between the soul and Christ in this life, demanding reverence, preparation, and longing.
 
 ## Chapter Summaries
-- **Part I: Grace and Discipleship**
-
-  - **Chapter 1: Costly Grace**
-    - **Main Idea:** Bonhoeffer opens with his central theological distinction between cheap grace and costly grace.
-    - **Key Points:**
-      - Cheap grace is the preaching of forgiveness without requiring repentance, baptism without church discipline, communion without confession.
-      - It is grace without discipleship, without the cross, without Jesus Christ living and incarnate.
-      - Costly grace is the treasure hidden in a field: for the sake of it, the disciple sells all he has.
-      - The church's great failure has been to give away grace cheaply, immunizing people against the real thing.
-    - **Key Quotes:**
-      - "Cheap grace is the deadly enemy of our Church."
-      - "Costly grace is the gospel which must be sought again and again, the gift which must be asked for, the door at which a man must knock."
-    - **Defined Terms:**
-      - **Cheap grace:** Grace treated as a general principle, a doctrine, or a comforting idea—without the demand of repentance, obedience, or discipleship.
-      - **Costly grace:** Grace that calls the disciple to follow Jesus Christ and costs the recipient his or her life.
-    - **Takeaway:** The most dangerous enemy of Christian faith is not atheism but an accommodated, comfortable Christianity that grants forgiveness without demanding transformation.
-
-  - **Chapter 2: The Call to Discipleship**
-    - **Main Idea:** Discipleship begins with the concrete call of Jesus—not a principle to accept but a person to follow.
-    - **Key Points:**
-      - The call of Jesus to the disciples was simple and immediate: "Follow me." There was no prior religious preparation required.
-      - Faith and obedience are not separable: the disciple does not first believe and then obey—obedience is part of the act of faith.
-      - Bonhoeffer uses the calling of Levi/Matthew to illustrate that Christ's call breaks through all existing obligations.
-    - **Defined Terms:**
-      - **Discipleship:** The concrete following of Jesus Christ, involving both faith and obedience in lived experience.
-    - **Takeaway:** The call to follow Jesus is total, immediate, and personal—not a doctrine to assent to but a person to follow.
-
-  - **Chapter 3: Single-Minded Obedience**
-    - **Main Idea:** Genuine discipleship requires undivided attention and single-minded obedience—not balancing Jesus against other commitments.
-    - **Key Points:**
-      - Partial obedience is not obedience; half-hearted discipleship is not discipleship.
-      - The person called must leave behind competing loyalties—family, security, social position—that would dilute the call.
-      - Bonhoeffer challenges the tendency to spiritualize or privatize obedience in ways that never require concrete action.
-    - **Takeaway:** There is no obedience that is purely internal; genuine discipleship must become visible in how one lives.
-
-  - **Chapter 4: Discipleship and the Cross**
-    - **Main Idea:** Following Jesus is not a path of self-fulfillment but the way of the cross—which means suffering, rejection, and death to self.
-    - **Key Points:**
-      - Every disciple is called to bear his or her own cross—not merely to admire Christ's cross from a distance.
-      - The cross is not a general symbol for life's hardships; it is the suffering that comes specifically from following Jesus.
-      - Suffering in discipleship is not meaningless; it is participation in the suffering of Christ.
-    - **Key Quotes:**
-      - "When Christ calls a man, he bids him come and die."
-    - **Defined Terms:**
-      - **Cross-bearing:** The specific suffering and self-denial that arises from following Jesus into the world.
-    - **Takeaway:** Christian life is not a spiritual upgrade—it is the way of the cross, which always leads through death before it leads to life.
-
-- **Part II: The Sermon on the Mount**
-
-  - **The Beatitudes**
-    - **Main Idea:** The Beatitudes describe not aspirational virtues but the actual condition of those who follow Jesus—poor, mourning, meek, persecuted.
-    - **Key Points:**
-      - The poor in spirit are those who have renounced every claim of their own before God and live entirely from his gift.
-      - The mourning are those who refuse to be at peace with what the world calls normal—they mourn sin and suffer with those who suffer.
-      - The meek have given up the right to defend themselves; they inherit the earth not through force but through Christ.
-    - **Takeaway:** The Beatitudes are not moral advice for improving oneself—they describe the extraordinary community of Jesus.
-
-  - **The Visible Community**
-    - **Main Idea:** The community of Jesus is not a private, invisible spiritual reality—it is visible in the world and called to be a city on a hill.
-    - **Key Points:**
-      - Salt that loses its saltiness is thrown away; a community that accommodates itself to the world loses its witness.
-      - The visible character of Christian community is not optional—it is part of what the gospel requires.
-      - Good works are done not to earn merit but as natural expression of life with Christ, giving glory to the Father.
-    - **Takeaway:** The church is not a private club for souls—it is a public witness to another way of living.
-
-  - **The Antitheses (You Have Heard… But I Say)**
-    - **Main Idea:** Jesus radicalize the commandments by addressing not only external actions but the heart—anger, lust, dishonesty—from which sinful actions arise.
-    - **Key Points:**
-      - Jesus does not abolish the law but fulfills and intensifies it, reaching to the root of human desire and intention.
-      - The extraordinary nature of discipleship shows in concrete renunciations: turning the other cheek, going the extra mile, loving the enemy.
-      - These demands are not counsels of perfection for a monastic elite but commands for every follower.
-    - **Defined Terms:**
-      - **Antitheses:** The six contrasts in the Sermon on the Mount in which Jesus deepens the Old Testament commandments.
-    - **Takeaway:** Bonhoeffer refuses to soften Jesus's commands into general principles; they must be obeyed literally and concretely.
-
-  - **Loving the Enemy**
-    - **Main Idea:** Love of enemies is the supreme test of discipleship and the most distinctive mark of the community of Jesus.
-    - **Key Points:**
-      - Loving those who love us is no different from what pagans do; only love of the enemy reveals a genuinely new kind of community.
-      - Enemy love is not a feeling but a practice: praying for, blessing, and doing good to those who hate.
-      - This is possible only as a participation in God's own love—not as a human achievement.
-    - **Takeaway:** The command to love enemies is not an ideal to admire from afar—it is a concrete practice that marks the disciple as belonging to Christ.
-
-- **Part III: The Messengers**
-  - **Main Idea:** Jesus sends his disciples as messengers into the world—vulnerable, without protection, carrying only the word.
+- **Book One: Admonitions Useful for a Spiritual Life — Chapters 1–6: The Primacy of Self-Knowledge Over Learning**
+  - **Main Idea:** Knowledge that does not produce humility and virtue is worthless vanity; the first requirement of the spiritual life is honest self-examination.
   - **Key Points:**
-    - The disciples are sent as sheep among wolves; their power is not worldly authority but the word they carry.
-    - Persecution is not a sign of failure—it is proof that the messenger is following in the footsteps of Jesus.
-    - The hiddenness and vulnerability of the disciples' mission is part of its integrity.
-  - **Takeaway:** The church's mission in the world is not to accumulate power but to follow the vulnerable, crucified Christ.
-
-- **Part IV: The Church of Jesus Christ and Discipleship**
-  - **Main Idea:** The visible church is the body of Christ in the world, and membership in it is not nominal but costly and concrete.
-  - **Key Points:**
-    - Baptism is not a rite of inclusion but an entry into the death and resurrection of Christ.
-    - The Lord's Supper is not a symbol but a participation in Christ's body and blood.
-    - The image of God, lost in the fall, is restored in Christ—and discipleship is the process of being conformed to his image.
+    - "What doth it profit thee to enter into deep discussion concerning the Holy Trinity, if thou lack humility?" — the book's keynote.
+    - à Kempis insists that a humble peasant who serves God is wiser than a proud philosopher.
+    - Self-knowledge reveals how much sin still clings to the soul and how little one deserves praise.
+    - The accumulation of religious knowledge without transformation is a spiritual danger rather than an asset.
   - **Defined Terms:**
-    - **Image of God (imago Dei):** The human capacity to reflect God's character, which is restored through union with Christ.
-  - **Takeaway:** The church is not a social institution that happens to use religious language—it is the community in which the costly grace of God is lived and proclaimed.
+    - **Vanity:** Anything pursued for the sake of outward reputation, comfort, or honor rather than the love of God.
+    - **Self-knowledge:** Honest awareness of one's own sin, weakness, and dependence on God — the foundation of all genuine progress.
+  - **Takeaway:** The beginning of wisdom is not more information about God but a humbling, honest look at oneself.
+
+- **Book One: Chapters 7–12: Fleeing Vanity and Embracing Humility**
+  - **Main Idea:** The spiritual person turns away from the world's entertainments and opinions, finding that recollection and interior quiet are far more valuable than outward company and acclaim.
+  - **Key Points:**
+    - à Kempis counsels against much socializing, curiosity about others' affairs, and the desire for witty conversation.
+    - Interior recollection — withdrawing from outward noise into God's presence — is the source of peace.
+    - Humility means not comparing oneself favorably to others and not craving their approval.
+    - The soul advances not by acquiring more but by surrendering more — rights, opinions, reputation.
+  - **Defined Terms:**
+    - **Recollection:** The deliberate gathering of the mind and heart into God's presence, away from distracting thoughts and desires.
+    - **Vainglory:** The desire for praise and human recognition — one of the chief obstacles to interior progress.
+  - **Takeaway:** The soul grows quieter and deeper as it releases its grip on outward things and turns inward toward God.
+
+- **Book One: Chapters 13–25: The Interior Life and Its Enemies**
+  - **Main Idea:** The enemies of interior growth — temptation, bad habits, pride, worldly desire — must be recognized and resisted through vigilance, prayer, and humble reliance on grace.
+  - **Key Points:**
+    - Temptations are often stronger early in spiritual life and must be resisted at their root, not merely suppressed.
+    - Bad habits form gradually and must be counteracted with equal deliberateness.
+    - à Kempis offers a realistic account of human weakness: no one in this life is entirely free from conflict.
+    - Spiritual progress is measured by increasing honesty about one's need for God, not by the appearance of confidence.
+  - **Defined Terms:**
+    - **Temptation:** An enticement toward sin; à Kempis sees it as both a danger and an opportunity for growth when resisted in grace.
+    - **Compunction:** A sharp, painful awareness of one's sin before God — not despair but the grief that opens the soul to grace.
+  - **Takeaway:** The spiritual life is not a smooth ascent but a daily contest in which the soul must repeatedly choose humility over pride and God over self.
+
+- **Book Two: The Inner Life — Chapters 1–4: The Kingdom Within**
+  - **Main Idea:** The kingdom of God is within; outward religious activity without interior transformation is worthless.
+  - **Key Points:**
+    - à Kempis opens Book Two with the declaration that the kingdom of God is interior — in the heart turned toward God.
+    - Outward signs of devotion — attending services, reading, saying prayers — only matter insofar as they form the inner person.
+    - The one who has learned to live from an interior center of peace is less disturbed by outward conflict.
+    - Self-scrutiny is more important than scrutiny of others.
+  - **Defined Terms:**
+    - **Interior life:** The dimension of the soul's relationship with God that occurs beneath outward behavior and observable practice.
+    - **Peace:** Not the absence of difficulty but the settled orientation of the will toward God regardless of circumstances.
+  - **Takeaway:** Authentic Christianity is primarily interior — a matter of what the heart loves and what the will chooses in secret.
+
+- **Book Two: Chapters 5–12: Humility, Suffering, and Trust**
+  - **Main Idea:** Suffering, rightly received, is one of God's most powerful instruments for stripping away pride and conforming the soul to Christ.
+  - **Key Points:**
+    - à Kempis argues that spiritual consolation, while good, must not be the goal; the soul must also be willing to suffer without comfort.
+    - The cross is not an interruption of the spiritual life but its highway.
+    - Those who flee suffering usually find it again in worse form; those who embrace it are purified.
+    - The soul that has learned to be content without human praise or sensible consolation is far more free than the one that depends on them.
+  - **Defined Terms:**
+    - **Consolation:** A felt sense of God's presence and favor; à Kempis warns against making this the aim, since God sometimes withdraws it to purify desire.
+    - **Desolation:** The experience of dryness, distance from God, or spiritual suffering; à Kempis treats it as an opportunity for deeper trust rather than evidence of abandonment.
+  - **Takeaway:** The path to spiritual maturity runs through suffering accepted in faith, not around it.
+
+- **Book Three: On Interior Consolation — Chapters 1–20: Hearing the Voice of God Within**
+  - **Main Idea:** The soul that has quieted itself and turned from worldly things begins to hear the voice of God in the interior — a voice of instruction, comfort, and correction.
+  - **Key Points:**
+    - Book Three is the longest and most mystical section, structured largely as a dialogue between Christ and the soul.
+    - God speaks words of profound comfort to the humble soul: "What doth it profit thee to enter into deep dispute concerning the Trinity, if thou lack humility?"
+    - The soul is invited to rest from its striving, release its will, and listen to the interior teacher.
+    - à Kempis traces the dangers of intellectual pride and the remedy of loving, attentive surrender.
+  - **Defined Terms:**
+    - **Interior teacher:** à Kempis's term for the Holy Spirit's work in the soul — the direct, personal instruction that goes beyond what books and teachers can give.
+    - **Resignation:** The act of releasing one's own will and preferences into God's hands — not passivity but an active, trusting surrender.
+  - **Takeaway:** The soul that is quiet enough to listen will find that God speaks directly to the interior — guiding, correcting, and comforting.
+
+- **Book Three: Chapters 21–40: Self-denial, the Will, and Trust in God's Providence**
+  - **Main Idea:** The soul's great work is the surrender of its own will — its preferences, plans, and claims — to the will of God in all things.
+  - **Key Points:**
+    - à Kempis argues that the chief spiritual battle is always between the self-will and the divine will.
+    - True peace comes not from getting what one wants but from wanting what God gives.
+    - Providence governs all things; the soul that trusts it rests even in hardship.
+    - The desire for self-determination is the root of spiritual unrest.
+  - **Defined Terms:**
+    - **Self-will:** The soul's insistence on its own way, comfort, and judgment — the deepest obstacle to union with God.
+    - **Providence:** God's wise, loving governance of all events; the ground of the soul's trust.
+  - **Takeaway:** Spiritual peace is proportional to the degree of surrender: the more the will is yielded to God, the deeper the rest.
+
+- **Book Three: Chapters 41–59: Temporal Things, Eternity, and the Desire for God**
+  - **Main Idea:** A clear-eyed comparison of earthly pleasures with heavenly goods reveals how little the world is worth and how great is the desire for God that lies beneath all creaturely longing.
+  - **Key Points:**
+    - à Kempis urges the reader to set temporal things in their proper perspective: they pass away; God does not.
+    - True desire is ultimately for God; all lesser desires are misdirected versions of the soul's deepest longing.
+    - The thought of death and judgment clarifies what matters and what does not.
+    - The soul that meditates on eternity is less easily captured by what is passing.
+  - **Defined Terms:**
+    - **Contempt of the world:** Not hatred of creation but a refusal to give temporal goods the weight that belongs only to God.
+    - **Memento mori:** "Remember that you will die" — a practice of keeping one's mortality in view as a clarifier of priorities.
+  - **Takeaway:** The soul that regularly considers eternity lives differently in time — with greater freedom, greater love, and less anxiety.
+
+- **Book Four: On the Sacrament of the Altar — Chapters 1–9: Reverence and Preparation**
+  - **Main Idea:** The Eucharist is the most intimate encounter available to the soul in this life; it demands reverent preparation, deep humility, and earnest longing.
+  - **Key Points:**
+    - à Kempis addresses Christ directly in this section, shifting to a more explicitly liturgical and devotional tone.
+    - The unworthiness of the communicant is real, but it is not a reason to abstain; rather, humility is itself the preparation.
+    - Frequent communion nourishes the soul and strengthens it against temptation.
+    - The mystery of the sacrament exceeds rational explanation and requires the submission of the intellect to faith.
+  - **Defined Terms:**
+    - **The Sacrament of the Altar:** The Eucharist or Lord's Supper; for à Kempis, the bodily and spiritual encounter with Christ under the forms of bread and wine.
+    - **Reverence:** The disposition of deep, careful respect for the sacred; the required posture of the communicant.
+  - **Takeaway:** The Eucharist is the center and summit of Christian devotion; approaching it well is one of the most important spiritual disciplines.
+
+- **Book Four: Chapters 10–18: Devotion, Longing, and the Soul's Surrender**
+  - **Main Idea:** True Eucharistic devotion flows from longing for Christ himself, not from the feelings or consolations one may or may not receive — and the soul's full surrender at the altar is the goal of the whole Christian life.
+  - **Key Points:**
+    - à Kempis is careful to distinguish sincere longing for Christ from merely seeking emotional consolation at communion.
+    - The soul's offering of itself at the altar — its desires, failures, and hopes — is the proper response to Christ's self-giving.
+    - Even when the soul feels nothing, faithful reception of the sacrament is an act of trust and love.
+    - The book closes with the soul fully surrendered: having renounced worldly honors, interior pride, and self-will, it rests in Christ.
+  - **Defined Terms:**
+    - **Spiritual communion:** The interior act of desiring and receiving Christ when outward sacramental communion is not possible; à Kempis recognizes both forms.
+    - **Self-oblation:** The offering of oneself — with all one's sin, weakness, and longing — as a sacrifice on the altar of God's mercy.
+  - **Takeaway:** The goal toward which the whole book has been moving is a soul so emptied of self and so filled with Christ that it can rest fully in his presence — at the altar and in all of life.
 
 ## Key Scriptures:
-- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as Bonhoeffer's core text; the costly way of kingdom living
-- [[2. The Bible (ESV)/40. Matthew/Matthew 16|Matthew 16:24]] — "If anyone would come after me, let him deny himself and take up his cross"
-- [[2. The Bible (ESV)/42. Luke/Luke 14|Luke 14]] — Count the cost before following; hating one's own life for Christ's sake
-- [[2. The Bible (ESV)/45. Romans/Romans 6|Romans 6]] — Death to sin; alive to God — the logic of costly discipleship
-- [[2. The Bible (ESV)/50. Philippians/Philippians 2|Philippians 2]] — Humility and self-emptying in the pattern of Christ
+- [[2. The Bible (ESV)/43. John/John 15|John 15]] — "Abide in me" — the call to remain in Christ that runs through the entire book
+- [[2. The Bible (ESV)/40. Matthew/Matthew 16|Matthew 16]] — "Deny yourself, take up your cross, and follow me" — the imitation's core demand
+- [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51]] — The prayer of humility and compunction; the posture à Kempis calls the reader into throughout
+- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12]] — Offer your bodies as a living sacrifice; the interior surrender the book describes
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 4|Ephesians 4]] — Put off the old self, be renewed in the spirit of your minds, put on the new self
 
 ## Related Concepts
-- [[Discipleship]]
-- [[Grace and Redemption]]
-- [[Virtue Ethics]]
-- [[Totalitarianism and Control]]
-- [[Christian Discipleship]]
-- [[Grace]]
-- [[Sermon on the Mount]]
-- [[Christian Ethics]]
-- [[Christian Community]]
+- [[Humility]]
+- [[Interior Life]]
+- [[Self-denial]]
+- [[The Eucharist]]
+- [[Spiritual Formation]]
+- [[Contemplative Prayer]]
 
 ## Related Books
-- [[7. Supplemental Content/C.S. Lewis/Mere Christianity]]
-- [[7. Supplemental Content/Dallas Willard/Renovation of the Heart]]
-- [[7. Supplemental Content/John Mark Comer/Practicing the Way]]
+- [[7. Supplemental Content/Confessions]]
+- [[7. Supplemental Content/Practicing the Presence of God]]
 - [[7. Supplemental Content/A.W. Tozer/The Pursuit of God]]
-- [[7. Supplemental Content/A.W. Tozer/The Knowledge of the Holy]]
-- [[7. Supplemental Content/Dallas Willard/The Divine Conspiracy]]
+- [[7. Supplemental Content/Celebration of Discipline]]
+- [[7. Supplemental Content/The Cost of Discipleship]]

@@ -1,5 +1,3 @@
-# The Holy Spirit
-
 The Holy Spirit is the third person of the Trinity — fully God, personally active in creation, in Israel's life, in Christ's ministry, and in the Church. The Spirit is the divine presence that empowers, sanctifies, and leads God's people.
 
 ## Key Passages

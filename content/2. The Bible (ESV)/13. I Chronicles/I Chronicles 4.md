@@ -1,7 +1,5 @@
 ← [[I Chronicles 3]] | [[I Chronicles 5]] →
 
-# Chapter 4
-
 1. The sons of Judah : Perez, Hezron, Carmi, Hur, and Shobal.
 2. Reaiah the son of Shobal fathered Jahath, and Jahath fathered Ahumai and Lahad. These were the clans of the Zorathites.
 3. These were the sons of Etam : Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi,

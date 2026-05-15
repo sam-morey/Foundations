@@ -1,7 +1,5 @@
 ← [[Job 30]] | [[Job 32]] →
 
-# Chapter 31
-
 1. I have made a covenant with my eyes; how then could I gaze at a virgin?
 2. What would be my portion from God above and my heritage from the Almighty on high?
 3. Is not calamity for the unrighteous, and disaster for the workers of iniquity?

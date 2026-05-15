@@ -1,7 +1,5 @@
 ← [[Leviticus 21]] | [[Leviticus 23]] →
 
-# Chapter 22
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to Aaron and his sons so that they abstain from the holy things of the people of Israel, which they dedicate to me, so that they do not profane my holy name : I am the Lord.
 3. Say to them, If any one of all your offspring throughout your generations approaches the holy things that the people of Israel dedicate to the Lord, while he has an uncleanness, that person shall be cut off from my presence : I am the Lord.

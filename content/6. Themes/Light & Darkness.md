@@ -1,5 +1,3 @@
-# Light & Darkness
-
 Light and darkness are among Scripture's most pervasive images. God is light; darkness represents sin, ignorance, evil, and death. The coming of Christ is the arrival of true light into a dark world.
 
 ## Key Passages

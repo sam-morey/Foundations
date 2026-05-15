@@ -1,7 +1,5 @@
 ← [[Matthew 28]] | [[Mark 2]] →
 
-# Chapter 1
-
 1. The beginning of the gospel of Jesus Christ, the Son of God.
 2. As it is written in Isaiah the prophet, Behold, I send my messenger before your face, who will prepare your way,
 3. the voice of one crying in the wilderness : Prepare the way of the Lord, make his paths straight,

@@ -1,7 +1,5 @@
 ← [[Deuteronomy 10]] | [[Deuteronomy 12]] →
 
-# Chapter 11
-
 1. You shall therefore love the Lord your God and keep his charge, his statutes, his rules, and his commandments always.
 2. And consider today ( since I am not speaking to your children who have not known or seen it), consider the discipline of the Lord your God, his greatness, his mighty hand and his outstretched arm,
 3. his signs and his deeds that he did in Egypt to Pharaoh the king of Egypt and to all his land,

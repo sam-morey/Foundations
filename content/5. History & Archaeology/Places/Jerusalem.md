@@ -1,5 +1,3 @@
-# Jerusalem
-
 **Location:** Jerusalem, Israel — centered on the Temple Mount (Haram al-Sharif) and the adjacent City of David ridge; approximately 31.7683° N, 35.2137° E; 754 m above sea level
 **Testament:** Both
 **Key Themes:** [[Covenant]] · [[Temple]] · [[Kingdom of God]] · [[Redemption]]

@@ -1,7 +1,5 @@
 ← [[Ephesians 5]] | [[Philippians 1]] →
 
-# Chapter 6
-
 1. Children, obey your parents in the Lord, for this is right.
 2. Honor your father and mother ( this is the first commandment with a promise ),
 3. that it may go well with you and that you may live long in the land.

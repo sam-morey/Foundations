@@ -1,7 +1,5 @@
 ← [[I Samuel 30]] | [[II Samuel 1]] →
 
-# Chapter 31
-
 1. Now the Philistines were fighting against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa.
 2. And the Philistines overtook Saul and his sons, and the Philistines struck down Jonathan and Abinadab and Malchi-shua, the sons of Saul.
 3. The battle pressed hard against Saul, and the archers found him, and he was badly wounded by the archers.

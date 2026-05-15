@@ -1,7 +1,5 @@
 ← [[Job 17]] | [[Job 19]] →
 
-# Chapter 18
-
 1. Then Bildad the Shuhite answered and said :
 2. How long will you hunt for words? Consider, and then we will speak.
 3. Why are we counted as cattle? Why are we stupid in your sight?

@@ -1,7 +1,5 @@
 ← [[Job 39]] | [[Job 41]] →
 
-# Chapter 40
-
 1. And the Lord said to Job :
 2. Shall a faultfinder contend with the Almighty? He who argues with God, let him answer it.
 3. Then Job answered the Lord and said :

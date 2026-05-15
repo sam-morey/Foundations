@@ -1,7 +1,5 @@
 ← [[Deuteronomy 1]] | [[Deuteronomy 3]] →
 
-# Chapter 2
-
 1. Then we turned and journeyed into the wilderness in the direction of the Red Sea, as the Lord told me. And for many days we traveled around Mount Seir.
 2. Then the Lord said to me,
 3. You have been traveling around this mountain country long enough. Turn northward

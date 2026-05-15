@@ -1,7 +1,5 @@
 ← [[Job 8]] | [[Job 10]] →
 
-# Chapter 9
-
 1. Then Job answered and said :
 2. Truly I know that it is so: But how can a man be in the right before God?
 3. If one wished to contend with him, one could not answer him once in a thousand times.

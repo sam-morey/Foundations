@@ -1,7 +1,5 @@
 ← [[I Chronicles 19]] | [[I Chronicles 21]] →
 
-# Chapter 20
-
 1. In the spring of the year, the time when kings go out to battle, Joab led out the army and ravaged the country of the Ammonites and came and besieged Rabbah. But David remained at Jerusalem. And Joab struck down Rabbah and overthrew it.
 2. And David took the crown of their king from his head. He found that it weighed a talent of gold, and in it was a precious stone. And it was placed on David’s head. And he brought out the spoil of the city, a very great amount.
 3. And he brought out the people who were in it and set them to labor with saws and iron picks and axes. And thus David did to all the cities of the Ammonites. Then David and all the people returned to Jerusalem.

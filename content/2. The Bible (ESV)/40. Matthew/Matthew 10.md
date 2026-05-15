@@ -1,7 +1,5 @@
 ← [[Matthew 9]] | [[Matthew 11]] →
 
-# Chapter 10
-
 1. And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
 2. The names of the twelve apostles are these : first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
 3. Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;

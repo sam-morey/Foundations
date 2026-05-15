@@ -1,7 +1,5 @@
 ← [[II Kings 15]] | [[II Kings 17]] →
 
-# Chapter 16
-
 1. In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham, king of Judah, began to reign.
 2. Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. And he did not do what was right in the eyes of the Lord his God, as his father David had done,
 3. but he walked in the way of the kings of Israel. He even burned his son as an offering, according to the despicable practices of the nations whom the Lord drove out before the people of Israel.

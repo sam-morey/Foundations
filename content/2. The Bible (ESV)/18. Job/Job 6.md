@@ -1,7 +1,5 @@
 ← [[Job 5]] | [[Job 7]] →
 
-# Chapter 6
-
 1. Then Job answered and said :
 2. Oh that my vexation were weighed, and all my calamity laid in the balances!
 3. For then it would be heavier than the sand of the sea; therefore my words have been rash.

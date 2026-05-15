@@ -1,5 +1,3 @@
-# David
-
 **Testament:** Old Testament
 **Era:** The United Monarchy
 **Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Overviews/10. 2 Samuel Overview|2 Samuel]], [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/19. Psalms Overview|Psalms]]

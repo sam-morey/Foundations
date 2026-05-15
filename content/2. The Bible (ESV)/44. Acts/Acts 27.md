@@ -1,7 +1,5 @@
 ← [[Acts 26]] | [[Acts 28]] →
 
-# Chapter 27
-
 1. And when it was decided that we should sail for Italy, they delivered Paul and some other prisoners to a centurion of the Augustan Cohort named Julius.
 2. And embarking in a ship of Adramyttium, which was about to sail to the ports along the coast of Asia, we put to sea, accompanied by Aristarchus, a Macedonian from Thessalonica.
 3. The next day we put in at Sidon. And Julius treated Paul kindly and gave him leave to go to his friends and be cared for.

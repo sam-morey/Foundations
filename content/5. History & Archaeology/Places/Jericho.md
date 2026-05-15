@@ -1,5 +1,3 @@
-# Jericho
-
 **Location:** Tell es-Sultan, approximately 2 km north of modern Jericho city center, West Bank; Jordan Valley, ~258 m below sea level — the lowest city on earth; 31.8717° N, 35.4441° E
 **Testament:** Both
 **Key Themes:** [[Conquest]] · [[Faith]] · [[Covenant]] · [[Prophecy and Fulfillment]]

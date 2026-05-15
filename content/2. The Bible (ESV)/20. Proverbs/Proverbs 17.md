@@ -1,7 +1,5 @@
 ← [[Proverbs 16]] | [[Proverbs 18]] →
 
-# Chapter 17
-
 1. Better is a dry morsel with quiet than a house full of feasting with strife.
 2. A servant who deals wisely will rule over a son who acts shamefully and will share the inheritance as one of the brothers.
 3. The crucible is for silver, and the furnace is for gold, and the Lord tests hearts.

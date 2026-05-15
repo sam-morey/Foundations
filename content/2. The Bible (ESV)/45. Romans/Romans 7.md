@@ -1,7 +1,5 @@
 ← [[Romans 6]] | [[Romans 8]] →
 
-# Chapter 7
-
 1. Or do you not know, brothers — for I am speaking to those who know the law — that the law is binding on a person only as long as he lives?
 2. For a married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage.
 3. Accordingly, she will be called an adulteress if she lives with another man while her husband is alive. But if her husband dies, she is free from that law, and if she marries another man she is not an adulteress.

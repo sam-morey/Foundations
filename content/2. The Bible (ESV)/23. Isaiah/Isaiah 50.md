@@ -1,7 +1,5 @@
 ← [[Isaiah 49]] | [[Isaiah 51]] →
 
-# Chapter 50
-
 1. Thus says the Lord : Where is your mother’s certificate of divorce, with which I sent her away? Or which of my creditors is it to whom I have sold you? Behold, for your iniquities you were sold, and for your transgressions your mother was sent away.
 2. Why, when I came, was there no man; why, when I called, was there no one to answer? Is my hand shortened, that it cannot redeem? Or have I no power to deliver? Behold, by my rebuke I dry up the sea, I make the rivers a desert; their fish stink for lack of water and die of thirst.
 3. I clothe the heavens with blackness and make sackcloth their covering.

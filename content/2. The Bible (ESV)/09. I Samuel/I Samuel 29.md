@@ -1,7 +1,5 @@
 ← [[I Samuel 28]] | [[I Samuel 30]] →
 
-# Chapter 29
-
 1. Now the Philistines had gathered all their forces at Aphek. And the Israelites were encamped by the spring that is in Jezreel.
 2. As the lords of the Philistines were passing on by hundreds and by thousands, and David and his men were passing on in the rear with Achish,
 3. the commanders of the Philistines said, What are these Hebrews doing here? And Achish said to the commanders of the Philistines, Is this not David, the servant of Saul, king of Israel, who has been with me now for days and years, and since he deserted to me I have found no fault in him to this day.

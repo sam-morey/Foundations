@@ -1,7 +1,5 @@
 ← [[Isaiah 32]] | [[Isaiah 34]] →
 
-# Chapter 33
-
 1. Ah, you destroyer, who yourself have not been destroyed, you traitor, whom none has betrayed! When you have ceased to destroy, you will be destroyed; and when you have finished betraying, they will betray you.
 2. O Lord, be gracious to us; we wait for you. Be our arm every morning, our salvation in the time of trouble.
 3. At the tumultuous noise peoples flee; when you lift yourself up, nations are scattered,

@@ -1,7 +1,5 @@
 ← [[Judges 8]] | [[Judges 10]] →
 
-# Chapter 9
-
 1. Now Abimelech the son of Jerubbaal went to Shechem to his mother’s relatives and said to them and to the whole clan of his mother’s family,
 2. Say in the ears of all the leaders of Shechem, Which is better for you, that all seventy of the sons of Jerubbaal rule over you, or that one rule over you? Remember also that I am your bone and your flesh.
 3. And his mother’s relatives spoke all these words on his behalf in the ears of all the leaders of Shechem, and their hearts inclined to follow Abimelech, for they said, He is our brother.

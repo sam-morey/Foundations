@@ -1,7 +1,5 @@
 ← [[II Samuel 6]] | [[II Samuel 8]] →
 
-# Chapter 7
-
 1. Now when the king lived in his house and the Lord had given him rest from all his surrounding enemies,
 2. the king said to Nathan the prophet, See now, I dwell in a house of cedar, but the ark of God dwells in a tent.
 3. And Nathan said to the king, Go, do all that is in your heart, for the Lord is with you.

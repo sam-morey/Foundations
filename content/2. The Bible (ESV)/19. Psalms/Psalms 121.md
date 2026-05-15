@@ -1,7 +1,5 @@
 ← [[Psalms 120]] | [[Psalms 122]] →
 
-# Chapter 121
-
 1. My Help Comes from the Lord A Song of Ascents. I lift up my eyes to the hills. From where does my help come?
 2. My help comes from the Lord, who made heaven and earth.
 3. He will not let your foot be moved; he who keeps you will not slumber.

@@ -1,7 +1,5 @@
 ← [[Psalms 128]] | [[Psalms 130]] →
 
-# Chapter 129
-
 1. They Have Afflicted Me from My Youth A Song of Ascents. Greatly have they afflicted me from my youth — let Israel now say —
 2. Greatly have they afflicted me from my youth, yet they have not prevailed against me.
 3. The plowers plowed upon my back; they made long their furrows.

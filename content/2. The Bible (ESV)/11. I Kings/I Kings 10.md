@@ -1,7 +1,5 @@
 ← [[I Kings 9]] | [[I Kings 11]] →
 
-# Chapter 10
-
 1. Now when the queen of Sheba heard of the fame of Solomon concerning the name of the Lord, she came to test him with hard questions.
 2. She came to Jerusalem with a very great retinue, with camels bearing spices and very much gold and precious stones. And when she came to Solomon, she told him all that was on her mind.
 3. And Solomon answered all her questions; there was nothing hidden from the king that he could not explain to her.

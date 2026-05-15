@@ -1,7 +1,5 @@
 ← [[Revelation of John 9]] | [[Revelation of John 11]] →
 
-# Chapter 10
-
 1. Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire.
 2. He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land,
 3. and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded.

@@ -1,7 +1,5 @@
 ← [[Joshua 1]] | [[Joshua 3]] →
 
-# Chapter 2
-
 1. And Joshua the son of Nun sent two men secretly from Shittim as spies, saying, Go, view the land, especially Jericho. And they went and came into the house of a prostitute whose name was Rahab and lodged there.
 2. And it was told to the king of Jericho, Behold, men of Israel have come here tonight to search out the land.
 3. Then the king of Jericho sent to Rahab, saying, Bring out the men who have come to you, who entered your house, for they have come to search out all the land.

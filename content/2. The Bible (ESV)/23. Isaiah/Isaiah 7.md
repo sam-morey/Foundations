@@ -1,7 +1,5 @@
 ← [[Isaiah 6]] | [[Isaiah 8]] →
 
-# Chapter 7
-
 1. In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it.
 2. When the house of David was told, Syria is in league with Ephraim, the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.
 3. And the Lord said to Isaiah, Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer’s Field.

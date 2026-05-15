@@ -1,7 +1,5 @@
 ← [[Zechariah 5]] | [[Zechariah 7]] →
 
-# Chapter 6
-
 1. Again I lifted my eyes and saw, and behold, four chariots came out from between two mountains. And the mountains were mountains of bronze.
 2. The first chariot had red horses, the second black horses,
 3. the third white horses, and the fourth chariot dappled horses —all of them strong.

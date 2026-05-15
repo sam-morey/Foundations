@@ -1,7 +1,5 @@
 ← [[Isaiah 21]] | [[Isaiah 23]] →
 
-# Chapter 22
-
 1. The oracle concerning the valley of vision. What do you mean that you have gone up, all of you, to the housetops,
 2. you who are full of shoutings, tumultuous city, exultant town? Your slain are not slain with the sword or dead in battle.
 3. All your leaders have fled together; without the bow they were captured. All of you who were found were captured, though they had fled far away.

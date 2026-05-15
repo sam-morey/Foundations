@@ -1,7 +1,5 @@
 ← [[Micah 6]] | [[Nahum 1]] →
 
-# Chapter 7
-
 1. Woe is me! For I have become as when the summer fruit has been gathered, as when the grapes have been gleaned : there is no cluster to eat, no first-ripe fig that my soul desires.
 2. The godly has perished from the earth, and there is no one upright among mankind; they all lie in wait for blood, and each hunts the other with a net.
 3. Their hands are on what is evil, to do it well; the prince and the judge ask for a bribe, and the great man utters the evil desire of his soul; thus they weave it together.

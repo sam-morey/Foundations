@@ -1,7 +1,5 @@
 ← [[Acts 20]] | [[Acts 22]] →
 
-# Chapter 21
-
 1. And when we had parted from them and set sail, we came by a straight course to Cos, and the next day to Rhodes, and from there to Patara.
 2. And having found a ship crossing to Phoenicia, we went aboard and set sail.
 3. When we had come in sight of Cyprus, leaving it on the left we sailed to Syria and landed at Tyre, for there the ship was to unload its cargo.

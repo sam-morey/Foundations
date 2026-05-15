@@ -1,7 +1,5 @@
 ← [[Jeremiah 32]] | [[Jeremiah 34]] →
 
-# Chapter 33
-
 1. The word of the Lord came to Jeremiah a second time, while he was still shut up in the court of the guard :
 2. Thus says the Lord who made the earth, the Lord who formed it to establish it— the Lord is his name :
 3. Call to me and I will answer you, and will tell you great and hidden things that you have not known.

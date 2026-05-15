@@ -1,7 +1,5 @@
 ← [[Revelation of John 18]] | [[Revelation of John 20]] →
 
-# Chapter 19
-
 1. After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, Hallelujah! Salvation and glory and power belong to our God,
 2. for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants.
 3. Once more they cried out, Hallelujah! The smoke from her goes up forever and ever.

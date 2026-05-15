@@ -1,7 +1,5 @@
 ← [[Micah 4]] | [[Micah 6]] →
 
-# Chapter 5
-
 1. Now muster your troops, O daughter of troops; siege is laid against us; with a rod they strike the judge of Israel on the cheek.
 2. But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.
 3. Therefore he shall give them up until the time when she who is in labor has given birth; then the rest of his brothers shall return to the people of Israel.

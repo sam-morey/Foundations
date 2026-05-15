@@ -1,7 +1,5 @@
 ← [[I Chronicles 21]] | [[I Chronicles 23]] →
 
-# Chapter 22
-
 1. Then David said, Here shall be the house of the Lord God and here the altar of burnt offering for Israel.
 2. David commanded to gather together the resident aliens who were in the land of Israel, and he set stonecutters to prepare dressed stones for building the house of God.
 3. David also provided great quantities of iron for nails for the doors of the gates and for clamps, as well as bronze in quantities beyond weighing,

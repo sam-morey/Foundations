@@ -1,7 +1,5 @@
 ← [[II Chronicles 1]] | [[II Chronicles 3]] →
 
-# Chapter 2
-
 1. Now Solomon purposed to build a temple for the name of the Lord, and a royal palace for himself.
 2. And Solomon assigned 70,000 men to bear burdens and 80,000 to quarry in the hill country, and 3,600 to oversee them.
 3. And Solomon sent word to Hiram the king of Tyre : As you dealt with David my father and sent him cedar to build himself a house to dwell in, so deal with me.

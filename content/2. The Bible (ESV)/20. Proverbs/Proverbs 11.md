@@ -1,7 +1,5 @@
 ← [[Proverbs 10]] | [[Proverbs 12]] →
 
-# Chapter 11
-
 1. A false balance is an abomination to the Lord, but a just weight is his delight.
 2. When pride comes, then comes disgrace, but with the humble is wisdom.
 3. The integrity of the upright guides them, but the crookedness of the treacherous destroys them.

@@ -1,7 +1,5 @@
 ← [[I Samuel 21]] | [[I Samuel 23]] →
 
-# Chapter 22
-
 1. David departed from there and escaped to the cave of Adullam. And when his brothers and all his father’s house heard it, they went down there to him.
 2. And everyone who was in distress, and everyone who was in debt, and everyone who was bitter in soul, gathered to him. And he became commander over them. And there were with him about four hundred men.
 3. And David went from there to Mizpeh of Moab. And he said to the king of Moab, Please let my father and my mother stay with you, till I know what God will do for me.

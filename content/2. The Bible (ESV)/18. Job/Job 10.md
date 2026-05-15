@@ -1,7 +1,5 @@
 ← [[Job 9]] | [[Job 11]] →
 
-# Chapter 10
-
 1. I loathe my life; I will give free utterance to my complaint; I will speak in the bitterness of my soul.
 2. I will say to God, Do not condemn me; let me know why you contend against me.
 3. Does it seem good to you to oppress, to despise the work of your hands and favor the designs of the wicked?

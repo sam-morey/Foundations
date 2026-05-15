@@ -1,7 +1,5 @@
 ← [[Judges 9]] | [[Judges 11]] →
 
-# Chapter 10
-
 1. After Abimelech there arose to save Israel Tola the son of Puah, son of Dodo, a man of Issachar, and he lived at Shamir in the hill country of Ephraim.
 2. And he judged Israel twenty-three years. Then he died and was buried at Shamir.
 3. After him arose Jair the Gileadite, who judged Israel twenty-two years.

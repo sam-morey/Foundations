@@ -1,7 +1,5 @@
 ← [[Joshua 4]] | [[Joshua 6]] →
 
-# Chapter 5
-
 1. As soon as all the kings of the Amorites who were beyond the Jordan to the west, and all the kings of the Canaanites who were by the sea, heard that the Lord had dried up the waters of the Jordan for the people of Israel until they had crossed over, their hearts melted and there was no longer any spirit in them because of the people of Israel.
 2. At that time the Lord said to Joshua, Make flint knives and circumcise the sons of Israel a second time.
 3. So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth.

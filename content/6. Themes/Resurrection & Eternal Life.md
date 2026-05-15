@@ -1,5 +1,3 @@
-# Resurrection & Eternal Life
-
 The resurrection is not just one doctrine among many — it is the pivot of the entire biblical story. God's purpose was never to save souls from bodies but to renew the whole person and the whole creation. Eternal life is the life of the age to come, beginning now.
 
 ## Key Passages

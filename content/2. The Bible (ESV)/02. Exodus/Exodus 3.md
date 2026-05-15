@@ -1,7 +1,5 @@
 ← [[Exodus 2]] | [[Exodus 4]] →
 
-# Chapter 3
-
 1. Now Moses was keeping the flock of his father-in-law, Jethro, the priest of Midian, and he led his flock to the west side of the wilderness and came to Horeb, the mountain of God.
 2. And the angel of the Lord appeared to him in a flame of fire out of the midst of a bush. He looked, and behold, the bush was burning, yet it was not consumed.
 3. And Moses said, I will turn aside to see this great sight, why the bush is not burned.

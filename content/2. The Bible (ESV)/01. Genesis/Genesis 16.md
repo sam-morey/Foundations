@@ -1,7 +1,5 @@
 ← [[Genesis 15]] | [[Genesis 17]] →
 
-# Chapter 16
-
 1. Now Sarai, Abram’s wife, had borne him no children. She had a female Egyptian servant whose name was Hagar.
 2. And Sarai said to Abram, Behold now, the Lord has prevented me from bearing children. Go in to my servant; it may be that I shall obtain children by her. And Abram listened to the voice of Sarai.
 3. So, after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife, took Hagar the Egyptian, her servant, and gave her to Abram her husband as a wife.

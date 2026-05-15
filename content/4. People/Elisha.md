@@ -1,5 +1,3 @@
-# Elisha
-
 **Testament:** Old Testament
 **Era:** The Divided Kingdom
 **Appears In:** [[3. Overviews/11. 1 Kings Overview|1 Kings]], [[3. Overviews/12. 2 Kings Overview|2 Kings]]

@@ -1,7 +1,5 @@
 ← [[Deuteronomy 18]] | [[Deuteronomy 20]] →
 
-# Chapter 19
-
 1. When the Lord your God cuts off the nations whose land the Lord your God is giving you, and you dispossess them and dwell in their cities and in their houses,
 2. you shall set apart three cities for yourselves in the land that the Lord your God is giving you to possess.
 3. You shall measure the distances and divide into three parts the area of the land that the Lord your God gives you as a possession, so that any manslayer can flee to them.

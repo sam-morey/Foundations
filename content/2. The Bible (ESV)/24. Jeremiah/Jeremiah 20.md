@@ -1,7 +1,5 @@
 ← [[Jeremiah 19]] | [[Jeremiah 21]] →
 
-# Chapter 20
-
 1. Now Pashhur the priest, the son of Immer, who was chief officer in the house of the Lord, heard Jeremiah prophesying these things.
 2. Then Pashhur beat Jeremiah the prophet, and put him in the stocks that were in the upper Benjamin Gate of the house of the Lord.
 3. The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to him, The Lord does not call your name Pashhur, but Terror on Every Side.

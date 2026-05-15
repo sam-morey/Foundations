@@ -1,7 +1,5 @@
 ← [[Hosea 14]] | [[Joel 2]] →
 
-# Chapter 1
-
 1. The word of the Lord that came to Joel, the son of Pethuel :
 2. Hear this, you elders; give ear, all inhabitants of the land! Has such a thing happened in your days, or in the days of your fathers?
 3. Tell your children of it, and let your children tell their children, and their children to another generation.

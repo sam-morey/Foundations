@@ -1,7 +1,5 @@
 ← [[Ezekiel 26]] | [[Ezekiel 28]] →
 
-# Chapter 27
-
 1. The word of the Lord came to me:
 2. Now you, son of man, raise a lamentation over Tyre,
 3. and say to Tyre, who dwells at the entrances to the sea, merchant of the peoples to many coastlands, thus says the Lord God : O Tyre, you have said, I am perfect in beauty.

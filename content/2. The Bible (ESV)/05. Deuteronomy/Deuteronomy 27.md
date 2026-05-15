@@ -1,7 +1,5 @@
 ← [[Deuteronomy 26]] | [[Deuteronomy 28]] →
 
-# Chapter 27
-
 1. Now Moses and the elders of Israel commanded the people, saying, Keep the whole commandment that I command you today.
 2. And on the day you cross over the Jordan to the land that the Lord your God is giving you, you shall set up large stones and plaster them with plaster.
 3. And you shall write on them all the words of this law, when you cross over to enter the land that the Lord your God is giving you, a land flowing with milk and honey, as the Lord, the God of your fathers, has promised you.

@@ -1,7 +1,5 @@
 ← [[Proverbs 20]] | [[Proverbs 22]] →
 
-# Chapter 21
-
 1. The king’s heart is a stream of water in the hand of the Lord; he turns it wherever he will.
 2. Every way of a man is right in his own eyes, but the Lord weighs the heart.
 3. To do righteousness and justice is more acceptable to the Lord than sacrifice.

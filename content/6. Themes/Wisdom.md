@@ -1,5 +1,3 @@
-# Wisdom
-
 Biblical wisdom is not mere cleverness or intellectual knowledge — it is *skill for living*, grounded in the fear of the Lord. The Wisdom literature (Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon) and the NT epistles explore how to live well before God and others.
 
 ## Key Passages

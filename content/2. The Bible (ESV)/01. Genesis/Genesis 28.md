@@ -1,7 +1,5 @@
 ← [[Genesis 27]] | [[Genesis 29]] →
 
-# Chapter 28
-
 1. Then Isaac called Jacob and blessed him and directed him, You must not take a wife from the Canaanite women.
 2. Arise, go to Paddan-aram to the house of Bethuel your mother’s father, and take as your wife from there one of the daughters of Laban your mother’s brother.
 3. God Almighty bless you and make you fruitful and multiply you, that you may become a company of peoples.

@@ -1,7 +1,5 @@
 ← [[Hosea 2]] | [[Hosea 4]] →
 
-# Chapter 3
-
 1. And the Lord said to me, Go again, love a woman who is loved by another man and is an adulteress, even as the Lord loves the children of Israel, though they turn to other gods and love cakes of raisins.
 2. So I bought her for fifteen shekels of silver and a homer and a lethech of barley.
 3. And I said to her, You must dwell as mine for many days. You shall not play the whore, or belong to another man; so will I also be to you.

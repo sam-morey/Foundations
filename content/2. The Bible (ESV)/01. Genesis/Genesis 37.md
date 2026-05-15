@@ -1,7 +1,5 @@
 ← [[Genesis 36]] | [[Genesis 38]] →
 
-# Chapter 37
-
 1. Jacob lived in the land of his father’s sojournings, in the land of Canaan.
 2. These are the generations of Jacob. Joseph, being seventeen years old, was pasturing the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father’s wives. And Joseph brought a bad report of them to their father.
 3. Now Israel loved Joseph more than any other of his sons, because he was the son of his old age. And he made him a robe of many colors.

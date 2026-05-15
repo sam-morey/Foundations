@@ -1,7 +1,5 @@
 ← [[Isaiah 20]] | [[Isaiah 22]] →
 
-# Chapter 21
-
 1. The oracle concerning the wilderness of the sea. As whirlwinds in the Negeb sweep on, it comes from the wilderness, from a terrible land.
 2. A stern vision is told to me; the traitor betrays, and the destroyer destroys. Go up, O Elam; lay siege, O Media; all the sighing she has caused I bring to an end.
 3. Therefore my loins are filled with anguish; pangs have seized me, like the pangs of a woman in labor; I am bowed down so that I cannot hear; I am dismayed so that I cannot see.

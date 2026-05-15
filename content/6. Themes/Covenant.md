@@ -1,5 +1,3 @@
-# Covenant
-
 A covenant is a solemn, binding agreement — often including promises, obligations, and a sign. The Bible's storyline is structured around a series of divine covenants that progressively reveal God's commitment to redeem and dwell with his people.
 
 ## The Covenants at a Glance

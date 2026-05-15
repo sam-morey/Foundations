@@ -1,7 +1,5 @@
 ← [[II John 1]] | [[Jude 1]] →
 
-# Chapter 1
-
 1. The elder to the beloved Gaius, whom I love in truth.
 2. Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul.
 3. For I rejoiced greatly when the brothers came and testified to your truth, as indeed you are walking in the truth.

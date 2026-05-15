@@ -1,7 +1,5 @@
 ← [[Psalms 136]] | [[Psalms 138]] →
 
-# Chapter 137
-
 1. How Shall We Sing the Lord ’s Song? By the waters of Babylon, there we sat down and wept, when we remembered Zion.
 2. On the willows there we hung up our lyres.
 3. For there our captors required of us songs, and our tormentors, mirth, saying, Sing us one of the songs of Zion!

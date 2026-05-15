@@ -1,7 +1,5 @@
 ← [[Ezekiel 29]] | [[Ezekiel 31]] →
 
-# Chapter 30
-
 1. The word of the Lord came to me:
 2. Son of man, prophesy, and say, Thus says the Lord God : Wail, Alas for the day!
 3. For the day is near, the day of the Lord is near; it will be a day of clouds, a time of doom for the nations.

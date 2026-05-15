@@ -1,7 +1,5 @@
 ← [[Psalms 134]] | [[Psalms 136]] →
 
-# Chapter 135
-
 1. Your Name, O Lord, Endures Forever Praise the Lord! Praise the name of the Lord, give praise, O servants of the Lord,
 2. who stand in the house of the Lord, in the courts of the house of our God!
 3. Praise the Lord, for the Lord is good; sing to his name, for it is pleasant!

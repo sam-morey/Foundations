@@ -1,7 +1,5 @@
 ← [[Psalms 52]] | [[Psalms 54]] →
 
-# Chapter 53
-
 1. There Is None Who Does Good To the choirmaster : according to Mahalath. A Maskil of David. The fool says in his heart, There is no God. They are corrupt, doing abominable iniquity; there is none who does good.
 2. God looks down from heaven on the children of man to see if there are any who understand, who seek after God.
 3. They have all fallen away; together they have become corrupt; there is none who does good, not even one.

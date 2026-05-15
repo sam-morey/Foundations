@@ -1,7 +1,5 @@
 ← [[James 3]] | [[James 5]] →
 
-# Chapter 4
-
 1. What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?
 2. You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask.
 3. You ask and do not receive, because you ask wrongly, to spend it on your passions.

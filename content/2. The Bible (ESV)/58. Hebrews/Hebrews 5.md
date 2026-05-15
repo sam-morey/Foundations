@@ -1,7 +1,5 @@
 ← [[Hebrews 4]] | [[Hebrews 6]] →
 
-# Chapter 5
-
 1. For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins.
 2. He can deal gently with the ignorant and wayward, since he himself is beset with weakness.
 3. Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people.

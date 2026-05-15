@@ -1,7 +1,5 @@
 ← [[II Samuel 7]] | [[II Samuel 9]] →
 
-# Chapter 8
-
 1. After this David defeated the Philistines and subdued them, and David took Metheg-ammah out of the hand of the Philistines.
 2. And he defeated Moab and he measured them with a line, making them lie down on the ground. Two lines he measured to be put to death, and one full line to be spared. And the Moabites became servants to David and brought tribute.
 3. David also defeated Hadadezer the son of Rehob, king of Zobah, as he went to restore his power at the river Euphrates.

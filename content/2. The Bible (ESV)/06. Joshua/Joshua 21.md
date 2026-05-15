@@ -1,7 +1,5 @@
 ← [[Joshua 20]] | [[Joshua 22]] →
 
-# Chapter 21
-
 1. Then the heads of the fathers ’ houses of the Levites came to Eleazar the priest and to Joshua the son of Nun and to the heads of the fathers ’ houses of the tribes of the people of Israel.
 2. And they said to them at Shiloh in the land of Canaan, The Lord commanded through Moses that we be given cities to dwell in, along with their pasturelands for our livestock.
 3. So by command of the Lord the people of Israel gave to the Levites the following cities and pasturelands out of their inheritance.

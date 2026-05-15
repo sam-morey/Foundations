@@ -1,7 +1,5 @@
 ← [[Jonah 1]] | [[Jonah 3]] →
 
-# Chapter 2
-
 1. Then Jonah prayed to the Lord his God from the belly of the fish,
 2. saying, I called out to the Lord, out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice.
 3. For you cast me into the deep, into the heart of the seas, and the flood surrounded me; all your waves and your billows passed over me.

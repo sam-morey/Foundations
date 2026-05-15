@@ -1,7 +1,5 @@
 ← [[Job 28]] | [[Job 30]] →
 
-# Chapter 29
-
 1. And Job again took up his discourse, and said :
 2. Oh, that I were as in the months of old, as in the days when God watched over me,
 3. when his lamp shone upon my head, and by his light I walked through darkness,

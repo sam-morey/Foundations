@@ -1,7 +1,5 @@
 ← [[Song of Solomon 1]] | [[Song of Solomon 3]] →
 
-# Chapter 2
-
 1. I am a rose of Sharon, a lily of the valleys.
 2. As a lily among brambles, so is my love among the young women.
 3. As an apple tree among the trees of the forest, so is my beloved among the young men. With great delight I sat in his shadow, and his fruit was sweet to my taste.

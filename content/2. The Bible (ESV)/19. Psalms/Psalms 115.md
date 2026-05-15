@@ -1,7 +1,5 @@
 ← [[Psalms 114]] | [[Psalms 116]] →
 
-# Chapter 115
-
 1. To Your Name Give Glory Not to us, O Lord, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness!
 2. Why should the nations say, Where is their God?
 3. Our God is in the heavens; he does all that he pleases.

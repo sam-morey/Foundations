@@ -1,7 +1,5 @@
 ← [[John 7]] | [[John 9]] →
 
-# Chapter 8
-
 1. but Jesus went to the Mount of Olives.
 2. Early in the morning he came again to the temple. All the people came to him, and he sat down and taught them.
 3. The scribes and the Pharisees brought a woman who had been caught in adultery, and placing her in the midst

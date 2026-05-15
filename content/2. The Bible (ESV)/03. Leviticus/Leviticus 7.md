@@ -1,7 +1,5 @@
 ← [[Leviticus 6]] | [[Leviticus 8]] →
 
-# Chapter 7
-
 1. This is the law of the guilt offering. It is most holy.
 2. In the place where they kill the burnt offering they shall kill the guilt offering, and its blood shall be thrown against the sides of the altar.
 3. And all its fat shall be offered, the fat tail, the fat that covers the entrails,

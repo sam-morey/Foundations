@@ -1,5 +1,3 @@
-# Prophecy & Fulfillment
-
 Biblical prophecy is not primarily fortune-telling but God speaking through human messengers to call his people to faithfulness and to declare what he will do. The pattern of promise-and-fulfillment runs through the entire Bible.
 
 ## Key Passages

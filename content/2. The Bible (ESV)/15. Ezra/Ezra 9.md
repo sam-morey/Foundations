@@ -1,7 +1,5 @@
 ← [[Ezra 8]] | [[Ezra 10]] →
 
-# Chapter 9
-
 1. After these things had been done, the officials approached me and said, The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands with their abominations, from the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
 2. For they have taken some of their daughters to be wives for themselves and for their sons, so that the holy race has mixed itself with the peoples of the lands. And in this faithlessness the hand of the officials and chief men has been foremost.
 3. As soon as I heard this, I tore my garment and my cloak and pulled hair from my head and beard and sat appalled.

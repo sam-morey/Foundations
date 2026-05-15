@@ -1,7 +1,5 @@
 ← [[I Samuel 20]] | [[I Samuel 22]] →
 
-# Chapter 21
-
 1. Then David came to Nob to Ahimelech the priest. And Ahimelech came to meet David trembling and said to him, Why are you alone, and no one with you?
 2. And David said to Ahimelech the priest, The king has charged me with a matter and said to me, Let no one know anything of the matter about which I send you, and with which I have charged you. I have made an appointment with the young men for such and such a place.
 3. Now then, what do you have on hand? Give me five loaves of bread, or whatever is here.

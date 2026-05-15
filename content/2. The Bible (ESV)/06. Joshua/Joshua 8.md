@@ -1,7 +1,5 @@
 ← [[Joshua 7]] | [[Joshua 9]] →
 
-# Chapter 8
-
 1. And the Lord said to Joshua, Do not fear and do not be dismayed. Take all the fighting men with you, and arise, go up to Ai. See, I have given into your hand the king of Ai, and his people, his city, and his land.
 2. And you shall do to Ai and its king as you did to Jericho and its king. Only its spoil and its livestock you shall take as plunder for yourselves. Lay an ambush against the city, behind it.
 3. So Joshua and all the fighting men arose to go up to Ai. And Joshua chose 30,000 mighty men of valor and sent them out by night.

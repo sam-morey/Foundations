@@ -1,7 +1,5 @@
 ← [[I Corinthians 2]] | [[I Corinthians 4]] →
 
-# Chapter 3
-
 1. But I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ.
 2. I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready,
 3. for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way?

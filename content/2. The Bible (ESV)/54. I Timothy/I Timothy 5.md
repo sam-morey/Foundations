@@ -1,7 +1,5 @@
 ← [[I Timothy 4]] | [[I Timothy 6]] →
 
-# Chapter 5
-
 1. Do not rebuke an older man but encourage him as you would a father, younger men as brothers,
 2. older women as mothers, younger women as sisters, in all purity.
 3. Honor widows who are truly widows.

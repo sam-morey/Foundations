@@ -1,7 +1,5 @@
 ← [[Jeremiah 10]] | [[Jeremiah 12]] →
 
-# Chapter 11
-
 1. The word that came to Jeremiah from the Lord :
 2. Hear the words of this covenant, and speak to the men of Judah and the inhabitants of Jerusalem.
 3. You shall say to them, Thus says the Lord, the God of Israel : Cursed be the man who does not hear the words of this covenant

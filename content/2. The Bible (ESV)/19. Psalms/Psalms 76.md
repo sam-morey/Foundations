@@ -1,7 +1,5 @@
 ← [[Psalms 75]] | [[Psalms 77]] →
 
-# Chapter 76
-
 1. Who Can Stand Before You? To the choirmaster : with stringed instruments. A Psalm of Asaph. A Song. In Judah God is known; his name is great in Israel.
 2. His abode has been established in Salem, his dwelling place in Zion.
 3. There he broke the flashing arrows, the shield, the sword, and the weapons of war.

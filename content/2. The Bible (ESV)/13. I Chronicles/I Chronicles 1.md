@@ -1,7 +1,5 @@
 ← [[II Kings 25]] | [[I Chronicles 2]] →
 
-# Chapter 1
-
 1. Adam, Seth, Enosh;
 2. Kenan, Mahalalel, Jared;
 3. Enoch, Methuselah, Lamech;

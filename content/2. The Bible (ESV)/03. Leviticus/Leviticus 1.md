@@ -1,7 +1,5 @@
 ← [[Exodus 40]] | [[Leviticus 2]] →
 
-# Chapter 1
-
 1. The Lord called Moses and spoke to him from the tent of meeting, saying,
 2. Speak to the people of Israel and say to them, When any one of you brings an offering to the Lord, you shall bring your offering of livestock from the herd or from the flock.
 3. If his offering is a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the Lord.

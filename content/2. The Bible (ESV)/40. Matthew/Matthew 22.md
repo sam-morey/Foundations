@@ -1,7 +1,5 @@
 ← [[Matthew 21]] | [[Matthew 23]] →
 
-# Chapter 22
-
 1. And again Jesus spoke to them in parables, saying,
 2. The kingdom of heaven may be compared to a king who gave a wedding feast for his son,
 3. and sent his servants to call those who were invited to the wedding feast, but they would not come.

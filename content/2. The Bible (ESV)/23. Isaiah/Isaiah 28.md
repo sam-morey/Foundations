@@ -1,7 +1,5 @@
 ← [[Isaiah 27]] | [[Isaiah 29]] →
 
-# Chapter 28
-
 1. Ah, the proud crown of the drunkards of Ephraim, and the fading flower of its glorious beauty, which is on the head of the rich valley of those overcome with wine!
 2. Behold, the Lord has one who is mighty and strong; like a storm of hail, a destroying tempest, like a storm of mighty, overflowing waters, he casts down to the earth with his hand.
 3. The proud crown of the drunkards of Ephraim will be trodden underfoot;

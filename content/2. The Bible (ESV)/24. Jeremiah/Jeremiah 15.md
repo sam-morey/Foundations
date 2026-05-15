@@ -1,7 +1,5 @@
 ← [[Jeremiah 14]] | [[Jeremiah 16]] →
 
-# Chapter 15
-
 1. Then the Lord said to me, Though Moses and Samuel stood before me, yet my heart would not turn toward this people. Send them out of my sight, and let them go!
 2. And when they ask you, Where shall we go? you shall say to them, Thus says the Lord : Those who are for pestilence, to pestilence, and those who are for the sword, to the sword; those who are for famine, to famine, and those who are for captivity, to captivity.
 3. I will appoint over them four kinds of destroyers, declares the Lord : the sword to kill, the dogs to tear, and the birds of the air and the beasts of the earth to devour and destroy.

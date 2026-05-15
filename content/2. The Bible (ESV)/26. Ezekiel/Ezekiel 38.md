@@ -1,7 +1,5 @@
 ← [[Ezekiel 37]] | [[Ezekiel 39]] →
 
-# Chapter 38
-
 1. The word of the Lord came to me:
 2. Son of man, set your face toward Gog, of the land of Magog, the chief prince of Meshech and Tubal, and prophesy against him
 3. and say, Thus says the Lord God : Behold, I am against you, O Gog, chief prince of Meshech and Tubal.

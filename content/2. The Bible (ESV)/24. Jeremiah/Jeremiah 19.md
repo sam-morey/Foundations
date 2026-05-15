@@ -1,7 +1,5 @@
 ← [[Jeremiah 18]] | [[Jeremiah 20]] →
 
-# Chapter 19
-
 1. Thus says the Lord, Go, buy a potter’s earthenware flask, and take some of the elders of the people and some of the elders of the priests,
 2. and go out to the Valley of the Son of Hinnom at the entry of the Potsherd Gate, and proclaim there the words that I tell you.
 3. You shall say, Hear the word of the Lord, O kings of Judah and inhabitants of Jerusalem. Thus says the Lord of hosts, the God of Israel : Behold, I am bringing such disaster upon this place that the ears of everyone who hears of it will tingle.

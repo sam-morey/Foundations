@@ -1,7 +1,5 @@
 ← [[Isaiah 18]] | [[Isaiah 20]] →
 
-# Chapter 19
-
 1. An oracle concerning Egypt. Behold, the Lord is riding on a swift cloud and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.
 2. And I will stir up Egyptians against Egyptians, and they will fight, each against another and each against his neighbor, city against city, kingdom against kingdom;
 3. and the spirit of the Egyptians within them will be emptied out, and I will confound their counsel; and they will inquire of the idols and the sorcerers, and the mediums and the necromancers;

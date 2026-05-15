@@ -1,7 +1,5 @@
 ← [[Amos 9]] | [[Jonah 1]] →
 
-# Chapter 1
-
 1. The vision of Obadiah. Thus says the Lord God concerning Edom : We have heard a report from the Lord, and a messenger has been sent among the nations : Rise up! Let us rise against her for battle!
 2. Behold, I will make you small among the nations; you shall be utterly despised.
 3. The pride of your heart has deceived you, you who live in the clefts of the rock, in your lofty dwelling, who say in your heart, Who will bring me down to the ground?

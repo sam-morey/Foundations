@@ -1,7 +1,5 @@
 ← [[II Chronicles 29]] | [[II Chronicles 31]] →
 
-# Chapter 30
-
 1. Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the Lord at Jerusalem to keep the Passover to the Lord, the God of Israel.
 2. For the king and his princes and all the assembly in Jerusalem had taken counsel to keep the Passover in the second month —
 3. for they could not keep it at that time because the priests had not consecrated themselves in sufficient number, nor had the people assembled in Jerusalem —

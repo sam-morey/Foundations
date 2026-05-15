@@ -1,7 +1,5 @@
 ← [[Judges 14]] | [[Judges 16]] →
 
-# Chapter 15
-
 1. After some days, at the time of wheat harvest, Samson went to visit his wife with a young goat. And he said, I will go in to my wife in the chamber. But her father would not allow him to go in.
 2. And her father said, I really thought that you utterly hated her, so I gave her to your companion. Is not her younger sister more beautiful than she? Please take her instead.
 3. And Samson said to them, This time I shall be innocent in regard to the Philistines, when I do them harm.

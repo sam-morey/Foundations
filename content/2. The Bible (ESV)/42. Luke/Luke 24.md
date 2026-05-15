@@ -1,7 +1,5 @@
 ← [[Luke 23]] | [[John 1]] →
 
-# Chapter 24
-
 1. But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.
 2. And they found the stone rolled away from the tomb,
 3. but when they went in they did not find the body of the Lord Jesus.

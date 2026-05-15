@@ -1,7 +1,5 @@
 ← [[Isaiah 63]] | [[Isaiah 65]] →
 
-# Chapter 64
-
 1. Oh that you would rend the heavens and come down, that the mountains might quake at your presence —
 2. as when fire kindles brushwood and the fire causes water to boil — to make your name known to your adversaries, and that the nations might tremble at your presence!
 3. When you did awesome things that we did not look for, you came down, the mountains quaked at your presence.

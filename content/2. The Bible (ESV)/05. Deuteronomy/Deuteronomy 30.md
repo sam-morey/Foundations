@@ -1,7 +1,5 @@
 ← [[Deuteronomy 29]] | [[Deuteronomy 31]] →
 
-# Chapter 30
-
 1. And when all these things come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the Lord your God has driven you,
 2. and return to the Lord your God, you and your children, and obey his voice in all that I command you today, with all your heart and with all your soul,
 3. then the Lord your God will restore your fortunes and have mercy on you, and he will gather you again from all the peoples where the Lord your God has scattered you.

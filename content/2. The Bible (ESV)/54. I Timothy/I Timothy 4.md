@@ -1,7 +1,5 @@
 ← [[I Timothy 3]] | [[I Timothy 5]] →
 
-# Chapter 4
-
 1. Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons,
 2. through the insincerity of liars whose consciences are seared,
 3. who forbid marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.

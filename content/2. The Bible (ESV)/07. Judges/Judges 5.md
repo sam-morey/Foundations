@@ -1,7 +1,5 @@
 ← [[Judges 4]] | [[Judges 6]] →
 
-# Chapter 5
-
 1. Then sang Deborah and Barak the son of Abinoam on that day :
 2. That the leaders took the lead in Israel, that the people offered themselves willingly, bless the Lord!
 3. Hear, O kings; give ear, O princes; to the Lord I will sing; I will make melody to the Lord, the God of Israel.

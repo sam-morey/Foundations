@@ -1,7 +1,5 @@
 ← [[Deuteronomy 3]] | [[Deuteronomy 5]] →
 
-# Chapter 4
-
 1. And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the Lord, the God of your fathers, is giving you.
 2. You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the Lord your God that I command you.
 3. Your eyes have seen what the Lord did at Baal-peor, for the Lord your God destroyed from among you all the men who followed the Baal of Peor.

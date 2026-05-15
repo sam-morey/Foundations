@@ -1,7 +1,5 @@
 ← [[Deuteronomy 20]] | [[Deuteronomy 22]] →
 
-# Chapter 21
-
 1. If in the land that the Lord your God is giving you to possess someone is found slain, lying in the open country, and it is not known who killed him,
 2. then your elders and your judges shall come out, and they shall measure the distance to the surrounding cities.
 3. And the elders of the city that is nearest to the slain man shall take a heifer that has never been worked and that has not pulled in a yoke.

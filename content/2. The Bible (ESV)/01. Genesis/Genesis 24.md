@@ -1,7 +1,5 @@
 ← [[Genesis 23]] | [[Genesis 25]] →
 
-# Chapter 24
-
 1. Now Abraham was old, well advanced in years. And the Lord had blessed Abraham in all things.
 2. And Abraham said to his servant, the oldest of his household, who had charge of all that he had, Put your hand under my thigh,
 3. that I may make you swear by the Lord, the God of heaven and God of the earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I dwell,

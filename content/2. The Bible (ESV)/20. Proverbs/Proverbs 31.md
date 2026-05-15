@@ -1,7 +1,5 @@
 ← [[Proverbs 30]] | [[Ecclesiastes 1]] →
 
-# Chapter 31
-
 1. The words of King Lemuel. An oracle that his mother taught him:
 2. What are you doing, my son? What are you doing, son of my womb? What are you doing, son of my vows?
 3. Do not give your strength to women, your ways to those who destroy kings.

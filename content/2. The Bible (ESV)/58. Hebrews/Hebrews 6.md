@@ -1,7 +1,5 @@
 ← [[Hebrews 5]] | [[Hebrews 7]] →
 
-# Chapter 6
-
 1. Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God,
 2. and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment.
 3. And this we will do if God permits.

@@ -1,7 +1,5 @@
 ← [[I Corinthians 16]] | [[II Corinthians 2]] →
 
-# Chapter 1
-
 1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God that is at Corinth, with all the saints who are in the whole of Achaia :
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,

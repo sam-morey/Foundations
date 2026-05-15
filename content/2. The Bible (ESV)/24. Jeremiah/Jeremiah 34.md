@@ -1,7 +1,5 @@
 ← [[Jeremiah 33]] | [[Jeremiah 35]] →
 
-# Chapter 34
-
 1. The word that came to Jeremiah from the Lord, when Nebuchadnezzar king of Babylon and all his army and all the kingdoms of the earth under his dominion and all the peoples were fighting against Jerusalem and all of its cities :
 2. Thus says the Lord, the God of Israel : Go and speak to Zedekiah king of Judah and say to him, Thus says the Lord : Behold, I am giving this city into the hand of the king of Babylon, and he shall burn it with fire.
 3. You shall not escape from his hand but shall surely be captured and delivered into his hand. You shall see the king of Babylon eye to eye and speak with him face to face. And you shall go to Babylon.

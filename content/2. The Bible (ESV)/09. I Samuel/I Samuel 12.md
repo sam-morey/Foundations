@@ -1,7 +1,5 @@
 ← [[I Samuel 11]] | [[I Samuel 13]] →
 
-# Chapter 12
-
 1. And Samuel said to all Israel, Behold, I have obeyed your voice in all that you have said to me and have made a king over you.
 2. And now, behold, the king walks before you, and I am old and gray; and behold, my sons are with you. I have walked before you from my youth until this day.
 3. Here I am; testify against me before the Lord and before his anointed. Whose ox have I taken? Or whose donkey have I taken? Or whom have I defrauded? Whom have I oppressed? Or from whose hand have I taken a bribe to blind my eyes with it? Testify against me and I will restore it to you.

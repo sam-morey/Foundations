@@ -1,5 +1,3 @@
-# Mary (Mother of Jesus)
-
 **Testament:** New Testament
 **Era:** The Gospels
 **Appears In:** [[3. Overviews/40. Matthew Overview|Matthew]], [[3. Overviews/42. Luke Overview|Luke]], [[3. Overviews/43. John Overview|John]], [[3. Overviews/44. Acts Overview|Acts]]

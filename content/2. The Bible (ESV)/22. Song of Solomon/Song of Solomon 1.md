@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 12]] | [[Song of Solomon 2]] →
 
-# Chapter 1
-
 1. The Song of Songs, which is Solomon’s.
 2. Let him kiss me with the kisses of his mouth! For your love is better than wine;
 3. your anointing oils are fragrant; your name is oil poured out; therefore virgins love you.

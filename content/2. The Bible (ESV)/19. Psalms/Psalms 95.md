@@ -1,7 +1,5 @@
 ← [[Psalms 94]] | [[Psalms 96]] →
 
-# Chapter 95
-
 1. Let Us Sing Songs of Praise Oh come, let us sing to the Lord; let us make a joyful noise to the rock of our salvation!
 2. Let us come into his presence with thanksgiving; let us make a joyful noise to him with songs of praise!
 3. For the Lord is a great God, and a great King above all gods.

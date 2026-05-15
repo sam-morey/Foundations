@@ -1,7 +1,5 @@
 ← [[Exodus 6]] | [[Exodus 8]] →
 
-# Chapter 7
-
 1. And the Lord said to Moses, See, I have made you like God to Pharaoh, and your brother Aaron shall be your prophet.
 2. You shall speak all that I command you, and your brother Aaron shall tell Pharaoh to let the people of Israel go out of his land.
 3. But I will harden Pharaoh’s heart, and though I multiply my signs and wonders in the land of Egypt,

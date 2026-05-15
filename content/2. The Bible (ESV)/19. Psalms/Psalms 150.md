@@ -1,7 +1,5 @@
 ← [[Psalms 149]] | [[Proverbs 1]] →
 
-# Chapter 150
-
 1. Let Everything Praise the Lord Praise the Lord! Praise God in his sanctuary; praise him in his mighty heavens!
 2. Praise him for his mighty deeds; praise him according to his excellent greatness!
 3. Praise him with trumpet sound; praise him with lute and harp!

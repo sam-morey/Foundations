@@ -1,7 +1,5 @@
 ← [[Psalms 68]] | [[Psalms 70]] →
 
-# Chapter 69
-
 1. Save Me, O God To the choirmaster : according to Lilies. Of David. Save me, O God! For the waters have come up to my neck.
 2. I sink in deep mire, where there is no foothold; I have come into deep waters, and the flood sweeps over me.
 3. I am weary with my crying out; my throat is parched. My eyes grow dim with waiting for my God.

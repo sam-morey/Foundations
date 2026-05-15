@@ -1,7 +1,5 @@
 ← [[Lamentations 1]] | [[Lamentations 3]] →
 
-# Chapter 2
-
 1. How the Lord in his anger has set the daughter of Zion under a cloud! He has cast down from heaven to earth the splendor of Israel; he has not remembered his footstool in the day of his anger.
 2. The Lord has swallowed up without mercy all the habitations of Jacob; in his wrath he has broken down the strongholds of the daughter of Judah; he has brought down to the ground in dishonor the kingdom and its rulers.
 3. He has cut down in fierce anger all the might of Israel; he has withdrawn from them his right hand in the face of the enemy; he has burned like a flaming fire in Jacob, consuming all around.

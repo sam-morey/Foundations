@@ -1,7 +1,5 @@
 ← [[Genesis 6]] | [[Genesis 8]] →
 
-# Chapter 7
-
 1. Then the Lord said to Noah, Go into the ark, you and all your household, for I have seen that you are righteous before me in this generation.
 2. Take with you seven pairs of all clean animals, the male and his mate, and a pair of the animals that are not clean, the male and his mate,
 3. and seven pairs of the birds of the heavens also, male and female, to keep their offspring alive on the face of all the earth.

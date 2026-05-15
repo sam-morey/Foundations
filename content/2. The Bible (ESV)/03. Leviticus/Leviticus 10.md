@@ -1,7 +1,5 @@
 ← [[Leviticus 9]] | [[Leviticus 11]] →
 
-# Chapter 10
-
 1. Now Nadab and Abihu, the sons of Aaron, each took his censer and put fire in it and laid incense on it and offered unauthorized fire before the Lord, which he had not commanded them.
 2. And fire came out from before the Lord and consumed them, and they died before the Lord.
 3. Then Moses said to Aaron, This is what the Lord has said : Among those who are near me I will be sanctified, and before all the people I will be glorified. And Aaron held his peace.

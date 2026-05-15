@@ -1,7 +1,5 @@
 ← [[II Timothy 3]] | [[Titus 1]] →
 
-# Chapter 4
-
 1. I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom :
 2. preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching.
 3. For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,

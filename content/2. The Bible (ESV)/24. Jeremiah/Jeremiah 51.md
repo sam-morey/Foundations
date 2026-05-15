@@ -1,7 +1,5 @@
 ← [[Jeremiah 50]] | [[Jeremiah 52]] →
 
-# Chapter 51
-
 1. Thus says the Lord : Behold, I will stir up the spirit of a destroyer against Babylon, against the inhabitants of Leb-kamai,
 2. and I will send to Babylon winnowers, and they shall winnow her, and they shall empty her land, when they come against her from every side on the day of trouble.
 3. Let not the archer bend his bow, and let him not stand up in his armor. Spare not her young men; devote to destruction all her army.

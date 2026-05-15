@@ -1,7 +1,5 @@
 ← [[Isaiah 47]] | [[Isaiah 49]] →
 
-# Chapter 48
-
 1. Hear this, O house of Jacob, who are called by the name of Israel, and who came from the waters of Judah, who swear by the name of the Lord and confess the God of Israel, but not in truth or right.
 2. For they call themselves after the holy city, and stay themselves on the God of Israel; the Lord of hosts is his name.
 3. The former things I declared of old; they went out from my mouth, and I announced them; then suddenly I did them, and they came to pass.

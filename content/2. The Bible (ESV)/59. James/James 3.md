@@ -1,7 +1,5 @@
 ← [[James 2]] | [[James 4]] →
 
-# Chapter 3
-
 1. Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness.
 2. For we all stumble in many ways. And if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body.
 3. If we put bits into the mouths of horses so that they obey us, we guide their whole bodies as well.

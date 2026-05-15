@@ -1,7 +1,5 @@
 ← [[Genesis 31]] | [[Genesis 33]] →
 
-# Chapter 32
-
 1. Jacob went on his way, and the angels of God met him.
 2. And when Jacob saw them he said, This is God’s camp! So he called the name of that place Mahanaim.
 3. And Jacob sent messengers before him to Esau his brother in the land of Seir, the country of Edom,

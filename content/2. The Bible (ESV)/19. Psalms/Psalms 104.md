@@ -1,7 +1,5 @@
 ← [[Psalms 103]] | [[Psalms 105]] →
 
-# Chapter 104
-
 1. O Lord My God, You Are Very Great Bless the Lord, O my soul! O Lord my God, you are very great! You are clothed with splendor and majesty,
 2. covering yourself with light as with a garment, stretching out the heavens like a tent.
 3. He lays the beams of his chambers on the waters; he makes the clouds his chariot; he rides on the wings of the wind;

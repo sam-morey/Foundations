@@ -1,7 +1,5 @@
 ← [[Matthew 24]] | [[Matthew 26]] →
 
-# Chapter 25
-
 1. Then the kingdom of heaven will be like ten virgins who took their lamps and went to meet the bridegroom.
 2. Five of them were foolish, and five were wise.
 3. For when the foolish took their lamps, they took no oil with them,

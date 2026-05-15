@@ -1,7 +1,5 @@
 ← [[Zechariah 13]] | [[Malachi 1]] →
 
-# Chapter 14
-
 1. Behold, a day is coming for the Lord, when the spoil taken from you will be divided in your midst.
 2. For I will gather all the nations against Jerusalem to battle, and the city shall be taken and the houses plundered and the women raped. Half of the city shall go out into exile, but the rest of the people shall not be cut off from the city.
 3. Then the Lord will go out and fight against those nations as when he fights on a day of battle.

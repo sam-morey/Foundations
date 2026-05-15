@@ -1,7 +1,5 @@
 ← [[Leviticus 3]] | [[Leviticus 5]] →
 
-# Chapter 4
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to the people of Israel, saying, If anyone sins unintentionally in any of the Lord ’s commandments about things not to be done, and does any one of them,
 3. if it is the anointed priest who sins, thus bringing guilt on the people, then he shall offer for the sin that he has committed a bull from the herd without blemish to the Lord for a sin offering.

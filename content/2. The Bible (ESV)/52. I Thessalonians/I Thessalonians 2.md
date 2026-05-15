@@ -1,7 +1,5 @@
 ← [[I Thessalonians 1]] | [[I Thessalonians 3]] →
 
-# Chapter 2
-
 1. For you yourselves know, brothers, that our coming to you was not in vain.
 2. But though we had already suffered and been shamefully treated at Philippi, as you know, we had boldness in our God to declare to you the gospel of God in the midst of much conflict.
 3. For our appeal does not spring from error or impurity or any attempt to deceive,

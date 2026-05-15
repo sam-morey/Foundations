@@ -1,7 +1,5 @@
 ← [[Jeremiah 23]] | [[Jeremiah 25]] →
 
-# Chapter 24
-
 1. After Nebuchadnezzar king of Babylon had taken into exile from Jerusalem Jeconiah the son of Jehoiakim, king of Judah, together with the officials of Judah, the craftsmen, and the metal workers, and had brought them to Babylon, the Lord showed me this vision: behold, two baskets of figs placed before the temple of the Lord.
 2. One basket had very good figs, like first-ripe figs, but the other basket had very bad figs, so bad that they could not be eaten.
 3. And the Lord said to me, What do you see, Jeremiah? I said, Figs, the good figs very good, and the bad figs very bad, so bad that they cannot be eaten.

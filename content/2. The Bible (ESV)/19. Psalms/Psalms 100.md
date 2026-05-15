@@ -1,7 +1,5 @@
 ← [[Psalms 99]] | [[Psalms 101]] →
 
-# Chapter 100
-
 1. His Steadfast Love Endures Forever A Psalm for giving thanks. Make a joyful noise to the Lord, all the earth!
 2. Serve the Lord with gladness! Come into his presence with singing!
 3. Know that the Lord, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.

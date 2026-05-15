@@ -1,7 +1,5 @@
 ← [[Genesis 24]] | [[Genesis 26]] →
 
-# Chapter 25
-
 1. Abraham took another wife, whose name was Keturah.
 2. She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
 3. Jokshan fathered Sheba and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.

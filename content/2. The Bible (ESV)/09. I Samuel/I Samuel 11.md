@@ -1,7 +1,5 @@
 ← [[I Samuel 10]] | [[I Samuel 12]] →
 
-# Chapter 11
-
 1. Then Nahash the Ammonite went up and besieged Jabesh- gilead, and all the men of Jabesh said to Nahash, Make a treaty with us, and we will serve you.
 2. But Nahash the Ammonite said to them, On this condition I will make a treaty with you, that I gouge out all your right eyes, and thus bring disgrace on all Israel.
 3. The elders of Jabesh said to him, Give us seven days ’ respite that we may send messengers through all the territory of Israel. Then, if there is no one to save us, we will give ourselves up to you.

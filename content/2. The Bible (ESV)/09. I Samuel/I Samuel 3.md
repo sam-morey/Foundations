@@ -1,7 +1,5 @@
 ← [[I Samuel 2]] | [[I Samuel 4]] →
 
-# Chapter 3
-
 1. Now the boy Samuel was ministering to the Lord in the presence of Eli. And the word of the Lord was rare in those days; there was no frequent vision.
 2. At that time Eli, whose eyesight had begun to grow dim so that he could not see, was lying down in his own place.
 3. The lamp of God had not yet gone out, and Samuel was lying down in the temple of the Lord, where the ark of God was.

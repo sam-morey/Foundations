@@ -1,7 +1,5 @@
 ← [[Ezekiel 43]] | [[Ezekiel 45]] →
 
-# Chapter 44
-
 1. Then he brought me back to the outer gate of the sanctuary, which faces east. And it was shut.
 2. And the Lord said to me, This gate shall remain shut; it shall not be opened, and no one shall enter by it, for the Lord, the God of Israel, has entered by it. Therefore it shall remain shut.
 3. Only the prince may sit in it to eat bread before the Lord. He shall enter by way of the vestibule of the gate, and shall go out by the same way.

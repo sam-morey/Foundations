@@ -1,7 +1,5 @@
 ← [[Zechariah 14]] | [[Malachi 2]] →
 
-# Chapter 1
-
 1. The oracle of the word of the Lord to Israel by Malachi.
 2. I have loved you, says the Lord. But you say, How have you loved us? Is not Esau Jacob’s brother? declares the Lord. Yet I have loved Jacob
 3. but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.

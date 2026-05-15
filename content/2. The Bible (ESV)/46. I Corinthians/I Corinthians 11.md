@@ -1,7 +1,5 @@
 ← [[I Corinthians 10]] | [[I Corinthians 12]] →
 
-# Chapter 11
-
 1. Be imitators of me, as I am of Christ.
 2. Now I commend you because you remember me in everything and maintain the traditions even as I delivered them to you.
 3. But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and the head of Christ is God.

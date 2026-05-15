@@ -1,7 +1,5 @@
 ← [[Song of Solomon 3]] | [[Song of Solomon 5]] →
 
-# Chapter 4
-
 1. Behold, you are beautiful, my love, behold, you are beautiful! Your eyes are doves behind your veil. Your hair is like a flock of goats leaping down the slopes of Gilead.
 2. Your teeth are like a flock of shorn ewes that have come up from the washing, all of which bear twins, and not one among them has lost its young.
 3. Your lips are like a scarlet thread, and your mouth is lovely. Your cheeks are like halves of a pomegranate behind your veil.

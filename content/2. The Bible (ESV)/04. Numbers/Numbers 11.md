@@ -1,7 +1,5 @@
 ← [[Numbers 10]] | [[Numbers 12]] →
 
-# Chapter 11
-
 1. And the people complained in the hearing of the Lord about their misfortunes, and when the Lord heard it, his anger was kindled, and the fire of the Lord burned among them and consumed some outlying parts of the camp.
 2. Then the people cried out to Moses, and Moses prayed to the Lord, and the fire died down.
 3. So the name of that place was called Taberah, because the fire of the Lord burned among them.

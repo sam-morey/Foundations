@@ -1,7 +1,5 @@
 ← [[Daniel 4]] | [[Daniel 6]] →
 
-# Chapter 5
-
 1. King Belshazzar made a great feast for a thousand of his lords and drank wine in front of the thousand.
 2. Belshazzar, when he tasted the wine, commanded that the vessels of gold and of silver that Nebuchadnezzar his father had taken out of the temple in Jerusalem be brought, that the king and his lords, his wives, and his concubines might drink from them.
 3. Then they brought in the golden vessels that had been taken out of the temple, the house of God in Jerusalem, and the king and his lords, his wives, and his concubines drank from them.

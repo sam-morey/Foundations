@@ -1,7 +1,5 @@
 ← [[I Corinthians 7]] | [[I Corinthians 9]] →
 
-# Chapter 8
-
 1. Now concerning food offered to idols : we know that all of us possess knowledge. This knowledge puffs up, but love builds up.
 2. If anyone imagines that he knows something, he does not yet know as he ought to know.
 3. But if anyone loves God, he is known by God.

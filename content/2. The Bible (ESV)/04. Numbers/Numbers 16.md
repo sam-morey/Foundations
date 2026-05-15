@@ -1,7 +1,5 @@
 ← [[Numbers 15]] | [[Numbers 17]] →
 
-# Chapter 16
-
 1. Now Korah the son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men.
 2. And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men.
 3. They assembled themselves together against Moses and against Aaron and said to them, You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord?

@@ -1,7 +1,5 @@
 ← [[II Samuel 20]] | [[II Samuel 22]] →
 
-# Chapter 21
-
 1. Now there was a famine in the days of David for three years, year after year. And David sought the face of the Lord. And the Lord said, There is bloodguilt on Saul and on his house, because he put the Gibeonites to death.
 2. So the king called the Gibeonites and spoke to them. Now the Gibeonites were not of the people of Israel but of the remnant of the Amorites. Although the people of Israel had sworn to spare them, Saul had sought to strike them down in his zeal for the people of Israel and Judah.
 3. And David said to the Gibeonites, What shall I do for you? And how shall I make atonement, that you may bless the heritage of the Lord?

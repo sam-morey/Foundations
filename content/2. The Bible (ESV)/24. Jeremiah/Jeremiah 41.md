@@ -1,7 +1,5 @@
 ← [[Jeremiah 40]] | [[Jeremiah 42]] →
 
-# Chapter 41
-
 1. In the seventh month, Ishmael the son of Nethaniah, son of Elishama, of the royal family, one of the chief officers of the king, came with ten men to Gedaliah the son of Ahikam, at Mizpah. As they ate bread together there at Mizpah,
 2. Ishmael the son of Nethaniah and the ten men with him rose up and struck down Gedaliah the son of Ahikam, son of Shaphan, with the sword, and killed him, whom the king of Babylon had appointed governor in the land.
 3. Ishmael also struck down all the Judeans who were with Gedaliah at Mizpah, and the Chaldean soldiers who happened to be there.

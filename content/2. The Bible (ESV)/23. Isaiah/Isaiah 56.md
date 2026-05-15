@@ -1,7 +1,5 @@
 ← [[Isaiah 55]] | [[Isaiah 57]] →
 
-# Chapter 56
-
 1. Thus says the Lord : Keep justice, and do righteousness, for soon my salvation will come, and my righteousness be revealed.
 2. Blessed is the man who does this, and the son of man who holds it fast, who keeps the Sabbath, not profaning it, and keeps his hand from doing any evil.
 3. Let not the foreigner who has joined himself to the Lord say, The Lord will surely separate me from his people; and let not the eunuch say, Behold, I am a dry tree.

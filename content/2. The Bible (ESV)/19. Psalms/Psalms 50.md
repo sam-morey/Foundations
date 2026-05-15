@@ -1,7 +1,5 @@
 ← [[Psalms 49]] | [[Psalms 51]] →
 
-# Chapter 50
-
 1. God Himself Is Judge A Psalm of Asaph. The Mighty One, God the Lord, speaks and summons the earth from the rising of the sun to its setting.
 2. Out of Zion, the perfection of beauty, God shines forth.
 3. Our God comes; he does not keep silence; before him is a devouring fire, around him a mighty tempest.

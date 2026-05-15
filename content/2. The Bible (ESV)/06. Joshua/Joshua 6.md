@@ -1,7 +1,5 @@
 ← [[Joshua 5]] | [[Joshua 7]] →
 
-# Chapter 6
-
 1. Now Jericho was shut up inside and outside because of the people of Israel. None went out, and none came in.
 2. And the Lord said to Joshua, See, I have given Jericho into your hand, with its king and mighty men of valor.
 3. You shall march around the city, all the men of war going around the city once. Thus shall you do for six days.

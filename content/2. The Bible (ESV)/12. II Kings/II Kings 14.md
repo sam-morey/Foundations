@@ -1,7 +1,5 @@
 ← [[II Kings 13]] | [[II Kings 15]] →
 
-# Chapter 14
-
 1. In the second year of Joash the son of Joahaz, king of Israel, Amaziah the son of Joash, king of Judah, began to reign.
 2. He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin of Jerusalem.
 3. And he did what was right in the eyes of the Lord, yet not like David his father. He did in all things as Joash his father had done.

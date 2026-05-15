@@ -1,7 +1,5 @@
 ← [[Hosea 9]] | [[Hosea 11]] →
 
-# Chapter 10
-
 1. Israel is a luxuriant vine that yields its fruit. The more his fruit increased, the more altars he built; as his country improved, he improved his pillars.
 2. Their heart is false; now they must bear their guilt. The Lord will break down their altars and destroy their pillars.
 3. For now they will say : We have no king, for we do not fear the Lord; and a king — what could he do for us?

@@ -1,7 +1,5 @@
 ← [[Matthew 18]] | [[Matthew 20]] →
 
-# Chapter 19
-
 1. Now when Jesus had finished these sayings, he went away from Galilee and entered the region of Judea beyond the Jordan.
 2. And large crowds followed him, and he healed them there.
 3. And Pharisees came up to him and tested him by asking, Is it lawful to divorce one’s wife for any cause?

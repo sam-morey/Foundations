@@ -1,7 +1,5 @@
 ← [[Job 3]] | [[Job 5]] →
 
-# Chapter 4
-
 1. Then Eliphaz the Temanite answered and said :
 2. If one ventures a word with you, will you be impatient? Yet who can keep from speaking?
 3. Behold, you have instructed many, and you have strengthened the weak hands.

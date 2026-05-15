@@ -1,7 +1,5 @@
 ← [[Deuteronomy 27]] | [[Deuteronomy 29]] →
 
-# Chapter 28
-
 1. And if you faithfully obey the voice of the Lord your God, being careful to do all his commandments that I command you today, the Lord your God will set you high above all the nations of the earth.
 2. And all these blessings shall come upon you and overtake you, if you obey the voice of the Lord your God.
 3. Blessed shall you be in the city, and blessed shall you be in the field.

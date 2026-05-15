@@ -1,7 +1,5 @@
 ← [[I Samuel 15]] | [[I Samuel 17]] →
 
-# Chapter 16
-
 1. The Lord said to Samuel, How long will you grieve over Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided for myself a king among his sons.
 2. And Samuel said, How can I go? If Saul hears it, he will kill me. And the Lord said, Take a heifer with you and say, I have come to sacrifice to the Lord.
 3. And invite Jesse to the sacrifice, and I will show you what you shall do. And you shall anoint for me him whom I declare to you.

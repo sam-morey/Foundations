@@ -1,7 +1,5 @@
 ← [[Jeremiah 48]] | [[Jeremiah 50]] →
 
-# Chapter 49
-
 1. Concerning the Ammonites. Thus says the Lord : Has Israel no sons? Has he no heir? Why then has Milcom dispossessed Gad, and his people settled in its cities?
 2. Therefore, behold, the days are coming, declares the Lord, when I will cause the battle cry to be heard against Rabbah of the Ammonites; it shall become a desolate mound, and its villages shall be burned with fire; then Israel shall dispossess those who dispossessed him, says the Lord.
 3. Wail, O Heshbon, for Ai is laid waste! Cry out, O daughters of Rabbah! Put on sackcloth, lament, and run to and fro among the hedges! For Milcom shall go into exile, with his priests and his officials.

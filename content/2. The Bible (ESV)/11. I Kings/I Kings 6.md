@@ -1,7 +1,5 @@
 ← [[I Kings 5]] | [[I Kings 7]] →
 
-# Chapter 6
-
 1. In the four hundred and eightieth year after the people of Israel came out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, which is the second month, he began to build the house of the Lord.
 2. The house that King Solomon built for the Lord was sixty cubits long, twenty cubits wide, and thirty cubits high.
 3. The vestibule in front of the nave of the house was twenty cubits long, equal to the width of the house, and ten cubits deep in front of the house.

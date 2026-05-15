@@ -1,7 +1,5 @@
 ← [[Ezra 6]] | [[Ezra 8]] →
 
-# Chapter 7
-
 1. Now after this, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, son of Azariah, son of Hilkiah,
 2. son of Shallum, son of Zadok, son of Ahitub,
 3. son of Amariah, son of Azariah, son of Meraioth,

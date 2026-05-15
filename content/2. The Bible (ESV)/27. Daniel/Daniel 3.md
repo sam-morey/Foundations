@@ -1,7 +1,5 @@
 ← [[Daniel 2]] | [[Daniel 4]] →
 
-# Chapter 3
-
 1. King Nebuchadnezzar made an image of gold, whose height was sixty cubits and its breadth six cubits. He set it up on the plain of Dura, in the province of Babylon.
 2. Then King Nebuchadnezzar sent to gather the satraps, the prefects, and the governors, the counselors, the treasurers, the justices, the magistrates, and all the officials of the provinces to come to the dedication of the image that King Nebuchadnezzar had set up.
 3. Then the satraps, the prefects, and the governors, the counselors, the treasurers, the justices, the magistrates, and all the officials of the provinces gathered for the dedication of the image that King Nebuchadnezzar had set up. And they stood before the image that Nebuchadnezzar had set up.

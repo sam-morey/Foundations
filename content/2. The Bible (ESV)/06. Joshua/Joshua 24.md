@@ -1,7 +1,5 @@
 ← [[Joshua 23]] | [[Judges 1]] →
 
-# Chapter 24
-
 1. Joshua gathered all the tribes of Israel to Shechem and summoned the elders, the heads, the judges, and the officers of Israel. And they presented themselves before God.
 2. And Joshua said to all the people, Thus says the Lord, the God of Israel, Long ago, your fathers lived beyond the Euphrates, Terah, the father of Abraham and of Nahor; and they served other gods.
 3. Then I took your father Abraham from beyond the River and led him through all the land of Canaan, and made his offspring many. I gave him Isaac.

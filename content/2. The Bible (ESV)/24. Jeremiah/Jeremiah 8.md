@@ -1,7 +1,5 @@
 ← [[Jeremiah 7]] | [[Jeremiah 9]] →
 
-# Chapter 8
-
 1. At that time, declares the Lord, the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem shall be brought out of their tombs.
 2. And they shall be spread before the sun and the moon and all the host of heaven, which they have loved and served, which they have gone after, and which they have sought and worshiped. And they shall not be gathered or buried. They shall be as dung on the surface of the ground.
 3. Death shall be preferred to life by all the remnant that remains of this evil family in all the places where I have driven them, declares the Lord of hosts.

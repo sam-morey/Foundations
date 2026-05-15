@@ -1,7 +1,5 @@
 ← [[Genesis 43]] | [[Genesis 45]] →
 
-# Chapter 44
-
 1. Then he commanded the steward of his house, Fill the men’s sacks with food, as much as they can carry, and put each man’s money in the mouth of his sack,
 2. and put my cup, the silver cup, in the mouth of the sack of the youngest, with his money for the grain. And he did as Joseph told him.
 3. As soon as the morning was light, the men were sent away with their donkeys.

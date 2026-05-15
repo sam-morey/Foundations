@@ -1,7 +1,5 @@
 ← [[John 15]] | [[John 17]] →
 
-# Chapter 16
-
 1. I have said all these things to you to keep you from falling away.
 2. They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to God.
 3. And they will do these things because they have not known the Father, nor me.

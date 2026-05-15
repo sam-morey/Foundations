@@ -1,7 +1,5 @@
 ← [[Nehemiah 13]] | [[Esther 2]] →
 
-# Chapter 1
-
 1. Now in the days of Ahasuerus, the Ahasuerus who reigned from India to Ethiopia over 127 provinces,
 2. in those days when King Ahasuerus sat on his royal throne in Susa, the citadel,
 3. in the third year of his reign he gave a feast for all his officials and servants. The army of Persia and Media and the nobles and governors of the provinces were before him,

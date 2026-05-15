@@ -1,7 +1,5 @@
 ← [[Esther 1]] | [[Esther 3]] →
 
-# Chapter 2
-
 1. After these things, when the anger of King Ahasuerus had abated, he remembered Vashti and what she had done and what had been decreed against her.
 2. Then the king’s young men who attended him said, Let beautiful young virgins be sought out for the king.
 3. And let the king appoint officers in all the provinces of his kingdom to gather all the beautiful young virgins to the harem in Susa the citadel, under custody of Hegai, the king’s eunuch, who is in charge of the women. Let their cosmetics be given them.

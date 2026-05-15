@@ -1,7 +1,5 @@
 ← [[Ezekiel 44]] | [[Ezekiel 46]] →
 
-# Chapter 45
-
 1. When you allot the land as an inheritance, you shall set apart for the Lord a portion of the land as a holy district, 25,000 cubits long and 20,000 cubits broad. It shall be holy throughout its whole extent.
 2. Of this a square plot of 500 by 500 cubits shall be for the sanctuary, with fifty cubits for an open space around it.
 3. And from this measured district you shall measure off a section 25,000 cubits long and 10,000 broad, in which shall be the sanctuary, the Most Holy Place.

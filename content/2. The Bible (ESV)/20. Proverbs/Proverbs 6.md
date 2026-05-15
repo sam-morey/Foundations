@@ -1,7 +1,5 @@
 ← [[Proverbs 5]] | [[Proverbs 7]] →
 
-# Chapter 6
-
 1. My son, if you have put up security for your neighbor, have given your pledge for a stranger,
 2. if you are snared in the words of your mouth, caught in the words of your mouth,
 3. then do this, my son, and save yourself, for you have come into the hand of your neighbor : go, hasten, and plead urgently with your neighbor.

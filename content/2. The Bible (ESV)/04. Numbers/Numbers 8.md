@@ -1,7 +1,5 @@
 ← [[Numbers 7]] | [[Numbers 9]] →
 
-# Chapter 8
-
 1. Now the Lord spoke to Moses, saying,
 2. Speak to Aaron and say to him, When you set up the lamps, the seven lamps shall give light in front of the lampstand.
 3. And Aaron did so : he set up its lamps in front of the lampstand, as the Lord commanded Moses.

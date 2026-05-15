@@ -1,7 +1,5 @@
 ← [[Jeremiah 26]] | [[Jeremiah 28]] →
 
-# Chapter 27
-
 1. In the beginning of the reign of Zedekiah the son of Josiah, king of Judah, this word came to Jeremiah from the Lord.
 2. Thus the Lord said to me: Make yourself straps and yoke-bars, and put them on your neck.
 3. Send word to the king of Edom, the king of Moab, the king of the sons of Ammon, the king of Tyre, and the king of Sidon by the hand of the envoys who have come to Jerusalem to Zedekiah king of Judah.

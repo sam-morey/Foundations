@@ -1,7 +1,5 @@
 ← [[Judges 21]] | [[Ruth 2]] →
 
-# Chapter 1
-
 1. In the days when the judges ruled there was a famine in the land, and a man of Bethlehem in Judah went to sojourn in the country of Moab, he and his wife and his two sons.
 2. The name of the man was Elimelech and the name of his wife Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah. They went into the country of Moab and remained there.
 3. But Elimelech, the husband of Naomi, died, and she was left with her two sons.

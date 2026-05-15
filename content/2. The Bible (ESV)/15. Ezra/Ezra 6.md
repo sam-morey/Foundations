@@ -1,7 +1,5 @@
 ← [[Ezra 5]] | [[Ezra 7]] →
 
-# Chapter 6
-
 1. Then Darius the king made a decree, and search was made in Babylonia, in the house of the archives where the documents were stored.
 2. And in Ecbatana, the citadel that is in the province of Media, a scroll was found on which this was written : A record.
 3. In the first year of Cyrus the king, Cyrus the king issued a decree : Concerning the house of God at Jerusalem, let the house be rebuilt, the place where sacrifices were offered, and let its foundations be retained. Its height shall be sixty cubits and its breadth sixty cubits,

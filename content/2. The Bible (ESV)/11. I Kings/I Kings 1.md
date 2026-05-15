@@ -1,7 +1,5 @@
 ← [[II Samuel 24]] | [[I Kings 2]] →
 
-# Chapter 1
-
 1. Now King David was old and advanced in years. And although they covered him with clothes, he could not get warm.
 2. Therefore his servants said to him, Let a young woman be sought for my lord the king, and let her wait on the king and be in his service. Let her lie in your arms, that my lord the king may be warm.
 3. So they sought for a beautiful young woman throughout all the territory of Israel, and found Abishag the Shunammite, and brought her to the king.

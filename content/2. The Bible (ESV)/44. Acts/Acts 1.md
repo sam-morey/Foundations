@@ -1,7 +1,5 @@
 ← [[John 21]] | [[Acts 2]] →
 
-# Chapter 1
-
 1. In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach,
 2. until the day when he was taken up, after he had given commands through the Holy Spirit to the apostles whom he had chosen.
 3. He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God.

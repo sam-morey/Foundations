@@ -1,7 +1,5 @@
 ← [[II Chronicles 3]] | [[II Chronicles 5]] →
 
-# Chapter 4
-
 1. He made an altar of bronze, twenty cubits long and twenty cubits wide and ten cubits high.
 2. Then he made the sea of cast metal. It was round, ten cubits from brim to brim, and five cubits high, and a line of thirty cubits measured its circumference.
 3. Under it were figures of gourds, for ten cubits, compassing the sea all around. The gourds were in two rows, cast with it when it was cast.

@@ -1,7 +1,5 @@
 ← [[II Corinthians 1]] | [[II Corinthians 3]] →
 
-# Chapter 2
-
 1. For I made up my mind not to make another painful visit to you.
 2. For if I cause you pain, who is there to make me glad but the one whom I have pained?
 3. And I wrote as I did, so that when I came I might not suffer pain from those who should have made me rejoice, for I felt sure of all of you, that my joy would be the joy of you all.

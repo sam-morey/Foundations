@@ -1,7 +1,5 @@
 ← [[Romans 7]] | [[Romans 9]] →
 
-# Chapter 8
-
 1. There is therefore now no condemnation for those who are in Christ Jesus.
 2. For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death.
 3. For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,

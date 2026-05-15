@@ -1,7 +1,5 @@
 ← [[Exodus 5]] | [[Exodus 7]] →
 
-# Chapter 6
-
 1. But the Lord said to Moses, Now you shall see what I will do to Pharaoh; for with a strong hand he will send them out, and with a strong hand he will drive them out of his land.
 2. God spoke to Moses and said to him, I am the Lord.
 3. I appeared to Abraham, to Isaac, and to Jacob, as God Almighty, but by my name the Lord I did not make myself known to them.

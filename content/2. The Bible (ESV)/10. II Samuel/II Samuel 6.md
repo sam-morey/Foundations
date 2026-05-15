@@ -1,7 +1,5 @@
 ← [[II Samuel 5]] | [[II Samuel 7]] →
 
-# Chapter 6
-
 1. David again gathered all the chosen men of Israel, thirty thousand.
 2. And David arose and went with all the people who were with him from Baale-judah to bring up from there the ark of God, which is called by the name of the Lord of hosts who sits enthroned on the cherubim.
 3. And they carried the ark of God on a new cart and brought it out of the house of Abinadab, which was on the hill. And Uzzah and Ahio, the sons of Abinadab, were driving the new cart,

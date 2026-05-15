@@ -1,7 +1,5 @@
 ← [[Genesis 5]] | [[Genesis 7]] →
 
-# Chapter 6
-
 1. When man began to multiply on the face of the land and daughters were born to them,
 2. the sons of God saw that the daughters of man were attractive. And they took as their wives any they chose.
 3. Then the Lord said, My Spirit shall not abide in man forever, for he is flesh : his days shall be 120 years.

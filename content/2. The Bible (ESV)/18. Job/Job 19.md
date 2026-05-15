@@ -1,7 +1,5 @@
 ← [[Job 18]] | [[Job 20]] →
 
-# Chapter 19
-
 1. Then Job answered and said :
 2. How long will you torment me and break me in pieces with words?
 3. These ten times you have cast reproach upon me; are you not ashamed to wrong me?

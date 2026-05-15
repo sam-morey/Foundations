@@ -1,7 +1,5 @@
 ← [[II Samuel 2]] | [[II Samuel 4]] →
 
-# Chapter 3
-
 1. There was a long war between the house of Saul and the house of David. And David grew stronger and stronger, while the house of Saul became weaker and weaker.
 2. And sons were born to David at Hebron : his firstborn was Amnon, of Ahinoam of Jezreel;
 3. and his second, Chileab, of Abigail the widow of Nabal of Carmel; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;

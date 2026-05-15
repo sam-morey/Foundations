@@ -1,7 +1,5 @@
 ← [[Jeremiah 3]] | [[Jeremiah 5]] →
 
-# Chapter 4
-
 1. If you return, O Israel, declares the Lord, to me you should return. If you remove your detestable things from my presence, and do not waver,
 2. and if you swear, As the Lord lives, in truth, in justice, and in righteousness, then nations shall bless themselves in him, and in him shall they glory.
 3. For thus says the Lord to the men of Judah and Jerusalem : Break up your fallow ground, and sow not among thorns.

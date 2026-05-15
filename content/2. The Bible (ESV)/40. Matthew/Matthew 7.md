@@ -1,7 +1,5 @@
 ← [[Matthew 6]] | [[Matthew 8]] →
 
-# Chapter 7
-
 1. Judge not, that you be not judged.
 2. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.
 3. Why do you see the speck that is in your brother’s eye, but do not notice the log that is in your own eye?

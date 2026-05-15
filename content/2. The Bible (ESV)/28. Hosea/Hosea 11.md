@@ -1,7 +1,5 @@
 ← [[Hosea 10]] | [[Hosea 12]] →
 
-# Chapter 11
-
 1. When Israel was a child, I loved him, and out of Egypt I called my son.
 2. The more they were called, the more they went away; they kept sacrificing to the Baals and burning offerings to idols.
 3. Yet it was I who taught Ephraim to walk; I took them up by their arms, but they did not know that I healed them.

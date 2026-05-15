@@ -1,7 +1,5 @@
 ← [[Isaiah 44]] | [[Isaiah 46]] →
 
-# Chapter 45
-
 1. Thus says the Lord to his anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him and to loose the belts of kings, to open doors before him that gates may not be closed :
 2. I will go before you and level the exalted places, I will break in pieces the doors of bronze and cut through the bars of iron,
 3. I will give you the treasures of darkness and the hoards in secret places, that you may know that it is I, the Lord, the God of Israel, who call you by your name.

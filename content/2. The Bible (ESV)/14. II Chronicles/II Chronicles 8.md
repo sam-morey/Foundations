@@ -1,7 +1,5 @@
 ← [[II Chronicles 7]] | [[II Chronicles 9]] →
 
-# Chapter 8
-
 1. At the end of twenty years, in which Solomon had built the house of the Lord and his own house,
 2. Solomon rebuilt the cities that Hiram had given to him, and settled the people of Israel in them.
 3. And Solomon went to Hamath-zobah and took it.

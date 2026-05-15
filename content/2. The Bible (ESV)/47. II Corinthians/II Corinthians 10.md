@@ -1,7 +1,5 @@
 ← [[II Corinthians 9]] | [[II Corinthians 11]] →
 
-# Chapter 10
-
 1. I, Paul, myself entreat you, by the meekness and gentleness of Christ —I who am humble when face to face with you, but bold toward you when I am away !—
 2. I beg of you that when I am present I may not have to show boldness with such confidence as I count on showing against some who suspect us of walking according to the flesh.
 3. For though we walk in the flesh, we are not waging war according to the flesh.

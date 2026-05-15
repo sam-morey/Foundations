@@ -1,7 +1,5 @@
 ← [[Numbers 26]] | [[Numbers 28]] →
 
-# Chapter 27
-
 1. Then drew near the daughters of Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh the son of Joseph. The names of his daughters were: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 2. And they stood before Moses and before Eleazar the priest and before the chiefs and all the congregation, at the entrance of the tent of meeting, saying,
 3. Our father died in the wilderness. He was not among the company of those who gathered themselves together against the Lord in the company of Korah, but died for his own sin. And he had no sons.

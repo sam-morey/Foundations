@@ -1,7 +1,5 @@
 ← [[Ephesians 3]] | [[Ephesians 5]] →
 
-# Chapter 4
-
 1. I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,
 2. with all humility and gentleness, with patience, bearing with one another in love,
 3. eager to maintain the unity of the Spirit in the bond of peace.

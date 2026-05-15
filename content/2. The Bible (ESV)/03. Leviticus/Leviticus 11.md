@@ -1,7 +1,5 @@
 ← [[Leviticus 10]] | [[Leviticus 12]] →
 
-# Chapter 11
-
 1. And the Lord spoke to Moses and Aaron, saying to them,
 2. Speak to the people of Israel, saying, These are the living things that you may eat among all the animals that are on the earth.
 3. Whatever parts the hoof and is cloven - footed and chews the cud, among the animals, you may eat.

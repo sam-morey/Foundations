@@ -1,7 +1,5 @@
 ← [[II Peter 1]] | [[II Peter 3]] →
 
-# Chapter 2
-
 1. But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction.
 2. And many will follow their sensuality, and because of them the way of truth will be blasphemed.
 3. And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep.

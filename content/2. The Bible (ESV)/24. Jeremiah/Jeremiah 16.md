@@ -1,7 +1,5 @@
 ← [[Jeremiah 15]] | [[Jeremiah 17]] →
 
-# Chapter 16
-
 1. The word of the Lord came to me:
 2. You shall not take a wife, nor shall you have sons or daughters in this place.
 3. For thus says the Lord concerning the sons and daughters who are born in this place, and concerning the mothers who bore them and the fathers who fathered them in this land :

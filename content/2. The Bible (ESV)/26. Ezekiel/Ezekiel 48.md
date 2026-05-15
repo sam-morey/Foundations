@@ -1,7 +1,5 @@
 ← [[Ezekiel 47]] | [[Daniel 1]] →
 
-# Chapter 48
-
 1. These are the names of the tribes : Beginning at the northern extreme, beside the way of Hethlon to Lebo-hamath, as far as Hazar-enan (which is on the northern border of Damascus over against Hamath ), and extending from the east side to the west, Dan, one portion.
 2. Adjoining the territory of Dan, from the east side to the west, Asher, one portion.
 3. Adjoining the territory of Asher, from the east side to the west, Naphtali, one portion.

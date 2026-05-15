@@ -1,7 +1,5 @@
 ← [[Jonah 3]] | [[Micah 1]] →
 
-# Chapter 4
-
 1. But it displeased Jonah exceedingly, and he was angry.
 2. And he prayed to the Lord and said, O Lord, is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you are a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster.
 3. Therefore now, O Lord, please take my life from me, for it is better for me to die than to live.

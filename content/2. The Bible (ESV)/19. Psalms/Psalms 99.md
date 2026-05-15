@@ -1,7 +1,5 @@
 ← [[Psalms 98]] | [[Psalms 100]] →
 
-# Chapter 99
-
 1. The Lord Our God Is Holy The Lord reigns; let the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!
 2. The Lord is great in Zion; he is exalted over all the peoples.
 3. Let them praise your great and awesome name! Holy is he!

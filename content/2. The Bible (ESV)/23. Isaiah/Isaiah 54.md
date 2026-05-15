@@ -1,7 +1,5 @@
 ← [[Isaiah 53]] | [[Isaiah 55]] →
 
-# Chapter 54
-
 1. Sing, O barren one, who did not bear; break forth into singing and cry aloud, you who have not been in labor! For the children of the desolate one will be more than the children of her who is married, says the Lord.
 2. Enlarge the place of your tent, and let the curtains of your habitations be stretched out; do not hold back; lengthen your cords and strengthen your stakes.
 3. For you will spread abroad to the right and to the left, and your offspring will possess the nations and will people the desolate cities.

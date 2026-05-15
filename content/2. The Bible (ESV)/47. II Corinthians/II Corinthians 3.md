@@ -1,7 +1,5 @@
 ← [[II Corinthians 2]] | [[II Corinthians 4]] →
 
-# Chapter 3
-
 1. Are we beginning to commend ourselves again? Or do we need, as some do, letters of recommendation to you, or from you?
 2. You yourselves are our letter of recommendation, written on our hearts, to be known and read by all.
 3. And you show that you are a letter from Christ delivered by us, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.

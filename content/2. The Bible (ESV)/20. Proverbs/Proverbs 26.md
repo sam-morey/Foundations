@@ -1,7 +1,5 @@
 ← [[Proverbs 25]] | [[Proverbs 27]] →
 
-# Chapter 26
-
 1. Like snow in summer or rain in harvest, so honor is not fitting for a fool.
 2. Like a sparrow in its flitting, like a swallow in its flying, a curse that is causeless does not alight.
 3. A whip for the horse, a bridle for the donkey, and a rod for the back of fools.

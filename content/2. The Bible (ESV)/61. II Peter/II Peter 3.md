@@ -1,7 +1,5 @@
 ← [[II Peter 2]] | [[I John 1]] →
 
-# Chapter 3
-
 1. This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder,
 2. that you should remember the predictions of the holy prophets and the commandment of the Lord and Savior through your apostles,
 3. knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires.

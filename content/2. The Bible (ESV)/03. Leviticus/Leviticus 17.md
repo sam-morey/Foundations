@@ -1,7 +1,5 @@
 ← [[Leviticus 16]] | [[Leviticus 18]] →
 
-# Chapter 17
-
 1. And the Lord spoke to Moses, saying,
 2. Speak to Aaron and his sons and to all the people of Israel and say to them, This is the thing that the Lord has commanded.
 3. If any one of the house of Israel kills an ox or a lamb or a goat in the camp, or kills it outside the camp,

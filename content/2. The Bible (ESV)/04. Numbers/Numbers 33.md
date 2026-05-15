@@ -1,7 +1,5 @@
 ← [[Numbers 32]] | [[Numbers 34]] →
 
-# Chapter 33
-
 1. These are the stages of the people of Israel, when they went out of the land of Egypt by their companies under the leadership of Moses and Aaron.
 2. Moses wrote down their starting places, stage by stage, by command of the Lord, and these are their stages according to their starting places.
 3. They set out from Rameses in the first month, on the fifteenth day of the first month. On the day after the Passover, the people of Israel went out triumphantly in the sight of all the Egyptians,

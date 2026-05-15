@@ -1,7 +1,5 @@
 ← [[Nehemiah 7]] | [[Nehemiah 9]] →
 
-# Chapter 8
-
 1. And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the Lord had commanded Israel.
 2. So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month.
 3. And he read from it facing the square before the Water Gate from early morning until midday, in the presence of the men and the women and those who could understand. And the ears of all the people were attentive to the Book of the Law.

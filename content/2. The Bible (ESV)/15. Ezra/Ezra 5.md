@@ -1,7 +1,5 @@
 ← [[Ezra 4]] | [[Ezra 6]] →
 
-# Chapter 5
-
 1. Now the prophets, Haggai and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem, in the name of the God of Israel who was over them.
 2. Then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to rebuild the house of God that is in Jerusalem, and the prophets of God were with them, supporting them.
 3. At the same time Tattenai the governor of the province Beyond the River and Shethar-bozenai and their associates came to them and spoke to them thus : Who gave you a decree to build this house and to finish this structure?

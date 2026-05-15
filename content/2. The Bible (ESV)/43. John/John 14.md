@@ -1,7 +1,5 @@
 ← [[John 13]] | [[John 15]] →
 
-# Chapter 14
-
 1. Let not your hearts be troubled. Believe in God; believe also in me.
 2. In my Father’s house are many rooms. If it were not so, would I have told you that I go to prepare a place for you?
 3. And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also.

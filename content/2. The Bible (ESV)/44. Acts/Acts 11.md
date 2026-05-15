@@ -1,7 +1,5 @@
 ← [[Acts 10]] | [[Acts 12]] →
 
-# Chapter 11
-
 1. Now the apostles and the brothers who were throughout Judea heard that the Gentiles also had received the word of God.
 2. So when Peter went up to Jerusalem, the circumcision party criticized him, saying,
 3. You went to uncircumcised men and ate with them.

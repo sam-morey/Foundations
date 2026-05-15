@@ -1,7 +1,5 @@
 ← [[Revelation of John 13]] | [[Revelation of John 15]] →
 
-# Chapter 14
-
 1. Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father’s name written on their foreheads.
 2. And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps,
 3. and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth.

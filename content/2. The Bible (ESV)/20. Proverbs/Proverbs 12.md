@@ -1,7 +1,5 @@
 ← [[Proverbs 11]] | [[Proverbs 13]] →
 
-# Chapter 12
-
 1. Whoever loves discipline loves knowledge, but he who hates reproof is stupid.
 2. A good man obtains favor from the Lord, but a man of evil devices he condemns.
 3. No one is established by wickedness, but the root of the righteous will never be moved.

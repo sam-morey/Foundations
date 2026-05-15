@@ -1,7 +1,5 @@
 ← [[Proverbs 15]] | [[Proverbs 17]] →
 
-# Chapter 16
-
 1. The plans of the heart belong to man, but the answer of the tongue is from the Lord.
 2. All the ways of a man are pure in his own eyes, but the Lord weighs the spirit.
 3. Commit your work to the Lord, and your plans will be established.

@@ -1,7 +1,5 @@
 ← [[Isaiah 2]] | [[Isaiah 4]] →
 
-# Chapter 3
-
 1. For behold, the Lord God of hosts is taking away from Jerusalem and from Judah support and supply, all support of bread, and all support of water;
 2. the mighty man and the soldier, the judge and the prophet, the diviner and the elder,
 3. the captain of fifty and the man of rank, the counselor and the skillful magician and the expert in charms.

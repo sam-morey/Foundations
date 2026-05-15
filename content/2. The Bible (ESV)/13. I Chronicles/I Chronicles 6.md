@@ -1,7 +1,5 @@
 ← [[I Chronicles 5]] | [[I Chronicles 7]] →
 
-# Chapter 6
-
 1. The sons of Levi : Gershon, Kohath, and Merari.
 2. The sons of Kohath : Amram, Izhar, Hebron, and Uzziel.
 3. The children of Amram : Aaron, Moses, and Miriam. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar.

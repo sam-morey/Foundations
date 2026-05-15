@@ -1,7 +1,5 @@
 ← [[Joshua 9]] | [[Joshua 11]] →
 
-# Chapter 10
-
 1. As soon as Adoni-zedek, king of Jerusalem, heard how Joshua had captured Ai and had devoted it to destruction, doing to Ai and its king as he had done to Jericho and its king, and how the inhabitants of Gibeon had made peace with Israel and were among them,
 2. he feared greatly, because Gibeon was a great city, like one of the royal cities, and because it was greater than Ai, and all its men were warriors.
 3. So Adoni-zedek king of Jerusalem sent to Hoham king of Hebron, to Piram king of Jarmuth, to Japhia king of Lachish, and to Debir king of Eglon, saying,

@@ -1,7 +1,5 @@
 ← [[Acts 13]] | [[Acts 15]] →
 
-# Chapter 14
-
 1. Now at Iconium they entered together into the Jewish synagogue and spoke in such a way that a great number of both Jews and Greeks believed.
 2. But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers.
 3. So they remained for a long time, speaking boldly for the Lord, who bore witness to the word of his grace, granting signs and wonders to be done by their hands.

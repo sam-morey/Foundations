@@ -1,7 +1,5 @@
 ← [[Judges 11]] | [[Judges 13]] →
 
-# Chapter 12
-
 1. The men of Ephraim were called to arms, and they crossed to Zaphon and said to Jephthah, Why did you cross over to fight against the Ammonites and did not call us to go with you? We will burn your house over you with fire.
 2. And Jephthah said to them, I and my people had a great dispute with the Ammonites, and when I called you, you did not save me from their hand.
 3. And when I saw that you would not save me, I took my life in my hand and crossed over against the Ammonites, and the Lord gave them into my hand. Why then have you come up to me this day to fight against me?

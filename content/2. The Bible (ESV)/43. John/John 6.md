@@ -1,7 +1,5 @@
 ← [[John 5]] | [[John 7]] →
 
-# Chapter 6
-
 1. After this Jesus went away to the other side of the Sea of Galilee, which is the Sea of Tiberias.
 2. And a large crowd was following him, because they saw the signs that he was doing on the sick.
 3. Jesus went up on the mountain, and there he sat down with his disciples.

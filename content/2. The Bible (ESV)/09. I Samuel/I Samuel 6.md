@@ -1,7 +1,5 @@
 ← [[I Samuel 5]] | [[I Samuel 7]] →
 
-# Chapter 6
-
 1. The ark of the Lord was in the country of the Philistines seven months.
 2. And the Philistines called for the priests and the diviners and said, What shall we do with the ark of the Lord? Tell us with what we shall send it to its place.
 3. They said, If you send away the ark of the God of Israel, do not send it empty, but by all means return him a guilt offering. Then you will be healed, and it will be known to you why his hand does not turn away from you.

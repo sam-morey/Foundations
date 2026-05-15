@@ -1,7 +1,5 @@
 ← [[Matthew 7]] | [[Matthew 9]] →
 
-# Chapter 8
-
 1. When he came down from the mountain, great crowds followed him.
 2. And behold, a leper came to him and knelt before him, saying, Lord, if you will, you can make me clean.
 3. And Jesus stretched out his hand and touched him, saying, I will; be clean. And immediately his leprosy was cleansed.

@@ -1,7 +1,5 @@
 ← [[I Kings 15]] | [[I Kings 17]] →
 
-# Chapter 16
-
 1. And the word of the Lord came to Jehu the son of Hanani against Baasha, saying,
 2. Since I exalted you out of the dust and made you leader over my people Israel, and you have walked in the way of Jeroboam and have made my people Israel to sin, provoking me to anger with their sins,
 3. behold, I will utterly sweep away Baasha and his house, and I will make your house like the house of Jeroboam the son of Nebat.

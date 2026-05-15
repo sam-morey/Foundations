@@ -1,7 +1,5 @@
 ← [[Leviticus 8]] | [[Leviticus 10]] →
 
-# Chapter 9
-
 1. On the eighth day Moses called Aaron and his sons and the elders of Israel,
 2. and he said to Aaron, Take for yourself a bull calf for a sin offering and a ram for a burnt offering, both without blemish, and offer them before the Lord.
 3. And say to the people of Israel, Take a male goat for a sin offering, and a calf and a lamb, both a year old without blemish, for a burnt offering,

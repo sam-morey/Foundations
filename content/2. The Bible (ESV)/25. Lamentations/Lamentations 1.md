@@ -1,7 +1,5 @@
 ← [[Jeremiah 52]] | [[Lamentations 2]] →
 
-# Chapter 1
-
 1. How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations! She who was a princess among the provinces has become a slave.
 2. She weeps bitterly in the night, with tears on her cheeks; among all her lovers she has none to comfort her; all her friends have dealt treacherously with her; they have become her enemies.
 3. Judah has gone into exile because of affliction and hard servitude; she dwells now among the nations, but finds no resting place; her pursuers have all overtaken her in the midst of her distress.

@@ -1,7 +1,5 @@
 ← [[Judges 12]] | [[Judges 14]] →
 
-# Chapter 13
-
 1. And the people of Israel again did what was evil in the sight of the Lord, so the Lord gave them into the hand of the Philistines for forty years.
 2. There was a certain man of Zorah, of the tribe of the Danites, whose name was Manoah. And his wife was barren and had no children.
 3. And the angel of the Lord appeared to the woman and said to her, Behold, you are barren and have not borne children, but you shall conceive and bear a son.

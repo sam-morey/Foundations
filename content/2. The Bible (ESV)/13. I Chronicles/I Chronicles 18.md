@@ -1,7 +1,5 @@
 ← [[I Chronicles 17]] | [[I Chronicles 19]] →
 
-# Chapter 18
-
 1. After this David defeated the Philistines and subdued them, and he took Gath and its villages out of the hand of the Philistines.
 2. And he defeated Moab, and the Moabites became servants to David and brought tribute.
 3. David also defeated Hadadezer king of Zobah-Hamath, as he went to set up his monument at the river Euphrates.

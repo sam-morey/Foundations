@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 10]] | [[Ecclesiastes 12]] →
 
-# Chapter 11
-
 1. Cast your bread upon the waters, for you will find it after many days.
 2. Give a portion to seven, or even to eight, for you know not what disaster may happen on earth.
 3. If the clouds are full of rain, they empty themselves on the earth, and if a tree falls to the south or to the north, in the place where the tree falls, there it will lie.

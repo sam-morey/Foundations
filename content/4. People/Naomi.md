@@ -1,5 +1,3 @@
-# Naomi
-
 **Testament:** Old Testament
 **Era:** The Judges
 **Appears In:** [[3. Overviews/08. Ruth Overview|Ruth]]

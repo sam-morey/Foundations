@@ -1,7 +1,5 @@
 ← [[II Chronicles 10]] | [[II Chronicles 12]] →
 
-# Chapter 11
-
 1. When Rehoboam came to Jerusalem, he assembled the house of Judah and Benjamin, 180,000 chosen warriors, to fight against Israel, to restore the kingdom to Rehoboam.
 2. But the word of the Lord came to Shemaiah the man of God :
 3. Say to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin,

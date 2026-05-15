@@ -1,7 +1,5 @@
 ← [[Isaiah 62]] | [[Isaiah 64]] →
 
-# Chapter 63
-
 1. Who is this who comes from Edom, in crimsoned garments from Bozrah, he who is splendid in his apparel, marching in the greatness of his strength? It is I, speaking in righteousness, mighty to save.
 2. Why is your apparel red, and your garments like his who treads in the winepress?
 3. I have trodden the winepress alone, and from the peoples no one was with me; I trod them in my anger and trampled them in my wrath; their lifeblood spattered on my garments, and stained all my apparel.

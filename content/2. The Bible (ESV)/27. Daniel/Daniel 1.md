@@ -1,7 +1,5 @@
 ← [[Ezekiel 48]] | [[Daniel 2]] →
 
-# Chapter 1
-
 1. In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 2. And the Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God. And he brought them to the land of Shinar, to the house of his god, and placed the vessels in the treasury of his god.
 3. Then the king commanded Ashpenaz, his chief eunuch, to bring some of the people of Israel, both of the royal family and of the nobility,

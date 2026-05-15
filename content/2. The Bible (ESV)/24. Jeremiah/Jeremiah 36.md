@@ -1,7 +1,5 @@
 ← [[Jeremiah 35]] | [[Jeremiah 37]] →
 
-# Chapter 36
-
 1. In the fourth year of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from the Lord :
 2. Take a scroll and write on it all the words that I have spoken to you against Israel and Judah and all the nations, from the day I spoke to you, from the days of Josiah until today.
 3. It may be that the house of Judah will hear all the disaster that I intend to do to them, so that every one may turn from his evil way, and that I may forgive their iniquity and their sin.

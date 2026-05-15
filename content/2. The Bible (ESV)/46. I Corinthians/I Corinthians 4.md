@@ -1,7 +1,5 @@
 ← [[I Corinthians 3]] | [[I Corinthians 5]] →
 
-# Chapter 4
-
 1. This is how one should regard us, as servants of Christ and stewards of the mysteries of God.
 2. Moreover, it is required of stewards that they be found faithful.
 3. But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself.

@@ -1,5 +1,3 @@
-# Judgment
-
 God is the righteous judge of all the earth. Judgment is not contradictory to his love — it is the expression of his holiness and justice against all that corrupts and destroys his creation. The cross is itself the supreme act of judgment, and the final judgment is the ultimate vindication of righteousness.
 
 ## Key Passages

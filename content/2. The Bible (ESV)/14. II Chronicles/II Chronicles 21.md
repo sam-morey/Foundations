@@ -1,7 +1,5 @@
 ← [[II Chronicles 20]] | [[II Chronicles 22]] →
 
-# Chapter 21
-
 1. Jehoshaphat slept with his fathers and was buried with his fathers in the city of David, and Jehoram his son reigned in his place.
 2. He had brothers, the sons of Jehoshaphat : Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; all these were the sons of Jehoshaphat king of Israel.
 3. Their father gave them great gifts of silver, gold, and valuable possessions, together with fortified cities in Judah, but he gave the kingdom to Jehoram, because he was the firstborn.

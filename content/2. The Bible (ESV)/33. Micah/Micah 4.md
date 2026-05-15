@@ -1,7 +1,5 @@
 ← [[Micah 3]] | [[Micah 5]] →
 
-# Chapter 4
-
 1. It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and it shall be lifted up above the hills; and peoples shall flow to it,
 2. and many nations shall come, and say : Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths. For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 3. He shall judge between many peoples, and shall decide for strong nations far away; and they shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore;

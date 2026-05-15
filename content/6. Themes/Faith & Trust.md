@@ -1,5 +1,3 @@
-# Faith & Trust
-
 Faith is trusting God — his character, his word, and his promises — even when circumstances suggest otherwise. The Bible presents faith not as blind optimism but as a reasoned confidence grounded in who God is and what he has done.
 
 ## Key Passages

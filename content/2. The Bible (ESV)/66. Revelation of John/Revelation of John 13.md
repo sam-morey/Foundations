@@ -1,7 +1,5 @@
 ← [[Revelation of John 12]] | [[Revelation of John 14]] →
 
-# Chapter 13
-
 1. And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads.
 2. And the beast that I saw was like a leopard; its feet were like a bear’s, and its mouth was like a lion’s mouth. And to it the dragon gave his power and his throne and great authority.
 3. One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast.

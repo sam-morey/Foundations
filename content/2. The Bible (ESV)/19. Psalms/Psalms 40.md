@@ -1,7 +1,5 @@
 ← [[Psalms 39]] | [[Psalms 41]] →
 
-# Chapter 40
-
 1. My Help and My Deliverer To the choirmaster. A Psalm of David. I waited patiently for the Lord; he inclined to me and heard my cry.
 2. He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure.
 3. He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the Lord.

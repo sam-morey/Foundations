@@ -1,7 +1,5 @@
 ← [[Isaiah 17]] | [[Isaiah 19]] →
 
-# Chapter 18
-
 1. Ah, land of whirring wings that is beyond the rivers of Cush,
 2. which sends ambassadors by the sea, in vessels of papyrus on the waters! Go, you swift messengers, to a nation tall and smooth, to a people feared near and far, a nation mighty and conquering, whose land the rivers divide.
 3. All you inhabitants of the world, you who dwell on the earth, when a signal is raised on the mountains, look! When a trumpet is blown, hear!

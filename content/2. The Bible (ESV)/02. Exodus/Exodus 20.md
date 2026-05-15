@@ -1,7 +1,5 @@
 ← [[Exodus 19]] | [[Exodus 21]] →
 
-# Chapter 20
-
 1. And God spoke all these words, saying,
 2. I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.
 3. You shall have no other gods before me.

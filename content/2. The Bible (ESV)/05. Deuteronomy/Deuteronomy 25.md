@@ -1,7 +1,5 @@
 ← [[Deuteronomy 24]] | [[Deuteronomy 26]] →
 
-# Chapter 25
-
 1. If there is a dispute between men and they come into court and the judges decide between them, acquitting the innocent and condemning the guilty,
 2. then if the guilty man deserves to be beaten, the judge shall cause him to lie down and be beaten in his presence with a number of stripes in proportion to his offense.
 3. Forty stripes may be given him, but not more, lest, if one should go on to beat him with more stripes than these, your brother be degraded in your sight.

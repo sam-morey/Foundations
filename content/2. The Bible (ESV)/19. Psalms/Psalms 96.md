@@ -1,7 +1,5 @@
 ← [[Psalms 95]] | [[Psalms 97]] →
 
-# Chapter 96
-
 1. Worship in the Splendor of Holiness Oh sing to the Lord a new song; sing to the Lord, all the earth!
 2. Sing to the Lord, bless his name; tell of his salvation from day to day.
 3. Declare his glory among the nations, his marvelous works among all the peoples!

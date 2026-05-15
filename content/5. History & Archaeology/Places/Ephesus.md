@@ -1,5 +1,3 @@
-# Ephesus
-
 **Location:** Near Selçuk, İzmir Province, western Turkey — the ancient site (known locally as "Efes") lies ~3 km southwest of Selçuk and ~70 km south of İzmir; GPS ~37.94°N 27.34°E
 **Testament:** NT
 **Key Themes:** [[Spiritual Warfare]] · [[The Church]] · [[Word of God]]

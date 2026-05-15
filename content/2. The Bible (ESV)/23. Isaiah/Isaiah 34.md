@@ -1,7 +1,5 @@
 ← [[Isaiah 33]] | [[Isaiah 35]] →
 
-# Chapter 34
-
 1. Draw near, O nations, to hear, and give attention, O peoples! Let the earth hear, and all that fills it; the world, and all that comes from it.
 2. For the Lord is enraged against all the nations, and furious against all their host; he has devoted them to destruction, has given them over for slaughter.
 3. Their slain shall be cast out, and the stench of their corpses shall rise; the mountains shall flow with their blood.

@@ -1,7 +1,5 @@
 ← [[Isaiah 13]] | [[Isaiah 15]] →
 
-# Chapter 14
-
 1. For the Lord will have compassion on Jacob and will again choose Israel, and will set them in their own land, and sojourners will join them and will attach themselves to the house of Jacob.
 2. And the peoples will take them and bring them to their place, and the house of Israel will possess them in the Lord ’s land as male and female slaves. They will take captive those who were their captors, and rule over those who oppressed them.
 3. When the Lord has given you rest from your pain and turmoil and the hard service with which you were made to serve,

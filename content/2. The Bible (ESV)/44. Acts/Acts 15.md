@@ -1,7 +1,5 @@
 ← [[Acts 14]] | [[Acts 16]] →
 
-# Chapter 15
-
 1. But some men came down from Judea and were teaching the brothers, Unless you are circumcised according to the custom of Moses, you cannot be saved.
 2. And after Paul and Barnabas had no small dissension and debate with them, Paul and Barnabas and some of the others were appointed to go up to Jerusalem to the apostles and the elders about this question.
 3. So, being sent on their way by the church, they passed through both Phoenicia and Samaria, describing in detail the conversion of the Gentiles, and brought great joy to all the brothers.

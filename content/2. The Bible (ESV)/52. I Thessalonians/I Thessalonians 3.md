@@ -1,7 +1,5 @@
 ← [[I Thessalonians 2]] | [[I Thessalonians 4]] →
 
-# Chapter 3
-
 1. Therefore when we could bear it no longer, we were willing to be left behind at Athens alone,
 2. and we sent Timothy, our brother and God’s coworker in the gospel of Christ, to establish and exhort you in your faith,
 3. that no one be moved by these afflictions. For you yourselves know that we are destined for this.

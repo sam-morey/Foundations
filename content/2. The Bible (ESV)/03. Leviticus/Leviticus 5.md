@@ -1,7 +1,5 @@
 ← [[Leviticus 4]] | [[Leviticus 6]] →
 
-# Chapter 5
-
 1. If anyone sins in that he hears a public adjuration to testify, and though he is a witness, whether he has seen or come to know the matter, yet does not speak, he shall bear his iniquity;
 2. or if anyone touches an unclean thing, whether a carcass of an unclean wild animal or a carcass of unclean livestock or a carcass of unclean swarming things, and it is hidden from him and he has become unclean, and he realizes his guilt;
 3. or if he touches human uncleanness, of whatever sort the uncleanness may be with which one becomes unclean, and it is hidden from him, when he comes to know it, and realizes his guilt;

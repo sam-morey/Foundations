@@ -1,7 +1,5 @@
 ← [[Deuteronomy 23]] | [[Deuteronomy 25]] →
 
-# Chapter 24
-
 1. When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house,
 2. and if she goes and becomes another man’s wife,
 3. and the latter man hates her and writes her a certificate of divorce and puts it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife,

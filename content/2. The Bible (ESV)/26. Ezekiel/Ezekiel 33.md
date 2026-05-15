@@ -1,7 +1,5 @@
 ← [[Ezekiel 32]] | [[Ezekiel 34]] →
 
-# Chapter 33
-
 1. The word of the Lord came to me:
 2. Son of man, speak to your people and say to them, If I bring the sword upon a land, and the people of the land take a man from among them, and make him their watchman,
 3. and if he sees the sword coming upon the land and blows the trumpet and warns the people,

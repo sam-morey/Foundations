@@ -1,7 +1,5 @@
 ← [[Revelation of John 1]] | [[Revelation of John 3]] →
 
-# Chapter 2
-
 1. To the angel of the church in Ephesus write : The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands.
 2. I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.
 3. I know you are enduring patiently and bearing up for my name’s sake, and you have not grown weary.

@@ -1,7 +1,5 @@
 ← [[Psalms 38]] | [[Psalms 40]] →
 
-# Chapter 39
-
 1. What Is the Measure of My Days? To the choirmaster : to Jeduthun. A Psalm of David. I said, I will guard my ways, that I may not sin with my tongue; I will guard my mouth with a muzzle, so long as the wicked are in my presence.
 2. I was mute and silent; I held my peace to no avail, and my distress grew worse.
 3. My heart became hot within me. As I mused, the fire burned; then I spoke with my tongue :

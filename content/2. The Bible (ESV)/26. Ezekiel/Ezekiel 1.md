@@ -1,7 +1,5 @@
 ← [[Lamentations 5]] | [[Ezekiel 2]] →
 
-# Chapter 1
-
 1. In the thirtieth year, in the fourth month, on the fifth day of the month, as I was among the exiles by the Chebar canal, the heavens were opened, and I saw visions of God.
 2. On the fifth day of the month (it was the fifth year of the exile of King Jehoiachin ),
 3. the word of the Lord came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the Chebar canal, and the hand of the Lord was upon him there.

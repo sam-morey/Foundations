@@ -1,5 +1,3 @@
-# Nineveh
-
 **Location:** Mosul, Nineveh Governorate, northern Iraq — the ancient city occupied two principal mounds: Kuyunjik (the acropolis, northwest of Mosul) and Nebi Yunus ("Prophet Jonah," under a modern residential neighborhood to the south); GPS ~36.36°N 43.15°E
 **Testament:** OT
 **Key Themes:** [[Repentance]] · [[Judgment and Restoration]] · [[Sovereignty of God]]

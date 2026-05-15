@@ -1,7 +1,5 @@
 ← [[Joshua 8]] | [[Joshua 10]] →
 
-# Chapter 9
-
 1. As soon as all the kings who were beyond the Jordan in the hill country and in the lowland all along the coast of the Great Sea toward Lebanon, the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, heard of this,
 2. they gathered together as one to fight against Joshua and Israel.
 3. But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,

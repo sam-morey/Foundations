@@ -1,7 +1,5 @@
 ← [[II Samuel 4]] | [[II Samuel 6]] →
 
-# Chapter 5
-
 1. Then all the tribes of Israel came to David at Hebron and said, Behold, we are your bone and flesh.
 2. In times past, when Saul was king over us, it was you who led out and brought in Israel. And the Lord said to you, You shall be shepherd of my people Israel, and you shall be prince over Israel.
 3. So all the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before the Lord, and they anointed David king over Israel.

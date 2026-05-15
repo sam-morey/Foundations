@@ -1,7 +1,5 @@
 ← [[Exodus 16]] | [[Exodus 18]] →
 
-# Chapter 17
-
 1. All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the Lord, and camped at Rephidim, but there was no water for the people to drink.
 2. Therefore the people quarreled with Moses and said, Give us water to drink. And Moses said to them, Why do you quarrel with me? Why do you test the Lord?
 3. But the people thirsted there for water, and the people grumbled against Moses and said, Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?

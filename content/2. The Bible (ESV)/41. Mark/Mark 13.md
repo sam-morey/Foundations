@@ -1,7 +1,5 @@
 ← [[Mark 12]] | [[Mark 14]] →
 
-# Chapter 13
-
 1. And as he came out of the temple, one of his disciples said to him, Look, Teacher, what wonderful stones and what wonderful buildings!
 2. And Jesus said to him, Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down.
 3. And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately,

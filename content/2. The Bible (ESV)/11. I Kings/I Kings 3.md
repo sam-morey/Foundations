@@ -1,7 +1,5 @@
 ← [[I Kings 2]] | [[I Kings 4]] →
 
-# Chapter 3
-
 1. Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into the city of David until he had finished building his own house and the house of the Lord and the wall around Jerusalem.
 2. The people were sacrificing at the high places, however, because no house had yet been built for the name of the Lord.
 3. Solomon loved the Lord, walking in the statutes of David his father, only he sacrificed and made offerings at the high places.

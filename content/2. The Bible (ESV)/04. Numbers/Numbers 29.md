@@ -1,7 +1,5 @@
 ← [[Numbers 28]] | [[Numbers 30]] →
 
-# Chapter 29
-
 1. On the first day of the seventh month you shall have a holy convocation. You shall not do any ordinary work. It is a day for you to blow the trumpets,
 2. and you shall offer a burnt offering, for a pleasing aroma to the Lord : one bull from the herd, one ram, seven male lambs a year old without blemish;
 3. also their grain offering of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the ram,

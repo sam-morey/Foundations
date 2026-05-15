@@ -1,7 +1,5 @@
 ← [[Ephesians 4]] | [[Ephesians 6]] →
 
-# Chapter 5
-
 1. Therefore be imitators of God, as beloved children.
 2. And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.
 3. But sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints.

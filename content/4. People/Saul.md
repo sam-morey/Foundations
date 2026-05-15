@@ -1,5 +1,3 @@
-# Saul
-
 **Testament:** Old Testament
 **Era:** The United Monarchy
 **Appears In:** [[3. Overviews/09. 1 Samuel Overview|1 Samuel]], [[3. Overviews/10. 2 Samuel Overview|2 Samuel]]

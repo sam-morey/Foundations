@@ -1,5 +1,3 @@
-# Ezekiel
-
 **Testament:** Old Testament
 **Era:** The Exile
 **Appears In:** [[3. Overviews/26. Ezekiel Overview|Ezekiel]]

@@ -1,7 +1,5 @@
 ← [[II Kings 3]] | [[II Kings 5]] →
 
-# Chapter 4
-
 1. Now the wife of one of the sons of the prophets cried to Elisha, Your servant my husband is dead, and you know that your servant feared the Lord, but the creditor has come to take my two children to be his slaves.
 2. And Elisha said to her, What shall I do for you? Tell me; what have you in the house? And she said, Your servant has nothing in the house except a jar of oil.
 3. Then he said, Go outside, borrow vessels from all your neighbors, empty vessels and not too few.

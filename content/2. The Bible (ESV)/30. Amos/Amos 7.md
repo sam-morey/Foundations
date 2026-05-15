@@ -1,7 +1,5 @@
 ← [[Amos 6]] | [[Amos 8]] →
 
-# Chapter 7
-
 1. This is what the Lord God showed me: behold, he was forming locusts when the latter growth was just beginning to sprout, and behold, it was the latter growth after the king’s mowings.
 2. When they had finished eating the grass of the land, I said, O Lord God, please forgive! How can Jacob stand? He is so small!
 3. The Lord relented concerning this : It shall not be, said the Lord.

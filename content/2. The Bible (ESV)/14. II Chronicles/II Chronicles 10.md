@@ -1,7 +1,5 @@
 ← [[II Chronicles 9]] | [[II Chronicles 11]] →
 
-# Chapter 10
-
 1. Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.
 2. And as soon as Jeroboam the son of Nebat heard of it (for he was in Egypt, where he had fled from King Solomon ), then Jeroboam returned from Egypt.
 3. And they sent and called him. And Jeroboam and all Israel came and said to Rehoboam,

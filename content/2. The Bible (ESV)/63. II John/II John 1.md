@@ -1,7 +1,5 @@
 ← [[I John 5]] | [[III John 1]] →
 
-# Chapter 1
-
 1. The elder to the elect lady and her children, whom I love in truth, and not only I, but also all who know the truth,
 2. because of the truth that abides in us and will be with us forever :
 3. Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ the Father’s Son, in truth and love.

@@ -1,7 +1,5 @@
 ← [[Psalms 41]] | [[Psalms 43]] →
 
-# Chapter 42
-
 1. Why Are You Cast Down, O My Soul? To the choirmaster. A Maskil of the Sons of Korah. As a deer pants for flowing streams, so pants my soul for you, O God.
 2. My soul thirsts for God, for the living God. When shall I come and appear before God?
 3. My tears have been my food day and night, while they say to me all the day long, Where is your God?

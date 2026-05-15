@@ -1,7 +1,5 @@
 ← [[Ezekiel 4]] | [[Ezekiel 6]] →
 
-# Chapter 5
-
 1. And you, O son of man, take a sharp sword. Use it as a barber’s razor and pass it over your head and your beard. Then take balances for weighing and divide the hair.
 2. A third part you shall burn in the fire in the midst of the city, when the days of the siege are completed. And a third part you shall take and strike with the sword all around the city. And a third part you shall scatter to the wind, and I will unsheathe the sword after them.
 3. And you shall take from these a small number and bind them in the skirts of your robe.

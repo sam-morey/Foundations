@@ -1,7 +1,5 @@
 ← [[Deuteronomy 13]] | [[Deuteronomy 15]] →
 
-# Chapter 14
-
 1. You are the sons of the Lord your God. You shall not cut yourselves or make any baldness on your foreheads for the dead.
 2. For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth.
 3. You shall not eat any abomination.

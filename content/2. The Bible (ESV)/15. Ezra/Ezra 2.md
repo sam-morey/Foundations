@@ -1,7 +1,5 @@
 ← [[Ezra 1]] | [[Ezra 3]] →
 
-# Chapter 2
-
 1. Now these were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried captive to Babylonia. They returned to Jerusalem and Judah, each to his own town.
 2. They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel :
 3. the sons of Parosh, 2,172.

@@ -1,7 +1,5 @@
 ← [[Luke 13]] | [[Luke 15]] →
 
-# Chapter 14
-
 1. One Sabbath, when he went to dine at the house of a ruler of the Pharisees, they were watching him carefully.
 2. And behold, there was a man before him who had dropsy.
 3. And Jesus responded to the lawyers and Pharisees, saying, Is it lawful to heal on the Sabbath, or not?

@@ -1,5 +1,3 @@
-# Law & Torah
-
 *Torah* means "instruction" or "teaching" — not merely a list of rules but God's comprehensive guidance for covenant life. The Law reveals God's character, exposes sin, and points forward to Christ. Its role and relationship to grace is one of Scripture's central questions.
 
 ## Key Passages

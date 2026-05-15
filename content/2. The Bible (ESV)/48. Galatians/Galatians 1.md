@@ -1,7 +1,5 @@
 ← [[II Corinthians 13]] | [[Galatians 2]] →
 
-# Chapter 1
-
 1. Paul, an apostle — not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead —
 2. and all the brothers who are with me, To the churches of Galatia :
 3. Grace to you and peace from God our Father and the Lord Jesus Christ,

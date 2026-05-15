@@ -1,7 +1,5 @@
 ← [[Isaiah 12]] | [[Isaiah 14]] →
 
-# Chapter 13
-
 1. The oracle concerning Babylon which Isaiah the son of Amoz saw.
 2. On a bare hill raise a signal; cry aloud to them; wave the hand for them to enter the gates of the nobles.
 3. I myself have commanded my consecrated ones, and have summoned my mighty men to execute my anger, my proudly exulting ones.

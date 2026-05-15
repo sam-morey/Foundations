@@ -1,7 +1,5 @@
 ← [[Psalms 113]] | [[Psalms 115]] →
 
-# Chapter 114
-
 1. Tremble at the Presence of the Lord When Israel went out from Egypt, the house of Jacob from a people of strange language,
 2. Judah became his sanctuary, Israel his dominion.
 3. The sea looked and fled; Jordan turned back.

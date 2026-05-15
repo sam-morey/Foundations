@@ -1,7 +1,5 @@
 ← [[II Kings 20]] | [[II Kings 22]] →
 
-# Chapter 21
-
 1. Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. His mother’s name was Hephzibah.
 2. And he did what was evil in the sight of the Lord, according to the despicable practices of the nations whom the Lord drove out before the people of Israel.
 3. For he rebuilt the high places that Hezekiah his father had destroyed, and he erected altars for Baal and made an Asherah, as Ahab king of Israel had done, and worshiped all the host of heaven and served them.

@@ -1,5 +1,3 @@
-# Hazor
-
 **Location:** Tel Hazor, Upper Galilee, northern Israel — approximately 14 km north of the Sea of Galilee and 10 km north of Rosh Pinna; 33.0175° N, 35.5679° E; the tell rises over the surrounding basalt plain
 **Testament:** OT primarily
 **Key Themes:** [[Conquest]] · [[Kingdom of Israel]] · [[Covenant]] · [[Judgment]]

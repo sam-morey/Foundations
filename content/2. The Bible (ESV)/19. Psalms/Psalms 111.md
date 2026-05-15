@@ -1,7 +1,5 @@
 ← [[Psalms 110]] | [[Psalms 112]] →
 
-# Chapter 111
-
 1. Great Are the Lord ’s Works Praise the Lord! I will give thanks to the Lord with my whole heart, in the company of the upright, in the congregation.
 2. Great are the works of the Lord, studied by all who delight in them.
 3. Full of splendor and majesty is his work, and his righteousness endures forever.

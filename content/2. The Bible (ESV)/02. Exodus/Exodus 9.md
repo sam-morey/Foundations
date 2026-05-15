@@ -1,7 +1,5 @@
 ← [[Exodus 8]] | [[Exodus 10]] →
 
-# Chapter 9
-
 1. Then the Lord said to Moses, Go in to Pharaoh and say to him, Thus says the Lord, the God of the Hebrews, Let my people go, that they may serve me.
 2. For if you refuse to let them go and still hold them,
 3. behold, the hand of the Lord will fall with a very severe plague upon your livestock that are in the field, the horses, the donkeys, the camels, the herds, and the flocks.

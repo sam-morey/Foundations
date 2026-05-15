@@ -1,7 +1,5 @@
 ← [[John 6]] | [[John 8]] →
 
-# Chapter 7
-
 1. After this Jesus went about in Galilee. He would not go about in Judea, because the Jews were seeking to kill him.
 2. Now the Jews ’ Feast of Booths was at hand.
 3. So his brothers said to him, Leave here and go to Judea, that your disciples also may see the works you are doing.

@@ -1,7 +1,5 @@
 ← [[Jeremiah 51]] | [[Lamentations 1]] →
 
-# Chapter 52
-
 1. Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah.
 2. And he did what was evil in the sight of the Lord, according to all that Jehoiakim had done.
 3. For because of the anger of the Lord it came to the point in Jerusalem and Judah that he cast them out from his presence. And Zedekiah rebelled against the king of Babylon.

@@ -1,7 +1,5 @@
 ← [[II Corinthians 5]] | [[II Corinthians 7]] →
 
-# Chapter 6
-
 1. Working together with him, then, we appeal to you not to receive the grace of God in vain.
 2. For he says, In a favorable time I listened to you, and in a day of salvation I have helped you. Behold, now is the favorable time; behold, now is the day of salvation.
 3. We put no obstacle in anyone’s way, so that no fault may be found with our ministry,

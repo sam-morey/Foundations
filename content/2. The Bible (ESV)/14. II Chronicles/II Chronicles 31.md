@@ -1,7 +1,5 @@
 ← [[II Chronicles 30]] | [[II Chronicles 32]] →
 
-# Chapter 31
-
 1. Now when all this was finished, all Israel who were present went out to the cities of Judah and broke in pieces the pillars and cut down the Asherim and broke down the high places and the altars throughout all Judah and Benjamin, and in Ephraim and Manasseh, until they had destroyed them all. Then all the people of Israel returned to their cities, every man to his possession.
 2. And Hezekiah appointed the divisions of the priests and of the Levites, division by division, each according to his service, the priests and the Levites, for burnt offerings and peace offerings, to minister in the gates of the camp of the Lord and to give thanks and praise.
 3. The contribution of the king from his own possessions was for the burnt offerings : the burnt offerings of morning and evening, and the burnt offerings for the Sabbaths, the new moons, and the appointed feasts, as it is written in the Law of the Lord.

@@ -1,7 +1,5 @@
 ← [[Matthew 20]] | [[Matthew 22]] →
 
-# Chapter 21
-
 1. Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
 2. saying to them, Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.
 3. If anyone says anything to you, you shall say, The Lord needs them, and he will send them at once.

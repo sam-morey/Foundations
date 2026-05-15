@@ -1,7 +1,5 @@
 ← [[I Thessalonians 5]] | [[II Thessalonians 2]] →
 
-# Chapter 1
-
 1. Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ :
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.
 3. We ought always to give thanks to God for you, brothers, as is right, because your faith is growing abundantly, and the love of every one of you for one another is increasing.

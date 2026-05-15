@@ -1,7 +1,5 @@
 ← [[Numbers 4]] | [[Numbers 6]] →
 
-# Chapter 5
-
 1. The Lord spoke to Moses, saying,
 2. Command the people of Israel that they put out of the camp everyone who is leprous or has a discharge and everyone who is unclean through contact with the dead.
 3. You shall put out both male and female, putting them outside the camp, that they may not defile their camp, in the midst of which I dwell.

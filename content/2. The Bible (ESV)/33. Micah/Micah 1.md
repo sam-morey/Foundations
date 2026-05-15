@@ -1,7 +1,5 @@
 ← [[Jonah 4]] | [[Micah 2]] →
 
-# Chapter 1
-
 1. The word of the Lord that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 2. Hear, you peoples, all of you; pay attention, O earth, and all that is in it, and let the Lord God be a witness against you, the Lord from his holy temple.
 3. For behold, the Lord is coming out of his place, and will come down and tread upon the high places of the earth.

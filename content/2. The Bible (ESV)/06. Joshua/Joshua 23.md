@@ -1,7 +1,5 @@
 ← [[Joshua 22]] | [[Joshua 24]] →
 
-# Chapter 23
-
 1. A long time afterward, when the Lord had given rest to Israel from all their surrounding enemies, and Joshua was old and well advanced in years,
 2. Joshua summoned all Israel, its elders and heads, its judges and officers, and said to them, I am now old and well advanced in years.
 3. And you have seen all that the Lord your God has done to all these nations for your sake, for it is the Lord your God who has fought for you.

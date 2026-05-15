@@ -1,7 +1,5 @@
 ← [[Ezekiel 23]] | [[Ezekiel 25]] →
 
-# Chapter 24
-
 1. In the ninth year, in the tenth month, on the tenth day of the month, the word of the Lord came to me:
 2. Son of man, write down the name of this day, this very day. The king of Babylon has laid siege to Jerusalem this very day.
 3. And utter a parable to the rebellious house and say to them, Thus says the Lord God : Set on the pot, set it on; pour in water also;

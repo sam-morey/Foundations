@@ -1,7 +1,5 @@
 ← [[Mark 8]] | [[Mark 10]] →
 
-# Chapter 9
-
 1. And he said to them, Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.
 2. And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them,
 3. and his clothes became radiant, intensely white, as no one on earth could bleach them.

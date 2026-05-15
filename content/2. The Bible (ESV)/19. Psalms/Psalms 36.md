@@ -1,7 +1,5 @@
 ← [[Psalms 35]] | [[Psalms 37]] →
 
-# Chapter 36
-
 1. How Precious Is Your Steadfast Love To the choirmaster. Of David, the servant of the Lord. Transgression speaks to the wicked deep in his heart; there is no fear of God before his eyes.
 2. For he flatters himself in his own eyes that his iniquity cannot be found out and hated.
 3. The words of his mouth are trouble and deceit; he has ceased to act wisely and do good.

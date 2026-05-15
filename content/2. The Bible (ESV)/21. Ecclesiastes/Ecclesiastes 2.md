@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 1]] | [[Ecclesiastes 3]] →
 
-# Chapter 2
-
 1. I said in my heart, Come now, I will test you with pleasure; enjoy yourself. But behold, this also was vanity.
 2. I said of laughter, It is mad, and of pleasure, What use is it?
 3. I searched with my heart how to cheer my body with wine —my heart still guiding me with wisdom —and how to lay hold on folly, till I might see what was good for the children of man to do under heaven during the few days of their life.

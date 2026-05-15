@@ -1,7 +1,5 @@
 ← [[Habakkuk 1]] | [[Habakkuk 3]] →
 
-# Chapter 2
-
 1. I will take my stand at my watchpost and station myself on the tower, and look out to see what he will say to me, and what I will answer concerning my complaint.
 2. And the Lord answered me: Write the vision; make it plain on tablets, so he may run who reads it.
 3. For still the vision awaits its appointed time; it hastens to the end —it will not lie. If it seems slow, wait for it; it will surely come; it will not delay.

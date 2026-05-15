@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 4]] | [[Ecclesiastes 6]] →
 
-# Chapter 5
-
 1. Guard your steps when you go to the house of God. To draw near to listen is better than to offer the sacrifice of fools, for they do not know that they are doing evil.
 2. Be not rash with your mouth, nor let your heart be hasty to utter a word before God, for God is in heaven and you are on earth. Therefore let your words be few.
 3. For a dream comes with much business, and a fool’s voice with many words.

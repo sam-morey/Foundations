@@ -1,5 +1,3 @@
-# Job
-
 **Testament:** Old Testament
 **Era:** The Prophets
 **Appears In:** [[3. Overviews/18. Job Overview|Job]]

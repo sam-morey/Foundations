@@ -1,7 +1,5 @@
 ← [[Micah 7]] | [[Nahum 2]] →
 
-# Chapter 1
-
 1. An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.
 2. The Lord is a jealous and avenging God; the Lord is avenging and wrathful; the Lord takes vengeance on his adversaries and keeps wrath for his enemies.
 3. The Lord is slow to anger and great in power, and the Lord will by no means clear the guilty. His way is in whirlwind and storm, and the clouds are the dust of his feet.

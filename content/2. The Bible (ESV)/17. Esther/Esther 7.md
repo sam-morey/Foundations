@@ -1,7 +1,5 @@
 ← [[Esther 6]] | [[Esther 8]] →
 
-# Chapter 7
-
 1. So the king and Haman went in to feast with Queen Esther.
 2. And on the second day, as they were drinking wine after the feast, the king again said to Esther, What is your wish, Queen Esther? It shall be granted you. And what is your request? Even to the half of my kingdom, it shall be fulfilled.
 3. Then Queen Esther answered, If I have found favor in your sight, O king, and if it please the king, let my life be granted me for my wish, and my people for my request.

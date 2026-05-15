@@ -1,7 +1,5 @@
 ← [[Job 27]] | [[Job 29]] →
 
-# Chapter 28
-
 1. Surely there is a mine for silver, and a place for gold that they refine.
 2. Iron is taken out of the earth, and copper is smelted from the ore.
 3. Man puts an end to darkness and searches out to the farthest limit the ore in gloom and deep darkness.

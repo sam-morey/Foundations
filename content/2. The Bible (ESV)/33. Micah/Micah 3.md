@@ -1,7 +1,5 @@
 ← [[Micah 2]] | [[Micah 4]] →
 
-# Chapter 3
-
 1. And I said : Hear, you heads of Jacob and rulers of the house of Israel! Is it not for you to know justice ?—
 2. you who hate the good and love the evil, who tear the skin from off my people and their flesh from off their bones,
 3. who eat the flesh of my people, and flay their skin from off them, and break their bones in pieces and chop them up like meat in a pot, like flesh in a cauldron.

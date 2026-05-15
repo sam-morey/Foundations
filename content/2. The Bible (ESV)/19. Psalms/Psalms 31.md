@@ -1,7 +1,5 @@
 ← [[Psalms 30]] | [[Psalms 32]] →
 
-# Chapter 31
-
 1. Into Your Hand I Commit My Spirit To the choirmaster. A Psalm of David. In you, O Lord, do I take refuge; let me never be put to shame; in your righteousness deliver me!
 2. Incline your ear to me; rescue me speedily! Be a rock of refuge for me, a strong fortress to save me!
 3. For you are my rock and my fortress; and for your name’s sake you lead me and guide me;

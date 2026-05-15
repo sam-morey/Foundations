@@ -1,7 +1,5 @@
 ← [[Numbers 20]] | [[Numbers 22]] →
 
-# Chapter 21
-
 1. When the Canaanite, the king of Arad, who lived in the Negeb, heard that Israel was coming by the way of Atharim, he fought against Israel, and took some of them captive.
 2. And Israel vowed a vow to the Lord and said, If you will indeed give this people into my hand, then I will devote their cities to destruction.
 3. And the Lord heeded the voice of Israel and gave over the Canaanites, and they devoted them and their cities to destruction. So the name of the place was called Hormah.

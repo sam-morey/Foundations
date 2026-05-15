@@ -1,7 +1,5 @@
 ← [[Zechariah 2]] | [[Zechariah 4]] →
 
-# Chapter 3
-
 1. Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to accuse him.
 2. And the Lord said to Satan, The Lord rebuke you, O Satan! The Lord who has chosen Jerusalem rebuke you! Is not this a brand plucked from the fire?
 3. Now Joshua was standing before the angel, clothed with filthy garments.

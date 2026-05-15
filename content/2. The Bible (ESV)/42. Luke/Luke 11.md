@@ -1,7 +1,5 @@
 ← [[Luke 10]] | [[Luke 12]] →
 
-# Chapter 11
-
 1. Now Jesus was praying in a certain place, and when he finished, one of his disciples said to him, Lord, teach us to pray, as John taught his disciples.
 2. And he said to them, When you pray, say : Father, hallowed be your name. Your kingdom come.
 3. Give us each day our daily bread,

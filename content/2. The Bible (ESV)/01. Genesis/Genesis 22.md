@@ -1,7 +1,5 @@
 ← [[Genesis 21]] | [[Genesis 23]] →
 
-# Chapter 22
-
 1. After these things God tested Abraham and said to him, Abraham! And he said, Here I am.
 2. He said, Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I shall tell you.
 3. So Abraham rose early in the morning, saddled his donkey, and took two of his young men with him, and his son Isaac. And he cut the wood for the burnt offering and arose and went to the place of which God had told him.

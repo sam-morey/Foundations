@@ -1,7 +1,5 @@
 ← [[Exodus 18]] | [[Exodus 20]] →
 
-# Chapter 19
-
 1. On the third new moon after the people of Israel had gone out of the land of Egypt, on that day they came into the wilderness of Sinai.
 2. They set out from Rephidim and came into the wilderness of Sinai, and they encamped in the wilderness. There Israel encamped before the mountain,
 3. while Moses went up to God. The Lord called to him out of the mountain, saying, Thus you shall say to the house of Jacob, and tell the people of Israel :

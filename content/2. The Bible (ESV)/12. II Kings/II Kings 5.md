@@ -1,7 +1,5 @@
 ← [[II Kings 4]] | [[II Kings 6]] →
 
-# Chapter 5
-
 1. Naaman, commander of the army of the king of Syria, was a great man with his master and in high favor, because by him the Lord had given victory to Syria. He was a mighty man of valor, but he was a leper.
 2. Now the Syrians on one of their raids had carried off a little girl from the land of Israel, and she worked in the service of Naaman’s wife.
 3. She said to her mistress, Would that my lord were with the prophet who is in Samaria! He would cure him of his leprosy.

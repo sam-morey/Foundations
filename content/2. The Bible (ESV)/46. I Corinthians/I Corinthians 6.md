@@ -1,7 +1,5 @@
 ← [[I Corinthians 5]] | [[I Corinthians 7]] →
 
-# Chapter 6
-
 1. When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?
 2. Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?
 3. Do you not know that we are to judge angels? How much more, then, matters pertaining to this life!

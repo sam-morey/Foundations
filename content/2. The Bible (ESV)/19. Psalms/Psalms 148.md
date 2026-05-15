@@ -1,7 +1,5 @@
 ← [[Psalms 147]] | [[Psalms 149]] →
 
-# Chapter 148
-
 1. Praise the Name of the Lord Praise the Lord! Praise the Lord from the heavens; praise him in the heights!
 2. Praise him, all his angels; praise him, all his hosts!
 3. Praise him, sun and moon, praise him, all you shining stars!

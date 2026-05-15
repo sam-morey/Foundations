@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 9]] | [[Ecclesiastes 11]] →
 
-# Chapter 10
-
 1. Dead flies make the perfumer’s ointment give off a stench; so a little folly outweighs wisdom and honor.
 2. A wise man’s heart inclines him to the right, but a fool’s heart to the left.
 3. Even when the fool walks on the road, he lacks sense, and he says to everyone that he is a fool.

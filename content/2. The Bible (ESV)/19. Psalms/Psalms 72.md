@@ -1,7 +1,5 @@
 ← [[Psalms 71]] | [[Psalms 73]] →
 
-# Chapter 72
-
 1. Give the King Your Justice Of Solomon. Give the king your justice, O God, and your righteousness to the royal son!
 2. May he judge your people with righteousness, and your poor with justice!
 3. Let the mountains bear prosperity for the people, and the hills, in righteousness!

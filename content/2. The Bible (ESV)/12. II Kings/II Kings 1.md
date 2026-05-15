@@ -1,7 +1,5 @@
 ← [[I Kings 22]] | [[II Kings 2]] →
 
-# Chapter 1
-
 1. After the death of Ahab, Moab rebelled against Israel.
 2. Now Ahaziah fell through the lattice in his upper chamber in Samaria, and lay sick; so he sent messengers, telling them, Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness.
 3. But the angel of the Lord said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say to them, Is it because there is no God in Israel that you are going to inquire of Baal-zebub, the god of Ekron?

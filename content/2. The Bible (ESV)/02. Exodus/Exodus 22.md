@@ -1,7 +1,5 @@
 ← [[Exodus 21]] | [[Exodus 23]] →
 
-# Chapter 22
-
 1. If a man steals an ox or a sheep, and kills it or sells it, he shall repay five oxen for an ox, and four sheep for a sheep.
 2. If a thief is found breaking in and is struck so that he dies, there shall be no bloodguilt for him,
 3. but if the sun has risen on him, there shall be bloodguilt for him. He shall surely pay. If he has nothing, then he shall be sold for his theft.

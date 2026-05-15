@@ -1,7 +1,5 @@
 ← [[Ezekiel 38]] | [[Ezekiel 40]] →
 
-# Chapter 39
-
 1. And you, son of man, prophesy against Gog and say, Thus says the Lord God : Behold, I am against you, O Gog, chief prince of Meshech and Tubal.
 2. And I will turn you about and drive you forward, and bring you up from the uttermost parts of the north, and lead you against the mountains of Israel.
 3. Then I will strike your bow from your left hand, and will make your arrows drop out of your right hand.

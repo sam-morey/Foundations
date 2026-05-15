@@ -1,7 +1,5 @@
 ← [[Zechariah 3]] | [[Zechariah 5]] →
 
-# Chapter 4
-
 1. And the angel who talked with me came again and woke me, like a man who is awakened out of his sleep.
 2. And he said to me, What do you see? I said, I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it, with seven lips on each of the lamps that are on the top of it.
 3. And there are two olive trees by it, one on the right of the bowl and the other on its left.

@@ -1,7 +1,5 @@
 ← [[Zechariah 9]] | [[Zechariah 11]] →
 
-# Chapter 10
-
 1. Ask rain from the Lord in the season of the spring rain, from the Lord who makes the storm clouds, and he will give them showers of rain, to everyone the vegetation in the field.
 2. For the household gods utter nonsense, and the diviners see lies; they tell false dreams and give empty consolation. Therefore the people wander like sheep; they are afflicted for lack of a shepherd.
 3. My anger is hot against the shepherds, and I will punish the leaders; for the Lord of hosts cares for his flock, the house of Judah, and will make them like his majestic steed in battle.

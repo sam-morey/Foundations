@@ -1,7 +1,5 @@
 ← [[Galatians 3]] | [[Galatians 5]] →
 
-# Chapter 4
-
 1. I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,
 2. but he is under guardians and managers until the date set by his father.
 3. In the same way we also, when we were children, were enslaved to the elementary principles of the world.

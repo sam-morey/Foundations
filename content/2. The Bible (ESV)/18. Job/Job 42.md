@@ -1,7 +1,5 @@
 ← [[Job 41]] | [[Psalms 1]] →
 
-# Chapter 42
-
 1. Then Job answered the Lord and said :
 2. I know that you can do all things, and that no purpose of yours can be thwarted.
 3. Who is this that hides counsel without knowledge? Therefore I have uttered what I did not understand, things too wonderful for me, which I did not know.

@@ -1,7 +1,5 @@
 ← [[I Timothy 6]] | [[II Timothy 2]] →
 
-# Chapter 1
-
 1. Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
 2. To Timothy, my beloved child : Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 3. I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.

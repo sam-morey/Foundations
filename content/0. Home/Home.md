@@ -1,6 +1,4 @@
-# Foundations — Exploring the Bible
-
-Welcome to this vault. Here you'll find the full text of the Bible (ESV), organized by book and chapter, with linked theme notes, book overviews (MOCs), and cross-references between related passages.
+Welcome to this site. Here you'll find the full text of the Bible (ESV), organized by book and chapter, with linked theme notes, book overviews (MOCs), and cross-references between related passages.
 
 ---
 
@@ -18,7 +16,7 @@ Welcome to this vault. Here you'll find the full text of the Bible (ESV), organi
 
 ---
 
-## The Vault's Structure
+## This Site's Structure
 
 ```
 0. Start Here/      — This home note
@@ -171,17 +169,22 @@ The Bible is not a random collection of texts. It tells one unified story:
 - [[08. The Hellenistic Period]] — ~330–63 BC: Alexander the Great, Maccabean revolt, Dead Sea Scrolls community
 - [[09. The Roman Empire & the New Testament Era]] — ~63 BC–100 AD: Augustus, Jesus, Paul, the destruction of Jerusalem
 
-### Key Sites & Archaeology
-- [[Jerusalem]] · [[Jericho]] · [[Bethlehem]] · [[Nazareth]] · [[Capernaum]] · [[Caesarea Maritima]]
-- [[Megiddo]] · [[Hazor]] · [[Qumran & the Dead Sea Scrolls]]
-- [[Babylon]] · [[Nineveh]] · [[Ur of the Chaldees]]
-- [[Corinth]] · [[Ephesus]] · [[Rome]]
+#### Biblical Places
+- [[Places — Map of Content|All Places →]]
+- [[Ur of the Chaldees]] · [[Hebron]] · [[Mount Sinai (Horeb)]] · [[Jericho]] · [[Jerusalem]] · [[Megiddo]] · [[Hazor]]
+- [[Bethlehem]] · [[Nazareth]] · [[Jordan River]] · [[Sea of Galilee]] · [[Capernaum]] · [[Bethany]] · [[Garden of Gethsemane]] · [[Mount of Olives]] · [[Golgotha & Calvary]]
+- [[Babylon]] · [[Nineveh]] · [[Caesarea Maritima]] · [[Corinth]] · [[Ephesus]] · [[Rome]]
+
+#### Archaeological Discoveries
+- [[Archaeology — Map of Content|All Archaeology →]]
+- [[Merneptah Stele]] · [[Mesha Stele (Moabite Stone)]] · [[Tel Dan Stele]] · [[Siloam Tunnel & Hezekiah's Inscription]] · [[Sennacherib's Prism (Taylor Prism)]]
+- [[Dead Sea Scrolls & Qumran]] · [[Pilate Stone]] · [[Ossuary of Caiaphas]] · [[Gallio Inscription]]
 
 ---
 
 ## Key Cross-Referenced Chapters
 
-These are the most-linked chapters in the vault — passages that serve as hubs connecting many other texts:
+These are the most-linked chapters in this site — passages that serve as hubs connecting many other texts:
 
 **Old Testament hubs**
 [[Genesis 1|Gen 1]] · [[Genesis 3|Gen 3]] · [[Genesis 12|Gen 12]] · [[Genesis 15|Gen 15]] · [[Genesis 22|Gen 22]] · [[Exodus 12|Ex 12]] · [[Exodus 20|Ex 20]] · [[Leviticus 16|Lev 16]] · [[Deuteronomy 6|Deut 6]] · [[II Samuel 7|2 Sam 7]] · [[Psalms 22|Ps 22]] · [[Psalms 23|Ps 23]] · [[Psalms 51|Ps 51]] · [[Psalms 110|Ps 110]] · [[Isaiah 53|Isa 53]] · [[Jeremiah 31|Jer 31]] · [[Ezekiel 37|Ezek 37]] · [[Daniel 7|Dan 7]]

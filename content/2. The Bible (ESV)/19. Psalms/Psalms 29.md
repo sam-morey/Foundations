@@ -1,7 +1,5 @@
 ← [[Psalms 28]] | [[Psalms 30]] →
 
-# Chapter 29
-
 1. Ascribe to the Lord Glory A Psalm of David. Ascribe to the Lord, O heavenly beings, ascribe to the Lord glory and strength.
 2. Ascribe to the Lord the glory due his name; worship the Lord in the splendor of holiness.
 3. The voice of the Lord is over the waters; the God of glory thunders, the Lord, over many waters.

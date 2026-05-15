@@ -1,7 +1,5 @@
 ← [[Job 2]] | [[Job 4]] →
 
-# Chapter 3
-
 1. After this Job opened his mouth and cursed the day of his birth.
 2. And Job said :
 3. Let the day perish on which I was born, and the night that said, A man is conceived.

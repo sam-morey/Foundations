@@ -1,7 +1,5 @@
 ← [[Luke 15]] | [[Luke 17]] →
 
-# Chapter 16
-
 1. He also said to the disciples, There was a rich man who had a manager, and charges were brought to him that this man was wasting his possessions.
 2. And he called him and said to him, What is this that I hear about you? Turn in the account of your management, for you can no longer be manager.
 3. And the manager said to himself, What shall I do, since my master is taking the management away from me? I am not strong enough to dig, and I am ashamed to beg.

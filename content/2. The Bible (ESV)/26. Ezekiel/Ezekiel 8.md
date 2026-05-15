@@ -1,7 +1,5 @@
 ← [[Ezekiel 7]] | [[Ezekiel 9]] →
 
-# Chapter 8
-
 1. In the sixth year, in the sixth month, on the fifth day of the month, as I sat in my house, with the elders of Judah sitting before me, the hand of the Lord God fell upon me there.
 2. Then I looked, and behold, a form that had the appearance of a man. Below what appeared to be his waist was fire, and above his waist was something like the appearance of brightness, like gleaming metal.
 3. He put out the form of a hand and took me by a lock of my head, and the Spirit lifted me up between earth and heaven and brought me in visions of God to Jerusalem, to the entrance of the gateway of the inner court that faces north, where was the seat of the image of jealousy, which provokes to jealousy.

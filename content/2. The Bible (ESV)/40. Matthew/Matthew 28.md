@@ -1,7 +1,5 @@
 ← [[Matthew 27]] | [[Mark 1]] →
 
-# Chapter 28
-
 1. Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
 2. And behold, there was a great earthquake, for an angel of the Lord descended from heaven and came and rolled back the stone and sat on it.
 3. His appearance was like lightning, and his clothing white as snow.

@@ -1,7 +1,5 @@
 ← [[Deuteronomy 33]] | [[Joshua 1]] →
 
-# Chapter 34
-
 1. Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the Lord showed him all the land, Gilead as far as Dan,
 2. all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the western sea,
 3. the Negeb, and the Plain, that is, the Valley of Jericho the city of palm trees, as far as Zoar.

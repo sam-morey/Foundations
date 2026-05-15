@@ -1,7 +1,5 @@
 ← [[Isaiah 10]] | [[Isaiah 12]] →
 
-# Chapter 11
-
 1. There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit.
 2. And the Spirit of the Lord shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the Lord.
 3. And his delight shall be in the fear of the Lord. He shall not judge by what his eyes see, or decide disputes by what his ears hear,

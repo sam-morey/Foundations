@@ -1,7 +1,5 @@
 ← [[II Chronicles 27]] | [[II Chronicles 29]] →
 
-# Chapter 28
-
 1. Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. And he did not do what was right in the eyes of the Lord, as his father David had done,
 2. but he walked in the ways of the kings of Israel. He even made metal images for the Baals,
 3. and he made offerings in the Valley of the Son of Hinnom and burned his sons as an offering, according to the abominations of the nations whom the Lord drove out before the people of Israel.

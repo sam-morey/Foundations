@@ -1,7 +1,5 @@
 ← [[I Kings 20]] | [[I Kings 22]] →
 
-# Chapter 21
-
 1. Now Naboth the Jezreelite had a vineyard in Jezreel, beside the palace of Ahab king of Samaria.
 2. And after this Ahab said to Naboth, Give me your vineyard, that I may have it for a vegetable garden, because it is near my house, and I will give you a better vineyard for it; or, if it seems good to you, I will give you its value in money.
 3. But Naboth said to Ahab, The Lord forbid that I should give you the inheritance of my fathers.

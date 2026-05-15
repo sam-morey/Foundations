@@ -1,7 +1,5 @@
 ← [[II Corinthians 8]] | [[II Corinthians 10]] →
 
-# Chapter 9
-
 1. Now it is superfluous for me to write to you about the ministry for the saints,
 2. for I know your readiness, of which I boast about you to the people of Macedonia, saying that Achaia has been ready since last year. And your zeal has stirred up most of them.
 3. But I am sending the brothers so that our boasting about you may not prove empty in this matter, so that you may be ready, as I said you would be.

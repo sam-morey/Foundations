@@ -1,7 +1,5 @@
 ← [[Proverbs 7]] | [[Proverbs 9]] →
 
-# Chapter 8
-
 1. Does not wisdom call? Does not understanding raise her voice?
 2. On the heights beside the way, at the crossroads she takes her stand;
 3. beside the gates in front of the town, at the entrance of the portals she cries aloud :

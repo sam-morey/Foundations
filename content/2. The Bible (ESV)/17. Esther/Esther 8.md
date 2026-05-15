@@ -1,7 +1,5 @@
 ← [[Esther 7]] | [[Esther 9]] →
 
-# Chapter 8
-
 1. On that day King Ahasuerus gave to Queen Esther the house of Haman, the enemy of the Jews. And Mordecai came before the king, for Esther had told what he was to her.
 2. And the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. And Esther set Mordecai over the house of Haman.
 3. Then Esther spoke again to the king. She fell at his feet and wept and pleaded with him to avert the evil plan of Haman the Agagite and the plot that he had devised against the Jews.

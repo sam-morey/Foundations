@@ -1,7 +1,5 @@
 ← [[Acts 3]] | [[Acts 5]] →
 
-# Chapter 4
-
 1. And as they were speaking to the people, the priests and the captain of the temple and the Sadducees came upon them,
 2. greatly annoyed because they were teaching the people and proclaiming in Jesus the resurrection from the dead.
 3. And they arrested them and put them in custody until the next day, for it was already evening.

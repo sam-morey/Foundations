@@ -1,7 +1,5 @@
 ← [[Jeremiah 13]] | [[Jeremiah 15]] →
 
-# Chapter 14
-
 1. The word of the Lord that came to Jeremiah concerning the drought :
 2. Judah mourns, and her gates languish; her people lament on the ground, and the cry of Jerusalem goes up.
 3. Her nobles send their servants for water; they come to the cisterns; they find no water; they return with their vessels empty; they are ashamed and confounded and cover their heads.

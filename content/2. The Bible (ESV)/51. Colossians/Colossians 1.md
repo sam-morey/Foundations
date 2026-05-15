@@ -1,7 +1,5 @@
 ← [[Philippians 4]] | [[Colossians 2]] →
 
-# Chapter 1
-
 1. Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 2. To the saints and faithful brothers in Christ at Colossae : Grace to you and peace from God our Father.
 3. We always thank God, the Father of our Lord Jesus Christ, when we pray for you,

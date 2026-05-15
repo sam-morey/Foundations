@@ -1,7 +1,5 @@
 ← [[Ezekiel 25]] | [[Ezekiel 27]] →
 
-# Chapter 26
-
 1. In the eleventh year, on the first day of the month, the word of the Lord came to me:
 2. Son of man, because Tyre said concerning Jerusalem, Aha, the gate of the peoples is broken; it has swung open to me. I shall be replenished, now that she is laid waste,
 3. therefore thus says the Lord God : Behold, I am against you, O Tyre, and will bring up many nations against you, as the sea brings up its waves.

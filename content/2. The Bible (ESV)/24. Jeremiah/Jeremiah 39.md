@@ -1,7 +1,5 @@
 ← [[Jeremiah 38]] | [[Jeremiah 40]] →
 
-# Chapter 39
-
 1. In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came against Jerusalem and besieged it.
 2. In the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month, a breach was made in the city.
 3. Then all the officials of the king of Babylon came and sat in the middle gate : Nergal-sar-ezer of Samgar, Nebu-sar-sekim the Rab-saris, Nergal-sar-ezer the Rab-mag, with all the rest of the officers of the king of Babylon.

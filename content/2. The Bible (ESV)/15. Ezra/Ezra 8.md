@@ -1,7 +1,5 @@
 ← [[Ezra 7]] | [[Ezra 9]] →
 
-# Chapter 8
-
 1. These are the heads of their fathers ’ houses, and this is the genealogy of those who went up with me from Babylonia, in the reign of Artaxerxes the king :
 2. Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush.
 3. Of the sons of Shecaniah, who was of the sons of Parosh, Zechariah, with whom were registered 150 men.

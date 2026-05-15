@@ -1,7 +1,5 @@
 ← [[Psalms 105]] | [[Psalms 107]] →
 
-# Chapter 106
-
 1. Give Thanks to the Lord, for He Is Good Praise the Lord! Oh give thanks to the Lord, for he is good, for his steadfast love endures forever!
 2. Who can utter the mighty deeds of the Lord, or declare all his praise?
 3. Blessed are they who observe justice, who do righteousness at all times!

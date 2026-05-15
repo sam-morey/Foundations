@@ -1,7 +1,5 @@
 ← [[Genesis 8]] | [[Genesis 10]] →
 
-# Chapter 9
-
 1. And God blessed Noah and his sons and said to them, Be fruitful and multiply and fill the earth.
 2. The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered.
 3. Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything.

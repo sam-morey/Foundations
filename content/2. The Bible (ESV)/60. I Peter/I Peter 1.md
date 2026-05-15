@@ -1,7 +1,5 @@
 ← [[James 5]] | [[I Peter 2]] →
 
-# Chapter 1
-
 1. Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 2. according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood : May grace and peace be multiplied to you.
 3. Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,

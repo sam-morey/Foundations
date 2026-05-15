@@ -1,7 +1,5 @@
 ← [[Genesis 28]] | [[Genesis 30]] →
 
-# Chapter 29
-
 1. Then Jacob went on his journey and came to the land of the people of the east.
 2. As he looked, he saw a well in the field, and behold, three flocks of sheep lying beside it, for out of that well the flocks were watered. The stone on the well’s mouth was large,
 3. and when all the flocks were gathered there, the shepherds would roll the stone from the mouth of the well and water the sheep, and put the stone back in its place over the mouth of the well.

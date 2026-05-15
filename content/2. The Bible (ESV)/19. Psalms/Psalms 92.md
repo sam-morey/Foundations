@@ -1,7 +1,5 @@
 ← [[Psalms 91]] | [[Psalms 93]] →
 
-# Chapter 92
-
 1. How Great Are Your Works A Psalm. A Song for the Sabbath. It is good to give thanks to the Lord, to sing praises to your name, O Most High;
 2. to declare your steadfast love in the morning, and your faithfulness by night,
 3. to the music of the lute and the harp, to the melody of the lyre.

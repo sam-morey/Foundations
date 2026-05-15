@@ -1,7 +1,5 @@
 ← [[Jeremiah 47]] | [[Jeremiah 49]] →
 
-# Chapter 48
-
 1. Concerning Moab. Thus says the Lord of hosts, the God of Israel : Woe to Nebo, for it is laid waste! Kiriathaim is put to shame, it is taken; the fortress is put to shame and broken down;
 2. the renown of Moab is no more. In Heshbon they planned disaster against her: Come, let us cut her off from being a nation! You also, O Madmen, shall be brought to silence; the sword shall pursue you.
 3. A voice! A cry from Horonaim, Desolation and great destruction!

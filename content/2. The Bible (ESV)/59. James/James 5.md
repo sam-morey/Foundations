@@ -1,7 +1,5 @@
 ← [[James 4]] | [[I Peter 1]] →
 
-# Chapter 5
-
 1. Come now, you rich, weep and howl for the miseries that are coming upon you.
 2. Your riches have rotted and your garments are moth-eaten.
 3. Your gold and silver have corroded, and their corrosion will be evidence against you and will eat your flesh like fire. You have laid up treasure in the last days.

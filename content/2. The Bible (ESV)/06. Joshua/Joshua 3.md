@@ -1,7 +1,5 @@
 ← [[Joshua 2]] | [[Joshua 4]] →
 
-# Chapter 3
-
 1. Then Joshua rose early in the morning and they set out from Shittim. And they came to the Jordan, he and all the people of Israel, and lodged there before they passed over.
 2. At the end of three days the officers went through the camp
 3. and commanded the people, As soon as you see the ark of the covenant of the Lord your God being carried by the Levitical priests, then you shall set out from your place and follow it.

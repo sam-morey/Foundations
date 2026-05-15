@@ -1,7 +1,5 @@
 ← [[Song of Solomon 8]] | [[Isaiah 2]] →
 
-# Chapter 1
-
 1. The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 2. Hear, O heavens, and give ear, O earth; for the Lord has spoken : Children have I reared and brought up, but they have rebelled against me.
 3. The ox knows its owner, and the donkey its master’s crib, but Israel does not know, my people do not understand.

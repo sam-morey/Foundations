@@ -1,7 +1,5 @@
 ← [[Psalms 74]] | [[Psalms 76]] →
 
-# Chapter 75
-
 1. God Will Judge with Equity To the choirmaster : according to Do Not Destroy. A Psalm of Asaph. A Song. We give thanks to you, O God; we give thanks, for your name is near. We recount your wondrous deeds.
 2. At the set time that I appoint I will judge with equity.
 3. When the earth totters, and all its inhabitants, it is I who keep steady its pillars.

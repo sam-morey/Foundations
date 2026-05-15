@@ -1,7 +1,5 @@
 ← [[II Chronicles 16]] | [[II Chronicles 18]] →
 
-# Chapter 17
-
 1. Jehoshaphat his son reigned in his place and strengthened himself against Israel.
 2. He placed forces in all the fortified cities of Judah and set garrisons in the land of Judah, and in the cities of Ephraim that Asa his father had captured.
 3. The Lord was with Jehoshaphat, because he walked in the earlier ways of his father David. He did not seek the Baals,

@@ -1,7 +1,5 @@
 ← [[Romans 13]] | [[Romans 15]] →
 
-# Chapter 14
-
 1. As for the one who is weak in faith, welcome him, but not to quarrel over opinions.
 2. One person believes he may eat anything, while the weak person eats only vegetables.
 3. Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him.

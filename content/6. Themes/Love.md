@@ -1,5 +1,3 @@
-# Love
-
 The Bible declares that "God is love" (1 John 4:8). Love is not merely an attribute God possesses — it is his very nature. The call to love God and neighbor stands at the center of both Old and New Testament ethics.
 
 ## Key Passages

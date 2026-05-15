@@ -1,7 +1,5 @@
 ← [[Ezekiel 22]] | [[Ezekiel 24]] →
 
-# Chapter 23
-
 1. The word of the Lord came to me:
 2. Son of man, there were two women, the daughters of one mother.
 3. They played the whore in Egypt; they played the whore in their youth; there their breasts were pressed and their virgin bosoms handled.

@@ -1,7 +1,5 @@
 ← [[Jeremiah 1]] | [[Jeremiah 3]] →
 
-# Chapter 2
-
 1. The word of the Lord came to me, saying,
 2. Go and proclaim in the hearing of Jerusalem, Thus says the Lord, I remember the devotion of your youth, your love as a bride, how you followed me in the wilderness, in a land not sown.
 3. Israel was holy to the Lord, the firstfruits of his harvest. All who ate of it incurred guilt; disaster came upon them, declares the Lord.

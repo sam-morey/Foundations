@@ -1,7 +1,5 @@
 ← [[I John 3]] | [[I John 5]] →
 
-# Chapter 4
-
 1. Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.
 2. By this you know the Spirit of God : every spirit that confesses that Jesus Christ has come in the flesh is from God,
 3. and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already.

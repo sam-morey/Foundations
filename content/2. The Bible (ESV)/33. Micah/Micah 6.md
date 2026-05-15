@@ -1,7 +1,5 @@
 ← [[Micah 5]] | [[Micah 7]] →
 
-# Chapter 6
-
 1. Hear what the Lord says : Arise, plead your case before the mountains, and let the hills hear your voice.
 2. Hear, you mountains, the indictment of the Lord, and you enduring foundations of the earth, for the Lord has an indictment against his people, and he will contend with Israel.
 3. O my people, what have I done to you? How have I wearied you? Answer me!

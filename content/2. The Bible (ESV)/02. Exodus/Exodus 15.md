@@ -1,7 +1,5 @@
 ← [[Exodus 14]] | [[Exodus 16]] →
 
-# Chapter 15
-
 1. Then Moses and the people of Israel sang this song to the Lord, saying, I will sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.
 2. The Lord is my strength and my song, and he has become my salvation; this is my God, and I will praise him, my father’s God, and I will exalt him.
 3. The Lord is a man of war; the Lord is his name.

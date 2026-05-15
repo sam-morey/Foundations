@@ -1,7 +1,5 @@
 ← [[Psalms 21]] | [[Psalms 23]] →
 
-# Chapter 22
-
 1. Why Have You Forsaken Me? To the choirmaster : according to The Doe of the Dawn. A Psalm of David. My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?
 2. O my God, I cry by day, but you do not answer, and by night, but I find no rest.
 3. Yet you are holy, enthroned on the praises of Israel.

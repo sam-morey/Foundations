@@ -1,7 +1,5 @@
 ← [[Jonah 2]] | [[Jonah 4]] →
 
-# Chapter 3
-
 1. Then the word of the Lord came to Jonah the second time, saying,
 2. Arise, go to Nineveh, that great city, and call out against it the message that I tell you.
 3. So Jonah arose and went to Nineveh, according to the word of the Lord. Now Nineveh was an exceedingly great city, three days ’ journey in breadth.

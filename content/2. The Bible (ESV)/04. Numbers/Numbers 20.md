@@ -1,7 +1,5 @@
 ← [[Numbers 19]] | [[Numbers 21]] →
 
-# Chapter 20
-
 1. And the people of Israel, the whole congregation, came into the wilderness of Zin in the first month, and the people stayed in Kadesh. And Miriam died there and was buried there.
 2. Now there was no water for the congregation. And they assembled themselves together against Moses and against Aaron.
 3. And the people quarreled with Moses and said, Would that we had perished when our brothers perished before the Lord!

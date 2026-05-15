@@ -1,5 +1,3 @@
-# Joshua
-
 **Testament:** Old Testament
 **Era:** The Conquest
 **Appears In:** [[3. Overviews/05. Deuteronomy Overview|Deuteronomy]], [[3. Overviews/06. Joshua Overview|Joshua]]

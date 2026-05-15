@@ -1,7 +1,5 @@
 ← [[I Corinthians 13]] | [[I Corinthians 15]] →
 
-# Chapter 14
-
 1. Pursue love, and earnestly desire the spiritual gifts, especially that you may prophesy.
 2. For one who speaks in a tongue speaks not to men but to God; for no one understands him, but he utters mysteries in the Spirit.
 3. On the other hand, the one who prophesies speaks to people for their upbuilding and encouragement and consolation.

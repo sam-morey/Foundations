@@ -1,7 +1,5 @@
 ← [[Isaiah 1]] | [[Isaiah 3]] →
 
-# Chapter 2
-
 1. The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 2. It shall come to pass in the latter days that the mountain of the house of the Lord shall be established as the highest of the mountains, and shall be lifted up above the hills; and all the nations shall flow to it,
 3. and many peoples shall come, and say : Come, let us go up to the mountain of the Lord, to the house of the God of Jacob, that he may teach us his ways and that we may walk in his paths. For out of Zion shall go the law, and the word of the Lord from Jerusalem.

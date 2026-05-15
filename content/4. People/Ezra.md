@@ -1,5 +1,3 @@
-# Ezra
-
 **Testament:** Old Testament
 **Era:** The Return
 **Appears In:** [[3. Overviews/15. Ezra Overview|Ezra]], [[3. Overviews/16. Nehemiah Overview|Nehemiah]]

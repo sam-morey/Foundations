@@ -1,7 +1,5 @@
 ← [[Deuteronomy 34]] | [[Joshua 2]] →
 
-# Chapter 1
-
 1. After the death of Moses the servant of the Lord, the Lord said to Joshua the son of Nun, Moses ’ assistant,
 2. Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel.
 3. Every place that the sole of your foot will tread upon I have given to you, just as I promised to Moses.

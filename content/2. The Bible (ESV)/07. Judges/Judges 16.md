@@ -1,7 +1,5 @@
 ← [[Judges 15]] | [[Judges 17]] →
 
-# Chapter 16
-
 1. Samson went to Gaza, and there he saw a prostitute, and he went in to her.
 2. The Gazites were told, Samson has come here. And they surrounded the place and set an ambush for him all night at the gate of the city. They kept quiet all night, saying, Let us wait till the light of the morning; then we will kill him.
 3. But Samson lay till midnight, and at midnight he arose and took hold of the doors of the gate of the city and the two posts, and pulled them up, bar and all, and put them on his shoulders and carried them to the top of the hill that is in front of Hebron.

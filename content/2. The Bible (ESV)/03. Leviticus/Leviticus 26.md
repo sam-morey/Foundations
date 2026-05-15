@@ -1,7 +1,5 @@
 ← [[Leviticus 25]] | [[Leviticus 27]] →
 
-# Chapter 26
-
 1. You shall not make idols for yourselves or erect an image or pillar, and you shall not set up a figured stone in your land to bow down to it, for I am the Lord your God.
 2. You shall keep my Sabbaths and reverence my sanctuary : I am the Lord.
 3. If you walk in my statutes and observe my commandments and do them,

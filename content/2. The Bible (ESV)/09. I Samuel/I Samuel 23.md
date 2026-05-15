@@ -1,7 +1,5 @@
 ← [[I Samuel 22]] | [[I Samuel 24]] →
 
-# Chapter 23
-
 1. Now they told David, Behold, the Philistines are fighting against Keilah and are robbing the threshing floors.
 2. Therefore David inquired of the Lord, Shall I go and attack these Philistines? And the Lord said to David, Go and attack the Philistines and save Keilah.
 3. But David’s men said to him, Behold, we are afraid here in Judah; how much more then if we go to Keilah against the armies of the Philistines?

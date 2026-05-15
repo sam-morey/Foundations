@@ -1,7 +1,5 @@
 ← [[Judges 2]] | [[Judges 4]] →
 
-# Chapter 3
-
 1. Now these are the nations that the Lord left, to test Israel by them, that is, all in Israel who had not experienced all the wars in Canaan.
 2. It was only in order that the generations of the people of Israel might know war, to teach war to those who had not known it before.
 3. These are the nations: the five lords of the Philistines and all the Canaanites and the Sidonians and the Hivites who lived on Mount Lebanon, from Mount Baal-hermon as far as Lebo-hamath.

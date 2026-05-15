@@ -1,7 +1,5 @@
 ← [[Acts 25]] | [[Acts 27]] →
 
-# Chapter 26
-
 1. So Agrippa said to Paul, You have permission to speak for yourself. Then Paul stretched out his hand and made his defense :
 2. I consider myself fortunate that it is before you, King Agrippa, I am going to make my defense today against all the accusations of the Jews,
 3. especially because you are familiar with all the customs and controversies of the Jews. Therefore I beg you to listen to me patiently.

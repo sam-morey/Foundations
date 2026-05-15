@@ -1,7 +1,5 @@
 ← [[Mark 15]] | [[Luke 1]] →
 
-# Chapter 16
-
 1. , When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him.
 2. And very early on the first day of the week, when the sun had risen, they went to the tomb.
 3. And they were saying to one another, Who will roll away the stone for us from the entrance of the tomb?

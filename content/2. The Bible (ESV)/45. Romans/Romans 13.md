@@ -1,7 +1,5 @@
 ← [[Romans 12]] | [[Romans 14]] →
 
-# Chapter 13
-
 1. Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God.
 2. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.
 3. For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval,

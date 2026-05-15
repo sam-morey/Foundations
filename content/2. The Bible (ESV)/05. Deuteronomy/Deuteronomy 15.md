@@ -1,7 +1,5 @@
 ← [[Deuteronomy 14]] | [[Deuteronomy 16]] →
 
-# Chapter 15
-
 1. At the end of every seven years you shall grant a release.
 2. And this is the manner of the release : every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the Lord ’s release has been proclaimed.
 3. Of a foreigner you may exact it, but whatever of yours is with your brother your hand shall release.

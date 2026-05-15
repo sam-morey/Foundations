@@ -1,7 +1,5 @@
 ← [[Esther 2]] | [[Esther 4]] →
 
-# Chapter 3
-
 1. After these things King Ahasuerus promoted Haman the Agagite, the son of Hammedatha, and advanced him and set his throne above all the officials who were with him.
 2. And all the king’s servants who were at the king’s gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But Mordecai did not bow down or pay homage.
 3. Then the king’s servants who were at the king’s gate said to Mordecai, Why do you transgress the king’s command?

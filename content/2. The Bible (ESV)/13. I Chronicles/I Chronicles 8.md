@@ -1,7 +1,5 @@
 ← [[I Chronicles 7]] | [[I Chronicles 9]] →
 
-# Chapter 8
-
 1. Benjamin fathered Bela his firstborn, Ashbel the second, Aharah the third,
 2. Nohah the fourth, and Rapha the fifth.
 3. And Bela had sons : Addar, Gera, Abihud,

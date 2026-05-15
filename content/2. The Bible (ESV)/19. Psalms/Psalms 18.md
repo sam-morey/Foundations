@@ -1,7 +1,5 @@
 ← [[Psalms 17]] | [[Psalms 19]] →
 
-# Chapter 18
-
 1. The Lord Is My Rock and My Fortress To the choirmaster. A Psalm of David, the servant of the Lord, who addressed the words of this song to the Lord on the day when the Lord rescued him from the hand of all his enemies, and from the hand of Saul. He said : I love you, O Lord, my strength.
 2. The Lord is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.
 3. I call upon the Lord, who is worthy to be praised, and I am saved from my enemies.

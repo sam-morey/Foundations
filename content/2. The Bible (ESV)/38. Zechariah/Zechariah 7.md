@@ -1,7 +1,5 @@
 ← [[Zechariah 6]] | [[Zechariah 8]] →
 
-# Chapter 7
-
 1. In the fourth year of King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, which is Chislev.
 2. Now the people of Bethel had sent Sharezer and Regem-melech and their men to entreat the favor of the Lord,
 3. saying to the priests of the house of the Lord of hosts and the prophets, Should I weep and abstain in the fifth month, as I have done for so many years?

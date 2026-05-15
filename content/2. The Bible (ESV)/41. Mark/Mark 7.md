@@ -1,7 +1,5 @@
 ← [[Mark 6]] | [[Mark 8]] →
 
-# Chapter 7
-
 1. Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem,
 2. they saw that some of his disciples ate with hands that were defiled, that is, unwashed.
 3. ( For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders,

@@ -1,7 +1,5 @@
 ← [[Psalms 102]] | [[Psalms 104]] →
 
-# Chapter 103
-
 1. Bless the Lord, O My Soul Of David. Bless the Lord, O my soul, and all that is within me, bless his holy name!
 2. Bless the Lord, O my soul, and forget not all his benefits,
 3. who forgives all your iniquity, who heals all your diseases,

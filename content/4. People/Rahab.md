@@ -1,5 +1,3 @@
-# Rahab
-
 **Testament:** Old Testament
 **Era:** The Conquest
 **Appears In:** [[3. Overviews/06. Joshua Overview|Joshua]]

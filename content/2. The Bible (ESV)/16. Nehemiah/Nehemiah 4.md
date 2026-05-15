@@ -1,7 +1,5 @@
 ← [[Nehemiah 3]] | [[Nehemiah 5]] →
 
-# Chapter 4
-
 1. Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews.
 2. And he said in the presence of his brothers and of the army of Samaria, What are these feeble Jews doing? Will they restore it for themselves? Will they sacrifice? Will they finish up in a day? Will they revive the stones out of the heaps of rubbish, and burned ones at that?
 3. Tobiah the Ammonite was beside him, and he said, Yes, what they are building — if a fox goes up on it he will break down their stone wall!

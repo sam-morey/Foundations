@@ -1,5 +1,3 @@
-# The Word of God
-
 Scripture is the written word of God — breathed out by God through human authors, authoritative, and living. But "the Word of God" in Scripture refers to more than a text: it is God's active, creative, revelatory speech — ultimately embodied in Jesus Christ.
 
 ## Key Passages

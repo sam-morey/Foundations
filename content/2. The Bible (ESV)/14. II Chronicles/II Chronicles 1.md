@@ -1,7 +1,5 @@
 ← [[I Chronicles 29]] | [[II Chronicles 2]] →
 
-# Chapter 1
-
 1. Solomon the son of David established himself in his kingdom, and the Lord his God was with him and made him exceedingly great.
 2. Solomon spoke to all Israel, to the commanders of thousands and of hundreds, to the judges, and to all the leaders in all Israel, the heads of fathers ’ houses.
 3. And Solomon, and all the assembly with him, went to the high place that was at Gibeon, for the tent of meeting of God, which Moses the servant of the Lord had made in the wilderness, was there.

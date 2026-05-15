@@ -1,7 +1,5 @@
 ← [[I Chronicles 25]] | [[I Chronicles 27]] →
 
-# Chapter 26
-
 1. As for the divisions of the gatekeepers : of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph.
 2. And Meshelemiah had sons : Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
 3. Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.

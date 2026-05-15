@@ -1,7 +1,5 @@
 ← [[I Kings 19]] | [[I Kings 21]] →
 
-# Chapter 20
-
 1. Ben-hadad the king of Syria gathered all his army together. Thirty-two kings were with him, and horses and chariots. And he went up and closed in on Samaria and fought against it.
 2. And he sent messengers into the city to Ahab king of Israel and said to him, Thus says Ben-hadad :
 3. Your silver and your gold are mine; your best wives and children also are mine.

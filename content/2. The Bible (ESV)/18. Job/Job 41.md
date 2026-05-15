@@ -1,7 +1,5 @@
 ← [[Job 40]] | [[Job 42]] →
 
-# Chapter 41
-
 1. Can you draw out Leviathan with a fishhook or press down his tongue with a cord?
 2. Can you put a rope in his nose or pierce his jaw with a hook?
 3. Will he make many pleas to you? Will he speak to you soft words?

@@ -1,5 +1,3 @@
-# Moses
-
 **Testament:** Old Testament
 **Era:** The Exodus
 **Appears In:** [[3. Overviews/02. Exodus Overview|Exodus]], [[3. Overviews/03. Leviticus Overview|Leviticus]], [[3. Overviews/04. Numbers Overview|Numbers]], [[3. Overviews/05. Deuteronomy Overview|Deuteronomy]]

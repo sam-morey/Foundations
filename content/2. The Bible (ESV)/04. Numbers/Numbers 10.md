@@ -1,7 +1,5 @@
 ← [[Numbers 9]] | [[Numbers 11]] →
 
-# Chapter 10
-
 1. The Lord spoke to Moses, saying,
 2. Make two silver trumpets. Of hammered work you shall make them, and you shall use them for summoning the congregation and for breaking camp.
 3. And when both are blown, all the congregation shall gather themselves to you at the entrance of the tent of meeting.

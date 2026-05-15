@@ -1,7 +1,5 @@
 ← [[John 14]] | [[John 16]] →
 
-# Chapter 15
-
 1. I am the true vine, and my Father is the vinedresser.
 2. Every branch in me that does not bear fruit he takes away, and every branch that does bear fruit he prunes, that it may bear more fruit.
 3. Already you are clean because of the word that I have spoken to you.

@@ -1,7 +1,5 @@
 ← [[Psalms 32]] | [[Psalms 34]] →
 
-# Chapter 33
-
 1. The Steadfast Love of the Lord Shout for joy in the Lord, O you righteous! Praise befits the upright.
 2. Give thanks to the Lord with the lyre; make melody to him with the harp of ten strings!
 3. Sing to him a new song; play skillfully on the strings, with loud shouts.

@@ -1,7 +1,5 @@
 ← [[Psalms 18]] | [[Psalms 20]] →
 
-# Chapter 19
-
 1. The Law of the Lord Is Perfect To the choirmaster. A Psalm of David. The heavens declare the glory of God, and the sky above proclaims his handiwork.
 2. Day to day pours out speech, and night to night reveals knowledge.
 3. There is no speech, nor are there words, whose voice is not heard.

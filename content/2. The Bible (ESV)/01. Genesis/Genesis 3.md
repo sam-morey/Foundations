@@ -1,7 +1,5 @@
 ← [[Genesis 2]] | [[Genesis 4]] →
 
-# Chapter 3
-
 1. Now the serpent was more crafty than any other beast of the field that the Lord God had made. He said to the woman, Did God actually say, You shall not eat of any tree in the garden?
 2. And the woman said to the serpent, We may eat of the fruit of the trees in the garden,
 3. but God said, You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.

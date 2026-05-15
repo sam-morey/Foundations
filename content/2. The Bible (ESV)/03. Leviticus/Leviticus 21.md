@@ -1,7 +1,5 @@
 ← [[Leviticus 20]] | [[Leviticus 22]] →
 
-# Chapter 21
-
 1. And the Lord said to Moses, Speak to the priests, the sons of Aaron, and say to them, No one shall make himself unclean for the dead among his people,
 2. except for his closest relatives, his mother, his father, his son, his daughter, his brother,
 3. or his virgin sister (who is near to him because she has had no husband; for her he may make himself unclean ).

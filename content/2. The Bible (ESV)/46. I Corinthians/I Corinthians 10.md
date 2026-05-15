@@ -1,7 +1,5 @@
 ← [[I Corinthians 9]] | [[I Corinthians 11]] →
 
-# Chapter 10
-
 1. For I do not want you to be unaware, brothers, that our fathers were all under the cloud, and all passed through the sea,
 2. and all were baptized into Moses in the cloud and in the sea,
 3. and all ate the same spiritual food,

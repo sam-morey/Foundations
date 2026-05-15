@@ -1,7 +1,5 @@
 ← [[Psalms 141]] | [[Psalms 143]] →
 
-# Chapter 142
-
 1. You Are My Refuge A Maskil of David, when he was in the cave. A Prayer. With my voice I cry out to the Lord; with my voice I plead for mercy to the Lord.
 2. I pour out my complaint before him; I tell my trouble before him.
 3. When my spirit faints within me, you know my way! In the path where I walk they have hidden a trap for me.

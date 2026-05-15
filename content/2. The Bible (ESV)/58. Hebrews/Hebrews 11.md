@@ -1,7 +1,5 @@
 ← [[Hebrews 10]] | [[Hebrews 12]] →
 
-# Chapter 11
-
 1. Now faith is the assurance of things hoped for, the conviction of things not seen.
 2. For by it the people of old received their commendation.
 3. By faith we understand that the universe was created by the word of God, so that what is seen was not made out of things that are visible.

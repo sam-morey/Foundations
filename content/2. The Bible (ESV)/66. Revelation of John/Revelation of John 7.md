@@ -1,7 +1,5 @@
 ← [[Revelation of John 6]] | [[Revelation of John 8]] →
 
-# Chapter 7
-
 1. After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind might blow on earth or sea or against any tree.
 2. Then I saw another angel ascending from the rising of the sun, with the seal of the living God, and he called with a loud voice to the four angels who had been given power to harm earth and sea,
 3. saying, Do not harm the earth or the sea or the trees, until we have sealed the servants of our God on their foreheads.

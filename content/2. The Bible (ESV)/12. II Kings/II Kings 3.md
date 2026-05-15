@@ -1,7 +1,5 @@
 ← [[II Kings 2]] | [[II Kings 4]] →
 
-# Chapter 3
-
 1. In the eighteenth year of Jehoshaphat king of Judah, Jehoram the son of Ahab became king over Israel in Samaria, and he reigned twelve years.
 2. He did what was evil in the sight of the Lord, though not like his father and mother, for he put away the pillar of Baal that his father had made.
 3. Nevertheless, he clung to the sin of Jeroboam the son of Nebat, which he made Israel to sin; he did not depart from it.

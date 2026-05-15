@@ -1,7 +1,5 @@
 ← [[II Kings 8]] | [[II Kings 10]] →
 
-# Chapter 9
-
 1. Then Elisha the prophet called one of the sons of the prophets and said to him, Tie up your garments, and take this flask of oil in your hand, and go to Ramoth-gilead.
 2. And when you arrive, look there for Jehu the son of Jehoshaphat, son of Nimshi. And go in and have him rise from among his fellows, and lead him to an inner chamber.
 3. Then take the flask of oil and pour it on his head and say, Thus says the Lord, I anoint you king over Israel. Then open the door and flee; do not linger.

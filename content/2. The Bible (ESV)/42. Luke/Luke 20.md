@@ -1,7 +1,5 @@
 ← [[Luke 19]] | [[Luke 21]] →
 
-# Chapter 20
-
 1. One day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up
 2. and said to him, Tell us by what authority you do these things, or who it is that gave you this authority.
 3. He answered them, I also will ask you a question. Now tell me,

@@ -1,7 +1,5 @@
 ← [[Deuteronomy 9]] | [[Deuteronomy 11]] →
 
-# Chapter 10
-
 1. At that time the Lord said to me, Cut for yourself two tablets of stone like the first, and come up to me on the mountain and make an ark of wood.
 2. And I will write on the tablets the words that were on the first tablets that you broke, and you shall put them in the ark.
 3. So I made an ark of acacia wood, and cut two tablets of stone like the first, and went up the mountain with the two tablets in my hand.

@@ -1,7 +1,5 @@
 ← [[Psalms 22]] | [[Psalms 24]] →
 
-# Chapter 23
-
 1. The Lord Is My Shepherd A Psalm of David. The Lord is my shepherd; I shall not want.
 2. He makes me lie down in green pastures. He leads me beside still waters.
 3. He restores my soul. He leads me in paths of righteousness for his name’s sake.

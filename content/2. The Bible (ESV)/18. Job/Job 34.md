@@ -1,7 +1,5 @@
 ← [[Job 33]] | [[Job 35]] →
 
-# Chapter 34
-
 1. Then Elihu answered and said :
 2. Hear my words, you wise men, and give ear to me, you who know;
 3. for the ear tests words as the palate tastes food.

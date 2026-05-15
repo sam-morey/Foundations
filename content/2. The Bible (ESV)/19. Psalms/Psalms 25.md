@@ -1,7 +1,5 @@
 ← [[Psalms 24]] | [[Psalms 26]] →
 
-# Chapter 25
-
 1. Teach Me Your Paths Of David. To you, O Lord, I lift up my soul.
 2. O my God, in you I trust; let me not be put to shame; let not my enemies exult over me.
 3. Indeed, none who wait for you shall be put to shame; they shall be ashamed who are wantonly treacherous.

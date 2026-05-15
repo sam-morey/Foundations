@@ -1,7 +1,5 @@
 ← [[II Chronicles 6]] | [[II Chronicles 8]] →
 
-# Chapter 7
-
 1. As soon as Solomon finished his prayer, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the temple.
 2. And the priests could not enter the house of the Lord, because the glory of the Lord filled the Lord ’s house.
 3. When all the people of Israel saw the fire come down and the glory of the Lord on the temple, they bowed down with their faces to the ground on the pavement and worshiped and gave thanks to the Lord, saying, For he is good, for his steadfast love endures forever.

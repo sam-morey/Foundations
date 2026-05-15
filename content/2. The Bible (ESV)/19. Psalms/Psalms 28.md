@@ -1,7 +1,5 @@
 ← [[Psalms 27]] | [[Psalms 29]] →
 
-# Chapter 28
-
 1. The Lord Is My Strength and My Shield Of David. To you, O Lord, I call; my rock, be not deaf to me, lest, if you be silent to me, I become like those who go down to the pit.
 2. Hear the voice of my pleas for mercy, when I cry to you for help, when I lift up my hands toward your most holy sanctuary.
 3. Do not drag me off with the wicked, with the workers of evil, who speak peace with their neighbors while evil is in their hearts.

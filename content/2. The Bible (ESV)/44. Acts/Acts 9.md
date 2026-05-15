@@ -1,7 +1,5 @@
 ← [[Acts 8]] | [[Acts 10]] →
 
-# Chapter 9
-
 1. But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest
 2. and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem.
 3. Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him.

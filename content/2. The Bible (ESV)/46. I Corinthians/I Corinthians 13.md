@@ -1,7 +1,5 @@
 ← [[I Corinthians 12]] | [[I Corinthians 14]] →
 
-# Chapter 13
-
 1. If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.
 2. And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing.
 3. If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing.

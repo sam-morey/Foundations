@@ -1,7 +1,5 @@
 ← [[I Chronicles 2]] | [[I Chronicles 4]] →
 
-# Chapter 3
-
 1. These are the sons of David who were born to him in Hebron : the firstborn, Amnon, by Ahinoam the Jezreelite; the second, Daniel, by Abigail the Carmelite,
 2. the third, Absalom, whose mother was Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah, whose mother was Haggith;
 3. the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah;

@@ -1,7 +1,5 @@
 ← [[II Chronicles 5]] | [[II Chronicles 7]] →
 
-# Chapter 6
-
 1. Then Solomon said, The Lord has said that he would dwell in thick darkness.
 2. But I have built you an exalted house, a place for you to dwell in forever.
 3. Then the king turned around and blessed all the assembly of Israel, while all the assembly of Israel stood.

@@ -1,7 +1,5 @@
 ← [[Matthew 13]] | [[Matthew 15]] →
 
-# Chapter 14
-
 1. At that time Herod the tetrarch heard about the fame of Jesus,
 2. and he said to his servants, This is John the Baptist. He has been raised from the dead; that is why these miraculous powers are at work in him.
 3. For Herod had seized John and bound him and put him in prison for the sake of Herodias, his brother Philip’s wife,

@@ -1,7 +1,5 @@
 ← [[I Kings 12]] | [[I Kings 14]] →
 
-# Chapter 13
-
 1. And behold, a man of God came out of Judah by the word of the Lord to Bethel. Jeroboam was standing by the altar to make offerings.
 2. And the man cried against the altar by the word of the Lord and said, O altar, altar, thus says the Lord : Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you, and human bones shall be burned on you.
 3. And he gave a sign the same day, saying, This is the sign that the Lord has spoken : Behold, the altar shall be torn down, and the ashes that are on it shall be poured out.

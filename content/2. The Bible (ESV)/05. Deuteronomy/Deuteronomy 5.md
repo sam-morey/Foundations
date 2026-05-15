@@ -1,7 +1,5 @@
 ← [[Deuteronomy 4]] | [[Deuteronomy 6]] →
 
-# Chapter 5
-
 1. And Moses summoned all Israel and said to them, Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them.
 2. The Lord our God made a covenant with us in Horeb.
 3. Not with our fathers did the Lord make this covenant, but with us, who are all of us here alive today.

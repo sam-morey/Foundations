@@ -1,7 +1,5 @@
 ← [[Psalms 29]] | [[Psalms 31]] →
 
-# Chapter 30
-
 1. Joy Comes with the Morning A Psalm of David. A song at the dedication of the temple. I will extol you, O Lord, for you have drawn me up and have not let my foes rejoice over me.
 2. O Lord my God, I cried to you for help, and you have healed me.
 3. O Lord, you have brought up my soul from Sheol; you restored me to life from among those who go down to the pit.

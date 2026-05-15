@@ -1,7 +1,5 @@
 ← [[Hebrews 6]] | [[Hebrews 8]] →
 
-# Chapter 7
-
 1. For this Melchizedek, king of Salem, priest of the Most High God, met Abraham returning from the slaughter of the kings and blessed him,
 2. and to him Abraham apportioned a tenth part of everything. He is first, by translation of his name, king of righteousness, and then he is also king of Salem, that is, king of peace.
 3. He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God he continues a priest forever.

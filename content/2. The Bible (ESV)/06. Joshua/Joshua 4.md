@@ -1,7 +1,5 @@
 ← [[Joshua 3]] | [[Joshua 5]] →
 
-# Chapter 4
-
 1. When all the nation had finished passing over the Jordan, the Lord said to Joshua,
 2. Take twelve men from the people, from each tribe a man,
 3. and command them, saying, Take twelve stones from here out of the midst of the Jordan, from the very place where the priests ’ feet stood firmly, and bring them over with you and lay them down in the place where you lodge tonight.

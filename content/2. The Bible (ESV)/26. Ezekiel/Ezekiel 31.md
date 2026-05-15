@@ -1,7 +1,5 @@
 ← [[Ezekiel 30]] | [[Ezekiel 32]] →
 
-# Chapter 31
-
 1. In the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me:
 2. Son of man, say to Pharaoh king of Egypt and to his multitude : Whom are you like in your greatness?
 3. Behold, Assyria was a cedar in Lebanon, with beautiful branches and forest shade, and of towering height, its top among the clouds.

@@ -1,7 +1,5 @@
 ← [[Luke 11]] | [[Luke 13]] →
 
-# Chapter 12
-
 1. In the meantime, when so many thousands of the people had gathered together that they were trampling one another, he began to say to his disciples first, Beware of the leaven of the Pharisees, which is hypocrisy.
 2. Nothing is covered up that will not be revealed, or hidden that will not be known.
 3. Therefore whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops.

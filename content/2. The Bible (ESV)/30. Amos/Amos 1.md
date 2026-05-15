@@ -1,7 +1,5 @@
 ← [[Joel 3]] | [[Amos 2]] →
 
-# Chapter 1
-
 1. The words of Amos, who was among the shepherds of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.
 2. And he said : The Lord roars from Zion and utters his voice from Jerusalem; the pastures of the shepherds mourn, and the top of Carmel withers.
 3. Thus says the Lord : For three transgressions of Damascus, and for four, I will not revoke the punishment, because they have threshed Gilead with threshing sledges of iron.

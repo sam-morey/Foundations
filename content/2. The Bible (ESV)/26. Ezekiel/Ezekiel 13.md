@@ -1,7 +1,5 @@
 ← [[Ezekiel 12]] | [[Ezekiel 14]] →
 
-# Chapter 13
-
 1. The word of the Lord came to me:
 2. Son of man, prophesy against the prophets of Israel, who are prophesying, and say to those who prophesy from their own hearts : Hear the word of the Lord!
 3. Thus says the Lord God, Woe to the foolish prophets who follow their own spirit, and have seen nothing!

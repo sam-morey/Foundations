@@ -1,7 +1,5 @@
 ← [[Isaiah 5]] | [[Isaiah 7]] →
 
-# Chapter 6
-
 1. In the year that King Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and the train of his robe filled the temple.
 2. Above him stood the seraphim. Each had six wings : with two he covered his face, and with two he covered his feet, and with two he flew.
 3. And one called to another and said : Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory!

@@ -1,7 +1,5 @@
 ← [[Isaiah 61]] | [[Isaiah 63]] →
 
-# Chapter 62
-
 1. For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not be quiet, until her righteousness goes forth as brightness, and her salvation as a burning torch.
 2. The nations shall see your righteousness, and all the kings your glory, and you shall be called by a new name that the mouth of the Lord will give.
 3. You shall be a crown of beauty in the hand of the Lord, and a royal diadem in the hand of your God.

@@ -1,7 +1,5 @@
 ← [[I Samuel 1]] | [[I Samuel 3]] →
 
-# Chapter 2
-
 1. And Hannah prayed and said, My heart exults in the Lord; my horn is exalted in the Lord. My mouth derides my enemies, because I rejoice in your salvation.
 2. There is none holy like the Lord : for there is none besides you; there is no rock like our God.
 3. Talk no more so very proudly, let not arrogance come from your mouth; for the Lord is a God of knowledge, and by him actions are weighed.

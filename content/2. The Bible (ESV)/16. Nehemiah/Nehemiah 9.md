@@ -1,7 +1,5 @@
 ← [[Nehemiah 8]] | [[Nehemiah 10]] →
 
-# Chapter 9
-
 1. Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads.
 2. And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers.
 3. And they stood up in their place and read from the Book of the Law of the Lord their God for a quarter of the day; for another quarter of it they made confession and worshiped the Lord their God.

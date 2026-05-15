@@ -1,7 +1,5 @@
 ← [[Luke 6]] | [[Luke 8]] →
 
-# Chapter 7
-
 1. After he had finished all his sayings in the hearing of the people, he entered Capernaum.
 2. Now a centurion had a servant who was sick and at the point of death, who was highly valued by him.
 3. When the centurion heard about Jesus, he sent to him elders of the Jews, asking him to come and heal his servant.

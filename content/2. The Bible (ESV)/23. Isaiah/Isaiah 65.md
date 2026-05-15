@@ -1,7 +1,5 @@
 ← [[Isaiah 64]] | [[Isaiah 66]] →
 
-# Chapter 65
-
 1. I was ready to be sought by those who did not ask for me; I was ready to be found by those who did not seek me. I said, Here I am, here I am, to a nation that was not called by my name.
 2. I spread out my hands all the day to a rebellious people, who walk in a way that is not good, following their own devices;
 3. a people who provoke me to my face continually, sacrificing in gardens and making offerings on bricks;

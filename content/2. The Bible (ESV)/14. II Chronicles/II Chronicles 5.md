@@ -1,7 +1,5 @@
 ← [[II Chronicles 4]] | [[II Chronicles 6]] →
 
-# Chapter 5
-
 1. Thus all the work that Solomon did for the house of the Lord was finished. And Solomon brought in the things that David his father had dedicated, and stored the silver, the gold, and all the vessels in the treasuries of the house of God.
 2. Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the fathers ’ houses of the people of Israel, in Jerusalem, to bring up the ark of the covenant of the Lord out of the city of David, which is Zion.
 3. And all the men of Israel assembled before the king at the feast that is in the seventh month.

@@ -1,7 +1,5 @@
 ← [[Isaiah 28]] | [[Isaiah 30]] →
 
-# Chapter 29
-
 1. Ah, Ariel, Ariel, the city where David encamped! Add year to year; let the feasts run their round.
 2. Yet I will distress Ariel, and there shall be moaning and lamentation, and she shall be to me like an Ariel.
 3. And I will encamp against you all around, and will besiege you with towers and I will raise siegeworks against you.

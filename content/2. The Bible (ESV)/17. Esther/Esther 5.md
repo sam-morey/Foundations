@@ -1,7 +1,5 @@
 ← [[Esther 4]] | [[Esther 6]] →
 
-# Chapter 5
-
 1. On the third day Esther put on her royal robes and stood in the inner court of the king’s palace, in front of the king’s quarters, while the king was sitting on his royal throne inside the throne room opposite the entrance to the palace.
 2. And when the king saw Queen Esther standing in the court, she won favor in his sight, and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the tip of the scepter.
 3. And the king said to her, What is it, Queen Esther? What is your request? It shall be given you, even to the half of my kingdom.

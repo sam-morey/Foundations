@@ -1,5 +1,3 @@
-# Babylon
-
 **Location:** Tell Babil and surrounding ruins, ~85 km south of Baghdad, Babil Governorate, Iraq — adjacent to modern Hillah city; GPS ~32.54°N 44.42°E
 **Testament:** Both
 **Key Themes:** [[Exile and Return]] · [[Judgment and Restoration]] · [[Sovereignty of God]]

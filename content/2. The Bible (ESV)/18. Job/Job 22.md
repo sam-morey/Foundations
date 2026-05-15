@@ -1,7 +1,5 @@
 ← [[Job 21]] | [[Job 23]] →
 
-# Chapter 22
-
 1. Then Eliphaz the Temanite answered and said :
 2. Can a man be profitable to God? Surely he who is wise is profitable to himself.
 3. Is it any pleasure to the Almighty if you are in the right, or is it gain to him if you make your ways blameless?

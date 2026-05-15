@@ -1,7 +1,5 @@
 ← [[Leviticus 23]] | [[Leviticus 25]] →
 
-# Chapter 24
-
 1. The Lord spoke to Moses, saying,
 2. Command the people of Israel to bring you pure oil from beaten olives for the lamp, that a light may be kept burning regularly.
 3. Outside the veil of the testimony, in the tent of meeting, Aaron shall arrange it from evening to morning before the Lord regularly. It shall be a statute forever throughout your generations.

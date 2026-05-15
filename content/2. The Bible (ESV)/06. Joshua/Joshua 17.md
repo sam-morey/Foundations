@@ -1,7 +1,5 @@
 ← [[Joshua 16]] | [[Joshua 18]] →
 
-# Chapter 17
-
 1. Then allotment was made to the people of Manasseh, for he was the firstborn of Joseph. To Machir the firstborn of Manasseh, the father of Gilead, were allotted Gilead and Bashan, because he was a man of war.
 2. And allotments were made to the rest of the people of Manasseh by their clans, Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These were the male descendants of Manasseh the son of Joseph, by their clans.
 3. Now Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, but only daughters, and these are the names of his daughters : Mahlah, Noah, Hoglah, Milcah, and Tirzah.

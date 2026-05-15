@@ -1,7 +1,5 @@
 ← [[Luke 24]] | [[John 2]] →
 
-# Chapter 1
-
 1. In the beginning was the Word, and the Word was with God, and the Word was God.
 2. He was in the beginning with God.
 3. All things were made through him, and without him was not any thing made that was made.

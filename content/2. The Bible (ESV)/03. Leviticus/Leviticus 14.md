@@ -1,7 +1,5 @@
 ← [[Leviticus 13]] | [[Leviticus 15]] →
 
-# Chapter 14
-
 1. The Lord spoke to Moses, saying,
 2. This shall be the law of the leprous person for the day of his cleansing. He shall be brought to the priest,
 3. and the priest shall go out of the camp, and the priest shall look. Then, if the case of leprous disease is healed in the leprous person,

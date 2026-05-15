@@ -1,7 +1,5 @@
 ← [[Hosea 11]] | [[Hosea 13]] →
 
-# Chapter 12
-
 1. Ephraim feeds on the wind and pursues the east wind all day long; they multiply falsehood and violence; they make a covenant with Assyria, and oil is carried to Egypt.
 2. The Lord has an indictment against Judah and will punish Jacob according to his ways; he will repay him according to his deeds.
 3. In the womb he took his brother by the heel, and in his manhood he strove with God.

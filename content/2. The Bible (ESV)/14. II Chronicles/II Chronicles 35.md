@@ -1,7 +1,5 @@
 ← [[II Chronicles 34]] | [[II Chronicles 36]] →
 
-# Chapter 35
-
 1. Josiah kept a Passover to the Lord in Jerusalem. And they slaughtered the Passover lamb on the fourteenth day of the first month.
 2. He appointed the priests to their offices and encouraged them in the service of the house of the Lord.
 3. And he said to the Levites who taught all Israel and who were holy to the Lord, Put the holy ark in the house that Solomon the son of David, king of Israel, built. You need not carry it on your shoulders. Now serve the Lord your God and his people Israel.

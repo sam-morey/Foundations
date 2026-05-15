@@ -1,7 +1,5 @@
 ← [[Deuteronomy 31]] | [[Deuteronomy 33]] →
 
-# Chapter 32
-
 1. Give ear, O heavens, and I will speak, and let the earth hear the words of my mouth.
 2. May my teaching drop as the rain, my speech distill as the dew, like gentle rain upon the tender grass, and like showers upon the herb.
 3. For I will proclaim the name of the Lord; ascribe greatness to our God!

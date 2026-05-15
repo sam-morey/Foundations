@@ -1,7 +1,5 @@
 ← [[Genesis 35]] | [[Genesis 37]] →
 
-# Chapter 36
-
 1. These are the generations of Esau (that is, Edom ).
 2. Esau took his wives from the Canaanites : Adah the daughter of Elon the Hittite, Oholibamah the daughter of Anah the daughter of Zibeon the Hivite,
 3. and Basemath, Ishmael’s daughter, the sister of Nebaioth.

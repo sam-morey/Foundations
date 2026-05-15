@@ -1,7 +1,5 @@
 ← [[Matthew 5]] | [[Matthew 7]] →
 
-# Chapter 6
-
 1. Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.
 2. Thus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward.
 3. But when you give to the needy, do not let your left hand know what your right hand is doing,

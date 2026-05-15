@@ -1,7 +1,5 @@
 ← [[Revelation of John 16]] | [[Revelation of John 18]] →
 
-# Chapter 17
-
 1. Then one of the seven angels who had the seven bowls came and said to me, Come, I will show you the judgment of the great prostitute who is seated on many waters,
 2. with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk.
 3. And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns.

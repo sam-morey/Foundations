@@ -1,7 +1,5 @@
 ← [[Job 7]] | [[Job 9]] →
 
-# Chapter 8
-
 1. Then Bildad the Shuhite answered and said :
 2. How long will you say these things, and the words of your mouth be a great wind?
 3. Does God pervert justice? Or does the Almighty pervert the right?

@@ -1,7 +1,5 @@
 ← [[Psalms 15]] | [[Psalms 17]] →
 
-# Chapter 16
-
 1. You Will Not Abandon My Soul A Miktam of David. Preserve me, O God, for in you I take refuge.
 2. I say to the Lord, You are my Lord; I have no good apart from you.
 3. As for the saints in the land, they are the excellent ones, in whom is all my delight.

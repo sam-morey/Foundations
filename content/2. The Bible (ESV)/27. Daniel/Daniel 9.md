@@ -1,7 +1,5 @@
 ← [[Daniel 8]] | [[Daniel 10]] →
 
-# Chapter 9
-
 1. In the first year of Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans —
 2. in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the Lord to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years.
 3. Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy with fasting and sackcloth and ashes.

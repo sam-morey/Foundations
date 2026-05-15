@@ -1,7 +1,5 @@
 ← [[Numbers 21]] | [[Numbers 23]] →
 
-# Chapter 22
-
 1. Then the people of Israel set out and camped in the plains of Moab beyond the Jordan at Jericho.
 2. And Balak the son of Zippor saw all that Israel had done to the Amorites.
 3. And Moab was in great dread of the people, because they were many. Moab was overcome with fear of the people of Israel.

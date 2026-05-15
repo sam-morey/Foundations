@@ -1,7 +1,5 @@
 ← [[Proverbs 13]] | [[Proverbs 15]] →
 
-# Chapter 14
-
 1. The wisest of women builds her house, but folly with her own hands tears it down.
 2. Whoever walks in uprightness fears the Lord, but he who is devious in his ways despises him.
 3. By the mouth of a fool comes a rod for his back, but the lips of the wise will preserve them.

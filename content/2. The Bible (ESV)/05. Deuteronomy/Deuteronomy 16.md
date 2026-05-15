@@ -1,7 +1,5 @@
 ← [[Deuteronomy 15]] | [[Deuteronomy 17]] →
 
-# Chapter 16
-
 1. Observe the month of Abib and keep the Passover to the Lord your God, for in the month of Abib the Lord your God brought you out of Egypt by night.
 2. And you shall offer the Passover sacrifice to the Lord your God, from the flock or the herd, at the place that the Lord will choose, to make his name dwell there.
 3. You shall eat no leavened bread with it. Seven days you shall eat it with unleavened bread, the bread of affliction — for you came out of the land of Egypt in haste — that all the days of your life you may remember the day when you came out of the land of Egypt.

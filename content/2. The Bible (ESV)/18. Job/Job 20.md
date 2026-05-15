@@ -1,7 +1,5 @@
 ← [[Job 19]] | [[Job 21]] →
 
-# Chapter 20
-
 1. Then Zophar the Naamathite answered and said :
 2. Therefore my thoughts answer me, because of my haste within me.
 3. I hear censure that insults me, and out of my understanding a spirit answers me.

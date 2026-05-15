@@ -1,7 +1,5 @@
 ← [[Genesis 25]] | [[Genesis 27]] →
 
-# Chapter 26
-
 1. Now there was a famine in the land, besides the former famine that was in the days of Abraham. And Isaac went to Gerar to Abimelech king of the Philistines.
 2. And the Lord appeared to him and said, Do not go down to Egypt; dwell in the land of which I shall tell you.
 3. Sojourn in this land, and I will be with you and will bless you, for to you and to your offspring I will give all these lands, and I will establish the oath that I swore to Abraham your father.

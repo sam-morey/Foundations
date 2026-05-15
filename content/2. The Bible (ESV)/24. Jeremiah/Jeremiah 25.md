@@ -1,7 +1,5 @@
 ← [[Jeremiah 24]] | [[Jeremiah 26]] →
 
-# Chapter 25
-
 1. The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (that was the first year of Nebuchadnezzar king of Babylon ),
 2. which Jeremiah the prophet spoke to all the people of Judah and all the inhabitants of Jerusalem :
 3. For twenty-three years, from the thirteenth year of Josiah the son of Amon, king of Judah, to this day, the word of the Lord has come to me, and I have spoken persistently to you, but you have not listened.

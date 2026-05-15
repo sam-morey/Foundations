@@ -1,7 +1,5 @@
 ← [[III John 1]] | [[Revelation of John 1]] →
 
-# Chapter 1
-
 1. Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ :
 2. May mercy, peace, and love be multiplied to you.
 3. Beloved, although I was very eager to write to you about our common salvation, I found it necessary to write appealing to you to contend for the faith that was once for all delivered to the saints.

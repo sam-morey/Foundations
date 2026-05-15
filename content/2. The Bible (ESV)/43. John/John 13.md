@@ -1,7 +1,5 @@
 ← [[John 12]] | [[John 14]] →
 
-# Chapter 13
-
 1. Now before the Feast of the Passover, when Jesus knew that his hour had come to depart out of this world to the Father, having loved his own who were in the world, he loved them to the end.
 2. During supper, when the devil had already put it into the heart of Judas Iscariot, Simon’s son, to betray him,
 3. Jesus, knowing that the Father had given all things into his hands, and that he had come from God and was going back to God,

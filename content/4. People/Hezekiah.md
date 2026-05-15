@@ -1,5 +1,3 @@
-# Hezekiah
-
 **Testament:** Old Testament
 **Era:** The Divided Kingdom
 **Appears In:** [[3. Overviews/12. 2 Kings Overview|2 Kings]], [[3. Overviews/23. Isaiah Overview|Isaiah]]

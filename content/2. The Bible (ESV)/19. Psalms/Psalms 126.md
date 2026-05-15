@@ -1,7 +1,5 @@
 ← [[Psalms 125]] | [[Psalms 127]] →
 
-# Chapter 126
-
 1. Restore Our Fortunes, O Lord A Song of Ascents. When the Lord restored the fortunes of Zion, we were like those who dream.
 2. Then our mouth was filled with laughter, and our tongue with shouts of joy; then they said among the nations, The Lord has done great things for them.
 3. The Lord has done great things for us; we are glad.

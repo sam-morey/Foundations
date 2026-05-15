@@ -1,7 +1,5 @@
 ← [[Exodus 23]] | [[Exodus 25]] →
 
-# Chapter 24
-
 1. Then he said to Moses, Come up to the Lord, you and Aaron, Nadab, and Abihu, and seventy of the elders of Israel, and worship from afar.
 2. Moses alone shall come near to the Lord, but the others shall not come near, and the people shall not come up with him.
 3. Moses came and told the people all the words of the Lord and all the rules. And all the people answered with one voice and said, All the words that the Lord has spoken we will do.

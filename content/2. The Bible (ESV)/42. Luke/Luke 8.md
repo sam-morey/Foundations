@@ -1,7 +1,5 @@
 ← [[Luke 7]] | [[Luke 9]] →
 
-# Chapter 8
-
 1. Soon afterward he went on through cities and villages, proclaiming and bringing the good news of the kingdom of God. And the twelve were with him,
 2. and also some women who had been healed of evil spirits and infirmities : Mary, called Magdalene, from whom seven demons had gone out,
 3. and Joanna, the wife of Chuza, Herod’s household manager, and Susanna, and many others, who provided for them out of their means.

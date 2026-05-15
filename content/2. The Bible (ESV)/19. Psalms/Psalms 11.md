@@ -1,7 +1,5 @@
 ← [[Psalms 10]] | [[Psalms 12]] →
 
-# Chapter 11
-
 1. The Lord Is in His Holy Temple To the choirmaster. Of David. In the Lord I take refuge; how can you say to my soul, Flee like a bird to your mountain,
 2. for behold, the wicked bend the bow; they have fitted their arrow to the string to shoot in the dark at the upright in heart;
 3. if the foundations are destroyed, what can the righteous do?

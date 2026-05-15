@@ -1,5 +1,3 @@
-# Sin & The Fall
-
 Sin is humanity's rebellion against God — a fundamental rupture in the relationship between Creator and creature. The Fall in Genesis 3 explains universal human brokenness, and the rest of Scripture traces God's response to it.
 
 ## Key Passages

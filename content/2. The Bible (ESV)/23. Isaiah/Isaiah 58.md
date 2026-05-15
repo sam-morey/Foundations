@@ -1,7 +1,5 @@
 ← [[Isaiah 57]] | [[Isaiah 59]] →
 
-# Chapter 58
-
 1. Cry aloud; do not hold back; lift up your voice like a trumpet; declare to my people their transgression, to the house of Jacob their sins.
 2. Yet they seek me daily and delight to know my ways, as if they were a nation that did righteousness and did not forsake the judgment of their God; they ask of me righteous judgments; they delight to draw near to God.
 3. Why have we fasted, and you see it not? Why have we humbled ourselves, and you take no knowledge of it? Behold, in the day of your fast you seek your own pleasure, and oppress all your workers.

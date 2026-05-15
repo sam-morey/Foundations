@@ -1,7 +1,5 @@
 ← [[Numbers 3]] | [[Numbers 5]] →
 
-# Chapter 4
-
 1. The Lord spoke to Moses and Aaron, saying,
 2. Take a census of the sons of Kohath from among the sons of Levi, by their clans and their fathers ’ houses,
 3. from thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting.

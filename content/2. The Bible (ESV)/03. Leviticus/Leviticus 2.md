@@ -1,7 +1,5 @@
 ← [[Leviticus 1]] | [[Leviticus 3]] →
 
-# Chapter 2
-
 1. When anyone brings a grain offering as an offering to the Lord, his offering shall be of fine flour. He shall pour oil on it and put frankincense on it
 2. and bring it to Aaron’s sons the priests. And he shall take from it a handful of the fine flour and oil, with all of its frankincense, and the priest shall burn this as its memorial portion on the altar, a food offering with a pleasing aroma to the Lord.
 3. But the rest of the grain offering shall be for Aaron and his sons; it is a most holy part of the Lord ’s food offerings.

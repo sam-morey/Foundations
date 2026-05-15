@@ -1,7 +1,5 @@
 ← [[Romans 8]] | [[Romans 10]] →
 
-# Chapter 9
-
 1. I am speaking the truth in Christ —I am not lying; my conscience bears me witness in the Holy Spirit —
 2. that I have great sorrow and unceasing anguish in my heart.
 3. For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh.

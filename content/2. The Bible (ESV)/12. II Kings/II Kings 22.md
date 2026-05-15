@@ -1,7 +1,5 @@
 ← [[II Kings 21]] | [[II Kings 23]] →
 
-# Chapter 22
-
 1. Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath.
 2. And he did what was right in the eyes of the Lord and walked in all the way of David his father, and he did not turn aside to the right or to the left.
 3. In the eighteenth year of King Josiah, the king sent Shaphan the son of Azaliah, son of Meshullam, the secretary, to the house of the Lord, saying,

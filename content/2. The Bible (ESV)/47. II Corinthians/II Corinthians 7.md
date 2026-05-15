@@ -1,7 +1,5 @@
 ← [[II Corinthians 6]] | [[II Corinthians 8]] →
 
-# Chapter 7
-
 1. Since we have these promises, beloved, let us cleanse ourselves from every defilement of body and spirit, bringing holiness to completion in the fear of God.
 2. Make room in your hearts for us. We have wronged no one, we have corrupted no one, we have taken advantage of no one.
 3. I do not say this to condemn you, for I said before that you are in our hearts, to die together and to live together.

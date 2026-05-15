@@ -1,7 +1,5 @@
 ← [[John 3]] | [[John 5]] →
 
-# Chapter 4
-
 1. Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John
 2. ( although Jesus himself did not baptize, but only his disciples ),
 3. he left Judea and departed again for Galilee.

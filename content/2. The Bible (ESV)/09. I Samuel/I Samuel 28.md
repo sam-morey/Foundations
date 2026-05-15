@@ -1,7 +1,5 @@
 ← [[I Samuel 27]] | [[I Samuel 29]] →
 
-# Chapter 28
-
 1. In those days the Philistines gathered their forces for war, to fight against Israel. And Achish said to David, Understand that you and your men are to go out with me in the army.
 2. David said to Achish, Very well, you shall know what your servant can do. And Achish said to David, Very well, I will make you my bodyguard for life.
 3. Now Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had put the mediums and the necromancers out of the land.

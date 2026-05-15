@@ -1,7 +1,5 @@
 ← [[Matthew 12]] | [[Matthew 14]] →
 
-# Chapter 13
-
 1. That same day Jesus went out of the house and sat beside the sea.
 2. And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach.
 3. And he told them many things in parables, saying : A sower went out to sow.

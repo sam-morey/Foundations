@@ -1,7 +1,5 @@
 ← [[Job 32]] | [[Job 34]] →
 
-# Chapter 33
-
 1. But now, hear my speech, O Job, and listen to all my words.
 2. Behold, I open my mouth; the tongue in my mouth speaks.
 3. My words declare the uprightness of my heart, and what my lips know they speak sincerely.

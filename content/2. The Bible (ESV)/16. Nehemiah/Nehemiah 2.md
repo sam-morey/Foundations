@@ -1,7 +1,5 @@
 ← [[Nehemiah 1]] | [[Nehemiah 3]] →
 
-# Chapter 2
-
 1. In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was before him, I took up the wine and gave it to the king. Now I had not been sad in his presence.
 2. And the king said to me, Why is your face sad, seeing you are not sick? This is nothing but sadness of the heart. Then I was very much afraid.
 3. I said to the king, Let the king live forever! Why should not my face be sad, when the city, the place of my fathers ’ graves, lies in ruins, and its gates have been destroyed by fire?

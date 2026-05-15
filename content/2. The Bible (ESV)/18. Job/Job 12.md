@@ -1,7 +1,5 @@
 ← [[Job 11]] | [[Job 13]] →
 
-# Chapter 12
-
 1. Then Job answered and said :
 2. No doubt you are the people, and wisdom will die with you.
 3. But I have understanding as well as you; I am not inferior to you. Who does not know such things as these?

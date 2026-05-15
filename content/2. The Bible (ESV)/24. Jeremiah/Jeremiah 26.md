@@ -1,7 +1,5 @@
 ← [[Jeremiah 25]] | [[Jeremiah 27]] →
 
-# Chapter 26
-
 1. In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came from the Lord :
 2. Thus says the Lord : Stand in the court of the Lord ’s house, and speak to all the cities of Judah that come to worship in the house of the Lord all the words that I command you to speak to them; do not hold back a word.
 3. It may be they will listen, and every one turn from his evil way, that I may relent of the disaster that I intend to do to them because of their evil deeds.

@@ -1,7 +1,5 @@
 ← [[I Chronicles 14]] | [[I Chronicles 16]] →
 
-# Chapter 15
-
 1. David built houses for himself in the city of David. And he prepared a place for the ark of God and pitched a tent for it.
 2. Then David said that no one but the Levites may carry the ark of God, for the Lord had chosen them to carry the ark of the Lord and to minister to him forever.
 3. And David assembled all Israel at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it.

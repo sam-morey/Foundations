@@ -1,7 +1,5 @@
 ← [[Proverbs 28]] | [[Proverbs 30]] →
 
-# Chapter 29
-
 1. He who is often reproved, yet stiffens his neck, will suddenly be broken beyond healing.
 2. When the righteous increase, the people rejoice, but when the wicked rule, the people groan.
 3. He who loves wisdom makes his father glad, but a companion of prostitutes squanders his wealth.

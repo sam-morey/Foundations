@@ -1,7 +1,5 @@
 ← [[II Kings 11]] | [[II Kings 13]] →
 
-# Chapter 12
-
 1. In the seventh year of Jehu, Jehoash began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.
 2. And Jehoash did what was right in the eyes of the Lord all his days, because Jehoiada the priest instructed him.
 3. Nevertheless, the high places were not taken away; the people continued to sacrifice and make offerings on the high places.

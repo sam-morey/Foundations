@@ -1,7 +1,5 @@
 ← [[Psalms 33]] | [[Psalms 35]] →
 
-# Chapter 34
-
 1. Taste and See That the Lord Is Good Of David, when he changed his behavior before Abimelech, so that he drove him out, and he went away. I will bless the Lord at all times; his praise shall continually be in my mouth.
 2. My soul makes its boast in the Lord; let the humble hear and be glad.
 3. Oh, magnify the Lord with me, and let us exalt his name together!

@@ -1,7 +1,5 @@
 ← [[John 16]] | [[John 18]] →
 
-# Chapter 17
-
 1. When Jesus had spoken these words, he lifted up his eyes to heaven, and said, Father, the hour has come; glorify your Son that the Son may glorify you,
 2. since you have given him authority over all flesh, to give eternal life to all whom you have given him.
 3. And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent.

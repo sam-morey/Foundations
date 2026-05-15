@@ -1,5 +1,3 @@
-# Boaz
-
 **Testament:** Old Testament
 **Era:** The Judges
 **Appears In:** [[3. Overviews/08. Ruth Overview|Ruth]], [[3. Overviews/40. Matthew Overview|Matthew]]

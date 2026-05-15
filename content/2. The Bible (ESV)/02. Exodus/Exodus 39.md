@@ -1,7 +1,5 @@
 ← [[Exodus 38]] | [[Exodus 40]] →
 
-# Chapter 39
-
 1. From the blue and purple and scarlet yarns they made finely woven garments, for ministering in the Holy Place. They made the holy garments for Aaron, as the Lord had commanded Moses.
 2. He made the ephod of gold, blue and purple and scarlet yarns, and fine twined linen.
 3. And they hammered out gold leaf, and he cut it into threads to work into the blue and purple and the scarlet yarns, and into the fine twined linen, in skilled design.

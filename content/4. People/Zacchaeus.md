@@ -1,5 +1,3 @@
-# Zacchaeus
-
 **Testament:** New Testament
 **Era:** The Gospels
 **Appears In:** [[3. Overviews/42. Luke Overview|Luke]]

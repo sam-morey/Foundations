@@ -1,7 +1,5 @@
 ← [[Isaiah 66]] | [[Jeremiah 2]] →
 
-# Chapter 1
-
 1. The words of Jeremiah, the son of Hilkiah, one of the priests who were in Anathoth in the land of Benjamin,
 2. to whom the word of the Lord came in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.
 3. It came also in the days of Jehoiakim the son of Josiah, king of Judah, and until the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, until the captivity of Jerusalem in the fifth month.

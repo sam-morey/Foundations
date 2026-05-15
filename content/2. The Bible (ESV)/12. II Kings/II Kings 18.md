@@ -1,7 +1,5 @@
 ← [[II Kings 17]] | [[II Kings 19]] →
 
-# Chapter 18
-
 1. In the third year of Hoshea son of Elah, king of Israel, Hezekiah the son of Ahaz, king of Judah, began to reign.
 2. He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi the daughter of Zechariah.
 3. And he did what was right in the eyes of the Lord, according to all that David his father had done.

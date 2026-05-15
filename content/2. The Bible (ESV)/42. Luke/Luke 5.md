@@ -1,7 +1,5 @@
 ← [[Luke 4]] | [[Luke 6]] →
 
-# Chapter 5
-
 1. On one occasion, while the crowd was pressing in on him to hear the word of God, he was standing by the lake of Gennesaret,
 2. and he saw two boats by the lake, but the fishermen had gone out of them and were washing their nets.
 3. Getting into one of the boats, which was Simon’s, he asked him to put out a little from the land. And he sat down and taught the people from the boat.

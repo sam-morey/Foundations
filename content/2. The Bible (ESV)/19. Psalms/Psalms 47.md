@@ -1,7 +1,5 @@
 ← [[Psalms 46]] | [[Psalms 48]] →
 
-# Chapter 47
-
 1. God Is King over All the Earth To the choirmaster. A Psalm of the Sons of Korah. Clap your hands, all peoples! Shout to God with loud songs of joy!
 2. For the Lord, the Most High, is to be feared, a great king over all the earth.
 3. He subdued peoples under us, and nations under our feet.

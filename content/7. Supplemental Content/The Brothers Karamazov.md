@@ -1,4 +1,4 @@
-## Synopsissis
+## Synopsis
 - *The Brothers Karamazov* is Dostoevsky's final and greatest novel: three brothers—sensual Dmitri, intellectual Ivan, and spiritual Alyosha—are drawn into the crisis of their father's murder, which becomes the occasion for the most searching exploration of faith, doubt, suffering, and love in all of literature.
 - Ivan's rebellion against God, embodied in the "Grand Inquisitor" parable and his catalog of children's suffering, is the most powerful intellectual challenge to Christian faith Dostoevsky could construct—and the answer is not a counter-argument but Father Zosima's life of "active love."
 - The novel insists that the choice is not between faith and reason but between two kinds of love: the abstract love of humanity that despises actual persons, and the concrete love of actual persons that alone participates in the life of God.

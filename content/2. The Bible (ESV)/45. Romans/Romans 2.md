@@ -1,7 +1,5 @@
 ← [[Romans 1]] | [[Romans 3]] →
 
-# Chapter 2
-
 1. Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things.
 2. We know that the judgment of God rightly falls on those who practice such things.
 3. Do you suppose, O man —you who judge those who practice such things and yet do them yourself — that you will escape the judgment of God?

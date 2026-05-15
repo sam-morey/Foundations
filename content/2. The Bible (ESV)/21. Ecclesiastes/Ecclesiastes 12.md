@@ -1,7 +1,5 @@
 ← [[Ecclesiastes 11]] | [[Song of Solomon 1]] →
 
-# Chapter 12
-
 1. Remember also your Creator in the days of your youth, before the evil days come and the years draw near of which you will say, I have no pleasure in them;
 2. before the sun and the light and the moon and the stars are darkened and the clouds return after the rain,
 3. in the day when the keepers of the house tremble, and the strong men are bent, and the grinders cease because they are few, and those who look through the windows are dimmed,

@@ -1,7 +1,5 @@
 ← [[Genesis 30]] | [[Genesis 32]] →
 
-# Chapter 31
-
 1. Now Jacob heard that the sons of Laban were saying, Jacob has taken all that was our father’s, and from what was our father’s he has gained all this wealth.
 2. And Jacob saw that Laban did not regard him with favor as before.
 3. Then the Lord said to Jacob, Return to the land of your fathers and to your kindred, and I will be with you.

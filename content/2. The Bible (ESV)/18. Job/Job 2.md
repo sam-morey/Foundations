@@ -1,7 +1,5 @@
 ← [[Job 1]] | [[Job 3]] →
 
-# Chapter 2
-
 1. Again there was a day when the sons of God came to present themselves before the Lord, and Satan also came among them to present himself before the Lord.
 2. And the Lord said to Satan, From where have you come? Satan answered the Lord and said, From going to and fro on the earth, and from walking up and down on it.
 3. And the Lord said to Satan, Have you considered my servant Job, that there is none like him on the earth, a blameless and upright man, who fears God and turns away from evil? He still holds fast his integrity, although you incited me against him to destroy him without reason.

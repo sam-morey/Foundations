@@ -1,7 +1,5 @@
 ← [[II Kings 6]] | [[II Kings 8]] →
 
-# Chapter 7
-
 1. But Elisha said, Hear the word of the Lord : thus says the Lord, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria.
 2. Then the captain on whose hand the king leaned said to the man of God, If the Lord himself should make windows in heaven, could this thing be? But he said, You shall see it with your own eyes, but you shall not eat of it.
 3. Now there were four men who were lepers at the entrance to the gate. And they said to one another, Why are we sitting here until we die?

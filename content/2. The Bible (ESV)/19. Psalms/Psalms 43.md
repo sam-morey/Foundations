@@ -1,7 +1,5 @@
 ← [[Psalms 42]] | [[Psalms 44]] →
 
-# Chapter 43
-
 1. Send Out Your Light and Your Truth Vindicate me, O God, and defend my cause against an ungodly people, from the deceitful and unjust man deliver me!
 2. For you are the God in whom I take refuge; why have you rejected me? Why do I go about mourning because of the oppression of the enemy?
 3. Send out your light and your truth; let them lead me; let them bring me to your holy hill and to your dwelling!

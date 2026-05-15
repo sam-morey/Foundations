@@ -1,7 +1,5 @@
 ← [[Numbers 31]] | [[Numbers 33]] →
 
-# Chapter 32
-
 1. Now the people of Reuben and the people of Gad had a very great number of livestock. And they saw the land of Jazer and the land of Gilead, and behold, the place was a place for livestock.
 2. So the people of Gad and the people of Reuben came and said to Moses and to Eleazar the priest and to the chiefs of the congregation,
 3. Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,

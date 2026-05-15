@@ -1,7 +1,5 @@
 ← [[Deuteronomy 17]] | [[Deuteronomy 19]] →
 
-# Chapter 18
-
 1. The Levitical priests, all the tribe of Levi, shall have no portion or inheritance with Israel. They shall eat the Lord ’s food offerings as their inheritance.
 2. They shall have no inheritance among their brothers; the Lord is their inheritance, as he promised them.
 3. And this shall be the priests ’ due from the people, from those offering a sacrifice, whether an ox or a sheep : they shall give to the priest the shoulder and the two cheeks and the stomach.

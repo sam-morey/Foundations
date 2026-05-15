@@ -1,7 +1,5 @@
 ← [[Luke 12]] | [[Luke 14]] →
 
-# Chapter 13
-
 1. There were some present at that very time who told him about the Galileans whose blood Pilate had mingled with their sacrifices.
 2. And he answered them, Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way?
 3. No, I tell you; but unless you repent, you will all likewise perish.

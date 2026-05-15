@@ -1,7 +1,5 @@
 ← [[John 19]] | [[John 21]] →
 
-# Chapter 20
-
 1. Now on the first day of the week Mary Magdalene came to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.
 2. So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them, They have taken the Lord out of the tomb, and we do not know where they have laid him.
 3. So Peter went out with the other disciple, and they were going toward the tomb.

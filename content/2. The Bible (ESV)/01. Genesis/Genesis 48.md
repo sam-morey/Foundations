@@ -1,7 +1,5 @@
 ← [[Genesis 47]] | [[Genesis 49]] →
 
-# Chapter 48
-
 1. After this, Joseph was told, Behold, your father is ill. So he took with him his two sons, Manasseh and Ephraim.
 2. And it was told to Jacob, Your son Joseph has come to you. Then Israel summoned his strength and sat up in bed.
 3. And Jacob said to Joseph, God Almighty appeared to me at Luz in the land of Canaan and blessed me,

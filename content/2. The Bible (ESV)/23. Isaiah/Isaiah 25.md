@@ -1,7 +1,5 @@
 ← [[Isaiah 24]] | [[Isaiah 26]] →
 
-# Chapter 25
-
 1. O Lord, you are my God; I will exalt you; I will praise your name, for you have done wonderful things, plans formed of old, faithful and sure.
 2. For you have made the city a heap, the fortified city a ruin; the foreigners ’ palace is a city no more; it will never be rebuilt.
 3. Therefore strong peoples will glorify you; cities of ruthless nations will fear you.

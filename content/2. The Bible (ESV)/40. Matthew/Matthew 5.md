@@ -1,7 +1,5 @@
 ← [[Matthew 4]] | [[Matthew 6]] →
 
-# Chapter 5
-
 1. Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him.
 2. And he opened his mouth and taught them, saying :
 3. Blessed are the poor in spirit, for theirs is the kingdom of heaven.

@@ -1,7 +1,5 @@
 ← [[Ezekiel 31]] | [[Ezekiel 33]] →
 
-# Chapter 32
-
 1. In the twelfth year, in the twelfth month, on the first day of the month, the word of the Lord came to me:
 2. Son of man, raise a lamentation over Pharaoh king of Egypt and say to him: You consider yourself a lion of the nations, but you are like a dragon in the seas; you burst forth in your rivers, trouble the waters with your feet, and foul their rivers.
 3. Thus says the Lord God : I will throw my net over you with a host of many peoples, and they will haul you up in my dragnet.

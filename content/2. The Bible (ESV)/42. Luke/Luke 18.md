@@ -1,7 +1,5 @@
 ← [[Luke 17]] | [[Luke 19]] →
 
-# Chapter 18
-
 1. And he told them a parable to the effect that they ought always to pray and not lose heart.
 2. He said, In a certain city there was a judge who neither feared God nor respected man.
 3. And there was a widow in that city who kept coming to him and saying, Give me justice against my adversary.

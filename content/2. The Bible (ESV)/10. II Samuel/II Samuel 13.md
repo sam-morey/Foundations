@@ -1,7 +1,5 @@
 ← [[II Samuel 12]] | [[II Samuel 14]] →
 
-# Chapter 13
-
 1. Now Absalom, David’s son, had a beautiful sister, whose name was Tamar. And after a time Amnon, David’s son, loved her.
 2. And Amnon was so tormented that he made himself ill because of his sister Tamar, for she was a virgin, and it seemed impossible to Amnon to do anything to her.
 3. But Amnon had a friend, whose name was Jonadab, the son of Shimeah, David’s brother. And Jonadab was a very crafty man.

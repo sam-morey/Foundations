@@ -1,7 +1,5 @@
 ← [[Proverbs 12]] | [[Proverbs 14]] →
 
-# Chapter 13
-
 1. A wise son hears his father’s instruction, but a scoffer does not listen to rebuke.
 2. From the fruit of his mouth a man eats what is good, but the desire of the treacherous is for violence.
 3. Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin.

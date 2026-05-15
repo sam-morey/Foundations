@@ -1,7 +1,5 @@
 ← [[Genesis 45]] | [[Genesis 47]] →
 
-# Chapter 46
-
 1. So Israel took his journey with all that he had and came to Beersheba, and offered sacrifices to the God of his father Isaac.
 2. And God spoke to Israel in visions of the night and said, Jacob, Jacob. And he said, Here I am.
 3. Then he said, I am God, the God of your father. Do not be afraid to go down to Egypt, for there I will make you into a great nation.

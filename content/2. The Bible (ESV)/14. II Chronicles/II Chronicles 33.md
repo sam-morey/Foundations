@@ -1,7 +1,5 @@
 ← [[II Chronicles 32]] | [[II Chronicles 34]] →
 
-# Chapter 33
-
 1. Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem.
 2. And he did what was evil in the sight of the Lord, according to the abominations of the nations whom the Lord drove out before the people of Israel.
 3. For he rebuilt the high places that his father Hezekiah had broken down, and he erected altars to the Baals, and made Asheroth, and worshiped all the host of heaven and served them.

@@ -1,7 +1,5 @@
 ← [[Matthew 15]] | [[Matthew 17]] →
 
-# Chapter 16
-
 1. And the Pharisees and Sadducees came, and to test him they asked him to show them a sign from heaven.
 2. He answered them, When it is evening, you say, It will be fair weather, for the sky is red.
 3. And in the morning, It will be stormy today, for the sky is red and threatening. You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.

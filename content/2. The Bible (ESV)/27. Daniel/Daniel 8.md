@@ -1,7 +1,5 @@
 ← [[Daniel 7]] | [[Daniel 9]] →
 
-# Chapter 8
-
 1. In the third year of the reign of King Belshazzar a vision appeared to me, Daniel, after that which appeared to me at the first.
 2. And I saw in the vision; and when I saw, I was in Susa the citadel, which is in the province of Elam. And I saw in the vision, and I was at the Ulai canal.
 3. I raised my eyes and saw, and behold, a ram standing on the bank of the canal. It had two horns, and both horns were high, but one was higher than the other, and the higher one came up last.

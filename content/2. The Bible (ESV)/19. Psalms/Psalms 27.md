@@ -1,7 +1,5 @@
 ← [[Psalms 26]] | [[Psalms 28]] →
 
-# Chapter 27
-
 1. The Lord Is My Light and My Salvation Of David. The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?
 2. When evildoers assail me to eat up my flesh, my adversaries and foes, it is they who stumble and fall.
 3. Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident.

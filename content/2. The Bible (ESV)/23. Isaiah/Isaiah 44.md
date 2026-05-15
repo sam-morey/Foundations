@@ -1,7 +1,5 @@
 ← [[Isaiah 43]] | [[Isaiah 45]] →
 
-# Chapter 44
-
 1. But now hear, O Jacob my servant, Israel whom I have chosen!
 2. Thus says the Lord who made you, who formed you from the womb and will help you: Fear not, O Jacob my servant, Jeshurun whom I have chosen.
 3. For I will pour water on the thirsty land, and streams on the dry ground; I will pour my Spirit upon your offspring, and my blessing on your descendants.

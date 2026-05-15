@@ -1,7 +1,5 @@
 ← [[II Chronicles 18]] | [[II Chronicles 20]] →
 
-# Chapter 19
-
 1. Jehoshaphat the king of Judah returned in safety to his house in Jerusalem.
 2. But Jehu the son of Hanani the seer went out to meet him and said to King Jehoshaphat, Should you help the wicked and love those who hate the Lord? Because of this, wrath has gone out against you from the Lord.
 3. Nevertheless, some good is found in you, for you destroyed the Asheroth out of the land, and have set your heart to seek God.

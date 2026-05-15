@@ -1,7 +1,5 @@
 ← [[Proverbs 29]] | [[Proverbs 31]] →
 
-# Chapter 30
-
 1. The words of Agur son of Jakeh. The oracle. The man declares, I am weary, O God; I am weary, O God, and worn out.
 2. Surely I am too stupid to be a man. I have not the understanding of a man.
 3. I have not learned wisdom, nor have I knowledge of the Holy One.

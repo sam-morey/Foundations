@@ -1,7 +1,5 @@
 ← [[II Chronicles 11]] | [[II Chronicles 13]] →
 
-# Chapter 12
-
 1. When the rule of Rehoboam was established and he was strong, he abandoned the law of the Lord, and all Israel with him.
 2. In the fifth year of King Rehoboam, because they had been unfaithful to the Lord, Shishak king of Egypt came up against Jerusalem
 3. with 1,200 chariots and 60,000 horsemen. And the people were without number who came with him from Egypt — Libyans, Sukkiim, and Ethiopians.

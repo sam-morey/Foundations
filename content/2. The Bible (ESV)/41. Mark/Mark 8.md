@@ -1,7 +1,5 @@
 ← [[Mark 7]] | [[Mark 9]] →
 
-# Chapter 8
-
 1. In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them,
 2. I have compassion on the crowd, because they have been with me now three days and have nothing to eat.
 3. And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away.

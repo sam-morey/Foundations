@@ -1,7 +1,5 @@
 ← [[I Chronicles 28]] | [[II Chronicles 1]] →
 
-# Chapter 29
-
 1. And David the king said to all the assembly, Solomon my son, whom alone God has chosen, is young and inexperienced, and the work is great, for the palace will not be for man but for the Lord God.
 2. So I have provided for the house of my God, so far as I was able, the gold for the things of gold, the silver for the things of silver, and the bronze for the things of bronze, the iron for the things of iron, and wood for the things of wood, besides great quantities of onyx and stones for setting, antimony, colored stones, all sorts of precious stones and marble.
 3. Moreover, in addition to all that I have provided for the holy house, I have a treasure of my own of gold and silver, and because of my devotion to the house of my God I give it to the house of my God :

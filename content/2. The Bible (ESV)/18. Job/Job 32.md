@@ -1,7 +1,5 @@
 ← [[Job 31]] | [[Job 33]] →
 
-# Chapter 32
-
 1. So these three men ceased to answer Job, because he was righteous in his own eyes.
 2. Then Elihu the son of Barachel the Buzite, of the family of Ram, burned with anger. He burned with anger at Job because he justified himself rather than God.
 3. He burned with anger also at Job’s three friends because they had found no answer, although they had declared Job to be in the wrong.

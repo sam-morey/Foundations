@@ -1,7 +1,5 @@
 ← [[Malachi 4]] | [[Matthew 2]] →
 
-# Chapter 1
-
 1. The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
 2. Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers,
 3. and Judah the father of Perez and Zerah by Tamar, and Perez the father of Hezron, and Hezron the father of Ram,

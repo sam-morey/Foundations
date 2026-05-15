@@ -1,7 +1,5 @@
 ← [[I Chronicles 12]] | [[I Chronicles 14]] →
 
-# Chapter 13
-
 1. David consulted with the commanders of thousands and of hundreds, with every leader.
 2. And David said to all the assembly of Israel, If it seems good to you and from the Lord our God, let us send abroad to our brothers who remain in all the lands of Israel, as well as to the priests and Levites in the cities that have pasturelands, that they may be gathered to us.
 3. Then let us bring again the ark of our God to us, for we did not seek it in the days of Saul.

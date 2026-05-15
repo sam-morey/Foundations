@@ -1,7 +1,5 @@
 ← [[Romans 3]] | [[Romans 5]] →
 
-# Chapter 4
-
 1. What then shall we say was gained by Abraham, our forefather according to the flesh?
 2. For if Abraham was justified by works, he has something to boast about, but not before God.
 3. For what does the Scripture say? Abraham believed God, and it was counted to him as righteousness.
