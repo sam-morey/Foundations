@@ -50,3 +50,4 @@ The Holy Spirit is the third person of the Trinity — fully God, personally act
 - [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — transformation as a Spirit-led process; the Spirit's work in every dimension of the person
 - [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — cultivating conscious attentiveness to the Spirit's presence
 - [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Spirit as the third person of the Trinity; his personal role in salvation and creation
+- [[4. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — conscious, moment-by-moment attentiveness to God as the shape of life in the Spirit

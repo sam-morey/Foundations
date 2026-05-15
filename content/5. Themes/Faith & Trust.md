@@ -49,3 +49,6 @@ These are not contradictory — both describe the same reality from different an
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — faith as reasonable commitment, not blind leap
 - [[4. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] (Lewis) — the gradual movement from resistance to trust in a reluctant convert
 - [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — faith that costs nothing is not the faith of the New Testament
+- [[4. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — trust expressed through surrender, self-denial, and quiet receptivity to God
+- [[4. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — Edwards's analysis of what genuine saving faith looks like versus its counterfeits
+- [[4. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — faithfulness as daily, undramatic obedience across a lifetime

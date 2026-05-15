@@ -48,3 +48,5 @@ The Bible moves from **creation → corruption → new creation**:
 - [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Trinity as the loving source of all creation
 - [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how new creation transforms the meaning of ordinary work now
 - [[4. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — creation's goodness and the tragedy of a world bent by sin
+- [[4. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — new creation as the destination of history; resurrection as the first fruits
+- [[4. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — the biblical narrative as a six-act drama from creation through new creation

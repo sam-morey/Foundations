@@ -58,3 +58,4 @@ God is the righteous judge of all the earth. Judgment is not contradictory to hi
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the ground of God's judgment; justice as an attribute of love
 - [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — spiritual stakes rendered vivid; every human life is being contested
 - [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — Satan judged and humanity subject to judgment; the cosmic weight of moral choice
+- [[4. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most architecturally precise vision of judgment in Western literature; sin has its own fitting consequence

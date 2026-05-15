@@ -40,3 +40,5 @@ A covenant is a solemn, binding agreement — often including promises, obligati
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God as covenant-maker and covenant-keeper; his faithfulness as the spine of biblical history
 - [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the eternal love between Father, Son, and Spirit as the ground of all covenant relationship
 - [[4. Supplemental Content/Anchorman|Anchorman]] (Farrar) — covenantal faithfulness across generations; fatherhood as a covenant keeping office
+- [[4. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — each biblical covenant as a scene in the one unfolding story of God and his people
+- [[4. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — a comprehensive overview of how every covenant phase points toward Christ

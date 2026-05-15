@@ -59,3 +59,6 @@ Key lament psalms: [[2. The Bible (ESV)/19. Psalms/Psalms 13\|Ps 13]], [[2. The 
 - [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — grace that holds through failure and weakness
 - [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — written by someone who paid the ultimate cost; not theoretical
 - [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — suffering as part of God's shaping of character
+- [[4. Supplemental Content/C.S. Lewis/A Grief Observed|A Grief Observed]] (Lewis) — a raw journal of grief that refuses cheap comfort; doubt and faith coexisting
+- [[4. Supplemental Content/A Long Obedience in the Same Direction|A Long Obedience in the Same Direction]] (Peterson) — the Psalms of Ascent as a road map for perseverance through difficulty
+- [[4. Supplemental Content/The Brothers Karamazov|The Brothers Karamazov]] (Dostoevsky) — Ivan's rebellion against God and Alyosha's faith tested by suffering; the deepest literary engagement with theodicy

@@ -53,3 +53,6 @@ Resurrection is **bodily** (not just spiritual), **future** (not just present), 
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — resurrection as physical transformation, not mere spiritual survival; Lewis is clear where others are vague
 - [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — heaven as more real, not less; hell as chosen self-diminishment
 - [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the Celestial City as the destination that makes the whole journey make sense
+- [[4. Supplemental Content/N.T. Wright/Surprised by Hope|Surprised by Hope]] (Wright) — the definitive contemporary case for bodily resurrection and new creation hope
+- [[4. Supplemental Content/C.S. Lewis/Miracles|Miracles]] (Lewis) — the resurrection as the Grand Miracle; the philosophical case for its possibility
+- [[4. Supplemental Content/The Divine Comedy|The Divine Comedy]] (Dante) — the most sustained literary vision of the afterlife in Western literature

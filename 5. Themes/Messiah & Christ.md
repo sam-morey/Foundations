@@ -60,3 +60,5 @@
 - [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — Jesus as the Lord of the cosmos who invites apprenticeship
 - [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]] (Comer) — apprenticeship to Jesus as the shape of the Christian life
 - [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — following the Messiah is costly; "when Christ calls a man, he bids him come and die"
+- [[4. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — Jesus as the fulfillment of Israel's story and the answer to humanity's deepest longings
+- [[4. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — every strand of OT theology converging on Christ as the fulfillment of the whole plan

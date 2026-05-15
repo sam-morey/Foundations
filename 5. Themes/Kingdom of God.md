@@ -58,3 +58,5 @@ The Kingdom has already arrived in Jesus (his healings, exorcisms, and resurrect
 - [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how ordinary work participates in God's kingdom purposes
 - [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — vocation and Sabbath as kingdom practices
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the Kingdom shapes Christian character and moral life
+- [[4. Supplemental Content/N.T. Wright/Simply Christian|Simply Christian]] (Wright) — the kingdom as the overlap of heaven and earth; Jesus as the one who brings them together
+- [[4. Supplemental Content/According to Plan|According to Plan]] (Goldsworthy) — the kingdom of God as the organizing concept of all biblical theology

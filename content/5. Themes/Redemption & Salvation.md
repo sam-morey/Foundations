@@ -45,3 +45,5 @@ Redemption means to buy back what was lost or enslaved. Salvation is the broader
 - [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — one of history's greatest first-person accounts of being found by God
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — the "gospel" chapters on adoption and justification are among the best in Christian literature
 - [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — salvation narrated as a journey; the burden falling at the foot of the cross
+- [[4. Supplemental Content/The Drama of Scripture|The Drama of Scripture]] (Bartholomew & Goheen) — redemption as the spine of the entire biblical narrative from Fall to new creation
+- [[4. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — both elder-brother moralism and younger-brother rebellion as forms of lostness that grace alone can heal

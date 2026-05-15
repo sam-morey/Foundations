@@ -44,3 +44,5 @@ Sin is humanity's rebellion against God — a fundamental rupture in the relatio
 - [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — sin narrated from the inside; the restless heart before it finds rest in God
 - [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — temptation as seen from the demonic side; subtle and illuminating
 - [[4. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] (Comer) — the world, the flesh, and the devil as contemporary framings of ancient sin patterns
+- [[4. Supplemental Content/Orthodoxy|Orthodoxy]] (Chesterton) — original sin as the one Christian doctrine empirically verifiable; the Fall as the only adequate explanation for human nature
+- [[4. Supplemental Content/The Reason for God|The Reason for God]] (Keller) — sin as a structural disorder of the soul that operates below conscious choice

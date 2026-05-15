@@ -43,3 +43,6 @@ Key *hesed* texts: [[2. The Bible (ESV)/02. Exodus/Exodus 34\|Exodus 34]], [[2. 
 - [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis traces grace and redemption with clarity accessible to any reader
 - [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — grace pursued Augustine before he pursued it; a firsthand account
 - [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — chapters on mercy, grace, and goodness as divine attributes
+- [[4. Supplemental Content/Gentle and Lowly|Gentle and Lowly]] (Ortlund) — a sustained meditation on the heart of Christ toward sinners and sufferers
+- [[4. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son|The Return of the Prodigal Son]] (Nouwen) — the father's extravagant welcome as the center of the Christian life
+- [[4. Supplemental Content/The Prodigal God|The Prodigal God]] (Keller) — the reckless generosity of the father reframes both elder-brother religion and younger-brother rebellion

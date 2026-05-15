@@ -61,3 +61,8 @@ The Psalms are Israel's prayer book — 150 prayers covering the full range of h
 - [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Lord's Prayer as a portal into kingdom living
 - [[4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — silence and solitude as the preconditions for genuine prayer
 - [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — right theology as the foundation of reverent worship
+- [[4. Supplemental Content/Practicing the Presence of God|Practicing the Presence of God]] (Brother Lawrence) — unceasing prayer as a posture of life, not a scheduled event
+- [[4. Supplemental Content/Prayer|Prayer]] (Keller) — a comprehensive theology and practice of prayer, anchored in the Lord's Prayer
+- [[4. Supplemental Content/Life Together|Life Together]] (Bonhoeffer) — corporate worship, prayer, and devotion as the daily rhythm of Christian community
+- [[4. Supplemental Content/The Imitation of Christ|The Imitation of Christ]] (Thomas à Kempis) — meditation, humility, and interior prayer as the heart of Christian devotion
+- [[4. Supplemental Content/The Religious Affections|The Religious Affections]] (Edwards) — true worship as a matter of the heart's genuine affection for God, not mere outward form

@@ -54,3 +54,5 @@ The Bible declares that "God is love" (1 John 4:8). Love is not merely an attrib
 - [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — being loved by God as the foundation of all other love
 - [[4. Supplemental Content/The Search for Significance|The Search for Significance]] (McGee) — understanding God's love as the only sufficient answer to the human need for worth
 - [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — Packer's chapter on God as Father is among the finest treatments of divine love
+- [[4. Supplemental Content/Gentle and Lowly|Gentle and Lowly]] (Ortlund) — the tenderness of Christ's heart as the animating center of the Christian life
+- [[4. Supplemental Content/Henri Nouwen/The Return of the Prodigal Son|The Return of the Prodigal Son]] (Nouwen) — the father's compassionate embrace as the shape of divine and human love
