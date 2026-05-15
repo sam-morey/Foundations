@@ -1,0 +1,234 @@
+@use "../../styles/variables.scss" as *;
+
+.gemini-chat {
+  bottom: 1rem;
+  color: var(--dark);
+  font-family: var(--bodyFont);
+  position: fixed;
+  right: 1rem;
+  z-index: 1000;
+
+  & * {
+    box-sizing: border-box;
+  }
+
+  button {
+    align-items: center;
+    border: 0;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+  }
+
+  svg {
+    fill: none;
+    height: 1.15rem;
+    stroke: currentColor;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2;
+    width: 1.15rem;
+  }
+}
+
+.gemini-chat-toggle {
+  background: var(--secondary);
+  border-radius: 50%;
+  box-shadow:
+    0 12px 28px rgba(0, 0, 0, 0.18),
+    0 2px 8px rgba(0, 0, 0, 0.14);
+  color: var(--light);
+  height: 3rem;
+  position: relative;
+  transition:
+    background-color 0.2s ease,
+    transform 0.2s ease;
+  width: 3rem;
+
+  &:hover {
+    background: var(--tertiary);
+    transform: translateY(-1px);
+  }
+}
+
+.gemini-chat-panel {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  bottom: 3.75rem;
+  box-shadow:
+    0 18px 60px rgba(0, 0, 0, 0.18),
+    0 8px 22px rgba(0, 0, 0, 0.12);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  max-height: min(38rem, calc(100vh - 6rem));
+  opacity: 0;
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  transform: translateY(0.5rem) scale(0.98);
+  transform-origin: bottom right;
+  transition:
+    opacity 0.18s ease,
+    transform 0.18s ease;
+  width: min(24rem, calc(100vw - 2rem));
+}
+
+.gemini-chat.is-open {
+  .gemini-chat-panel {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.gemini-chat-header {
+  align-items: center;
+  border-bottom: 1px solid var(--lightgray);
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  padding: 0.85rem 0.9rem;
+
+  p {
+    color: var(--dark);
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  span {
+    color: var(--gray);
+    display: block;
+    font-size: 0.78rem;
+    line-height: 1.2;
+    margin-top: 0.15rem;
+  }
+}
+
+.gemini-chat-close {
+  background: transparent;
+  border-radius: 4px;
+  color: var(--gray);
+  height: 2rem;
+  min-width: 2rem;
+  padding: 0;
+
+  &:hover {
+    background: var(--highlight);
+    color: var(--dark);
+  }
+}
+
+.gemini-chat-messages {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  min-height: 15rem;
+  overflow-y: auto;
+  padding: 0.9rem;
+}
+
+.gemini-chat-message {
+  display: flex;
+
+  p {
+    border-radius: 8px;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    margin: 0;
+    max-width: 85%;
+    overflow-wrap: anywhere;
+    padding: 0.62rem 0.72rem;
+    white-space: pre-wrap;
+  }
+
+  &.assistant {
+    justify-content: flex-start;
+
+    p {
+      background: var(--highlight);
+      color: var(--dark);
+    }
+  }
+
+  &.user {
+    justify-content: flex-end;
+
+    p {
+      background: var(--secondary);
+      color: var(--light);
+    }
+  }
+
+  &.is-thinking p {
+    color: var(--gray);
+    font-style: italic;
+  }
+}
+
+.gemini-chat-form {
+  align-items: end;
+  border-top: 1px solid var(--lightgray);
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: 1fr auto;
+  padding: 0.75rem;
+}
+
+.gemini-chat-input {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  color: var(--dark);
+  font: inherit;
+  font-size: 0.9rem;
+  line-height: 1.35;
+  max-height: 7rem;
+  min-height: 2.45rem;
+  padding: 0.55rem 0.65rem;
+  resize: vertical;
+  width: 100%;
+
+  &:focus {
+    border-color: var(--secondary);
+    outline: none;
+  }
+
+  &:disabled {
+    opacity: 0.72;
+  }
+}
+
+.gemini-chat-send {
+  background: var(--secondary);
+  border-radius: 6px;
+  color: var(--light);
+  height: 2.45rem;
+  min-width: 2.45rem;
+  padding: 0;
+
+  &:hover:not(:disabled) {
+    background: var(--tertiary);
+  }
+
+  &:disabled {
+    cursor: default;
+    opacity: 0.6;
+  }
+}
+
+@media all and ($mobile) {
+  .gemini-chat {
+    bottom: 0.75rem;
+    right: 0.75rem;
+  }
+
+  .gemini-chat-panel {
+    bottom: 3.6rem;
+    max-height: calc(100vh - 5rem);
+    width: calc(100vw - 1.5rem);
+  }
+}

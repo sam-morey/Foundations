@@ -1,0 +1,7 @@
+name = "foundations-gemini-chat"
+main = "src/index.js"
+compatibility_date = "2026-05-15"
+
+# Secrets required in Cloudflare:
+# - GEMINI_API_KEY: your Gemini API key
+# - ALLOWED_ORIGIN: your published Quartz site origin, e.g. https://sam-morey.github.io
