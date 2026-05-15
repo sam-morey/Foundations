@@ -197,3 +197,17 @@
 - [[The Knowledge of the Holy]]
 - [[Delighting in the Trinity]]
 - [[Renovation of the Heart]]
+
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Love|Love]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Covenant|Covenant]] · [[5. Themes/Wisdom|Wisdom]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/02. Exodus/Exodus 34|Exodus 34]] — God's self-disclosure to Moses; the attributes of grace, mercy, and faithfulness
+- [[2. The Bible (ESV)/24. Jeremiah/Jeremiah 9|Jeremiah 9]] — "Let him who boasts, boast in this: that he understands and knows me"
+- [[2. The Bible (ESV)/43. John/John 17|John 17]] — "This is eternal life: that they know you, the only true God"
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — The Spirit of adoption crying "Abba, Father" — intimate knowledge of God
+
+**Related Books (in vault):** [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] · [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] · [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] · [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]]

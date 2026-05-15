@@ -234,3 +234,16 @@
 - [[The Divine Comedy]]
 - [[The Faerie Queene]]
 - [[The Great Divorce]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[5. Themes/Judgment|Judgment]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/58. Hebrews/Hebrews 11|Hebrews 11–12]] — The great cloud of witnesses; "run with endurance the race set before us"
+- [[2. The Bible (ESV)/40. Matthew/Matthew 7|Matthew 7:13–14]] — The narrow gate and the hard way that leads to life
+- [[2. The Bible (ESV)/50. Philippians/Philippians 3|Philippians 3]] — "Forgetting what lies behind…I press on toward the goal"
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The Celestial City; the new Jerusalem as the pilgrim's destination
+
+**Related Books (in vault):** [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] · [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] · [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]]

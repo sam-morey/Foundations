@@ -40,3 +40,7 @@ The shepherd is one of Scripture's central images for leadership — a figure wh
 - [[Kingdom of God]] — the King-Shepherd rules the Kingdom
 - [[Grace & Mercy]] — the shepherd's pursuit of the lost sheep is pure grace
 - [[Suffering & Perseverance]] — the shepherd lays down his life
+
+## Supplemental Reading
+- [[4. Supplemental Content/Anchorman|Anchorman]] (Farrar) — shepherd-style leadership as the calling of fathers; the king who serves rather than dominates
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — Jesus as the Lord who governs the kingdom through invitation and formation, not coercion

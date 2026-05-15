@@ -38,3 +38,10 @@ Redemption means to buy back what was lost or enslaved. Salvation is the broader
 - [[Messiah & Christ]] — the Redeemer
 - [[Sin & The Fall]] — what we are saved from
 - [[Resurrection & Eternal Life]] — where salvation leads
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — a lucid account of what Christianity says about how we are saved and why
+- [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — radical grace for the undeserving; the emotional and spiritual reality of being redeemed
+- [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — one of history's greatest first-person accounts of being found by God
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — the "gospel" chapters on adoption and justification are among the best in Christian literature
+- [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — salvation narrated as a journey; the burden falling at the foot of the cross

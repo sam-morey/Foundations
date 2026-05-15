@@ -36,3 +36,10 @@ Key *hesed* texts: [[2. The Bible (ESV)/02. Exodus/Exodus 34\|Exodus 34]], [[2. 
 - [[Covenant]] — grace is expressed within covenant relationship
 - [[Love]] — grace is an expression of God's love
 - [[Judgment]] — mercy triumphs over judgment (James 2:13)
+
+## Supplemental Reading
+- [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — a sustained meditation on grace for the broken and imperfect
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — Packer's chapters on God's grace, love, and adoption are foundational
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis traces grace and redemption with clarity accessible to any reader
+- [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — grace pursued Augustine before he pursued it; a firsthand account
+- [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — chapters on mercy, grace, and goodness as divine attributes

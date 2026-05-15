@@ -37,3 +37,10 @@ Sin is humanity's rebellion against God — a fundamental rupture in the relatio
 - [[Judgment]] — sin has ultimate consequences
 - [[Grace & Mercy]] — God's undeserved response to sinners
 - [[Messiah & Christ]] — the one who defeats sin
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — sin as moral failure, not mere social dysfunction; clear and compelling
+- [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — the greatest literary treatment of the Fall and its cosmic consequences
+- [[4. Supplemental Content/Confessions|Confessions]] (Augustine) — sin narrated from the inside; the restless heart before it finds rest in God
+- [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — temptation as seen from the demonic side; subtle and illuminating
+- [[4. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] (Comer) — the world, the flesh, and the devil as contemporary framings of ancient sin patterns

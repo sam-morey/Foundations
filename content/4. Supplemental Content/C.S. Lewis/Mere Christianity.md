@@ -412,3 +412,16 @@
 - [[The Great Divorce]]
 - [[Orthodoxy]]
 - [[Confessions]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Messiah & Christ|Messiah & Christ]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Love|Love]] · [[5. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/45. Romans/Romans 1|Romans 1–2]] — The moral law written on the heart; natural revelation
+- [[2. The Bible (ESV)/45. Romans/Romans 3|Romans 3]] — All have sinned; justification by faith
+- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as a charter for Christian character
+- [[2. The Bible (ESV)/43. John/John 1|John 1]] — The Word became flesh; the divine entering the human
+
+**Related Books (in vault):** [[4. Supplemental Content/Knowing God|Knowing God]] · [[4. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] · [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] · [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] · [[4. Supplemental Content/Confessions|Confessions]]

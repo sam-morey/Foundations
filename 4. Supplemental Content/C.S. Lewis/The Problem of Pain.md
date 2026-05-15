@@ -168,3 +168,16 @@
 - [[The Abolition of Man]]
 - [[Confessions]]
 - [[The Brothers Karamazov]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/Judgment|Judgment]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Love|Love]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/18. Job/Job 38|Job 38–42]] — God answers Job from the whirlwind; the mystery of suffering
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — All things work together for good; creation groans for redemption
+- [[2. The Bible (ESV)/58. Hebrews/Hebrews 12|Hebrews 12]] — God disciplines those he loves; suffering as formation
+- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 4|2 Corinthians 4]] — Light and momentary troubles achieving eternal glory
+
+**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] · [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]]

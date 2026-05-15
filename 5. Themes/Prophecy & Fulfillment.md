@@ -48,3 +48,7 @@ See: [[2. The Bible (ESV)/40. Matthew/Matthew 1\|Matt 1:22]], [[2. The Bible (ES
 - [[Judgment]] — prophets warn of covenant consequences
 - [[Redemption & Salvation]] — prophets declare God's saving purpose
 - [[Israel & The Gentiles]] — prophets anticipate blessing for all nations
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God's faithfulness in keeping his promises; prophecy as grounded in God's character
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the fulfillment of prophecy in Christ as part of Lewis's cumulative case for Christianity

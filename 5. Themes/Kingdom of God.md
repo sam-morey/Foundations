@@ -52,3 +52,9 @@ The Kingdom has already arrived in Jesus (his healings, exorcisms, and resurrect
 - [[Resurrection & Eternal Life]] — the Kingdom's final state
 - [[Justice & Righteousness]] — the character of Kingdom life
 - [[The Holy Spirit]] — the presence of the Kingdom's power
+
+## Supplemental Reading
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the most thoroughgoing treatment of the Sermon on the Mount as kingdom manifesto
+- [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how ordinary work participates in God's kingdom purposes
+- [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — vocation and Sabbath as kingdom practices
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the Kingdom shapes Christian character and moral life

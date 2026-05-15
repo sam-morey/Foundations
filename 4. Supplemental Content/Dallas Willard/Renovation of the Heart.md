@@ -222,3 +222,16 @@
 - [[The Spirit of the Disciplines]]
 - [[Practicing the Way]]
 - [[Every Good Endeavor]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/The Holy Spirit|The Holy Spirit]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12:1–2]] — "Be transformed by the renewing of your mind" — the core text for heart renovation
+- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Beatitudes as a portrait of a transformed person
+- [[2. The Bible (ESV)/48. Galatians/Galatians 5|Galatians 5]] — The fruit of the Spirit as evidence of Spirit-formed character
+- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 3|2 Corinthians 3]] — "We are being transformed into the same image from one degree of glory to another"
+
+**Related Books (in vault):** [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/Dallas Willard/The Spirit of the Disciplines|The Spirit of the Disciplines]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]

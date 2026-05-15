@@ -42,3 +42,8 @@
 - [[Messiah & Christ]] — the fulfillment of the Law
 - [[Redemption & Salvation]] — what the Law cannot accomplish
 - [[The Word of God]] — Torah as divine instruction
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the starting point of Lewis's case for Christianity; law as evidence for the Lawgiver
+- [[4. Supplemental Content/C.S. Lewis/The Abolition of Man|The Abolition of Man]] (Lewis) — natural law and the Tao as universal moral reality that cannot be abolished without abolishing man
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Sermon on the Mount as Jesus's interpretation of Torah from the inside out

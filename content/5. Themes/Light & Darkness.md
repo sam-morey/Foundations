@@ -48,3 +48,9 @@ Light and darkness are among Scripture's most pervasive images. God is light; da
 - [[Messiah & Christ]] — Christ is the light of the world
 - [[Judgment]] — the Day of the Lord involves darkness for the unrepentant
 - [[Redemption & Salvation]] — salvation is being brought from darkness to light
+
+## Supplemental Reading
+- [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — light and darkness as both physical and moral realities in the epic of the Fall
+- [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — the kingdom of darkness seen from inside, its tactics and goals made vivid
+- [[4. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — the "Silent Planet" as one bent from its proper light; cosmic darkness as isolation from God
+- [[4. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] (Comer) — the lies of the world, flesh, and devil as the currency of darkness

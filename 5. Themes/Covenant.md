@@ -35,3 +35,8 @@ A covenant is a solemn, binding agreement — often including promises, obligati
 - [[Messiah & Christ]] — the Davidic covenant's ultimate heir
 - [[Redemption & Salvation]] — the New Covenant's promise
 - [[Prophecy & Fulfillment]] — prophetic promises of the New Covenant
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God as covenant-maker and covenant-keeper; his faithfulness as the spine of biblical history
+- [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the eternal love between Father, Son, and Spirit as the ground of all covenant relationship
+- [[4. Supplemental Content/Anchorman|Anchorman]] (Farrar) — covenantal faithfulness across generations; fatherhood as a covenant keeping office

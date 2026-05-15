@@ -53,3 +53,10 @@
 - [[Kingdom of God]] — Christ the King
 - [[Resurrection & Eternal Life]] — Christ's resurrection as the firstfruits
 - [[Redemption & Salvation]] — Christ the Redeemer
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — "Who is Jesus?" answered with the famous liar-lunatic-Lord argument; unavoidable for this theme
+- [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — Christ as the eternal Son who reveals the Father
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — Jesus as the Lord of the cosmos who invites apprenticeship
+- [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]] (Comer) — apprenticeship to Jesus as the shape of the Christian life
+- [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — following the Messiah is costly; "when Christ calls a man, he bids him come and die"

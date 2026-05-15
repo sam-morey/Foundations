@@ -40,3 +40,8 @@ God promised Abraham a land — a place of security, abundance, and his presence
 - [[Creation & New Creation]] — the land anticipates the renewed creation
 - [[Redemption & Salvation]] — the Exodus (land journey) is the paradigm of salvation
 - [[Judgment]] — exile is covenant judgment
+
+## Supplemental Reading
+- [[4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — Sabbath rest as a spiritual practice; hurry as the enemy of the soul
+- [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — work and Sabbath as the twin rhythms of human life in God's design
+- [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — Sabbath as one of the inward disciplines; rest as trust in God's sufficiency

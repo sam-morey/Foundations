@@ -52,3 +52,10 @@ Key lament psalms: [[2. The Bible (ESV)/19. Psalms/Psalms 13\|Ps 13]], [[2. The 
 - [[Resurrection & Eternal Life]] — the hope that sustains in suffering
 - [[Judgment]] — God will ultimately make all wrongs right
 - [[Messiah & Christ]] — Jesus suffers with and for us
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] (Lewis) — the most rigorous Christian engagement with why a good God permits suffering
+- [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the entire journey is a theology of perseverance through trial
+- [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — grace that holds through failure and weakness
+- [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — written by someone who paid the ultimate cost; not theoretical
+- [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] (Willard) — suffering as part of God's shaping of character

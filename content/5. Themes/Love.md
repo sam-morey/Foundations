@@ -47,3 +47,10 @@ The Bible declares that "God is love" (1 John 4:8). Love is not merely an attrib
 - [[Justice & Righteousness]] — love and justice are inseparable
 - [[Sacrifice & Atonement]] — the cross is love's ultimate demonstration
 - [[Prayer & Worship]] — love is the motive for worship
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's treatment of charity as the crown of Christian virtue; love as willed action, not just feeling
+- [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — God *is* love because he is triune; love is not an afterthought but the eternal nature of God
+- [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] (Manning) — being loved by God as the foundation of all other love
+- [[4. Supplemental Content/The Search for Significance|The Search for Significance]] (McGee) — understanding God's love as the only sufficient answer to the human need for worth
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — Packer's chapter on God as Father is among the finest treatments of divine love

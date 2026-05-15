@@ -41,3 +41,10 @@ The Bible moves from **creation → corruption → new creation**:
 - [[The Holy Spirit]] — agent of new creation in believers
 - [[Resurrection & Eternal Life]] — the bodily dimension of new creation
 - [[Messiah & Christ]] — the new Adam who inaugurates new creation
+
+## Supplemental Reading
+- [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] (Comer) — creation as vocation; new creation as the restoration and perfection of the original garden
+- [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — creation and its undoing narrated with epic grandeur
+- [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]] (Reeves) — the Trinity as the loving source of all creation
+- [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — how new creation transforms the meaning of ordinary work now
+- [[4. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] (Lewis) — creation's goodness and the tragedy of a world bent by sin

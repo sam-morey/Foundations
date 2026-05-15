@@ -253,3 +253,16 @@
 - [[Brave New World]]
 - [[Nineteen Eighty-Four]]
 - [[The Great Divorce]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Judgment|Judgment]] · [[5. Themes/Light & Darkness|Light & Darkness]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Prophecy & Fulfillment|Prophecy & Fulfillment]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/01. Genesis/Genesis 11|Genesis 11]] — The Tower of Babel; human pride and the confusion of ambition
+- [[2. The Bible (ESV)/27. Daniel/Daniel 4|Daniel 4]] — Nebuchadnezzar's pride humbled; God's sovereignty over earthly power
+- [[2. The Bible (ESV)/45. Romans/Romans 1|Romans 1]] — Humanity suppressing truth; the descent of unrestrained rationalism
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 13|Revelation 13]] — The beast and the system of totalitarian control
+
+**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] · [[4. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] · [[4. Supplemental Content/C.S. Lewis/The Abolition of Man|The Abolition of Man]]

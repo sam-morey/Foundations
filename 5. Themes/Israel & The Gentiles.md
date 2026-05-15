@@ -39,3 +39,7 @@ God chose Israel not as an end in itself but as the means of blessing all nation
 - [[Prophecy & Fulfillment]] — the OT prophecies of Gentile inclusion
 - [[Redemption & Salvation]] — salvation is for all peoples
 - [[Kingdom of God]] — the Kingdom gathers all nations
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — God's election and covenant faithfulness as the backdrop for understanding Israel's story
+- [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — common grace and how God works through all peoples, not only Israel

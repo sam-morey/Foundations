@@ -54,3 +54,10 @@ The Psalms are Israel's prayer book — 150 prayers covering the full range of h
 - [[Suffering & Perseverance]] — lament is honest prayer in suffering
 - [[Justice & Righteousness]] — true worship produces justice
 - [[The Word of God]] — Scripture shapes prayer
+
+## Supplemental Reading
+- [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] (Tozer) — prayer as the soul's conscious pursuit of the God who is already present
+- [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] (Foster) — the most comprehensive treatment of prayer, fasting, solitude, and worship as disciplines
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — the Lord's Prayer as a portal into kingdom living
+- [[4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]] (Comer) — silence and solitude as the preconditions for genuine prayer
+- [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — right theology as the foundation of reverent worship

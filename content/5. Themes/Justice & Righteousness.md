@@ -43,3 +43,9 @@ The Hebrew words *mishpat* (justice) and *tzedakah* (righteousness) appear toget
 - [[Kingdom of God]] — the Kingdom is characterized by justice
 - [[Judgment]] — God's justice leads to judgment
 - [[Love]] — love and justice are inseparable
+
+## Supplemental Reading
+- [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — justice as the concrete expression of costly discipleship; written by someone who acted on it
+- [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — work done well as participation in God's justice and care for creation
+- [[4. Supplemental Content/C.S. Lewis/The Abolition of Man|The Abolition of Man]] (Lewis) — the natural law as the ground of all moral claims; justice requires an objective standard
+- [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] (Willard) — kingdom righteousness as the character of those being formed by Jesus

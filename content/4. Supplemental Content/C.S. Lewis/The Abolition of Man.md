@@ -92,3 +92,15 @@
 - [[After Virtue]]
 - [[Brave New World]]
 - [[Nineteen Eighty-Four]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Wisdom|Wisdom]] · [[5. Themes/Law & Torah|Law & Torah]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Sin & The Fall|Sin & The Fall]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/45. Romans/Romans 2|Romans 2]] — The law written on the Gentiles' hearts; natural moral knowledge
+- [[2. The Bible (ESV)/19. Psalms/Psalms 19|Psalm 19]] — The heavens declare God's glory; the law of the Lord is perfect
+- [[2. The Bible (ESV)/20. Proverbs/Proverbs 8|Proverbs 8]] — Wisdom present at creation; moral order built into the world
+
+**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/C.S. Lewis/That Hideous Strength|That Hideous Strength]] · [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]]

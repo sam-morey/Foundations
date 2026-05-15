@@ -197,3 +197,17 @@
 - [[The Ruthless Elimination of Hurry]]
 - [[The Common Rule]]
 - [[Liturgy of the Ordinary]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[5. Themes/Kingdom of God|Kingdom of God]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Wisdom|Wisdom]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–2]] — God creates, then commissions humanity to cultivate and keep
+- [[2. The Bible (ESV)/01. Genesis/Genesis 2|Genesis 2]] — The garden as the first workplace; Sabbath built into the rhythm of creation
+- [[2. The Bible (ESV)/19. Psalms/Psalms 8|Psalm 8]] — Human beings as image-bearers given dominion
+- [[2. The Bible (ESV)/51. Colossians/Colossians 3|Colossians 3]] — "Whatever you do, work heartily, as for the Lord"
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The new Jerusalem as city and garden — creation redeemed and perfected
+
+**Related Books (in vault):** [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] · [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/John Mark Comer/The Ruthless Elimination of Hurry|The Ruthless Elimination of Hurry]]

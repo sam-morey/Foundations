@@ -42,3 +42,8 @@ The OT system was typological — the animals could not truly remove sin (Hebrew
 - [[Redemption & Salvation]] — atonement enables redemption
 - [[Law & Torah]] — the sacrificial laws of Leviticus
 - [[Grace & Mercy]] — God provides the sacrifice in mercy
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — Lewis's accessible treatment of atonement theories and why the cross works
+- [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — the Son's voluntary sacrifice as the climax of the cosmic drama
+- [[4. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] (Lewis) — temptation defeated through costly obedience; the logic of sacrifice imaginatively rendered

@@ -41,3 +41,8 @@ Scripture is the written word of God — breathed out by God through human autho
 - [[Prophecy & Fulfillment]] — Scripture is the record of prophetic word
 - [[Wisdom]] — Scripture is the foundation of wisdom
 - [[Prayer & Worship]] — Scripture shapes and informs prayer
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — Scripture as God's self-disclosure; knowing God requires receiving his Word
+- [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — theology grounded in Scripture as the path to true knowledge of God
+- [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — the Word as a claim that demands obedience, not mere intellectual assent

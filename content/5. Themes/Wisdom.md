@@ -45,3 +45,9 @@ Key texts: [[2. The Bible (ESV)/20. Proverbs/Proverbs 1\|Proverbs 1:7]], [[2. Th
 - [[Suffering & Perseverance]] — wisdom is forged in suffering
 - [[Justice & Righteousness]] — wisdom produces just living
 - [[Love]] — "all wisdom" is expressed in love
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — wisdom about God is the foundation of all other wisdom
+- [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] (Tozer) — the fear of the LORD as the beginning of wisdom, applied to the divine attributes
+- [[4. Supplemental Content/You Are What You Love|You Are What You Love]] (Smith) — wisdom as a matter of rightly ordered loves and formative practices
+- [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] (Keller) — the wisdom tradition applied to vocation and everyday work

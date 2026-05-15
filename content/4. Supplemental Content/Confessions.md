@@ -123,3 +123,17 @@
 - [[Knowing God]]
 - [[The Cost of Discipleship]]
 - [[Pilgrim's Progress]]
+
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Love|Love]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/19. Psalms/Psalms 51|Psalm 51]] — David's prayer of confession; the model of honest penitence before God
+- [[2. The Bible (ESV)/45. Romans/Romans 7|Romans 7]] — "The good I want to do I do not do" — the internal war Augustine knew intimately
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — "There is now no condemnation" — the peace that follows conversion
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — Augustine's meditation on creation in the final books of the Confessions
+
+**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] · [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] · [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]]

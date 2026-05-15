@@ -48,3 +48,8 @@ Resurrection is **bodily** (not just spiritual), **future** (not just present), 
 - [[The Holy Spirit]] — the Spirit is the agent of resurrection
 - [[Kingdom of God]] — the Kingdom is fully realized in the new creation
 - [[Judgment]] — resurrection precedes the final judgment
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — resurrection as physical transformation, not mere spiritual survival; Lewis is clear where others are vague
+- [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — heaven as more real, not less; hell as chosen self-diminishment
+- [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — the Celestial City as the destination that makes the whole journey make sense

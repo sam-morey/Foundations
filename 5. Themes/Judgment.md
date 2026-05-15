@@ -52,3 +52,9 @@ God is the righteous judge of all the earth. Judgment is not contradictory to hi
 - [[Sacrifice & Atonement]] — the cross absorbs judgment
 - [[Resurrection & Eternal Life]] — resurrection precedes judgment
 - [[Kingdom of God]] — the King returns to judge
+
+## Supplemental Reading
+- [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]] (Lewis) — judgment as the ultimate confirmation of choices already made; heaven and hell as moral trajectories
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — the moral law as the ground of God's judgment; justice as an attribute of love
+- [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] (Lewis) — spiritual stakes rendered vivid; every human life is being contested
+- [[4. Supplemental Content/Paradise Lost|Paradise Lost]] (Milton) — Satan judged and humanity subject to judgment; the cosmic weight of moral choice

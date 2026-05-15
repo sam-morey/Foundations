@@ -194,3 +194,16 @@
 - [[The Common Rule]]
 - [[Celebration of Discipline]]
 - [[Practicing the Way]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Love|Love]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/40. Matthew/Matthew 11|Matthew 11:28–30]] — "Come to me…and I will give you rest" — the unhurried Jesus's invitation
+- [[2. The Bible (ESV)/41. Mark/Mark 1|Mark 1:35]] — Jesus withdraws early to a desolate place to pray; the rhythm of solitude
+- [[2. The Bible (ESV)/19. Psalms/Psalms 46|Psalm 46]] — "Be still and know that I am God"
+- [[2. The Bible (ESV)/02. Exodus/Exodus 20|Exodus 20:8–11]] — The Sabbath commandment; rest written into the law of God
+
+**Related Books (in vault):** [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] · [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]]

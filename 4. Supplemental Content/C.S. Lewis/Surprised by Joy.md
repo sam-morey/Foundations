@@ -118,3 +118,16 @@
 - [[The Screwtape Letters]]
 - [[The Great Divorce]]
 - [[Confessions]]
+
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/The Word of God|The Word of God]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/19. Psalms/Psalms 42|Psalm 42]] — Longing for God as a deer longs for water; Joy as holy restlessness
+- [[2. The Bible (ESV)/40. Matthew/Matthew 11|Matthew 11]] — "Come to me…and I will give you rest"; rest as the end of seeking
+- [[2. The Bible (ESV)/45. Romans/Romans 10|Romans 10]] — Faith comes by hearing; the unexpected encounter with the Word
+
+**Related Books (in vault):** [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/Knowing God|Knowing God]]

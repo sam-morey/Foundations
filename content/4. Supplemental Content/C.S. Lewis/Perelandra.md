@@ -242,3 +242,16 @@
 - [[The Great Divorce]]
 - [[The Problem of Pain]]
 - [[Till We Have Faces]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[5. Themes/Messiah & Christ|Messiah & Christ]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/01. Genesis/Genesis 3|Genesis 3]] — The original temptation; disobedience and the Fall
+- [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — As one man's sin brought death, one man's obedience brings life
+- [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 15|1 Corinthians 15]] — The last Adam; the cosmic scope of Christ's victory
+- [[2. The Bible (ESV)/58. Hebrews/Hebrews 2|Hebrews 2]] — Jesus fully shares in humanity to defeat the one who holds the power of death
+
+**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Out of the Silent Planet|Out of the Silent Planet]] · [[4. Supplemental Content/C.S. Lewis/That Hideous Strength|That Hideous Strength]] · [[4. Supplemental Content/Paradise Lost|Paradise Lost]]

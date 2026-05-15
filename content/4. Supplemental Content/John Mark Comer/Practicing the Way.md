@@ -140,3 +140,17 @@
 - [[Garden City]]
 - [[Celebration of Discipline]]
 - [[The Spirit of the Disciplines]]
+---
+
+## Vault Connections
+
+**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/The Holy Spirit|The Holy Spirit]] · [[5. Themes/Messiah & Christ|Messiah & Christ]]
+
+**Key Scripture:**
+- [[2. The Bible (ESV)/40. Matthew/Matthew 11|Matthew 11:28–30]] — "Come to me…take my yoke upon you and learn from me" — the call to apprenticeship
+- [[2. The Bible (ESV)/42. Luke/Luke 9|Luke 9]] — "Follow me"; the cost and call of discipleship
+- [[2. The Bible (ESV)/43. John/John 13|John 13]] — Jesus washing feet; discipleship as formation in humility
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — Life in the Spirit; being led by the Spirit
+- [[2. The Bible (ESV)/50. Philippians/Philippians 2|Philippians 2]] — "Have this mind among yourselves, which is yours in Christ Jesus"
+
+**Related Books (in vault):** [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] · [[4. Supplemental Content/Dallas Willard/The Spirit of the Disciplines|The Spirit of the Disciplines]]

@@ -42,3 +42,10 @@ These are not contradictory — both describe the same reality from different an
 - [[Covenant]] — covenant relationship requires trust
 - [[Suffering & Perseverance]] — faith is tested and proven
 - [[The Word of God]] — faith comes by hearing the Word
+
+## Supplemental Reading
+- [[4. Supplemental Content/Knowing God|Knowing God]] (Packer) — knowing God deeply is the ground of genuine trust
+- [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]] (Bunyan) — faith as a lived journey through doubt, danger, and perseverance
+- [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] (Lewis) — faith as reasonable commitment, not blind leap
+- [[4. Supplemental Content/C.S. Lewis/Surprised by Joy|Surprised by Joy]] (Lewis) — the gradual movement from resistance to trust in a reluctant convert
+- [[4. Supplemental Content/The Cost of Discipleship|The Cost of Discipleship]] (Bonhoeffer) — faith that costs nothing is not the faith of the New Testament
