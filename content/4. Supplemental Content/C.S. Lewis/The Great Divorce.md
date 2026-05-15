@@ -146,6 +146,12 @@
   - **Defined Terms:** None
   - **Takeaway:** The ending turns the book outward toward the reader, making the dream a present call to repentance and reality.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/42. Luke/Luke 16|Luke 16]] — The rich man and Lazarus; the great chasm that cannot be crossed
+- [[2. The Bible (ESV)/40. Matthew/Matthew 25|Matthew 25]] — Sheep and goats; "Come, you who are blessed" and "Depart from me"
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The new creation; the gates of the new Jerusalem always open
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — Creation groaning; the glory that is to be revealed
+
 ## Related Concepts
 - [[Heaven and Hell]]
 - [[Repentance]]
@@ -161,16 +167,4 @@
 - [[The Abolition of Man]]
 - [[Inferno]]
 - [[Pilgrim's Regress]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Judgment|Judgment]] · [[5. Themes/Resurrection & Eternal Life|Resurrection & Eternal Life]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/42. Luke/Luke 16|Luke 16]] — The rich man and Lazarus; the great chasm that cannot be crossed
-- [[2. The Bible (ESV)/40. Matthew/Matthew 25|Matthew 25]] — Sheep and goats; "Come, you who are blessed" and "Depart from me"
-- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The new creation; the gates of the new Jerusalem always open
-- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — Creation groaning; the glory that is to be revealed
-
-**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/C.S. Lewis/The Problem of Pain|The Problem of Pain]] · [[4. Supplemental Content/Pilgrim's Progress|Pilgrim's Progress]]
+- [[Pilgrim's Progress]]

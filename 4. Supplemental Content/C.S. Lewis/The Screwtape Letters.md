@@ -352,6 +352,12 @@
     - Salvation: Reconciliation with God and deliverance from sin and separation.
   - Takeaway: Evil depends on distortion, delay, and confusion; it cannot endure direct encounter with divine reality.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/60. I Peter/I Peter 5|1 Peter 5]] — "Your adversary the devil prowls around like a roaring lion"
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 6|Ephesians 6]] — The full armor of God; spiritual warfare
+- [[2. The Bible (ESV)/59. James/James 4|James 4]] — "Resist the devil and he will flee from you"
+- [[2. The Bible (ESV)/42. Luke/Luke 22|Luke 22]] — Satan's request to sift Peter; Jesus's intercession
+
 ## Related Concepts
 - [[Christian apologetics]]
 - [[Spiritual warfare]]
@@ -367,16 +373,4 @@
 - [[Paradise Lost]]
 - [[Pilgrim's Progress]]
 - [[The Abolition of Man]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Light & Darkness|Light & Darkness]] · [[5. Themes/Judgment|Judgment]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/60. I Peter/I Peter 5|1 Peter 5]] — "Your adversary the devil prowls around like a roaring lion"
-- [[2. The Bible (ESV)/49. Ephesians/Ephesians 6|Ephesians 6]] — The full armor of God; spiritual warfare
-- [[2. The Bible (ESV)/59. James/James 4|James 4]] — "Resist the devil and he will flee from you"
-- [[2. The Bible (ESV)/42. Luke/Luke 22|Luke 22]] — Satan's request to sift Peter; Jesus's intercession
-
-**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/Paradise Lost|Paradise Lost]] · [[4. Supplemental Content/John Mark Comer/Live No Lies|Live No Lies]] · [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]]
+- [[Live No Lies]]

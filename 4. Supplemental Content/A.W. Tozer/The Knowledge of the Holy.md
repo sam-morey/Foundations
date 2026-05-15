@@ -297,6 +297,12 @@
     - **Experiential knowledge of God:** Personal, lived acquaintance with God, not mere information about him.
   - **Takeaway:** The goal of theology is not only correct speech about God, but reverent communion with him.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/23. Isaiah/Isaiah 6|Isaiah 6]] — Isaiah's vision of the holy God; the seraphim cry "Holy, holy, holy"
+- [[2. The Bible (ESV)/02. Exodus/Exodus 34|Exodus 34]] — God proclaims his own name and attributes to Moses
+- [[2. The Bible (ESV)/19. Psalms/Psalms 139|Psalm 139]] — God's omniscience and omnipresence in personal experience
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 4|Revelation 4]] — Heavenly worship before the throne of God
+
 ## Related Concepts
 - [[Doctrine of God]]
 - [[Divine Attributes]]
@@ -309,16 +315,4 @@
 - [[The Pursuit of God]]
 - [[Knowing God]]
 - [[None Greater]]
----
 
-## Vault Connections
-
-**Themes:** [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Love|Love]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Wisdom|Wisdom]] · [[5. Themes/Judgment|Judgment]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/23. Isaiah/Isaiah 6|Isaiah 6]] — Isaiah's vision of the holy God; the seraphim cry "Holy, holy, holy"
-- [[2. The Bible (ESV)/02. Exodus/Exodus 34|Exodus 34]] — God proclaims his own name and attributes to Moses
-- [[2. The Bible (ESV)/19. Psalms/Psalms 139|Psalm 139]] — God's omniscience and omnipresence in personal experience
-- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 4|Revelation 4]] — Heavenly worship before the throne of God
-
-**Related Books (in vault):** [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] · [[4. Supplemental Content/Knowing God|Knowing God]] · [[4. Supplemental Content/Delighting in the Trinity|Delighting in the Trinity]]

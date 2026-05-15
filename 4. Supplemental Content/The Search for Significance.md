@@ -172,6 +172,13 @@
     - **Identity in Christ:** A theological understanding of self grounded in relationship to Christ rather than performance or social validation.
   - **Takeaway:** The end of the search is not self-exaltation but settled security in divine love, forgiveness, and purpose.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — No condemnation; nothing can separate us from the love of God
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — Seated with Christ in the heavenly places; made alive by grace
+- [[2. The Bible (ESV)/62. I John/I John 3|1 John 3]] — "We are called children of God, and so we are"
+- [[2. The Bible (ESV)/19. Psalms/Psalms 139|Psalm 139]] — "I am fearfully and wonderfully made" — the foundation of identity
+- [[2. The Bible (ESV)/43. John/John 15|John 15]] — "You are my friends"; identity rooted in relationship with Christ
+
 ## Related Concepts
 - [[Identity in Christ]]
 - [[Christian counseling]]
@@ -184,17 +191,6 @@
 - [[Victory Over the Darkness]]
 - [[Changes That Heal]]
 - [[The Return of the Prodigal Son]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Love|Love]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Faith & Trust|Faith & Trust]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — No condemnation; nothing can separate us from the love of God
-- [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — Seated with Christ in the heavenly places; made alive by grace
-- [[2. The Bible (ESV)/62. I John/I John 3|1 John 3]] — "We are called children of God, and so we are"
-- [[2. The Bible (ESV)/19. Psalms/Psalms 139|Psalm 139]] — "I am fearfully and wonderfully made" — the foundation of identity
-- [[2. The Bible (ESV)/43. John/John 15|John 15]] — "You are my friends"; identity rooted in relationship with Christ
-
-**Related Books (in vault):** [[4. Supplemental Content/The Ragamuffin Gospel|The Ragamuffin Gospel]] · [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Knowing God|Knowing God]]
+- [[Confessions]]
+- [[Renovation of the Heart]]
+- [[Knowing God]]

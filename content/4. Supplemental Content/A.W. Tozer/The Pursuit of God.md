@@ -167,6 +167,12 @@
   - **Takeaway:**  
     The highest spirituality does not withdraw from daily life; it transforms daily life into continuous worship.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/19. Psalms/Psalms 42|Psalm 42]] — "As a deer pants for water, so my soul pants for you, O God"
+- [[2. The Bible (ESV)/19. Psalms/Psalms 63|Psalm 63]] — "My soul thirsts for you…in a dry and weary land"
+- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6]] — Prayer, fasting, and the single-hearted pursuit of the kingdom
+- [[2. The Bible (ESV)/43. John/John 17|John 17]] — Jesus's prayer that believers would know the Father
+
 ## Related Concepts
 - [[Christian mysticism]]
 - [[Spiritual Formation]]
@@ -179,16 +185,4 @@
 - [[Celebration of Discipline]]
 - [[The Imitation of Christ]]
 - [[Practicing the Presence of God]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Love|Love]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/The Holy Spirit|The Holy Spirit]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/19. Psalms/Psalms 42|Psalm 42]] — "As a deer pants for water, so my soul pants for you, O God"
-- [[2. The Bible (ESV)/19. Psalms/Psalms 63|Psalm 63]] — "My soul thirsts for you…in a dry and weary land"
-- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6]] — Prayer, fasting, and the single-hearted pursuit of the kingdom
-- [[2. The Bible (ESV)/43. John/John 17|John 17]] — Jesus's prayer that believers would know the Father
-
-**Related Books (in vault):** [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]
+- [[Practicing the Way]]

@@ -152,6 +152,12 @@
     - **Fasting:** Abstaining from food for a spiritual purpose, often joined to prayer and dependence on God.
   - **Takeaway:** The faithful father thinks in generations, prays in generations, and labors in hope for generations.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6]] — The Shema; the command to teach God's law diligently to your children
+- [[2. The Bible (ESV)/19. Psalms/Psalms 78|Psalm 78]] — "Tell to the coming generation the glorious deeds of the LORD"
+- [[2. The Bible (ESV)/20. Proverbs/Proverbs 22|Proverbs 22]] — "Train up a child in the way he should go"
+- [[2. The Bible (ESV)/55. II Timothy/II Timothy 2|2 Timothy 2]] — Pass on what you have received to faithful men who will teach others
+
 ## Related Concepts
 - [[Christian fatherhood]]
 - [[Spiritual legacy]]
@@ -164,16 +170,5 @@
 - [[King Me]]
 - [[Raising a Modern-Day Knight]]
 - [[Shepherding a Child's Heart]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Covenant|Covenant]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/Love|Love]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6]] — The Shema; the command to teach God's law diligently to your children
-- [[2. The Bible (ESV)/19. Psalms/Psalms 78|Psalm 78]] — "Tell to the coming generation the glorious deeds of the LORD"
-- [[2. The Bible (ESV)/20. Proverbs/Proverbs 22|Proverbs 22]] — "Train up a child in the way he should go"
-- [[2. The Bible (ESV)/55. II Timothy/II Timothy 2|2 Timothy 2]] — Pass on what you have received to faithful men who will teach others
-
-**Related Books (in vault):** [[4. Supplemental Content/Every Good Endeavor|Every Good Endeavor]] · [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]]
+- [[Every Good Endeavor]]
+- [[Renovation of the Heart]]

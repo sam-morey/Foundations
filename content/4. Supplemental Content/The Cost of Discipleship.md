@@ -122,6 +122,13 @@
     - **Image of God (imago Dei):** The human capacity to reflect God's character, which is restored through union with Christ.
   - **Takeaway:** The church is not a social institution that happens to use religious language—it is the community in which the costly grace of God is lived and proclaimed.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as Bonhoeffer's core text; the costly way of kingdom living
+- [[2. The Bible (ESV)/40. Matthew/Matthew 16|Matthew 16:24]] — "If anyone would come after me, let him deny himself and take up his cross"
+- [[2. The Bible (ESV)/42. Luke/Luke 14|Luke 14]] — Count the cost before following; hating one's own life for Christ's sake
+- [[2. The Bible (ESV)/45. Romans/Romans 6|Romans 6]] — Death to sin; alive to God — the logic of costly discipleship
+- [[2. The Bible (ESV)/50. Philippians/Philippians 2|Philippians 2]] — Humility and self-emptying in the pattern of Christ
+
 ## Related Concepts
 - [[Discipleship]]
 - [[Grace and Redemption]]
@@ -139,18 +146,4 @@
 - [[Practicing the Way]]
 - [[The Pursuit of God]]
 - [[The Knowledge of the Holy]]
-
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Messiah & Christ|Messiah & Christ]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Kingdom of God|Kingdom of God]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as Bonhoeffer's core text; the costly way of kingdom living
-- [[2. The Bible (ESV)/40. Matthew/Matthew 16|Matthew 16:24]] — "If anyone would come after me, let him deny himself and take up his cross"
-- [[2. The Bible (ESV)/42. Luke/Luke 14|Luke 14]] — Count the cost before following; hating one's own life for Christ's sake
-- [[2. The Bible (ESV)/45. Romans/Romans 6|Romans 6]] — Death to sin; alive to God — the logic of costly discipleship
-- [[2. The Bible (ESV)/50. Philippians/Philippians 2|Philippians 2]] — Humility and self-emptying in the pattern of Christ
-
-**Related Books (in vault):** [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]
+- [[The Divine Conspiracy]]

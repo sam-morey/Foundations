@@ -117,6 +117,12 @@
     - **Common good:** The shared flourishing of a community rather than private advantage alone.
   - **Takeaway:** What people make in the world reveals what they love, so vocation must be governed by worship rightly directed.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6]] — "Love the LORD your God with all your heart" — the formative command at the center of Israel's liturgy
+- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6:21]] — "Where your treasure is, there your heart will be also" — desire follows formation
+- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12:1–2]] — Bodily worship as the counter-liturgy to cultural formation
+- [[2. The Bible (ESV)/50. Philippians/Philippians 4|Philippians 4:8]] — "Whatever is true…think about these things" — intentional formation of the mind
+
 ## Related Concepts
 - [[Discipleship]]
 - [[Liturgy]]
@@ -129,16 +135,5 @@
 - [[The Spirit of the Disciplines]]
 - [[Practicing the Way]]
 - [[The Ruthless Elimination of Hurry]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Kingdom of God|Kingdom of God]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Love|Love]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/05. Deuteronomy/Deuteronomy 6|Deuteronomy 6]] — "Love the LORD your God with all your heart" — the formative command at the center of Israel's liturgy
-- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6:21]] — "Where your treasure is, there your heart will be also" — desire follows formation
-- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12:1–2]] — Bodily worship as the counter-liturgy to cultural formation
-- [[2. The Bible (ESV)/50. Philippians/Philippians 4|Philippians 4:8]] — "Whatever is true…think about these things" — intentional formation of the mind
-
-**Related Books (in vault):** [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]] · [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]
+- [[Celebration of Discipline]]
+- [[Renovation of the Heart]]

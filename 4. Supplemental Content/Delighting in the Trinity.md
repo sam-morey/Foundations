@@ -104,6 +104,13 @@
     - **Delight in God:** Joyful enjoyment of God for who he is.
   - **Takeaway:** The book ends by insisting that there is no substitute for the triune God at the center of Christian faith.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/43. John/John 17|John 17]] — Jesus's prayer; "that they may be one, even as we are one" — Trinitarian unity as the model for human communion
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — "Let us make man in our image" — Trinitarian creation
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — The Spirit, Son, and Father all active in salvation
+- [[2. The Bible (ESV)/40. Matthew/Matthew 3|Matthew 3]] — The baptism of Jesus; all three persons present
+- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 13|2 Corinthians 13:14]] — The Trinitarian benediction
+
 ## Related Concepts
 - [[Trinity]]
 - [[Doctrine of God]]
@@ -116,17 +123,4 @@
 - [[Knowing God]]
 - [[Delighting in the Trinity]]
 - [[The Deep Things of God]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Love|Love]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/The Holy Spirit|The Holy Spirit]] · [[5. Themes/Covenant|Covenant]] · [[5. Themes/Prayer & Worship|Prayer & Worship]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/43. John/John 17|John 17]] — Jesus's prayer; "that they may be one, even as we are one" — Trinitarian unity as the model for human communion
-- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — "Let us make man in our image" — Trinitarian creation
-- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — The Spirit, Son, and Father all active in salvation
-- [[2. The Bible (ESV)/40. Matthew/Matthew 3|Matthew 3]] — The baptism of Jesus; all three persons present
-- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 13|2 Corinthians 13:14]] — The Trinitarian benediction
-
-**Related Books (in vault):** [[4. Supplemental Content/Knowing God|Knowing God]] · [[4. Supplemental Content/A.W. Tozer/The Knowledge of the Holy|The Knowledge of the Holy]] · [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]]
+- [[Mere Christianity]]

@@ -287,6 +287,12 @@
   - **Defined Terms:** None
   - **Takeaway:** The postscript widens the novel’s imaginative scope, inviting the reader to consider that the moral reality it presents may be closer to truth than ordinary realism.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — God's good creation; ordered, purposeful, charged with meaning
+- [[2. The Bible (ESV)/19. Psalms/Psalms 8|Psalm 8]] — "What is man that you are mindful of him?" — human smallness in a vast creation
+- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — All creation groaning; cosmic redemption
+- [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1]] — Christ as the one through whom all things were created and held together
+
 ## Related Concepts
 - [[Cosmic Fallenness]]
 - [[Christian Humanism]]
@@ -302,16 +308,4 @@
 - [[A Princess of Mars]]
 - [[The Great Divorce]]
 - [[The Discarded Image]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Light & Darkness|Light & Darkness]] · [[5. Themes/Messiah & Christ|Messiah & Christ]] · [[5. Themes/Israel & The Gentiles|Israel & The Gentiles]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1]] — God's good creation; ordered, purposeful, charged with meaning
-- [[2. The Bible (ESV)/19. Psalms/Psalms 8|Psalm 8]] — "What is man that you are mindful of him?" — human smallness in a vast creation
-- [[2. The Bible (ESV)/45. Romans/Romans 8|Romans 8]] — All creation groaning; cosmic redemption
-- [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1]] — Christ as the one through whom all things were created and held together
-
-**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] · [[4. Supplemental Content/C.S. Lewis/That Hideous Strength|That Hideous Strength]] · [[4. Supplemental Content/Paradise Lost|Paradise Lost]]
+- [[Paradise Lost]]

@@ -119,6 +119,12 @@
     - The invitation is to come as you are—not as you think you should be.
   - **Takeaway:** The life you have always wanted is not on the other side of spiritual improvement—it begins with accepting that you are already loved.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/42. Luke/Luke 15|Luke 15]] — The prodigal son; the father running to meet the returning child — the heart of the ragamuffin gospel
+- [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — "God demonstrates his love for us in that while we were still sinners, Christ died for us"
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — "By grace you have been saved…not a result of works"
+- [[2. The Bible (ESV)/62. I John/I John 3|1 John 3]] — "See what kind of love the Father has given to us"
+
 ## Related Concepts
 - [[Grace and Redemption]]
 - [[Redemption]]
@@ -135,17 +141,6 @@
 - [[Practicing the Way]]
 - [[The Search for Significance]]
 - [[You Are What You Love]]
-
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Grace & Mercy|Grace & Mercy]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Love|Love]] · [[5. Themes/Faith & Trust|Faith & Trust]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/42. Luke/Luke 15|Luke 15]] — The prodigal son; the father running to meet the returning child — the heart of the ragamuffin gospel
-- [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — "God demonstrates his love for us in that while we were still sinners, Christ died for us"
-- [[2. The Bible (ESV)/49. Ephesians/Ephesians 2|Ephesians 2]] — "By grace you have been saved…not a result of works"
-- [[2. The Bible (ESV)/62. I John/I John 3|1 John 3]] — "See what kind of love the Father has given to us"
-
-**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/Mere Christianity|Mere Christianity]] · [[4. Supplemental Content/Knowing God|Knowing God]] · [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/The Search for Significance|The Search for Significance]]
+- [[Mere Christianity]]
+- [[Knowing God]]
+- [[Confessions]]

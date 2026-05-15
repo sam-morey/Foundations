@@ -154,6 +154,12 @@
     - **Redemption:** The restoration of fallen humanity through the future work of the Son.
   - **Takeaway:** The ending is grave but not hopeless; Paradise is lost, yet history remains open to grace, endurance, and ultimate restoration.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–3]] — Creation, the garden, the serpent's temptation, the Fall
+- [[2. The Bible (ESV)/23. Isaiah/Isaiah 14|Isaiah 14]] — "How you have fallen from heaven, O Day Star" — the fall of cosmic pride
+- [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — Through one man sin entered; through one man comes justification
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 12|Revelation 12]] — War in heaven; the ancient serpent cast down
+
 ## Related Concepts
 - [[Epic Poetry]]
 - [[The Fall]]
@@ -169,16 +175,7 @@
 - [[The Faerie Queene]]
 - [[Genesis]]
 - [[Areopagitica]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Sacrifice & Atonement|Sacrifice & Atonement]] · [[5. Themes/Light & Darkness|Light & Darkness]] · [[5. Themes/Judgment|Judgment]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–3]] — Creation, the garden, the serpent's temptation, the Fall
-- [[2. The Bible (ESV)/23. Isaiah/Isaiah 14|Isaiah 14]] — "How you have fallen from heaven, O Day Star" — the fall of cosmic pride
-- [[2. The Bible (ESV)/45. Romans/Romans 5|Romans 5]] — Through one man sin entered; through one man comes justification
-- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 12|Revelation 12]] — War in heaven; the ancient serpent cast down
-
-**Related Books (in vault):** [[4. Supplemental Content/Confessions|Confessions]] · [[4. Supplemental Content/C.S. Lewis/Perelandra|Perelandra]] · [[4. Supplemental Content/C.S. Lewis/That Hideous Strength|That Hideous Strength]] · [[4. Supplemental Content/C.S. Lewis/The Great Divorce|The Great Divorce]]
+- [[Confessions]]
+- [[Perelandra]]
+- [[That Hideous Strength]]
+- [[The Great Divorce]]

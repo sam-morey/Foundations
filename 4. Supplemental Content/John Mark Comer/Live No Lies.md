@@ -186,6 +186,13 @@
     - **Vigilance:** Watchful attentiveness to one’s thoughts, temptations, and spiritual condition.
   - **Takeaway:** The fight against lies is sustained not only by insight but by practices refined over centuries of Christian wisdom.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/43. John/John 8|John 8]] — "The truth will set you free"; Satan as the father of lies
+- [[2. The Bible (ESV)/59. James/James 4|James 4:7]] — "Resist the devil and he will flee from you"
+- [[2. The Bible (ESV)/49. Ephesians/Ephesians 6|Ephesians 6]] — The full armor of God against spiritual forces
+- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 10|2 Corinthians 10]] — Taking every thought captive to obey Christ
+- [[2. The Bible (ESV)/60. I Peter/I Peter 5|1 Peter 5]] — Sober-minded vigilance against the adversary
+
 ## Related Concepts
 - [[Spiritual warfare]]
 - [[The world, the flesh, and the devil]]
@@ -198,17 +205,4 @@
 - [[Practicing the Way]]
 - [[Renovation of the Heart]]
 - [[The Screwtape Letters]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]] · [[5. Themes/Light & Darkness|Light & Darkness]] · [[5. Themes/The Word of God|The Word of God]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/43. John/John 8|John 8]] — "The truth will set you free"; Satan as the father of lies
-- [[2. The Bible (ESV)/59. James/James 4|James 4:7]] — "Resist the devil and he will flee from you"
-- [[2. The Bible (ESV)/49. Ephesians/Ephesians 6|Ephesians 6]] — The full armor of God against spiritual forces
-- [[2. The Bible (ESV)/47. II Corinthians/II Corinthians 10|2 Corinthians 10]] — Taking every thought captive to obey Christ
-- [[2. The Bible (ESV)/60. I Peter/I Peter 5|1 Peter 5]] — Sober-minded vigilance against the adversary
-
-**Related Books (in vault):** [[4. Supplemental Content/C.S. Lewis/The Screwtape Letters|The Screwtape Letters]] · [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]]
+- [[Celebration of Discipline]]

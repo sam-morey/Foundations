@@ -171,6 +171,12 @@
     - **Gladness:** A settled, life-giving joy rooted in divine goodness.
   - **Takeaway:** The mature spiritual life is not merely disciplined; it is also joyful.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6]] — Prayer, fasting, giving in secret; the disciplines of hiddenness
+- [[2. The Bible (ESV)/19. Psalms/Psalms 46|Psalm 46]] — "Be still and know that I am God" — solitude as spiritual practice
+- [[2. The Bible (ESV)/42. Luke/Luke 4|Luke 4:1–13]] — Jesus's forty days of fasting; spiritual formation through discipline
+- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12]] — "Present your bodies as a living sacrifice" — worship as whole-life discipline
+
 ## Related Concepts
 - [[Spiritual Disciplines]]
 - [[Spiritual Formation]]
@@ -186,16 +192,4 @@
 - [[Practicing the Way]]
 - [[The Ruthless Elimination of Hurry]]
 - [[Renovation of the Heart]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/The Holy Spirit|The Holy Spirit]] · [[5. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/40. Matthew/Matthew 6|Matthew 6]] — Prayer, fasting, giving in secret; the disciplines of hiddenness
-- [[2. The Bible (ESV)/19. Psalms/Psalms 46|Psalm 46]] — "Be still and know that I am God" — solitude as spiritual practice
-- [[2. The Bible (ESV)/42. Luke/Luke 4|Luke 4:1–13]] — Jesus's forty days of fasting; spiritual formation through discipline
-- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12]] — "Present your bodies as a living sacrifice" — worship as whole-life discipline
-
-**Related Books (in vault):** [[4. Supplemental Content/A.W. Tozer/The Pursuit of God|The Pursuit of God]] · [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Dallas Willard/The Spirit of the Disciplines|The Spirit of the Disciplines]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]
+- [[The Pursuit of God]]

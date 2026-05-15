@@ -159,6 +159,12 @@
     - **Kingdom of God:** God’s active reign, available now and fully consummated in the future.
   - **Takeaway:** The book ends with confidence that Christlikeness is attainable through a life structured around grace and disciplined practice.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/42. Luke/Luke 4|Luke 4:1–13]] — Jesus in the wilderness; the disciplines of fasting and solitude forming readiness
+- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12:1–2]] — Bodily presentation and mental renewal as spiritual formation
+- [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 9|1 Corinthians 9]] — Paul disciplines his body so as not to be disqualified
+- [[2. The Bible (ESV)/50. Philippians/Philippians 4|Philippians 4]] — The learned contentment of a disciplined soul
+
 ## Related Concepts
 - [[Spiritual Formation]]
 - [[Discipleship]]
@@ -171,16 +177,3 @@
 - [[Renovation of the Heart]]
 - [[Practicing the Way]]
 - [[The Divine Conspiracy]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/The Holy Spirit|The Holy Spirit]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/Suffering & Perseverance|Suffering & Perseverance]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/42. Luke/Luke 4|Luke 4:1–13]] — Jesus in the wilderness; the disciplines of fasting and solitude forming readiness
-- [[2. The Bible (ESV)/45. Romans/Romans 12|Romans 12:1–2]] — Bodily presentation and mental renewal as spiritual formation
-- [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 9|1 Corinthians 9]] — Paul disciplines his body so as not to be disqualified
-- [[2. The Bible (ESV)/50. Philippians/Philippians 4|Philippians 4]] — The learned contentment of a disciplined soul
-
-**Related Books (in vault):** [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/Celebration of Discipline|Celebration of Discipline]]

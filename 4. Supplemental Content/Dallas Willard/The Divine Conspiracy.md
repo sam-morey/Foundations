@@ -98,6 +98,12 @@
     - **Eternal life:** In Willard's reading, not merely life after death but participation in the kind of life God has—beginning now and continuing without end.
   - **Takeaway:** The cost of following Jesus is real, but what is given in exchange is not a compensation—it is incomparably better than what was surrendered.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as a comprehensive vision of kingdom life
+- [[2. The Bible (ESV)/42. Luke/Luke 6|Luke 6]] — Luke's parallel Sermon; blessed are the poor in spirit
+- [[2. The Bible (ESV)/45. Romans/Romans 14|Romans 14]] — The Kingdom is righteousness, peace, and joy in the Holy Spirit
+- [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1]] — Transferred into the kingdom of his beloved Son
+
 ## Related Concepts
 - [[Kingdom of God]]
 - [[Spiritual Formation]]
@@ -111,17 +117,3 @@
 - [[Practicing the Way]]
 - [[The Ruthless Elimination of Hurry]]
 - [[Mere Christianity]]
-
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Kingdom of God|Kingdom of God]] · [[5. Themes/Prayer & Worship|Prayer & Worship]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Faith & Trust|Faith & Trust]] · [[5. Themes/Sin & The Fall|Sin & The Fall]] · [[5. Themes/Messiah & Christ|Messiah & Christ]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/40. Matthew/Matthew 5|Matthew 5–7]] — The Sermon on the Mount as a comprehensive vision of kingdom life
-- [[2. The Bible (ESV)/42. Luke/Luke 6|Luke 6]] — Luke's parallel Sermon; blessed are the poor in spirit
-- [[2. The Bible (ESV)/45. Romans/Romans 14|Romans 14]] — The Kingdom is righteousness, peace, and joy in the Holy Spirit
-- [[2. The Bible (ESV)/51. Colossians/Colossians 1|Colossians 1]] — Transferred into the kingdom of his beloved Son
-
-**Related Books (in vault):** [[4. Supplemental Content/Dallas Willard/Renovation of the Heart|Renovation of the Heart]] · [[4. Supplemental Content/Dallas Willard/The Spirit of the Disciplines|The Spirit of the Disciplines]] · [[4. Supplemental Content/John Mark Comer/Practicing the Way|Practicing the Way]]

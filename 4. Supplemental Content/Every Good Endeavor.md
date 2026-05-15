@@ -183,6 +183,12 @@
     - **Faith and work integration:** The intentional connection of Christian belief with one’s daily labor, ethics, and vocational purpose.
   - **Takeaway:** The theology of work must move from private reflection into communal teaching and church formation.
 
+## Key Scriptures:
+- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–2]] — Creation and vocation; work is pre-Fall, not a curse
+- [[2. The Bible (ESV)/51. Colossians/Colossians 3|Colossians 3]] — "Whatever you do, work heartily, as for the Lord and not for men"
+- [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 10|1 Corinthians 10]] — "Whether you eat or drink, or whatever you do, do all to the glory of God"
+- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The new creation preserving and perfecting human cultural achievement
+
 ## Related Concepts
 - [[Vocation and Work]]
 - [[Kingdom of God]]
@@ -197,16 +203,5 @@
 - [[The Call]]
 - [[Work Matters]]
 - [[Kingdom Calling]]
----
-
-## Vault Connections
-
-**Themes:** [[5. Themes/Creation & New Creation|Creation & New Creation]] · [[5. Themes/Kingdom of God|Kingdom of God]] · [[5. Themes/Redemption & Salvation|Redemption & Salvation]] · [[5. Themes/The Promised Land & Rest|The Promised Land & Rest]] · [[5. Themes/Justice & Righteousness|Justice & Righteousness]] · [[5. Themes/Wisdom|Wisdom]]
-
-**Key Scripture:**
-- [[2. The Bible (ESV)/01. Genesis/Genesis 1|Genesis 1–2]] — Creation and vocation; work is pre-Fall, not a curse
-- [[2. The Bible (ESV)/51. Colossians/Colossians 3|Colossians 3]] — "Whatever you do, work heartily, as for the Lord and not for men"
-- [[2. The Bible (ESV)/46. I Corinthians/I Corinthians 10|1 Corinthians 10]] — "Whether you eat or drink, or whatever you do, do all to the glory of God"
-- [[2. The Bible (ESV)/66. Revelation of John/Revelation of John 21|Revelation 21–22]] — The new creation preserving and perfecting human cultural achievement
-
-**Related Books (in vault):** [[4. Supplemental Content/John Mark Comer/Garden City|Garden City]] · [[4. Supplemental Content/Dallas Willard/The Divine Conspiracy|The Divine Conspiracy]] · [[4. Supplemental Content/Confessions|Confessions]]
+- [[The Divine Conspiracy]]
+- [[Confessions]]
