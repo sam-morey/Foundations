@@ -4,13 +4,19 @@ import styles from "./styles/geminiChat.scss"
 import script from "./scripts/geminiChat.inline"
 
 interface GeminiChatOptions {
+  persistHistory?: boolean
   workerUrl: string
 }
 
 const GeminiChat: QuartzComponentConstructor<GeminiChatOptions> = (opts) => {
   const Chat: QuartzComponent = () => {
     return (
-      <aside class="gemini-chat" data-worker-url={opts.workerUrl} aria-label="Foundations chat">
+      <aside
+        class="gemini-chat"
+        data-persist-history={String(opts.persistHistory ?? false)}
+        data-worker-url={opts.workerUrl}
+        aria-label="Foundations chat"
+      >
         <button
           class="gemini-chat-toggle"
           type="button"

@@ -14,7 +14,12 @@ function createMessageElement(role: ChatMessage["role"], content: string) {
   return message
 }
 
-function loadMessages(): ChatMessage[] {
+function loadMessages(persistHistory: boolean): ChatMessage[] {
+  if (!persistHistory) {
+    localStorage.removeItem(STORAGE_KEY)
+    return []
+  }
+
   try {
     const saved = localStorage.getItem(STORAGE_KEY)
     const messages = saved ? JSON.parse(saved) : []
@@ -29,7 +34,11 @@ function loadMessages(): ChatMessage[] {
   }
 }
 
-function saveMessages(messages: ChatMessage[]) {
+function saveMessages(messages: ChatMessage[], persistHistory: boolean) {
+  if (!persistHistory) {
+    return
+  }
+
   localStorage.setItem(STORAGE_KEY, JSON.stringify(messages.slice(-12)))
 }
 
@@ -42,6 +51,7 @@ document.addEventListener("nav", () => {
   const form = chat?.querySelector<HTMLFormElement>(".gemini-chat-form")
   const input = chat?.querySelector<HTMLTextAreaElement>(".gemini-chat-input")
   const send = chat?.querySelector<HTMLButtonElement>(".gemini-chat-send")
+  const persistHistory = chat?.dataset.persistHistory === "true"
   const workerUrl = chat?.dataset.workerUrl
 
   if (
@@ -58,7 +68,7 @@ document.addEventListener("nav", () => {
     return
   }
 
-  let messages = loadMessages()
+  let messages = loadMessages(persistHistory)
 
   const renderSavedMessages = () => {
     for (const message of messages) {
@@ -80,7 +90,7 @@ document.addEventListener("nav", () => {
 
   const appendMessage = (message: ChatMessage) => {
     messages.push(message)
-    saveMessages(messages)
+    saveMessages(messages, persistHistory)
     messagesEl.append(createMessageElement(message.role, message.content))
     messagesEl.scrollTop = messagesEl.scrollHeight
   }

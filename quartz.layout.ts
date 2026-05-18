@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.GeminiChat({
+      persistHistory: false,
       workerUrl: "https://foundations-gemini-chat.foundations.workers.dev",
     }),
   ],
